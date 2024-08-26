@@ -40,10 +40,13 @@ module.exports = function(eleventyConfig) {
     return allTerms;
   });
 
+  // Passthrough copy for static assets
+  eleventyConfig.addPassthroughCopy("public/assets");
+
   return {
     dir: {
-      input: "src", // Assuming your content is in the src directory
-      output: "_site",
+      input: "src", // your input directory
+      output: "_site" // your output directory
     }
   };
 };
