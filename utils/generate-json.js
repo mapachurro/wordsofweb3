@@ -13,11 +13,21 @@ function ensureDirectoryExistence(dirPath) {
   }
 }
 
+// Function to clean header names (removes square brackets)
+function cleanHeader(header) {
+  return header.replace(/[\[\]]/g, '');
+}
+
 // Function to process the CSV file
 function processCSV() {
   const results = [];
   fs.createReadStream(translationsCSV)
     .pipe(csvParser())
+    .on('headers', (headers) => {
+      headers.forEach((header, index) => {
+        headers[index] = cleanHeader(header);
+      });
+    })
     .on('data', (data) => results.push(data))
     .on('end', () => {
       generateJSONFiles(results);
@@ -26,8 +36,8 @@ function processCSV() {
 
 // Function to generate JSON files for each locale
 function generateJSONFiles(data) {
-  const locales = Object.keys(data[0]).slice(1); // Get all locale columns except the first one (terms)
-  
+  const locales = Object.keys(data[0]).slice(1); // Get all locale columns except the first one (English terms)
+
   locales.forEach(locale => {
     const localeDir = path.join(outputDir, locale);
     ensureDirectoryExistence(localeDir);
@@ -44,25 +54,30 @@ function generateJSONFiles(data) {
 
     // Process each row in the CSV
     data.forEach(row => {
-      const englishTerm = row['en']; // Assuming the first column is always English
-      const translatedTerm = row[locale] || ""; // Get the translation for the current locale
+      const englishTerm = row['en']; // English term is the key in the JSON structure
+      const translatedTerm = row[locale] || englishTerm; // Use translation if available, otherwise use the English term
 
-      // Add or update the term in the JSON structure
-      localeData.terms[englishTerm] = localeData.terms[englishTerm] || {
-        "term": translatedTerm,
-        "phonetic": "",
-        "partOfSpeech": "",
-        "definition": "",
-        "termCategory": "",
-        "source": "",
-        "datefirstseen": ""
-      };
+      if (englishTerm) {
+        localeData.terms[englishTerm] = {
+          "term": translatedTerm,
+          "phonetic": "",
+          "partOfSpeech": "",
+          "definition": "",
+          "termCategory": "",
+          "source": "",
+          "datefirstseen": ""
+        };
+      } else {
+        console.warn(`Warning: Found an undefined term in row: ${JSON.stringify(row)}`);
+      }
     });
 
     // Write the updated JSON file
     fs.writeFileSync(outputFilePath, JSON.stringify(localeData, null, 2));
     console.log(`Generated or updated JSON file for ${locale}: ${outputFilePath}`);
   });
+
+  console.log('All locales processed successfully.');
 }
 
 // Run the script
