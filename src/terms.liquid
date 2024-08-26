@@ -1,0 +1,9 @@
+{% for term in collections.terms %}
+---
+layout: entry.njk
+permalink: /{{ term.locale }}/{{ term.termKey | slug }}/index.html
+termData: {{ term.termData | jsonify }}
+locale: {{ term.locale }}
+---
+
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+layout: layouts/base.njk
+---
+
+<h1>{{ termData.term }}</h1>
+<p>{{ termData.phonetic }}</p>
+<p><strong>Category:</strong> {{ termData.termCategory }}</p>
+<p><strong>Source:</strong> {{ termData.source }}</p>
+<p><strong>Date first seen:</strong> {{ termData.datefirstseen }}</p>
+<p>{{ termData.definition | safe }}</p>
+<a href="/{{ locale }}/">New Search</a>
