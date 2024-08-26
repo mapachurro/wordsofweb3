@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const csvParser = require('csv-parser');
 
-const inputCSV = 'ext-sync-terms.csv'; // Replace with your actual file path
+const translationsCSV = 'ext-sync-terms.csv'; // Translation CSV
 const outputDir = 'locales'; // The directory where JSON files will be saved
 
 // Function to ensure a directory exists
@@ -16,7 +16,7 @@ function ensureDirectoryExistence(dirPath) {
 // Function to process the CSV file
 function processCSV() {
   const results = [];
-  fs.createReadStream(inputCSV)
+  fs.createReadStream(translationsCSV)
     .pipe(csvParser())
     .on('data', (data) => results.push(data))
     .on('end', () => {
@@ -29,28 +29,39 @@ function generateJSONFiles(data) {
   const locales = Object.keys(data[0]).slice(1); // Get all locale columns except the first one (terms)
   
   locales.forEach(locale => {
-    const localeData = {};
+    const localeDir = path.join(outputDir, locale);
+    ensureDirectoryExistence(localeDir);
 
+    const outputFilePath = path.join(localeDir, `${locale}.json`);
+    let localeData = {};
+
+    // Check if the JSON file already exists
+    if (fs.existsSync(outputFilePath)) {
+      localeData = JSON.parse(fs.readFileSync(outputFilePath));
+    } else {
+      localeData = { terms: {} }; // Initialize with an empty terms object
+    }
+
+    // Process each row in the CSV
     data.forEach(row => {
-      const term = row['en']; // Assuming the first column is always English
-      const translation = row[locale]; // Get the translation for the current locale
-      
-      localeData[term] = {
-        "Part of speech": "", // Placeholder, populate with actual data when available
-        "Term Category": "", // Placeholder
-        "Phonetic": "", // Placeholder
-        "Definition": translation, // Use the translated term as the definition
-        "Source": "", // Placeholder
-        "Date first recorded": "" // Placeholder
+      const englishTerm = row['en']; // Assuming the first column is always English
+      const translatedTerm = row[locale] || ""; // Get the translation for the current locale
+
+      // Add or update the term in the JSON structure
+      localeData.terms[englishTerm] = localeData.terms[englishTerm] || {
+        "term": translatedTerm,
+        "phonetic": "",
+        "partOfSpeech": "",
+        "definition": "",
+        "termCategory": "",
+        "source": "",
+        "datefirstseen": ""
       };
     });
 
-    const localeDir = path.join(outputDir, locale);
-    ensureDirectoryExistence(localeDir);
-    
-    const outputFilePath = path.join(localeDir, `${locale}.json`);
+    // Write the updated JSON file
     fs.writeFileSync(outputFilePath, JSON.stringify(localeData, null, 2));
-    console.log(`Generated JSON file for ${locale}: ${outputFilePath}`);
+    console.log(`Generated or updated JSON file for ${locale}: ${outputFilePath}`);
   });
 }
 
