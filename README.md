@@ -5,7 +5,7 @@ Backend for wordsofweb3.eth.
 
 wordsofweb3 is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.
 
-It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is *also* a `term` in wordsofweb3 in that language, there will be a hyperlink to that term.
+It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is *also* a `term` in the glossary in that language, there will be a hyperlink to that term.
 Ideally, there will be a `breadcrumbs` element at the top of each entry page, tracking the user's journey through the interwoven terminology of this space.
 
 ## Design principles
@@ -29,6 +29,7 @@ This will likely mean an `index.html`, which loads an `index.js`; that JS file w
 - The user's browser language is detected
 - An appropriate linguistic version of the site is loaded
     - Filling in the UI elements in a templated version of the homepage, using JQuery-like placeholders or tags, with UI strings from a .json file corresponding to the language in question
+        - And falling back to the closest available locale (e.g. fall back to es-419 if es_HN is not available), or English if there is no support for a language family at all
 
 #### The Navbar and language switching
 
@@ -36,7 +37,7 @@ There will be a language dropdown selector on the navbar of the site.
 Changing the language in this dropdown will trigger a function in `index.js` which loads the corresponding language's strings -- **and changes the links on the page to URL paths or slugs which match that language**.
 There will be no English-langauge slug elements when a user is experiencing the site in a language other than English.
 
-### Creating the wordsofweb3 entries
+### Creating the glossary entries
 
 Similarly to the "template" format of the homepage, each `term`'s `entry page` will be generated **on the build side of the app; nothing will be created "generatively" on the reader's side.** 
 
@@ -76,7 +77,8 @@ This .csv will be processed by a script, `generate-json.js`. For each locale, th
 This script will, essentially, only be updating the `term` field of each object.
 The name of each overarching object will be the term from the `en_US` column, whereas the `term` key's value will be populated from the corresponding locale.
 The `partOfSpeech` value has not been filled out for most terms in most languages, but should mirror that of the `en_US` locale, unless grammatically incorrect in that language.
-The `termCategory` value should also mirror `en_US`, unless subsequently changed. 
+The `termCategory` value should also mirror `en_US`, unless subsequently changed.
+If there is no data to fill in a given value (e.g., "source"), it should be left blank at this point (`source: "",`).
 
 For example:
 
@@ -108,6 +110,7 @@ address,noun,decentralized web,"/ˈæd.rɛs/ ""ˈpʌblɪk ˈæd.rɛs""","Synonym
 
 ```
 
+
 ### Moving the information from .json to HTML
 
 Once this information is in its .json files in corresponding locale folders, we can proceed to generate the site's content from it.
@@ -132,6 +135,34 @@ Once this information is in its .json files in corresponding locale folders, we 
 
 ```
 Given the fact that each `term` object will be labelled with its equivalent in English, a sort of reverse route mapping function could be developed to draw the connections between translations of given terms, and during the build process, create these links in the entry pages.
+
+### Paths and slugs
+
+Ideally, the url structure will be something like `wordsofweb3/home`; `wordsofweb3/account`; `wordsofweb3/cuenta`, with no prefixing of e.g. locale codes, etc. This may require a small file server, to make each locale's HTML files available at the top directory level.
+
+Additionally, we should not, e.g., convert non-Latin alphabets into strings of `%%C9A%` etc.; this is meant to be a reference and educational site, and making the URLs unreadable to those trying to access it is contrary to its primary goals.
+
+## Creating the connections between the `definitions`
+
+This part is crucial, and yet to be engineered.
+
+`./utils/intertextual.js` will run **after** `build-pages.js`, and it will do this work. For each locale, it will:
+
+- Ingest the corresponding `./locales/<locale-code>.json` file
+- Iterate over the built files for that locale in `./static/<locale-code>/*`
+- In each HTML file within that directory, locate the `<p id="description">` tag which will have been created by `build-pages.js`
+- Search for terms or phrases which [match](#matching) a `term` key in the .json file
+- For each match, create a hyperlink to that term, following the pattern `./<term-key>.html`. Given that all the .html files will be in the same directory, this should provide for easy resolution. **terms will not be indexed across languages**.
+
+This script should have robust console logging and graceful error handling, given the number of edge cases it will present.
+It should save this output to file at `./utils/intertextual-output-<number>.txt`, increasing the number each time so that subsequent versions of the log can be checked.
+
+### Matching
+
+There is a difficult implementation detail here: `stop words`, `stems`, and `plurals`.
+
+A quality contextual search will use detailed information about the morphology of a given language to find a *good* match, not just something that happens to match a pattern.
+One option is to leverage [lunr-languages](https://github.com/MihaiValentin/lunr-languages), which has a decent and open source (MPL) collection of such files.
 
 # Overall site / `static` directory structure
 
@@ -172,3 +203,39 @@ The search will be key functionality in this site.
 The current plan is to use `lunr.js`, perhaps as the sole dependency added to this project, to build search indices during the build phase, which when created, are written to `./build/assets/search-indices/<locale-code>-index.json`. 
 
 The search function should, as indicated, consult the linguistically correct search index for the locale the user has selected.
+
+An autocomplete function would be nice, although that depends on how many dependencies that would bring into the app. The search function should display a new page--for which, perhaps, a `results.html` and `results.js` template should be made--which would display:
+
+```markdown
+## Term matches
+- Terms that have the search query in them
+## Definition matches
+- Terms that have the search query in their `description` field
+## Partial matches
+- Terms that partially match the search query
+```
+
+In this way, the reader will be presented with the most relevant searches first.
+
+
+# Build
+The various scripts mentioned above which must be run every time the site builds should be all located in `./src/js`, whenever possible.
+
+They should probably be invokable using a single command, such as `npm run build`; there should probably be a `./src/js/build.js` script, which will collate and manage that series of scripts, for example
+
+```javascript
+import build-pages.js
+import intertextual.js
+import lunr.js
+
+build-pages.js
+intertextual.js
+lunr.js
+//there will obviously be a little more complexity here, but to give an idea.
+```
+
+# Deployment
+
+This site will be deployed on IPFS, for starters, using Fleek.xyz. It can and probably should be deployed on other decentralized storage networks.
+
+The intention is to route the ENS name `wordsofweb3.eth` to an IPNS hash using Fleek.xyz, such that it could be accessed at `wordsofweb3.eth.limo`, etc.
