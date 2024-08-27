@@ -20,10 +20,11 @@ module.exports = function(eleventyConfig) {
 
         if (termsData && typeof termsData === 'object') {
           Object.keys(termsData).forEach(termKey => {
+            let termData = termsData[termKey];
             allTerms.push({
-              termKey: termKey,
+              termKey: termData.term, // Use the localized term as the termKey
               locale: locale,
-              termData: termsData[termKey],
+              termData: termData,
             });
           });
         } else {
@@ -43,15 +44,17 @@ module.exports = function(eleventyConfig) {
     execSync('node utils/build-search-indices.js', { stdio: 'inherit' });
   });
 
-  // Set up your directory structure
+  // Passthrough copy for static assets
+  eleventyConfig.addPassthroughCopy({
+    "public/assets": "assets",
+    "i18n/locales": "locales",
+    "src/js": "js" // This ensures your JS files are copied to the correct location
+  });
+
   return {
     dir: {
       input: "src",
       output: "_site",
     }
   };
-  
-  // Passthrough copy for static assets
-  eleventyConfig.addPassthroughCopy("public/assets");
-  eleventyConfig.addPassthroughCopy("i18n/locales");
 };
