@@ -44,11 +44,9 @@ module.exports = function(eleventyConfig) {
   });
 
   // Passthrough copy for static assets
-  eleventyConfig.addPassthroughCopy({
-    "public/assets": "assets",
-    "i18n/locales": "locales",
-    "src/js": "js" // This ensures your JS files are copied to the correct location
-  });
+  eleventyConfig.addPassthroughCopy("src/js");
+  eleventyConfig.addPassthroughCopy("public/assets/css");
+  eleventyConfig.addPassthroughCopy("public/assets");
 
   return {
     dir: {

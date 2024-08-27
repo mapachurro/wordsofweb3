@@ -31,7 +31,7 @@ fs.readdirSync(localesDir).forEach(locale => {
 
     if (terms && typeof terms === 'object') {
       const index = generateIndex(locale, terms);
-      fs.writeFileSync(`./public/assets/${locale}-index.json`, JSON.stringify(index));
+      fs.writeFileSync(`./public/assets/search-indices/${locale}-index.json`, JSON.stringify(index));
       console.log(`Generated search index for ${locale}`);
     } else {
       console.error(`Error: "terms" is undefined or not an object in ${localeFilePath}`);

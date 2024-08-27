@@ -7,7 +7,7 @@ const initSearch = () => {
     // Other code here...
 
     const loadIndex = async (language) => {
-      const response = await fetch(`/assets/${language}-index.json`);
+      const response = await fetch(`/assets/search-indices/${language}-index.json`);
       if (response.ok) {
         return await response.json();
       } else {
