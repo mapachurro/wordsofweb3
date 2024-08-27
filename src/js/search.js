@@ -1,5 +1,3 @@
-import i18next from 'i18next';
-
 // Assuming your translations are already loaded and initialized elsewhere in your app
 document.addEventListener('DOMContentLoaded', async () => {
   // Other code here...

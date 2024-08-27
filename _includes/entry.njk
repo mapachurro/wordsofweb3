@@ -1,7 +1,9 @@
 ---
-layout: layouts/base.njk
+layout: entry.njk
+permalink: "/{{ locale }}/{{ termKey | slug }}/index.html"
+termData: "{{ termData | jsonify }}"
+locale: "{{ locale }}"
 ---
-
 <h1>{{ termData.term }}</h1>
 <p>{{ termData.phonetic }}</p>
 <p><strong>Category:</strong> {{ termData.termCategory }}</p>

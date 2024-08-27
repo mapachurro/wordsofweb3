@@ -1,3 +1,5 @@
+// This script was used to add missing keys into the en_US json file.
+
 const fs = require('fs');
 
 // Path to the en_US.json file
