@@ -288,15 +288,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "Bitcoin / bitcoin (BTC)": {
-      "term": "比特幣",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "block (noun)": {
       "term": "區塊",
       "phonetic": "",
@@ -3601,7 +3592,7 @@
       "source": "",
       "datefirstseen": ""
     },
-    "BTC (bitcoin)": {
+    "BTC": {
       "term": "BTC (比特幣)",
       "phonetic": "",
       "partOfSpeech": "",
@@ -3934,15 +3925,7 @@
       "source": "",
       "datefirstseen": ""
     },
-    "Gwei": {
-      "term": "Gwei",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
+
     "Hex data": {
       "term": "十六進位",
       "phonetic": "",
@@ -4051,15 +4034,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "Mainnet": {
-      "term": "主網",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "Mempool": {
       "term": "交易池",
       "phonetic": "",
@@ -4080,15 +4054,6 @@
     },
     "miner": {
       "term": "礦工",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "Mnemonic phrase": {
-      "term": "助記詞",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

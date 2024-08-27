@@ -3601,7 +3601,7 @@
       "source": "",
       "datefirstseen": ""
     },
-    "BTC (bitcoin)": {
+    "BTC": {
       "term": "BTC",
       "phonetic": "",
       "partOfSpeech": "",
@@ -3934,15 +3934,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "Gwei": {
-      "term": "เกวย์",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "Hex data": {
       "term": "ข้อมูลเลขฐานสิบหก",
       "phonetic": "",
@@ -4051,15 +4042,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "Mainnet": {
-      "term": "เครือข่ายหลัก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "Mempool": {
       "term": "เมมพูล",
       "phonetic": "",
@@ -4080,15 +4062,6 @@
     },
     "miner": {
       "term": "นักขุด",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "Mnemonic phrase": {
-      "term": "วลีช่วยจำ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

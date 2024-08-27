@@ -288,15 +288,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "Bitcoin / bitcoin (BTC)": {
-      "term": "البيتكوين / بيتكوين (BTC)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "block (noun)": {
       "term": "كُتلة",
       "phonetic": "",
@@ -3600,7 +3591,7 @@
       "source": "",
       "datefirstseen": ""
     },
-    "BTC (bitcoin)": {
+    "BTC": {
       "term": "BTC (بيتكوين)",
       "phonetic": "",
       "partOfSpeech": "",
@@ -3933,15 +3924,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "Gwei": {
-      "term": "جوي (Gwei)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "Hex data": {
       "term": "بيانات سداسية عشرية",
       "phonetic": "",
@@ -4050,15 +4032,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "Mainnet": {
-      "term": "شبكة رئيسية (Mainnet)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "Mempool": {
       "term": "تجمع المعاملات (Mempool)",
       "phonetic": "",
@@ -4079,15 +4052,6 @@
     },
     "miner": {
       "term": "المُعدِّن",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "Mnemonic phrase": {
-      "term": "عبارة التذكر",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

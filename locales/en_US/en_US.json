@@ -198,8 +198,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "BTC (bitcoin)": {
-      "term": "BTC (bitcoin)",
+    "BTC": {
+      "term": "BTC",
       "phonetic": "/ˈbiː tiː ˈsiː/ (/ˈbɪtkɔɪn/)",
       "partOfSpeech": "noun",
       "definition": "",
@@ -239,15 +239,6 @@
       "phonetic": "/ˈbaɪnæns/",
       "partOfSpeech": "noun",
       "definition": "Binance is a centralized cryptocurrency exchange which operates in multiple countries, as well as two different blockchains, the BNB Chain and the BNB Smart Chain.",
-      "termCategory": "project or product",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "Bitcoin": {
-      "term": "Bitcoin",
-      "phonetic": "/ˈbɪtkɔɪn/",
-      "partOfSpeech": "noun",
-      "definition": "",
       "termCategory": "project or product",
       "source": "",
       "datefirstseen": ""
@@ -888,15 +879,6 @@
       "partOfSpeech": "adjective",
       "definition": "Abbreviation; Peer-to-peer. P2P refers to interactions that happen directly between two parties, usually two separate individuals, and have been present in Internet technology in different ways for some time. These interactions are often coordinated through some sort of app or network, which can consist of any number of individuals. Public blockchains can be considered to have a high degree of P2P functionality, as individuals are able to transact or interact with each other without relying on an intermediary or single point of failure.",
       "termCategory": "software term",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "PALM": {
-      "term": "PALM",
-      "phonetic": "/pɑːm/",
-      "partOfSpeech": "noun",
-      "definition": "",
-      "termCategory": "project or product",
       "source": "",
       "datefirstseen": ""
     },
