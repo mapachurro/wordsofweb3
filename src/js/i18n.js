@@ -6,7 +6,7 @@ i18next
   .use(Backend)
   .use(LanguageDetector)
   .init({
-    fallbackLng: 'en_US',
+    fallbackLng: 'en-US',
     debug: true,
     backend: {
       loadPath: '/i18n/locales/{{lng}}/translation.json',
@@ -16,10 +16,10 @@ i18next
       caches: ['cookie'],
     },
     supportedLngs: [
-      'en_US', 'es_ES', 'de_DE', 'it_IT', 'ar_AR', 'zh_CN', 'zh_TW', 'nl_NL',
-      'fr_FR', 'el_GR', 'ha_NG', 'hi_IN', 'hu_HU', 'id_ID', 'it_IT', 'ja_JP',
-      'ko_KR', 'fa_IR', 'ms_MY', 'pcm_NG', 'pl_PL', 'pt_BR', 'ro_RO', 'ru_RU',
-      'es-419', 'tl_PH', 'th_TH', 'tr_TR', 'uk_UA', 'vi_VN'
+      'en-US', 'es-ES', 'de-DE', 'it-IT', 'ar-AR', 'zh-CN', 'zh-TW', 'nl-NL',
+      'fr-FR', 'el-GR', 'ha-NG', 'hi-IN', 'hu-HU', 'id-ID', 'ja-JP',
+      'ko-KR', 'fa-IR', 'ms-MY', 'pcm-NG', 'pl-PL', 'pt-BR', 'ro-RO', 'ru-RU',
+      'es-419', 'tl-PH', 'th-TH', 'tr-TR', 'uk-UA', 'vi-VN'
     ],
   }).then(() => {
     console.log('i18next initialized');
@@ -28,5 +28,7 @@ i18next
   }).catch((err) => {
     console.error('i18next initialization failed:', err);
   });
+
+i18next.changeLanguage('en_US');
 
 export default i18next;

@@ -2,6 +2,7 @@
 
 # This script is to change all locale directories from en_US to en-US format. Rekt.
 # Move to the locales directory
+cd ./locales
 
 # Loop through all directories
 for dir in *_*; do

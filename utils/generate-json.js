@@ -1,3 +1,6 @@
+// This script is intended to create the .json files located at /locales/<locale-code>/<locale-code>.json.
+// They are the structured skeleton of the data that will go in each individual entry page.
+
 const fs = require('fs');
 const path = require('path');
 const csvParser = require('csv-parser');

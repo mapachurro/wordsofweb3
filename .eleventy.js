@@ -44,9 +44,11 @@ module.exports = function(eleventyConfig) {
   });
 
   // Passthrough copy for static assets
-  eleventyConfig.addPassthroughCopy("src/js");
-  eleventyConfig.addPassthroughCopy("public/assets/css");
-  eleventyConfig.addPassthroughCopy("public/assets");
+  eleventyConfig.addPassthroughCopy("public/assets");  // This will copy assets to the root _site directory
+  eleventyConfig.addPassthroughCopy("src/js");  // This will copy JS files to the root _site directory
+  eleventyConfig.addPassthroughCopy("public/assets/search-indices");  
+  eleventyConfig.addPassthroughCopy("index.html");  
+  eleventyConfig.addPassthroughCopy("i18n/locales");  
 
   return {
     dir: {
