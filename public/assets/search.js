@@ -1,21 +1,45 @@
 // This is the user-facing search script.
-// It queries static search indices built in public/assets/search-indices/
+// It queries static search indices built in public/assets/
 
-const index = {}; // Load or import your search index here
-const terms = {}; // Load your terms JSON here
+const indices = {}; // Object to hold all search indices
+let currentIndex; // To hold the currently loaded index
 
-document.addEventListener('DOMContentLoaded', () => {
+
+// Function to load the search index for a given language
+const loadIndex = async (language) => {
+  if (!indices[language]) {
+    try {
+      const response = await fetch(`/assets/${language}-index.json`);
+      if (!response.ok) throw new Error('Failed to load index');
+      const indexJson = await response.json();
+      indices[language] = lunr.Index.load(indexJson); // Load the Lunr.js index
+    } catch (error) {
+      console.error('Error loading index:', error);
+    }
+  }
+  return indices[language];
+};
+
+document.addEventListener('DOMContentLoaded', async () => {
   const searchInput = document.getElementById('search-input');
   const searchButton = document.getElementById('search-button');
   const searchResults = document.getElementById('search-results');
   const languageSelector = document.getElementById('language-selector');
 
-  const handleSearch = () => {
+  const handleSearch = async () => {
     const query = searchInput.value.trim();
-    console.log('Searching for:', query);
-    const results = index.search(query); // Replace with your search logic
+    const language = languageSelector.value;
+  
+    currentIndex = await loadIndex(language);
+    if (!currentIndex) {
+      console.error('Search index not found for language:', language);
+      return;
+    }
+  
+    const results = currentIndex.search(query);
     displayResults(results);
-  };
+  };  
+
 
   const displayResults = (results) => {
     searchResults.innerHTML = ''; // Clear previous results

@@ -1,19 +1,19 @@
-// This script will be run during the build, and will not be user-facing.
-// It is used to generate static search indices in all locales.
-
 const lunr = require('lunr');
 const fs = require('fs');
-const terms = require('./terms.json'); // Assuming your terms are stored in a JSON file
+const path = require('path');
 
-const generateIndex = (language) => {
+// Assuming your locale JSON files are in the ./locales directory
+const localesDir = './locales';
+
+const generateIndex = (locale, terms) => {
   const index = lunr(function () {
     this.ref('term');
     this.field('definition');
 
-    Object.entries(terms.terms).forEach(([term, data]) => {
+    Object.entries(terms).forEach(([term, data]) => {
       this.add({
-        term,
-        definition: data.definition[language] || data.definition['en_US'], // Fallback to English
+        term: term,
+        definition: data.definition || "", // Fallback to empty string if no definition
       });
     });
   });
@@ -21,10 +21,22 @@ const generateIndex = (language) => {
   return index;
 };
 
-// Generate an index for each language
-const languages = ['en_US', 'es_ES', 'de_DE', 'it_IT']; // Add all your supported languages here
+// Generate an index for each locale
+fs.readdirSync(localesDir).forEach(locale => {
+  const localeFilePath = path.join(localesDir, locale, `${locale}.json`);
 
-languages.forEach(language => {
-  const index = generateIndex(language);
-  fs.writeFileSync(`./public/assets/${language}-index.json`, JSON.stringify(index));
+  if (fs.existsSync(localeFilePath)) {
+    const localeFile = fs.readFileSync(localeFilePath);
+    const terms = JSON.parse(localeFile).terms;
+
+    if (terms && typeof terms === 'object') {
+      const index = generateIndex(locale, terms);
+      fs.writeFileSync(`./public/assets/${locale}-index.json`, JSON.stringify(index));
+      console.log(`Generated search index for ${locale}`);
+    } else {
+      console.error(`Error: "terms" is undefined or not an object in ${localeFilePath}`);
+    }
+  } else {
+    console.error(`Error: JSON file not found at ${localeFilePath}`);
+  }
 });

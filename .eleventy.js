@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const execSync = require('child_process').execSync;
 
 module.exports = function(eleventyConfig) {
   // Add a collection for each term in each locale
@@ -42,6 +43,12 @@ module.exports = function(eleventyConfig) {
 
   // Passthrough copy for static assets
   eleventyConfig.addPassthroughCopy("public/assets");
+
+  // Hook into the afterBuild event to run the Lunr.js index generation
+  eleventyConfig.on('afterBuild', () => {
+    console.log('Running Lunr.js index generation...');
+    execSync('node ./utils/build-search-indices.js', { stdio: 'inherit' });
+  });
 
   return {
     dir: {
