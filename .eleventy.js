@@ -40,7 +40,7 @@ module.exports = function(eleventyConfig) {
   // Automatically run Lunr.js after Eleventy builds the site
   eleventyConfig.on('afterBuild', () => {
     console.log('Running Lunr.js index generation...');
-    execSync('node utils/build-search-indices.js', { stdio: 'inherit' });
+    execSync('node ./utils/build-search-indices.js', { stdio: 'inherit' });
   });
 
   // Passthrough copy for static assets

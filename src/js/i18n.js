@@ -9,7 +9,7 @@ i18next
     fallbackLng: 'en_US',
     debug: true,
     backend: {
-      loadPath: '/i18n/locales/{{lng}}/translation.json', // Update this path as needed
+      loadPath: '/i18n/locales/{{lng}}/translation.json',
     },
     detection: {
       order: ['path', 'cookie', 'localStorage', 'navigator', 'htmlTag'],
@@ -21,6 +21,12 @@ i18next
       'ko_KR', 'fa_IR', 'ms_MY', 'pcm_NG', 'pl_PL', 'pt_BR', 'ro_RO', 'ru_RU',
       'es-419', 'tl_PH', 'th_TH', 'tr_TR', 'uk_UA', 'vi_VN'
     ],
+  }).then(() => {
+    console.log('i18next initialized');
+    // Initialization complete, you can now safely run your other scripts
+    initApp();  // Call a function to start your app logic, defined below
+  }).catch((err) => {
+    console.error('i18next initialization failed:', err);
   });
 
 export default i18next;
