@@ -1,11 +1,8 @@
-# wordsofweb3
-Backend for wordsofweb3.eth.
+# Education DAO Glossary: Architecture
 
-# wordsofweb3: Architecture
+The Education DAO Glossary is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.
 
-wordsofweb3 is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.
-
-It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is *also* a `term` in wordsofweb3 in that language, there will be a hyperlink to that term.
+It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is *also* a `term` in the glossary in that language, there will be a hyperlink to that term.
 Ideally, there will be a `breadcrumbs` element at the top of each entry page, tracking the user's journey through the interwoven terminology of this space.
 
 ## Design principles
@@ -36,7 +33,7 @@ There will be a language dropdown selector on the navbar of the site.
 Changing the language in this dropdown will trigger a function in `index.js` which loads the corresponding language's strings -- **and changes the links on the page to URL paths or slugs which match that language**.
 There will be no English-langauge slug elements when a user is experiencing the site in a language other than English.
 
-### Creating the wordsofweb3 entries
+### Creating the glossary entries
 
 Similarly to the "template" format of the homepage, each `term`'s `entry page` will be generated **on the build side of the app; nothing will be created "generatively" on the reader's side.** 
 
