@@ -20,11 +20,10 @@ module.exports = function(eleventyConfig) {
 
         if (termsData && typeof termsData === 'object') {
           Object.keys(termsData).forEach(termKey => {
-            let termData = termsData[termKey];
             allTerms.push({
-              termKey: termData.term, // Use the localized term as the termKey
+              termKey: termKey,
               locale: locale,
-              termData: termData,
+              termData: termsData[termKey],
             });
           });
         } else {

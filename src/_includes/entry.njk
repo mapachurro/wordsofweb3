@@ -4,10 +4,12 @@ permalink: "/{{ locale }}/{{ termKey | slug }}/index.html"
 termData: "{{ termData | jsonify }}"
 locale: "{{ locale }}"
 ---
-<h1>{{ termData.term }}</h1>
-<p>{{ termData.phonetic }}</p>
-<p><strong>Category:</strong> {{ termData.termCategory }}</p>
-<p><strong>Source:</strong> {{ termData.source }}</p>
-<p><strong>Date first seen:</strong> {{ termData.datefirstseen }}</p>
-<p>{{ termData.definition | safe }}</p>
-<a href="/{{ locale }}/">New Search</a>
+{% block content %}
+    <h1>{{ termData.term }}</h1>
+    <p>{{ termData.phonetic }}</p>
+    <p><strong>Category:</strong> {{ termData.termCategory }}</p>
+    <p><strong>Source:</strong> {{ termData.source }}</p>
+    <p><strong>Date first seen:</strong> {{ termData.datefirstseen }}</p>
+    <p>{{ termData.definition | safe }}</p>
+    <a href="/{{ locale }}/">New Search</a>
+{% endblock %}

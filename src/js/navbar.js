@@ -1,4 +1,4 @@
-import i18next from 'i18next';
+import i18next from "./i18n"
 
 i18next.on('initialized', () => {
   updateText(); // Update UI text once i18next is initialized
