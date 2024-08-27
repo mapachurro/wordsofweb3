@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "i18next": "^23.14.0",
     "lunr": "^2.3.9"
   }
 }

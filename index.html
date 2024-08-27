@@ -4,26 +4,30 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Education DAO Glossary</title>
-  <link rel="stylesheet" href="/public/assets/styles.css">
-  <script src="/public/assets/search.js"></script>
+  <link rel="stylesheet" href="/assets/styles.css">
+  <script src="/assets/search.js"></script>
 </head>
 <body>
   <header>
     <nav class="navbar">
       <div class="logo" onclick="handleLogoClick()">
+        <img src="/assets/education-dao-circle.png" alt="Logo" class="logo-image" />
         Education DAO Glossary
       </div>
-      <select id="language-selector" class="language-selector" onchange="handleLanguageChange()">
-        <!-- Options here -->
+      <select id="language-selector" class="language-selector">
+        <option value="en_US">English</option>
+        <option value="es_ES">Español</option>
+        <option value="ar_AR">العربية</option>
+        <!-- Add other languages -->
       </select>
-    </nav>      
+    </nav>
   </header>
 
   <main>
-    <h2>Search the Education DAO Glossary:</h2>
+    <h2 id="glossary-title">Search the Education DAO Glossary:</h2>
     <input type="text" id="search-input" placeholder="Search terms...">
     <button id="search-button">Search</button>
-    
+
     <ul id="search-results"></ul>
   </main>
 
@@ -31,6 +35,7 @@
     <p>&copy; 2024 Education DAO</p>
   </footer>
 
-  <script src="/public/assets/search.js"></script>
+  <script src="/assets/search.js"></script>
+  <script src="/assets/navbar.js"></script>
 </body>
 </html>
