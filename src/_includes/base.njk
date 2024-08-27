@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/public/assets/styles.css">
+</head>
+<body>
+    <header>
+        <!-- Include the navbar component here -->
+        <div id="navbar">
+            <!-- The navbar will be dynamically populated by the navbar.js script -->
+        </div>
+    </header>
+
+    <main>
+        {% block content %}
+        <!-- This is where content from child templates will be injected -->
+        {% endblock %}
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Education DAO</p>
+    </footer>
+
+    <!-- Include the navbar script -->
+    <script src="/public/assets/navbar.js"></script>
+    <!-- Include the search script -->
+    <script src="/public/assets/search.js"></script>
+    <!-- Include i18n for translation -->
+    <script src="/public/assets/i18n.js"></script>
+</body>
+</html>

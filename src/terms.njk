@@ -1,9 +1,15 @@
 ---
+pagination:
+  data: collections.terms
+  size: 1
+  alias: termItem
+permalink: "/{{ termItem.locale }}/{{ termItem.termKey | slug }}/index.html"
 layout: entry.njk
-permalink: "/{{ locale }}/{{ termKey | slug }}/index.html"
-termData: "{{ termData | jsonify }}"
-locale: "{{ locale }}"
 ---
+
+{% set termData = termItem.termData %}
+{% set locale = termItem.locale %}
+
 <h1>{{ termData.term }}</h1>
 <p>{{ termData.phonetic }}</p>
 <p><strong>Category:</strong> {{ termData.termCategory }}</p>
