@@ -56,8 +56,8 @@ copyFolderRecursiveSync(staticDir, buildDir);
 console.log('Static files copied.');
 
 // Copy public assets (e.g., images, css)
-if (fs.existsSync(publicDir)) {
-    copyFolderRecursiveSync(publicDir, buildDir, i18nDir);
+if (fs.existsSync(publicDir, i18nDir)) {
+    copyFolderRecursiveSync(publicDir, i18nDir, buildDir,);
     console.log('Public assets copied.');
 } else {
     console.warn('Public directory not found.');
