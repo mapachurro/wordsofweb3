@@ -5,7 +5,7 @@ const path = require('path');
 const staticDir = path.join(__dirname, '../static/');
 const buildDir = path.join(__dirname, '../build');
 const publicDir = path.join(__dirname, '../public');
-const i18nDir = path.join(__dirname, '../locales');
+const i18nDir = path.join(__dirname, '../i18n');
 
 // Create the build directory if it doesn't exist
 if (!fs.existsSync(buildDir)) {
