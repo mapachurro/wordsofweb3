@@ -80,6 +80,8 @@ If there is no data to fill in a given value (e.g., "source"), it should be left
 For example:
 
 ```json
+{
+  "terms": {
     "Ethereum": {
       "term": "حساب",
       "phonetic": "",
@@ -89,6 +91,8 @@ For example:
       "source": "",
       "datefirstseen": ""
     },
+  },
+}
 ```
 
 ### `app-side-glossary.csv`
@@ -236,3 +240,23 @@ lunr.js
 This site will be deployed on IPFS, for starters, using Fleek.xyz. It can and probably should be deployed on other decentralized storage networks.
 
 The intention is to route the ENS name `wordsofweb3.eth` to an IPNS hash using Fleek.xyz, such that it could be accessed at `wordsofweb3.eth.limo`, etc.
+
+# ChatGPT's recommended steps:
+
+Next Steps
+Prototype Key Scripts:
+
+Start by creating prototypes of the critical scripts (generate-json.js, build-pages.js, and intertextual.js). This will allow you to test the core functionality early and refine the process as you move forward.
+Set Up the Build Pipeline:
+
+Once the key scripts are prototyped, set up your build.js script to orchestrate them. Ensure each step logs its progress and any issues encountered, so you can debug effectively.
+Test on a Local Server:
+
+Before deploying to IPFS, test the generated static site on a local server. This will help you catch any issues with linking, language detection, or search functionality.
+Deploy and Iterate:
+
+Deploy the site using Fleek.xyz to IPFS. After deployment, test the site thoroughly across different languages and locales to ensure everything is functioning as expected. Use feedback to iterate and improve the site.
+Consider Future Features:
+
+As you complete the core features, consider implementing additional features like the autocomplete search or more sophisticated link management between languages if needed.
+This approach will ensure that you build a robust, accessible, and durable multilingual glossary that meets the long-term goals of the project. Let me know if you need help with any specific parts of the implementation!
