@@ -2,41 +2,40 @@ const lunr = require('lunr');
 const fs = require('fs');
 const path = require('path');
 
-// Assuming your locale JSON files are in the ./locales directory
-const localesDir = './locales';
+const localesDir = path.join(__dirname, '../locales');
+const outputDir = path.join(__dirname, '../static/assets/search-indices');
 
-const generateIndex = (locale, terms) => {
-  const index = lunr(function () {
-    this.ref('term');
-    this.field('definition');
+if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+}
 
-    Object.entries(terms).forEach(([term, data]) => {
-      this.add({
-        term: term,
-        definition: data.definition || "", // Fallback to empty string if no definition
-      });
-    });
-  });
+fs.readdirSync(localesDir).forEach((locale) => {
+    const localePath = path.join(localesDir, locale, `${locale}.json`);
+    let terms;
 
-  return index;
-};
-
-// Generate an index for each locale
-fs.readdirSync(localesDir).forEach(locale => {
-  const localeFilePath = path.join(localesDir, locale, `${locale}.json`);
-
-  if (fs.existsSync(localeFilePath)) {
-    const localeFile = fs.readFileSync(localeFilePath);
-    const terms = JSON.parse(localeFile).terms;
-
-    if (terms && typeof terms === 'object') {
-      const index = generateIndex(locale, terms);
-      fs.writeFileSync(`./public/assets/search-indices/${locale}-index.json`, JSON.stringify(index));
-      console.log(`Generated search index for ${locale}`);
-    } else {
-      console.error(`Error: "terms" is undefined or not an object in ${localeFilePath}`);
+    try {
+        const data = JSON.parse(fs.readFileSync(localePath, 'utf-8'));
+        terms = data.terms;
+        console.log(`Loaded terms for locale: ${locale}`);
+    } catch (err) {
+        console.error(`Failed to load terms for locale: ${locale} - ${err.message}`);
+        return;
     }
-  } else {
-    console.error(`Error: JSON file not found at ${localeFilePath}`);
-  }
+
+    const idx = lunr(function () {
+        this.ref('term');
+        this.field('term');
+        this.field('definition');
+
+        Object.keys(terms).forEach((termKey) => {
+            this.add({
+                term: terms[termKey].term,
+                definition: terms[termKey].definition,
+            });
+        });
+    });
+
+    const indexPath = path.join(outputDir, `${locale}-index.json`);
+    fs.writeFileSync(indexPath, JSON.stringify(idx), 'utf-8');
+    console.log(`Search index generated for locale: ${locale}`);
 });

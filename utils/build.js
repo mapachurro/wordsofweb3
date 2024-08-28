@@ -56,11 +56,19 @@ copyFolderRecursiveSync(staticDir, buildDir);
 console.log('Static files copied.');
 
 // Copy public assets (e.g., images, css)
-if (fs.existsSync(publicDir, i18nDir)) {
-    copyFolderRecursiveSync(publicDir, i18nDir, buildDir,);
+if (fs.existsSync(publicDir)) {
+    copyFolderRecursiveSync(publicDir, buildDir);
     console.log('Public assets copied.');
 } else {
     console.warn('Public directory not found.');
+}
+
+// Copy i18n assets
+if (fs.existsSync(i18nDir)) {
+    copyFolderRecursiveSync(i18nDir, buildDir);
+    console.log('i18n assets copied.');
+} else {
+    console.warn('i18n directory not found.');
 }
 
 // Copy index.html

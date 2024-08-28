@@ -4,8 +4,19 @@ const path = require('path');
 // Directory paths
 const localesDir = path.join(__dirname, '../locales');
 const outputDir = path.join(__dirname, '../static');
+const logFilePath = path.join(__dirname, 'page-output.txt');
 
-// HTML template
+// Characters to check for that might cause issues in URLs
+const problematicChars = /[;:<>\\/?%#]/;
+
+// Function to log output and errors to a file
+function logToFile(message) {
+    fs.appendFileSync(logFilePath, `${message}\n`, 'utf-8');
+}
+
+// Clear the log file before starting
+fs.writeFileSync(logFilePath, '', 'utf-8');
+
 const template = `
 <!DOCTYPE html>
 <html lang="{{locale}}">
@@ -46,16 +57,18 @@ fs.readdirSync(localesDir).forEach((locale) => {
     try {
         const data = JSON.parse(fs.readFileSync(localePath, 'utf-8'));
         terms = data.terms; // Access the 'terms' object within the JSON
-        console.log(`Successfully loaded terms for locale: ${locale}`);
+        logToFile(`Successfully loaded terms for locale: ${locale}`);
     } catch (err) {
-        console.error(`Failed to load terms for locale: ${locale} - ${err.message}`);
+        const errorMessage = `Failed to load terms for locale: ${locale} - ${err.message}`;
+        logToFile(errorMessage);
+        console.error(errorMessage);
         return; // Skip this locale if the file cannot be read or parsed
     }
 
     const localeOutputDir = path.join(outputDir, locale);
     if (!fs.existsSync(localeOutputDir)) {
         fs.mkdirSync(localeOutputDir, { recursive: true });
-        console.log(`Created directory for locale: ${locale}`);
+        logToFile(`Created directory for locale: ${locale}`);
     }
 
     Object.keys(terms).forEach((termKey) => {
@@ -67,11 +80,18 @@ fs.readdirSync(localesDir).forEach((locale) => {
         const termCategoryValue = termData.termCategory || '';
 
         // Log any missing data
-        if (!termData.term) console.warn(`Missing 'term' for entry '${termKey}' in locale ${locale}`);
-        if (!termData.phonetic) console.warn(`Missing 'phonetic' for entry '${termKey}' in locale ${locale}`);
-        if (!termData.partOfSpeech) console.warn(`Missing 'partOfSpeech' for entry '${termKey}' in locale ${locale}`);
-        if (!termData.definition) console.warn(`Missing 'definition' for entry '${termKey}' in locale ${locale}`);
-        if (!termData.termCategory) console.warn(`Missing 'termCategory' for entry '${termKey}' in locale ${locale}`);
+        if (!termData.term) logToFile(`Missing 'term' for entry '${termKey}' in locale ${locale}`);
+        if (!termData.phonetic) logToFile(`Missing 'phonetic' for entry '${termKey}' in locale ${locale}`);
+        if (!termData.partOfSpeech) logToFile(`Missing 'partOfSpeech' for entry '${termKey}' in locale ${locale}`);
+        if (!termData.definition) logToFile(`Missing 'definition' for entry '${termKey}' in locale ${locale}`);
+        if (!termData.termCategory) logToFile(`Missing 'termCategory' for entry '${termKey}' in locale ${locale}`);
+
+        // Check for problematic characters in the term value
+        if (problematicChars.test(termValue)) {
+            const warningMessage = `Warning: Term '${termValue}' in locale '${locale}' contains problematic characters that may break URLs.`;
+            logToFile(warningMessage);
+            console.warn(warningMessage);
+        }
 
         // Generate the HTML content by replacing placeholders in the template
         let html = template.replace(/{{locale}}/g, locale)
@@ -82,14 +102,19 @@ fs.readdirSync(localesDir).forEach((locale) => {
                            .replace(/{{termCategory}}/g, termCategoryValue);
 
         // Handle the filename generation, ensuring safe file names
-        const fileName = `${termValue.replace(/\s+/g, '-').toLowerCase()}.html`;
+        const fileName = `${termValue.replace(/\s+/g, '-').toLowerCase().replace(problematicChars, '')}.html`;
         const filePath = path.join(localeOutputDir, fileName);
 
         try {
             fs.writeFileSync(filePath, html, 'utf-8');
-            console.log(`Generated: ${filePath}`);
+            logToFile(`Generated: ${filePath}`);
         } catch (err) {
-            console.error(`Failed to write file: ${filePath} - ${err.message}`);
+            const errorMessage = `Failed to write file: ${filePath} - ${err.message}`;
+            logToFile(errorMessage);
+            console.error(errorMessage);
         }
     });
 });
+
+logToFile('Page build process completed.');
+console.log('Page build process completed. Output logged to page-output.txt.');
