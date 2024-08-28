@@ -13,14 +13,14 @@ const template = `
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../../css/styles.css">
-  <title>{{term}} - Education DAO Glossary</title>
+  <title>{{term}} - wordsofweb3</title>
 </head>
 <body>
   <header>
     <nav class="navbar">
       <div class="logo">
         <img src="../../assets/education-dao-circle.png" alt="Logo" />
-        Education DAO Glossary
+        wordsofweb3
       </div>
     </nav>
   </header>
