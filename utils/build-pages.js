@@ -25,11 +25,11 @@ const template = `
     </nav>
   </header>
   <main>
-    <h1>{{term}}</h1>
-    <p><strong>Phonetic:</strong> {{phonetic}}</p>
-    <p><strong>Part of Speech:</strong> {{partOfSpeech}}</p>
-    <p><strong>Definition:</strong> {{definition}}</p>
-    <p><strong>Category:</strong> {{termCategory}}</p>
+    <h1 id="term">{{term}}</h1>
+    <p id="phonetic"><strong>Phonetic:</strong> {{phonetic}}</p>
+    <h3 id="partofspeech"><strong>Part of Speech:</strong> {{partOfSpeech}}</h3>
+    <h3 id="category"><strong>Category:</strong> {{termCategory}}</h3>
+    <p id="definition"><strong>Definition:</strong> {{definition}}</p>
   </main>
   <footer>
     <p>&copy; 2024 Education DAO</p>
