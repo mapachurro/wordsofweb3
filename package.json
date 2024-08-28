@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node ./utils/build.js"
+    "build": "node ./utils/build.js",
+    "start": "http-server ./build -p 8080"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +15,6 @@
     "lunr": "^2.3.9"
   },
   "devDependencies": {
+    "http-server": "^14.1.1"
   }
 }
