@@ -110,23 +110,101 @@ address,noun,decentralized web,"/ˈæd.rɛs/ ""ˈpʌblɪk ˈæd.rɛs""","Synonym
 
 ```
 
-
 ### Moving the information from .json to HTML
 
 Once this information is in its .json files in corresponding locale folders, we can proceed to generate the site's content from it.
 
-`./utils/build-pages.js`, yet to be created, will do the following:
+`./utils/build-pages.js` does the following:
 
-- Ingest `entrytemplate.html`, which will be a wireframe HTML of what each `term`'s entry page should have on it (Navbar, "new search" field at the bottom, other features TBD) that will not be dependent on JS functionality. 
-    - It will also invoke `entrytemplate.js`, which will have **dynamic content placeholders** for each of the values of a `term` object, and a few more.
-- For each locale, ingest that locale's `<locale>.json`, and 
-- Create an HTML file for each term
-    - Named by the `term` value, not the English object name
-    - Filling out the dynamic content placeholders with the corresponding values
-    - Creating links dynamically as specified in the code
-- Save that HTML file (e.g. `cuenta.html`) in a directory which it will create (and overwrite the contents of) if it doesn't already exist: `./static`. **This is the "build directory"**.
+- Contains a mapping of locales to human-readable language names, **which will be used as the names of the corresponding directories into which every entry page will be placed**:
 
-**One important point**: a consideration should be made for linking readers to the entry page for *the term whose page they're on, but in a different language*. So, if I'm reading an entry in French, there could be, e.g., a sidebar or section at the bottom of the page like so:
+```javascript
+// Locale to Language Name Mapping
+const languageNames = {
+    "ar_AR": "العربية",
+    "zh_CN": "中文-(简体)",
+    "zh_TW": "中文-(繁體)",
+    "nl_NL": "nederlands",
+    "fr_FR": "français",
+    "el_GR": "Ελληνικά",
+    "ha_NG": "hausa",
+    "hi_IN": "हिन्दी",
+    "hu_HU": "magyar",
+    "id_ID": "bahasa-indonesia",
+    "ja_JP": "日本語",
+    "ko_KR": "한국어",
+    "fa_IR": "فارسی",
+    "ms_MY": "bahasa-melayu",
+    "pcm_NG": "naijá",
+    "pl_PL": "polski",
+    "pt_BR": "português-brasil",
+    "ro_RO": "română",
+    "ru_RU": "Русский",
+    "es-419": "español-latinoamérica",
+    "tl_PH": "tagalog",
+    "th_TH": "ไทย",
+    "tr_TR": "türkçe",
+    "uk_UA": "Українська",
+    "vi_VN": "tiếng-việt",
+};
+
+```
+
+- Contains an entry template, which will be a wireframe HTML of what each `term`'s entry page should have on it:
+
+```javascript
+const template = `
+<!DOCTYPE html>
+<html lang="{{locale}}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../../css/styles.css">
+  <title>{{term}} - wordsofweb3</title>
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">
+        <img src="../../assets/education-dao-circle.png" alt="Logo" />
+        wordsofweb3
+      </div>
+    </nav>
+  </header>
+  <main>
+    <h1 id="term">{{term}}</h1>
+    <p id="phonetic"><strong>Phonetic:</strong> {{phonetic}}</p>
+    <h3 id="partofspeech"><strong>Part of Speech:</strong> {{partOfSpeech}}</h3>
+    <h3 id="category"><strong>Category:</strong> {{termCategory}}</h3>
+    <p id="definition"><strong>Definition:</strong> {{definition}}</p>
+  </main>
+  <footer>
+    <p>&copy; 2024 Education DAO</p>
+  </footer>
+</body>
+</html>
+`;
+```
+
+The script then dynamically creates content for each entry, by mapping structured content from the .json to the html ids:
+
+```javascript
+ Object.keys(terms).forEach((termKey) => {
+    const termData = terms[termKey] || {};
+    const termValue = termData.term || "";
+    const phoneticValue = termData.phonetic || "";
+    const partOfSpeechValue = termData.partOfSpeech || "";
+    const definitionValue = termData.definition || "Definition not available.";
+    const termCategoryValue = termData.termCategory || "";
+```
+
+The script then should save that HTML file (e.g. `cuenta.html`) in a directory which it will create (and overwrite the contents of if it already exists, to ensure the most up to date build / version) if it doesn't already exist.
+
+The script should save these **static HTML files** to:
+
+`./static/<languageName>/<termin-that-language>.html`
+
+**TODO**: a consideration should be made for linking readers to the entry page for *the term whose page they're on, but in a different language*. So, if I'm reading an entry in French, there could be, e.g., a sidebar or section at the bottom of the page like so:
 
 ```markdown
 ### Read this entry in:
@@ -144,9 +222,7 @@ Additionally, we should not, e.g., convert non-Latin alphabets into strings of `
 
 ## Creating the connections between the `definitions`
 
-This part is crucial, and yet to be engineered.
-
-`./utils/intertextual.js` will run **after** `build-pages.js`, and it will do this work. For each locale, it will:
+Subsequent to the creation of the entry pages in `build-pages.js`, a second script is run (when invoked using `npm run build` and the `build.js` script): `./utils/intertextual.js` does the following:
 
 - Ingest the corresponding `./locales/<locale-code>.json` file
 - Iterate over the built files for that locale in `./static/<locale-code>/*`
@@ -164,10 +240,10 @@ There is a difficult implementation detail here: `stop words`, `stems`, and `plu
 A quality contextual search will use detailed information about the morphology of a given language to find a *good* match, not just something that happens to match a pattern.
 One option is to leverage [lunr-languages](https://github.com/MihaiValentin/lunr-languages), which has a decent and open source (MPL) collection of such files.
 
-# Overall site / `static` directory structure
+# Overall site / `build` directory structure
 
 ```bash
-./static
+./build (once build.js has been run (npm run build))
     index.html
     index.js
     ./js
@@ -219,19 +295,32 @@ In this way, the reader will be presented with the most relevant searches first.
 
 
 # Build
-The various scripts mentioned above which must be run every time the site builds should be all located in `./src/js`, whenever possible.
+There is a distinction made in this repo between the JS files in `./src/js`, and `./utils`:
 
-They should probably be invokable using a single command, such as `npm run build`; there should probably be a `./src/js/build.js` script, which will collate and manage that series of scripts, for example
+./src/js: client-facing javascript, ie, things that run "in the site", such as the Search function that happens when you click the "search" button
 
-```javascript
-import build-pages.js
-import intertextual.js
-import lunr.js
+vs
 
-build-pages.js
-intertextual.js
-lunr.js
-//there will obviously be a little more complexity here, but to give an idea.
+./utils: javascript intended for the build process, ie, things that run "to build the site", such as `build-search-indices.js`, which creates the static search index files.
+
+For this reason, `build.js` is located in `utils`, and should only ever copy over to `./build/js/*` the JS files in `./src.js`.
+
+## `build.js`
+
+This script is invoked by `npm run build`, and will, in turn:
+
+- Run anew `build-pages.js`
+- Run `intertextual.js`
+- Copy over the following directories and files:
+
+```txt
+./i18n  (recursively) to ./build/i18n
+./public/assets/css to ./build/css
+./public/assets/<files at this level> to ./build/assets
+./public/assets/search-indices (recursively) to ./build/search-indices
+./static/<languageName directories>/* to ./build/* (so, all files within ./static/deutsche, and all its contents, should be copied to ./build/deutsche)
+index.html to ./build/index.html
+index.js to ./build/index.js
 ```
 
 # Deployment
