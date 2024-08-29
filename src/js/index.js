@@ -1,4 +1,11 @@
 import { convertLanguageFormat } from './l10n.js';
+import initNavbar from './navbar.js';
+
+const initApp = () => {
+  initNavbar();
+};
+
+window.onload = initApp;
 
 const loadTranslations = async (languageSlug) => {
   const languageCode = convertLanguageFormat(languageSlug, 'slug', 'fourLetterDash');
@@ -88,5 +95,6 @@ function initExplore() {
 module.exports = {
     loadTranslations,
     searchQuery,
-    initExplore
+    initExplore,
+    initNavbar
 };
