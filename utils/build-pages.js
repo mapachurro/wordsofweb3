@@ -6,31 +6,31 @@ const problematicChars = /[;:<>\\/?%#]/;
 
 // Locale to Language Name Mapping
 const languageNames = {
-  ar_AR: "العربية",
-  zh_CN: "中文-(简体)",
-  zh_TW: "中文-(繁體)",
-  nl_NL: "nederlands",
-  fr_FR: "français",
-  el_GR: "Ελληνικά",
-  ha_NG: "hausa",
-  hi_IN: "हिन्दी",
-  hu_HU: "magyar",
-  id_ID: "bahasa-indonesia",
-  ja_JP: "日本語",
-  ko_KR: "한국어",
-  fa_IR: "فارسی",
-  ms_MY: "bahasa-melayu",
-  pcm_NG: "naijá",
-  pl_PL: "polski",
-  pt_BR: "português-brasil",
-  ro_RO: "română",
-  ru_RU: "Русский",
+  "ar-AR": "العربية",
+  "zh-CN": "中文-(简体)",
+  "zh-TW": "中文-(繁體)",
+  "nl-NL": "nederlands",
+  "fr-FR": "français",
+  "el-GR": "Ελληνικά",
+  "ha-NG": "hausa",
+  "hi-IN": "हिन्दी",
+  "hu-HU": "magyar",
+  "id-ID": "bahasa-indonesia",
+  "ja-JP": "日本語",
+  "ko-KR": "한국어",
+  "fa-IR": "فارسی",
+  "ms-MY": "bahasa-melayu",
+  "pcm-NG": "naijá",
+  "pl-PL": "polski",
+  "pt-BR": "português-brasil",
+  "ro-RO": "română",
+  "ru-RU": "Русский",
   "es-419": "español-latinoamérica",
-  tl_PH: "tagalog",
-  th_TH: "ไทย",
-  tr_TR: "türkçe",
-  uk_UA: "Українська",
-  vi_VN: "tiếng-việt",
+  "tl-PH": "tagalog",
+  "th-TH": "ไทย",
+  "tr-TR": "türkçe",
+  "uk-UA": "Українська",
+  "vi-VN": "tiếng-việt",
 };
 
 // Directory paths
@@ -40,7 +40,7 @@ const logFilePath = path.join(__dirname, "page-output.txt");
 
 // Function to log output and errors to a file
 function logToFile(message) {
-  fs.appendFileSync(logFilePath, `${message}\n`, "utf-8");
+    fs.appendFileSync(logFilePath, `${message}\n`, "utf-8");
 }
 
 // Clear the log file before starting
@@ -79,89 +79,82 @@ const template = `
 `;
 
 function buildPages() {
-  fs.readdirSync(localesDir).forEach((locale) => {
-    const localePath = path.join(localesDir, locale, `${locale}.json`);
-    let terms;
+    fs.readdirSync(localesDir).forEach((locale) => {
+        const localePath = path.join(localesDir, locale, `${locale}.json`);
+        let terms;
 
-    // Attempt to read and parse the JSON file
-    try {
-      const data = JSON.parse(fs.readFileSync(localePath, "utf-8"));
-      terms = data.terms; // Access the 'terms' object within the JSON
-      logToFile(`Successfully loaded terms for locale: ${locale}`);
-    } catch (err) {
-      const errorMessage = `Failed to load terms for locale: ${locale} - ${err.message}`;
-      logToFile(errorMessage);
-      console.error(errorMessage);
-      return; // Skip this locale if the file cannot be read or parsed
-    }
+        try {
+            const data = JSON.parse(fs.readFileSync(localePath, "utf-8"));
+            terms = data.terms || {}; // Safeguard against missing 'terms' object
+            logToFile(`Successfully loaded terms for locale: ${locale}`);
+        } catch (err) {
+            const errorMessage = `Failed to load terms for locale: ${locale} - ${err.message}`;
+            logToFile(errorMessage);
+            console.error(errorMessage);
+            return; // Skip this locale if the file cannot be read or parsed
+        }
 
-    // Get language name from the mapping
-    const languageName = languageNames[locale];
+        const languageName = languageNames[locale];
+        if (languageName) {
+            const localeOutputDir = path.join(outputDir, languageName);
+            if (!fs.existsSync(localeOutputDir)) {
+                fs.mkdirSync(localeOutputDir, { recursive: true });
+                logToFile(`Created directory for language: ${languageName}`);
+            }
 
-    // Ensure the output directory is based only on the language name
-if (languageName) {
-  const localeOutputDir = path.join(outputDir, languageName);
-  if (!fs.existsSync(localeOutputDir)) {
-    fs.mkdirSync(localeOutputDir, { recursive: true });
-    logToFile(`Created directory for locale: ${languageName}`);
-  }
+            Object.keys(terms).forEach((termKey) => {
+                const termData = terms[termKey] || {};
+                const termValue = termData.term || "";
+                const phoneticValue = termData.phonetic || "";
+                const partOfSpeechValue = termData.partOfSpeech || "";
+                const definitionValue = termData.definition || "Definition not available.";
+                const termCategoryValue = termData.termCategory || "";
 
-  Object.keys(terms).forEach((termKey) => {
-    const termData = terms[termKey] || {};
-    const termValue = termData.term || "";
-    const phoneticValue = termData.phonetic || "";
-    const partOfSpeechValue = termData.partOfSpeech || "";
-    const definitionValue = termData.definition || "Definition not available.";
-    const termCategoryValue = termData.termCategory || "";
+                // Log any missing data
+                if (!termData.term)
+                    logToFile(`Missing 'term' for entry '${termKey}' in locale ${locale}`);
+                if (!termData.phonetic)
+                    logToFile(`Missing 'phonetic' for entry '${termKey}' in locale ${locale}`);
+                if (!termData.partOfSpeech)
+                    logToFile(`Missing 'partOfSpeech' for entry '${termKey}' in locale ${locale}`);
+                if (!termData.definition)
+                    logToFile(`Missing 'definition' for entry '${termKey}' in locale ${locale}`);
+                if (!termData.termCategory)
+                    logToFile(`Missing 'termCategory' for entry '${termKey}' in locale ${locale}`);
 
-    // Log any missing data
-    if (!termData.term)
-      logToFile(`Missing 'term' for entry '${termKey}' in locale ${locale}`);
-    if (!termData.phonetic)
-      logToFile(`Missing 'phonetic' for entry '${termKey}' in locale ${locale}`);
-    if (!termData.partOfSpeech)
-      logToFile(`Missing 'partOfSpeech' for entry '${termKey}' in locale ${locale}`);
-    if (!termData.definition)
-      logToFile(`Missing 'definition' for entry '${termKey}' in locale ${locale}`);
-    if (!termData.termCategory)
-      logToFile(`Missing 'termCategory' for entry '${termKey}' in locale ${locale}`);
+                if (problematicChars.test(termValue)) {
+                    const warningMessage = `Warning: Term '${termValue}' in locale '${locale}' contains problematic characters that may break URLs.`;
+                    logToFile(warningMessage);
+                    console.warn(warningMessage);
+                }
 
-    // Check for problematic characters in the term value
-    if (problematicChars.test(termValue)) {
-      const warningMessage = `Warning: Term '${termValue}' in locale '${locale}' contains problematic characters that may break URLs.`;
-      logToFile(warningMessage);
-      console.warn(warningMessage);
-    }
+                let html = template
+                    .replace(/{{locale}}/g, locale)
+                    .replace(/{{term}}/g, termValue)
+                    .replace(/{{phonetic}}/g, phoneticValue)
+                    .replace(/{{partOfSpeech}}/g, partOfSpeechValue)
+                    .replace(/{{definition}}/g, definitionValue)
+                    .replace(/{{termCategory}}/g, termCategoryValue);
 
-    // Generate the HTML content by replacing placeholders in the template
-    let html = template
-      .replace(/{{locale}}/g, locale)
-      .replace(/{{term}}/g, termValue)
-      .replace(/{{phonetic}}/g, phoneticValue)
-      .replace(/{{partOfSpeech}}/g, partOfSpeechValue)
-      .replace(/{{definition}}/g, definitionValue)
-      .replace(/{{termCategory}}/g, termCategoryValue);
+                const fileName = `${termValue.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "")}.html`;
+                const filePath = path.join(localeOutputDir, fileName);
 
-    // Handle the filename generation, ensuring safe file names
-    const fileName = `${termValue.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "")}.html`;
-    const filePath = path.join(localeOutputDir, fileName);
+                try {
+                    fs.writeFileSync(filePath, html, "utf-8");
+                    logToFile(`Generated: ${filePath}`);
+                } catch (err) {
+                    const errorMessage = `Failed to write file: ${filePath} - ${err.message}`;
+                    logToFile(errorMessage);
+                    console.error(errorMessage);
+                }
+            });
+        } else {
+            logToFile(`Locale ${locale} does not have a corresponding language name. Skipping.`);
+        }
+    });
 
-    try {
-      fs.writeFileSync(filePath, html, "utf-8");
-      logToFile(`Generated: ${filePath}`);
-    } catch (err) {
-      const errorMessage = `Failed to write file: ${filePath} - ${err.message}`;
-      logToFile(errorMessage);
-      console.error(errorMessage);
-    }
-  });
-} else {
-  logToFile(`Locale ${locale} does not have a corresponding language name. Skipping.`);
-}
-
-logToFile("Page build process completed.");
-console.log("Page build process completed. Output logged to page-output.txt.");
-
+    logToFile("Page build process completed.");
+    console.log("Page build process completed. Output logged to page-output.txt.");
 }
 
 module.exports = buildPages;

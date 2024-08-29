@@ -119,33 +119,35 @@ Once this information is in its .json files in corresponding locale folders, we 
 - Contains a mapping of locales to human-readable language names, **which will be used as the names of the corresponding directories into which every entry page will be placed**:
 
 ```javascript
+// Locale to Language Name Mapping
 const languageNames = {
-  ar_AR: "العربية",
-  zh_CN: "中文-(简体)",
-  zh_TW: "中文-(繁體)",
-  nl_NL: "nederlands",
-  fr_FR: "français",
-  el_GR: "Ελληνικά",
-  ha_NG: "hausa",
-  hi_IN: "हिन्दी",
-  hu_HU: "magyar",
-  id_ID: "bahasa-indonesia",
-  ja_JP: "日本語",
-  ko_KR: "한국어",
-  fa_IR: "فارسی",
-  ms_MY: "bahasa-melayu",
-  pcm_NG: "naijá",
-  pl_PL: "polski",
-  pt_BR: "português-brasil",
-  ro_RO: "română",
-  ru_RU: "Русский",
-  "es-419": "español-latinoamérica",
-  tl_PH: "tagalog",
-  th_TH: "ไทย",
-  tr_TR: "türkçe",
-  uk_UA: "Українська",
-  vi_VN: "tiếng-việt",
+    "ar_AR": "العربية",
+    "zh_CN": "中文-(简体)",
+    "zh_TW": "中文-(繁體)",
+    "nl_NL": "nederlands",
+    "fr_FR": "français",
+    "el_GR": "Ελληνικά",
+    "ha_NG": "hausa",
+    "hi_IN": "हिन्दी",
+    "hu_HU": "magyar",
+    "id_ID": "bahasa-indonesia",
+    "ja_JP": "日本語",
+    "ko_KR": "한국어",
+    "fa_IR": "فارسی",
+    "ms_MY": "bahasa-melayu",
+    "pcm_NG": "naijá",
+    "pl_PL": "polski",
+    "pt_BR": "português-brasil",
+    "ro_RO": "română",
+    "ru_RU": "Русский",
+    "es-419": "español-latinoamérica",
+    "tl_PH": "tagalog",
+    "th_TH": "ไทย",
+    "tr_TR": "türkçe",
+    "uk_UA": "Українська",
+    "vi_VN": "tiếng-việt",
 };
+
 ```
 
 - Contains an entry template, which will be a wireframe HTML of what each `term`'s entry page should have on it:
@@ -317,8 +319,8 @@ This script is invoked by `npm run build`, and will, in turn:
 ./public/assets/<files at this level> to ./build/assets
 ./public/assets/search-indices (recursively) to ./build/search-indices
 ./static/<languageName directories>/* to ./build/* (so, all files within ./static/deutsche, and all its contents, should be copied to ./build/deutsche)
-index.html
-index.js
+index.html to ./build/index.html
+index.js to ./build/index.js
 ```
 
 # Deployment

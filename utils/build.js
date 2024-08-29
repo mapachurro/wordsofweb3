@@ -9,12 +9,6 @@ const buildDir = path.join(__dirname, '../build');
 const publicDir = path.join(__dirname, '../public');
 const i18nDir = path.join(__dirname, '../i18n');
 
-// Create the build directory if it doesn't exist
-if (!fs.existsSync(buildDir)) {
-    fs.mkdirSync(buildDir, { recursive: true });
-    console.log('Build directory created.');
-}
-
 // Ensure a clean build directory
 if (fs.existsSync(buildDir)) {
     fs.rmdirSync(buildDir, { recursive: true });
@@ -35,14 +29,13 @@ function copyFileSync(source, target) {
     fs.writeFileSync(targetFile, fs.readFileSync(source));
 }
 
-// Function to copy folders recursively
+// Function to copy folders recursively with custom target handling
 function copyFolderRecursiveSync(source, target) {
     let files = [];
 
-    // Check if folder needs to be created or integrated
-    const targetFolder = path.join(target, path.basename(source));
-    if (!fs.existsSync(targetFolder)) {
-        fs.mkdirSync(targetFolder, { recursive: true });
+    // Ensure target folder exists
+    if (!fs.existsSync(target)) {
+        fs.mkdirSync(target, { recursive: true });
     }
 
     // Copy
@@ -51,9 +44,9 @@ function copyFolderRecursiveSync(source, target) {
         files.forEach((file) => {
             const curSource = path.join(source, file);
             if (fs.lstatSync(curSource).isDirectory()) {
-                copyFolderRecursiveSync(curSource, targetFolder);
+                copyFolderRecursiveSync(curSource, path.join(target, file));
             } else {
-                copyFileSync(curSource, targetFolder);
+                copyFileSync(curSource, path.join(target, file));
             }
         });
     }
@@ -67,19 +60,23 @@ console.log('Pages built.');
 buildSearchIndices();
 console.log('Search indices created.');
 
-// Copy static files
-copyFolderRecursiveSync(staticDir, buildDir);
+// Copy static files to root build directory (not within 'static' folder)
+fs.readdirSync(staticDir).forEach((dir) => {
+    const sourcePath = path.join(staticDir, dir);
+    const targetPath = path.join(buildDir, dir);
+    copyFolderRecursiveSync(sourcePath, targetPath);
+});
 console.log('Static files copied.');
 
-// Copy public assets (e.g., images, css)
+// Copy public assets (e.g., images, css) to 'assets' in build directory
 if (fs.existsSync(publicDir)) {
-    copyFolderRecursiveSync(publicDir, path.join(buildDir, 'public'));
+    copyFolderRecursiveSync(publicDir, path.join(buildDir, 'assets'));
     console.log('Public assets copied.');
 } else {
     console.warn('Public directory not found.');
 }
 
-// Copy i18n assets
+// Copy i18n assets to 'i18n' in build directory
 if (fs.existsSync(i18nDir)) {
     copyFolderRecursiveSync(i18nDir, path.join(buildDir, 'i18n'));
     console.log('i18n assets copied.');
@@ -87,13 +84,15 @@ if (fs.existsSync(i18nDir)) {
     console.warn('i18n directory not found.');
 }
 
-// Copy index.html
-const indexFilePath = path.join(__dirname, '../index.html');
-if (fs.existsSync(indexFilePath)) {
-    copyFileSync(indexFilePath, buildDir);
-    console.log('index.html copied.');
-} else {
-    console.warn('index.html not found.');
-}
+// Copy index.html and index.js to root build directory
+['index.html', 'index.js'].forEach((file) => {
+    const filePath = path.join(__dirname, `../${file}`);
+    if (fs.existsSync(filePath)) {
+        copyFileSync(filePath, buildDir);
+        console.log(`${file} copied.`);
+    } else {
+        console.warn(`${file} not found.`);
+    }
+});
 
 console.log('Build process completed.');
