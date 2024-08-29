@@ -11,13 +11,7 @@
    <script type="module" src="./js/navbar.js"></script>
    <script type="module" src="./js/search.js"></script>
   
-  <script>
-    function initApp() {
-      // initNavbar();
-      initSearch();
 
-    }
-  </script>
 
 </head>
 <body onload="initApp()">
@@ -25,7 +19,7 @@
     <nav class="navbar">
       <div class="logo" onclick="handleLogoClick()">
         <img src="./assets/education-dao-circle.png" alt="Logo" class="logo-image" />
-        wordsofweb3
+        Education DAO Glossary
       </div>
       <select id="language-selector" class="language-selector">
         <option value="us-english">English</option>
@@ -111,8 +105,13 @@
           console.error('Error fetching directory contents:', error);
         });
     }
-    initExplore();
-  </script>
+
+    function initApp() {
+      initNavbar();
+      initSearch();
+      initExplore();
+      }
+    </script>
 
 </body>
 </html>

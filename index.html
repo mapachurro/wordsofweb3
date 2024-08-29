@@ -11,13 +11,7 @@
    <script type="module" src="./js/navbar.js"></script>
    <script type="module" src="./js/search.js"></script>
   
-  <script>
-    function initApp() {
-      initNavbar();
-      initSearch();
-      initExplore();
-    }
-  </script>
+
 
 </head>
 <body onload="initApp()">
@@ -111,7 +105,13 @@
           console.error('Error fetching directory contents:', error);
         });
     }
-  </script>
+
+    function initApp() {
+      initNavbar();
+      initSearch();
+      initExplore();
+      }
+    </script>
 
 </body>
 </html>
