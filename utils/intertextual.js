@@ -38,19 +38,20 @@ fs.readdirSync(staticDir).forEach((locale) => {
 
         let definitionContent = definitionMatch[1]; // Extract the content inside <p id="definition">
 
-        Object.keys(terms).forEach((term) => {
-            if (!terms[term] || !terms[term].term) {
-                console.warn(`Missing 'term' for entry '${term}' in locale ${locale}`);
+        Object.keys(terms).forEach((termKey) => {
+            const term = terms[termKey];
+            if (!term || !term.term) {
+                console.warn(`Missing 'term' for entry '${termKey}' in locale ${locale}`);
                 return; // Skip this term if 'term' is undefined
             }
 
-            const escapedTerm = escapeRegExp(terms[term].term);
+            const escapedTerm = escapeRegExp(term.term);
             const termRegex = new RegExp(`\\b${escapedTerm}\\b`, 'g');
 
             // Skip linking the term to itself
-            const fileName = `${terms[term].term.replace(/\s+/g, '-').toLowerCase()}.html`;
-            if (file.includes(fileName)) {
-                console.log(`Skipping self-linking for term: ${terms[term].term}`);
+            const fileName = `${term.term.replace(/\s+/g, '-').toLowerCase()}.html`;
+            if (file.toLowerCase() === fileName.toLowerCase()) {
+                console.log(`Skipping self-linking for term: ${term.term}`);
                 return;
             }
 
@@ -59,6 +60,7 @@ fs.readdirSync(staticDir).forEach((locale) => {
                 const hasAnchorTag = new RegExp(`<a [^>]*>${escapeRegExp(match)}<\/a>`, 'g').test(definitionContent);
                 if (hasAnchorTag) return match; // If already inside an <a> tag, return the match as is
 
+                console.log(`Linking term '${match}' to file '${fileName}' in ${filePath}`);
                 return `<a href="./${fileName}">${match}</a>`;
             });
         });
