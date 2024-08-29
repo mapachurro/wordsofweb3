@@ -1,5 +1,3 @@
-import i18next from './i18n.js';
-
 const initNavbar = () => {
   const handleLogoClick = () => {
     const language = document.getElementById('language-selector').value;

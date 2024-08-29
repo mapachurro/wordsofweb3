@@ -61,6 +61,18 @@ console.log('Pages built.');
 buildSearchIndices();
 console.log('Search indices created.');
 
+// Copy term pages to corresponding directories in the build folder
+if (fs.existsSync(staticDir)) {
+    fs.readdirSync(staticDir).forEach((dir) => {
+        const sourcePath = path.join(staticDir, dir);
+        const targetPath = path.join(buildDir, dir);
+        copyFolderRecursiveSync(sourcePath, targetPath);
+    });
+    console.log('Term pages copied to build directory.');
+} else {
+    console.warn('Static directory not found. Term pages not copied.');
+}
+
 // Copy CSS files to 'assets/css'
 const cssDir = path.join(publicDir, 'assets/css');
 if (fs.existsSync(cssDir)) {

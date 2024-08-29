@@ -4,73 +4,115 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" href="./assets/favicon.ico">
-  <title>Education DAO Glossary</title>
+  <title>wordsofweb3</title>
   
-  <link rel="stylesheet" href="./css/styles.css">
+  <link rel="stylesheet" href="./assets/css/styles.css">
 
    <script type="module" src="./js/navbar.js"></script>
    <script type="module" src="./js/search.js"></script>
   
   <script>
     function initApp() {
-      initNavbar();
+      // initNavbar();
       initSearch();
+
     }
   </script>
 
 </head>
-<body>
+<body onload="initApp()">
   <header>
     <nav class="navbar">
       <div class="logo" onclick="handleLogoClick()">
         <img src="./assets/education-dao-circle.png" alt="Logo" class="logo-image" />
-        Education DAO Glossary
+        wordsofweb3
       </div>
       <select id="language-selector" class="language-selector">
-        <option value="en-US">English</option>
-        <option value="es-ES">Español</option>
-        <option value="de-DE">Deutsch</option>
-        <option value="it-IT">Italiano</option>
-        <option value="ar-AR">العربية</option>
-        <option value="zh-CN">中文 (简体)</option>
-        <option value="zh-TW">中文 (繁體)</option>
-        <option value="nl-NL">Nederlands</option>
-        <option value="fr-FR">Français</option>
-        <option value="el-GR">Ελληνικά</option>
-        <option value="ha-NG">Hausa</option>
-        <option value="hi-IN">हिन्दी</option>
-        <option value="hu-HU">Magyar</option>
-        <option value="id-ID">Bahasa Indonesia</option>
-        <option value="ja-JP">日本語</option>
-        <option value="ko-KR">한국어</option>
-        <option value="fa-IR">فارسی</option>
-        <option value="ms-MY">Bahasa Melayu</option>
-        <option value="pcm-NG">Naijá</option>
-        <option value="pl-PL">Polski</option>
-        <option value="pt-BR">Português (Brasil)</option>
-        <option value="ro-RO">Română</option>
-        <option value="ru-RU">Русский</option>
-        <option value="es-419">Español (Latinoamérica)</option>
-        <option value="tl-PH">Tagalog</option>
-        <option value="th-TH">ไทย</option>
-        <option value="tr-TR">Türkçe</option>
-        <option value="uk-UA">Українська</option>
-        <option value="vi-VN">Tiếng Việt</option>
-      </select>
+        <option value="us-english">English</option>
+        <option value="deutsch">Deutsch</option>
+        <option value="italiano">Italiano</option>
+        <option value="العربية">العربية</option>
+        <option value="中文-(简体)">中文 (简体)</option>
+        <option value="中文-(繁體)">中文 (繁體)</option>
+        <option value="nederlands">Nederlands</option>
+        <option value="français">Français</option>
+        <option value="Ελληνικά">Ελληνικά</option>
+        <option value="hausa">Hausa</option>
+        <option value="हिन्दी">हिन्दी</option>
+        <option value="magyar">Magyar</option>
+        <option value="bahasa-indonesia">Bahasa Indonesia</option>
+        <option value="日本語">日本語</option>
+        <option value="한국어">한국어</option>
+        <option value="فارسی">فارسی</option>
+        <option value="bahasa-melayu">Bahasa Melayu</option>
+        <option value="naijá">Naijá</option>
+        <option value="polski">Polski</option>
+        <option value="português-brasil">Português (Brasil)</option>
+        <option value="română">Română</option>
+        <option value="Русский">Русский</option>
+        <option value="español-latinoamérica">Español (Latinoamérica)</option>
+        <option value="tagalog">Tagalog</option>
+        <option value="ไทย">ไทย</option>
+        <option value="türkçe">Türkçe</option>
+        <option value="Українська">Українська</option>
+        <option value="tiếng-việt">Tiếng Việt</option>
+      </select>    
     </nav>
   </header>
 
   <main>
-    <h2 id="glossary-title">Search the Education DAO Glossary:</h2>
-    <input type="text" id="search-input" placeholder="Search terms...">
-    <button id="search-button">Search</button>
+    <h2 id="glossary-title">Search wordsofweb3:</h2>
+    <!-- Search form -->
+    <div id="search-container">
+      <input type="text" id="search-input" placeholder="Search terms...">
+      <button id="search-button">Search</button>
+    </div>
 
-    <ul id="search-results"></ul>
+    <!-- Search results -->
+    <div id="search-results"></div>
+
+    <!-- Explore section -->
+    <h3>Explore:</h3>
+    <div id="explore-container"></div>
+
+    <!-- Include the search.js script -->
+    <script src="./js/search.js"></script>
+
   </main>
 
   <footer>
     <p>&copy; 2024 Education DAO</p>
   </footer>
+
+  <script>
+    function initExplore() {
+      const exploreContainer = document.getElementById('explore-container');
+      const directoryPath = './us-english/'; // Path to the directory with the entry pages
+
+      fetch(directoryPath) // Fetch the directory contents
+        .then(response => response.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(html, 'text/html');
+          const links = Array.from(doc.querySelectorAll('a'));
+
+          const shuffledLinks = links.sort(() => Math.random() - 0.5); // Shuffle the links
+
+          shuffledLinks.forEach(link => {
+            const term = link.textContent.replace('.html', ''); // Remove the .html extension from the term
+            const termLink = document.createElement('a');
+            termLink.href = directoryPath + link.getAttribute('href');
+            termLink.textContent = term;
+            termLink.style.display = 'block';
+            exploreContainer.appendChild(termLink);
+          });
+        })
+        .catch(error => {
+          console.error('Error fetching directory contents:', error);
+        });
+    }
+    initExplore();
+  </script>
 
 </body>
 </html>
