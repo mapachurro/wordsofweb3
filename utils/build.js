@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const buildPages = require('./build-pages');
 const buildSearchIndices = require('./build-search-indices');
+const intertextualLinks = require('./intertextual');
 
 // Paths
 const staticDir = path.join(__dirname, '../static/');
@@ -56,6 +57,10 @@ function copyFolderRecursiveSync(source, target) {
 // Run the page build process
 buildPages();
 console.log('Pages built.');
+
+// Run the intertextual hyperlink creation process
+intertextualLinks();
+console.log('Intertextual links inserted.');
 
 // Run the search index build process
 buildSearchIndices();

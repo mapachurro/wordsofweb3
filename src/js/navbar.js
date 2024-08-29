@@ -1,35 +1,40 @@
+import { convertLanguageFormat } from './l10n.js';
+
 const initNavbar = () => {
   const handleLogoClick = () => {
-    const language = document.getElementById('language-selector').value;
+    const language = localStorage.getItem('selectedLanguage') || 'us-english';
     window.location.href = `/${language}/index.html`;
   };
 
   const handleLanguageChange = async () => {
-    const language = document.getElementById('language-selector').value;
-    i18next.changeLanguage(language, (err, t) => {
-      if (err) {
-        console.error('Failed to change language:', err);
-      } else {
-        updateText();
-      }
-    });
+    const languageSlug = document.getElementById('language-selector').value;
+    const languageCode = convertLanguageFormat(languageSlug, 'slug', 'fourLetterDash');
+
+    if (languageCode) {
+      // Update the language in LocalStorage
+      localStorage.setItem('selectedLanguage', languageSlug);
+
+      // Update the <html lang> attribute
+      document.documentElement.lang = languageCode;
+
+      // Reload translations
+      loadTranslations(languageSlug);
+    } else {
+      console.error('Invalid language selection');
+    }
 
     const currentPath = window.location.pathname.split('/').slice(2).join('/');
-    window.location.href = `/${language}/${currentPath}`;
-  };
-
-  const updateText = () => {
-    document.getElementById('search-button').textContent = i18next.t('Search');
-    document.getElementById('search-input').placeholder = i18next.t('Search terms...');
+    window.location.href = `/${languageSlug}/${currentPath}`;
   };
 
   document.addEventListener('DOMContentLoaded', () => {
     const languageSelector = document.getElementById('language-selector');
-    const currentLanguage = window.location.pathname.split('/')[1];
-    if (currentLanguage) {
-      languageSelector.value = currentLanguage;
-      i18next.changeLanguage(currentLanguage, updateText);
-    }
+    const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
+    languageSelector.value = storedLanguage;
+    document.documentElement.lang = convertLanguageFormat(storedLanguage, 'slug', 'fourLetterDash');
+
+    // Load translations on page load
+    loadTranslations(storedLanguage);
   });
 
   document.getElementById('language-selector').addEventListener('change', handleLanguageChange);
