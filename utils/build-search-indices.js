@@ -5,6 +5,7 @@ const path = require('path');
 const localesDir = path.join(__dirname, '../locales');
 const outputDir = path.join(__dirname, '../static/assets/search-indices');
 
+function buildSearchIndices(){
 if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
 }
@@ -39,3 +40,6 @@ fs.readdirSync(localesDir).forEach((locale) => {
     fs.writeFileSync(indexPath, JSON.stringify(idx), 'utf-8');
     console.log(`Search index generated for locale: ${locale}`);
 });
+}
+
+module.exports = buildSearchIndices;
