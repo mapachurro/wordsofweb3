@@ -1,15 +1,13 @@
 const fs = require('fs');
 const path = require('path');
+const buildPages = require('./build-pages');
+const buildSearchIndices = require('./build-search-indices');
 
 // Paths
 const staticDir = path.join(__dirname, '../static/');
 const buildDir = path.join(__dirname, '../build');
 const publicDir = path.join(__dirname, '../public');
 const i18nDir = path.join(__dirname, '../i18n');
-const jsDir = path.join(__dirname, '../src/js');
-
-const buildPages = require('./build-pages');
-const buildSearchIndices = require('./build-search-indices');
 
 // Create the build directory if it doesn't exist
 if (!fs.existsSync(buildDir)) {
@@ -17,11 +15,11 @@ if (!fs.existsSync(buildDir)) {
     console.log('Build directory created.');
 }
 
-// Create fresh pages and search indices
-console.log('Creating pages and search indices...');
-buildPages();
-buildSearchIndices();
-console.log('Pages and search indices created.');
+// Ensure a clean build directory
+if (fs.existsSync(buildDir)) {
+    fs.rmdirSync(buildDir, { recursive: true });
+}
+fs.mkdirSync(buildDir, { recursive: true });
 
 // Function to copy files
 function copyFileSync(source, target) {
@@ -44,7 +42,7 @@ function copyFolderRecursiveSync(source, target) {
     // Check if folder needs to be created or integrated
     const targetFolder = path.join(target, path.basename(source));
     if (!fs.existsSync(targetFolder)) {
-        fs.mkdirSync(targetFolder);
+        fs.mkdirSync(targetFolder, { recursive: true });
     }
 
     // Copy
@@ -61,13 +59,21 @@ function copyFolderRecursiveSync(source, target) {
     }
 }
 
+// Run the page build process
+buildPages();
+console.log('Pages built.');
+
+// Run the search index build process
+buildSearchIndices();
+console.log('Search indices created.');
+
 // Copy static files
 copyFolderRecursiveSync(staticDir, buildDir);
 console.log('Static files copied.');
 
 // Copy public assets (e.g., images, css)
 if (fs.existsSync(publicDir)) {
-    copyFolderRecursiveSync(publicDir, buildDir);
+    copyFolderRecursiveSync(publicDir, path.join(buildDir, 'public'));
     console.log('Public assets copied.');
 } else {
     console.warn('Public directory not found.');
@@ -75,18 +81,10 @@ if (fs.existsSync(publicDir)) {
 
 // Copy i18n assets
 if (fs.existsSync(i18nDir)) {
-    copyFolderRecursiveSync(i18nDir, path.join(buildDir, 'i18n/locales'));
+    copyFolderRecursiveSync(i18nDir, path.join(buildDir, 'i18n'));
     console.log('i18n assets copied.');
 } else {
     console.warn('i18n directory not found.');
-}
-
-// Copy JS files from src/js to build/js
-if (fs.existsSync(jsDir)) {
-    copyFolderRecursiveSync(jsDir, path.join(buildDir, 'js'));
-    console.log('JavaScript files copied.');
-} else {
-    console.warn('JavaScript directory not found.');
 }
 
 // Copy index.html
