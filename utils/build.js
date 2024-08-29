@@ -1,8 +1,13 @@
-const fs = require('fs');
-const path = require('path');
-const buildPages = require('./build-pages');
-const buildSearchIndices = require('./build-search-indices');
-const intertextualLinks = require('./intertextual');
+import fs from 'fs';
+import path from 'path';
+import buildPages from './build-pages.js';
+import buildSearchIndices from './build-search-indices.js';
+import intertextualLinks from './intertextual.js';
+import { fileURLToPath } from 'url';
+
+// This creates an equivalent of `__dirname`
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Paths
 const staticDir = path.join(__dirname, '../static/');
@@ -10,6 +15,7 @@ const buildDir = path.join(__dirname, '../build');
 const publicDir = path.join(__dirname, '../public');
 const i18nDir = path.join(__dirname, '../i18n');
 const srcJsDir = path.join(__dirname, '../src/js');
+
 
 // Ensure a clean build directory
 if (fs.existsSync(buildDir)) {

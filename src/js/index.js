@@ -1,9 +1,11 @@
 import { convertLanguageFormat } from './l10n.js';
-import initNavbar from './navbar.js';
+import { initNavbar } from './navbar.js';
 
-const initApp = () => {
-  initNavbar();
-};
+export default function initApp() {
+
+// const initApp = () => {
+//   initNavbar();
+// };
 
 window.onload = initApp;
 
@@ -92,9 +94,10 @@ function initExplore() {
         console.error('Error fetching directory contents:', error);
       });
   }
-module.exports = {
-    loadTranslations,
-    searchQuery,
-    initExplore,
-    initNavbar
-};
+}
+// module.exports = {
+//     loadTranslations,
+//     searchQuery,
+//     initExplore,
+//     initNavbar
+// };

@@ -1,6 +1,12 @@
-const fs = require('fs');
-const path = require('path');
-const { convertLanguageFormat } = require('../src/js/l10n'); // Import the l10n.js module
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+import { convertLanguageFormat } from '../src/js/l10n.js'; // Import the l10n.js module
+
+// This creates an equivalent of `__dirname`
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Function to escape special characters for use in RegExp
 function escapeRegExp(string) {
@@ -10,7 +16,7 @@ function escapeRegExp(string) {
 const localesDir = path.join(__dirname, '../locales');
 const staticDir = path.join(__dirname, '../static');
 
-function intertextualLinks(){
+export default function intertextualLinks(){
     fs.readdirSync(staticDir).forEach((slugDir) => {
         // Convert slug directory name back to the four-letter-dash format
         const locale = convertLanguageFormat(slugDir, 'slug', 'fourLetterDash');
@@ -91,5 +97,3 @@ function intertextualLinks(){
         });
     });
 }
-
-module.exports = intertextualLinks;

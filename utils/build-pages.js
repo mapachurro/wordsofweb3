@@ -1,5 +1,6 @@
-const fs = require("fs");
-const path = require("path");
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 // Characters to check for that might cause issues in URLs
 const problematicChars = /[;:<>\\/?%#]/;
@@ -33,6 +34,10 @@ const languageNames = {
   "uk-UA": "Українська",
   "vi-VN": "tiếng-việt",
 };
+
+// This creates an equivalent of `__dirname` for ESModules contexts
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Directory paths
 const localesDir = path.join(__dirname, "../locales");
@@ -79,7 +84,8 @@ const template = `
 </html>
 `;
 
-function buildPages() {
+export default function buildPages(){
+
     fs.readdirSync(localesDir).forEach((locale) => {
         const localePath = path.join(localesDir, locale, `${locale}.json`);
         let terms;
@@ -157,5 +163,3 @@ function buildPages() {
     logToFile("Page build process completed.");
     console.log("Page build process completed. Output logged to page-output.txt.");
 }
-
-module.exports = buildPages;

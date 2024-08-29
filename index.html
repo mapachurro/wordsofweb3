@@ -11,10 +11,13 @@
    <script type="module" src="./js/search.js"></script>
    <script type="module" src="./js/navbar.js"></script>
    <script type="module" src="./js/index.js"></script>
-   
 
 </head>
-<body onload="initApp()">
+<body onload="initApp() {    
+  initNavbar();
+  initSearch();
+  initExplore();
+  }">
   <header>
     <nav class="navbar">
       <div class="logo" onclick="handleLogoClick()">
@@ -53,13 +56,6 @@
       </select>    
     </nav>
   </header>
-  <script>
-    function initApp() {
-      initNavbar();
-      initSearch();
-      initExplore();
-      }
-    </script>
 
   <main>
     <h2 id="search-header">Search wordsofweb3:</h2>

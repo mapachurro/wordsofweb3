@@ -1,11 +1,16 @@
-const lunr = require('lunr');
-const fs = require('fs');
-const path = require('path');
+import lunr from 'lunr';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+// This creates an equivalent of `__dirname` for ESModules contexts
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const localesDir = path.join(__dirname, '../locales');
 const outputDir = path.join(__dirname, '../static/assets/search-indices');
 
-function buildSearchIndices(){
+export default function buildSearchIndices(){
 if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
 }
@@ -41,5 +46,3 @@ fs.readdirSync(localesDir).forEach((locale) => {
     console.log(`Search index generated for locale: ${locale}`);
 });
 }
-
-module.exports = buildSearchIndices;

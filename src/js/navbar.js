@@ -1,6 +1,6 @@
 import { convertLanguageFormat } from './l10n.js';
 
-const initNavbar = () => {
+export default function initNavbar() {
   const handleLogoClick = () => {
     const language = localStorage.getItem('selectedLanguage') || 'us-english';
     window.location.href = `/${language}/index.html`;
@@ -39,5 +39,3 @@ const initNavbar = () => {
 
   document.getElementById('language-selector').addEventListener('change', handleLanguageChange);
 };
-
-export default initNavbar;
