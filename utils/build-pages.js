@@ -12,6 +12,7 @@ const languageNames = {
   "nl-NL": "nederlands",
   "fr-FR": "français",
   "el-GR": "Ελληνικά",
+  "en-US": "us-english",
   "ha-NG": "hausa",
   "hi-IN": "हिन्दी",
   "hu-HU": "magyar",

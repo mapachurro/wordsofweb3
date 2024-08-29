@@ -8,6 +8,7 @@ const staticDir = path.join(__dirname, '../static/');
 const buildDir = path.join(__dirname, '../build');
 const publicDir = path.join(__dirname, '../public');
 const i18nDir = path.join(__dirname, '../i18n');
+const srcJsDir = path.join(__dirname, '../src/js');
 
 // Ensure a clean build directory
 if (fs.existsSync(buildDir)) {
@@ -60,21 +61,36 @@ console.log('Pages built.');
 buildSearchIndices();
 console.log('Search indices created.');
 
-// Copy static files to root build directory (not within 'static' folder)
-fs.readdirSync(staticDir).forEach((dir) => {
-    const sourcePath = path.join(staticDir, dir);
-    const targetPath = path.join(buildDir, dir);
-    copyFolderRecursiveSync(sourcePath, targetPath);
-});
-console.log('Static files copied.');
-
-// Copy public assets (e.g., images, css) to 'assets' in build directory
-if (fs.existsSync(publicDir)) {
-    copyFolderRecursiveSync(publicDir, path.join(buildDir, 'assets'));
-    console.log('Public assets copied.');
-} else {
-    console.warn('Public directory not found.');
+// Copy CSS files to 'assets/css'
+const cssDir = path.join(publicDir, 'assets/css');
+if (fs.existsSync(cssDir)) {
+    copyFolderRecursiveSync(cssDir, path.join(buildDir, 'assets/css'));
+    console.log('CSS files copied to assets/css.');
 }
+
+// Copy search indices to 'assets/search-indices'
+const searchIndicesDir = path.join(publicDir, 'assets/search-indices');
+if (fs.existsSync(searchIndicesDir)) {
+    copyFolderRecursiveSync(searchIndicesDir, path.join(buildDir, 'assets/search-indices'));
+    console.log('Search indices copied to assets/search-indices.');
+}
+
+// Copy JavaScript files to 'js'
+if (fs.existsSync(srcJsDir)) {
+    copyFolderRecursiveSync(srcJsDir, path.join(buildDir, 'js'));
+    console.log('JavaScript files copied to js directory.');
+}
+
+// Copy other public assets (e.g., images, favicon) directly to 'assets'
+['favicon.ico', 'education-dao-circle.png'].forEach((file) => {
+    const filePath = path.join(publicDir, `assets/${file}`);
+    if (fs.existsSync(filePath)) {
+        copyFileSync(filePath, path.join(buildDir, 'assets', file));
+        console.log(`${file} copied to assets.`);
+    } else {
+        console.warn(`${file} not found in public/assets.`);
+    }
+});
 
 // Copy i18n assets to 'i18n' in build directory
 if (fs.existsSync(i18nDir)) {
