@@ -314,7 +314,7 @@ This script is invoked by `npm run build`, and will, in turn:
 - Copy over the following directories and files:
 
 ```txt
-./i18n  (recursively) to ./build/i18n
+./l10n  (recursively) to ./build/l10n
 ./public/assets/css to ./build/css
 ./public/assets/<files at this level> to ./build/assets
 ./public/assets/search-indices (recursively) to ./build/search-indices
