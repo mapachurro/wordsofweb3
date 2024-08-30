@@ -1,5 +1,6 @@
-# wordsofweb3
-Backend for wordsofweb3.eth.
+# Welcome!
+
+This repo is the backend for the `wordsofweb3.eth` glossary, from [Education DAO](https://educationdao.xyz/).
 
 # wordsofweb3: Architecture
 
