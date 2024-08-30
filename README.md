@@ -2,6 +2,32 @@
 
 This repo is the backend for the `wordsofweb3.eth` glossary, from [Education DAO](https://educationdao.xyz/).
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [wordsofweb3](#wordsofweb3)
+- [wordsofweb3: Architecture](#wordsofweb3-architecture)
+  - [Design principles](#design-principles)
+  - [Implementation implications](#implementation-implications)
+    - [Creating the homepages](#creating-the-homepages)
+      - [The Navbar and language switching](#the-navbar-and-language-switching)
+    - [Creating the glossary entries](#creating-the-glossary-entries)
+      - [`ext-sync-terms.csv`:](#ext-sync-termscsv)
+    - [`app-side-glossary.csv`](#app-side-glossarycsv)
+    - [Moving the information from .json to HTML](#moving-the-information-from-json-to-html)
+    - [Paths and slugs](#paths-and-slugs)
+  - [Creating the connections between the `definitions`](#creating-the-connections-between-the-definitions)
+    - [Matching](#matching)
+- [Overall site / `build` directory structure](#overall-site--build-directory-structure)
+  - [Navbar / top-level link structure](#navbar--top-level-link-structure)
+- [Search](#search)
+- [Build](#build)
+  - [`build.js`](#buildjs)
+- [Deployment](#deployment)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # wordsofweb3: Architecture
 
 wordsofweb3 is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.

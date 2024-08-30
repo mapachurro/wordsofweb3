@@ -1,74 +1,69 @@
 import { convertLanguageFormat } from './l10n.js';
 import { initNavbar } from './navbar.js';
 
-export default function initApp() {
+export function initApp() {
+  initNavbar();
 
-// const initApp = () => {
-//   initNavbar();
-// };
+  const loadTranslations = async (languageSlug) => {
+    const languageCode = convertLanguageFormat(languageSlug, 'slug', 'fourLetterDash');
+    const translationFilePath = `./l10n/locales/${languageCode}/translation.json`;
 
-window.onload = initApp;
-
-const loadTranslations = async (languageSlug) => {
-  const languageCode = convertLanguageFormat(languageSlug, 'slug', 'fourLetterDash');
-  const translationFilePath = `./l10n/locales/${languageCode}/translation.json`;
-
-  try {
-    const response = await fetch(translationFilePath);
-    if (!response.ok) {
-      throw new Error('Translation file not found');
+    try {
+      const response = await fetch(translationFilePath);
+      if (!response.ok) {
+        throw new Error('Translation file not found');
+      }
+      const translations = await response.json();
+      updateUIStrings(translations);
+    } catch (error) {
+      console.error('Error loading translations:', error);
     }
-    const translations = await response.json();
-    updateUIStrings(translations);
-  } catch (error) {
-    console.error('Error loading translations:', error);
-  }
-};
+  };
 
-const updateUIStrings = (translations) => {
-  Object.keys(translations).forEach((key) => {
-    const element = document.getElementById(key);
-    if (element) {
-      element.textContent = translations[key];
-    }
+  const updateUIStrings = (translations) => {
+    Object.keys(translations).forEach((key) => {
+      const element = document.getElementById(key);
+      if (element) {
+        element.textContent = translations[key];
+      }
+    });
+  };
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
+    loadTranslations(storedLanguage);
   });
-};
 
-document.addEventListener('DOMContentLoaded', () => {
-  const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
-  loadTranslations(storedLanguage);
-});
+  function searchQuery() {
+    document.getElementById('search-button').addEventListener('click', function () {
+      const searchQuery = document.getElementById('search-input').value.toLowerCase();
+      const locale = document.documentElement.lang;
+      const indexUrl = `./assets/search-indices/${locale}-index.json`;
 
-
-function searchQuery() {
-document.getElementById('search-button').addEventListener('click', function () {
-    const searchQuery = document.getElementById('search-input').value.toLowerCase();
-    const locale = document.documentElement.lang;
-    const indexUrl = `./assets/search-indices/${locale}-index.json`;
-
-    fetch(indexUrl)
+      fetch(indexUrl)
         .then(response => response.json())
         .then(indexData => {
-            const idx = lunr.Index.load(indexData);
-            const results = idx.search(searchQuery);
+          const idx = lunr.Index.load(indexData);
+          const results = idx.search(searchQuery);
 
-            displayResults(results);
+          displayResults(results);
         })
         .catch(err => console.error('Failed to load search index:', err));
-});
+    });
 
-function displayResults(results) {
-    const resultsContainer = document.getElementById('search-results');
-    resultsContainer.innerHTML = '';
+    function displayResults(results) {
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = '';
 
-    results.forEach(result => {
+      results.forEach(result => {
         const listItem = document.createElement('li');
         listItem.textContent = result.ref; // term
         resultsContainer.appendChild(listItem);
-    });
-}
-}
-function initExplore() {
+      });
+    }
+  }
+
+  function initExplore() {
     const exploreContainer = document.getElementById('explore-container');
     const directoryPath = './us-english/'; // Path to the directory with the entry pages
 
@@ -94,10 +89,10 @@ function initExplore() {
         console.error('Error fetching directory contents:', error);
       });
   }
+
+  // Initialize other functions here if needed
+  searchQuery();
+  initExplore();
 }
-// module.exports = {
-//     loadTranslations,
-//     searchQuery,
-//     initExplore,
-//     initNavbar
-// };
+
+window.onload = initApp;
