@@ -8,16 +8,10 @@
   
   <link rel="stylesheet" href="./assets/css/styles.css">
 
-   <script type="module" src="./js/search.js"></script>
-   <script type="module" src="./js/navbar.js"></script>
-   <script type="module" src="./js/index.js"></script>
-
+  <!-- Import ES Modules -->
+  <script type="module" src="./js/index.js" defer></script>
 </head>
-<body onload="initApp() {    
-  initNavbar();
-  initSearch();
-  initExplore();
-  }">
+<body>
   <header>
     <nav class="navbar">
       <div class="logo" onclick="handleLogoClick()">
@@ -71,17 +65,10 @@
     <!-- Explore section -->
     <h3 id="explore">Explore:</h3>
     <div id="explore-container"></div>
-
-    <!-- Include the search.js script -->
-    <script src="./js/search.js"></script>
-
   </main>
 
   <footer>
     <p>&copy; 2024 Education DAO</p>
   </footer>
-
-
-
 </body>
 </html>
