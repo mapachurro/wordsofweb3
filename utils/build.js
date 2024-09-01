@@ -14,7 +14,7 @@ const __dirname = path.dirname(__filename);
 const staticDir = path.join(__dirname, '../static/');
 const buildDir = path.join(__dirname, '../build');
 const publicDir = path.join(__dirname, '../public');
-const i18nDir = path.join(__dirname, '../i18n');
+const l10nDir = path.join(__dirname, '../l10n');
 const srcJsDir = path.join(__dirname, '../src/js');
 
 // Ensure a clean build directory
@@ -137,16 +137,16 @@ if (fs.existsSync(srcJsDir)) {
     }
 });
 
-// Copy i18n assets to 'i18n' in build directory
-if (fs.existsSync(i18nDir)) {
-    copyFolderRecursiveSync(i18nDir, path.join(buildDir, 'i18n'));
-    console.log('i18n assets copied.');
+// Copy l10n assets to 'l10n' in build directory
+if (fs.existsSync(l10nDir)) {
+    copyFolderRecursiveSync(l10nDir, path.join(buildDir, 'l10n'));
+    console.log('l10n assets copied.');
 } else {
-    console.warn('i18n directory not found.');
+    console.warn('l10n directory not found.');
 }
 
 // Copy index.html and index.js to root build directory
-['index.html', 'index.js'].forEach((file) => {
+['index.html'].forEach((file) => {
     const filePath = path.join(__dirname, `../${file}`);
     if (fs.existsSync(filePath)) {
         copyFileSync(filePath, buildDir);
