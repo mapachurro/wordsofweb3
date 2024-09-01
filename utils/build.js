@@ -1,3 +1,4 @@
+// Importing required modules
 import fs from 'fs';
 import path from 'path';
 import buildPages from './build-pages.js';
@@ -15,7 +16,6 @@ const buildDir = path.join(__dirname, '../build');
 const publicDir = path.join(__dirname, '../public');
 const i18nDir = path.join(__dirname, '../i18n');
 const srcJsDir = path.join(__dirname, '../src/js');
-
 
 // Ensure a clean build directory
 if (fs.existsSync(buildDir)) {
@@ -60,9 +60,31 @@ function copyFolderRecursiveSync(source, target) {
     }
 }
 
+// Function to generate directory index JSON files
+function generateDirectoryIndex(directoryPath) {
+    const locales = fs.readdirSync(directoryPath).filter(dir => fs.lstatSync(path.join(directoryPath, dir)).isDirectory());
+    locales.forEach(locale => {
+        const localePath = path.join(directoryPath, locale);
+        const outputPath = path.join(localePath, 'directoryContents.json');
+
+        const files = fs.readdirSync(localePath).filter(file => file.endsWith('.html'));
+        const indexData = files.map(file => ({
+            name: path.basename(file, '.html'),
+            link: file,
+        }));
+
+        fs.writeFileSync(outputPath, JSON.stringify(indexData, null, 2));
+        console.log(`Index generated at ${outputPath}`);
+    });
+}
+
 // Run the page build process
 buildPages();
 console.log('Pages built.');
+
+// Generate directory index files
+generateDirectoryIndex(staticDir);
+console.log('Directory indices generated.');
 
 // Run the intertextual hyperlink creation process
 intertextualLinks();

@@ -1,8 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-
-import { convertLanguageFormat } from '../src/js/l10n.js'; // Import the l10n.js module
+import { convertLanguageFormat } from '../src/js/l10n.js';
 
 // This creates an equivalent of `__dirname`
 const __filename = fileURLToPath(import.meta.url);
