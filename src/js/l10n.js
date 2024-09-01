@@ -1,6 +1,9 @@
+//Difficulty: this script is both client side and server side. Sad!
+//Hence, the following function doesn't work during build. It needs to have a build version and a client version.
+
 export async function loadLanguageMap() {
     try {
-        const response = await fetch('./l10n/language-codes.json');
+        const response = await fetch('../../l10n/language-codes.json');
         if (!response.ok) {
             throw new Error('Failed to load language codes');
         }

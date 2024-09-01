@@ -9,7 +9,7 @@
     },
     "zh-CN": {
         "name": "中文-(简体)",
-        "slug": "中文-简体",
+        "slug": "中文-(简体)",
         "fourLetterDash": "zh-CN",
         "fourLetterUnderscore": "zh_CN",
         "twoLetter": "zh",
@@ -17,7 +17,7 @@
     },
     "zh-TW": {
         "name": "中文-(繁體)",
-        "slug": "中文-繁體",
+        "slug": "中文-(繁體)",
         "fourLetterDash": "zh-TW",
         "fourLetterUnderscore": "zh_TW",
         "twoLetter": "zh",
@@ -112,7 +112,7 @@
         "threeLetter": "fas"
     },
     "ms-MY": {
-        "name": "Bahasa Melayu",
+        "name": "bahasa-melayu",
         "slug": "bahasa-melayu",
         "fourLetterDash": "ms-MY",
         "fourLetterUnderscore": "ms_MY",
@@ -120,7 +120,7 @@
         "threeLetter": "msa"
     },
     "pcm-NG": {
-        "name": "Naijá",
+        "name": "naijá",
         "slug": "naijá",
         "fourLetterDash": "pcm-NG",
         "fourLetterUnderscore": "pcm_NG",
@@ -128,7 +128,7 @@
         "threeLetter": "pcm"
     },
     "pl-PL": {
-        "name": "Polski",
+        "name": "polski",
         "slug": "polski",
         "fourLetterDash": "pl-PL",
         "fourLetterUnderscore": "pl_PL",
@@ -136,7 +136,7 @@
         "threeLetter": "pol"
     },
     "pt-BR": {
-        "name": "Português-Brasil",
+        "name": "português-brasil",
         "slug": "português-brasil",
         "fourLetterDash": "pt-BR",
         "fourLetterUnderscore": "pt_BR",
@@ -144,7 +144,7 @@
         "threeLetter": "por"
     },
     "ro-RO": {
-        "name": "Română",
+        "name": "română",
         "slug": "română",
         "fourLetterDash": "ro-RO",
         "fourLetterUnderscore": "ro_RO",
