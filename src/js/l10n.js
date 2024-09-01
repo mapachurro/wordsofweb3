@@ -1,19 +1,18 @@
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-
-export default function initl10n() {
-// This creates an equivalent of `__dirname`
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-function loadLanguageMap() {
-    return JSON.parse(fs.readFileSync(path.join(__dirname, '../../l10n/language-codes.json'), 'utf8'));
+export async function loadLanguageMap() {
+    try {
+        const response = await fetch('./l10n/language-codes.json');
+        if (!response.ok) {
+            throw new Error('Failed to load language codes');
+        }
+        return await response.json();
+    } catch (error) {
+        console.error('Error loading language map:', error);
+        return {}; // Return an empty object in case of an error
+    }
 }
 
-function convertLanguageFormat(value, fromFormat, toFormat) {
-    const languageMap = loadLanguageMap();
+export async function convertLanguageFormat(value, fromFormat, toFormat) {
+    const languageMap = await loadLanguageMap();
     for (let key in languageMap) {
         if (languageMap[key][fromFormat] === value) {
             return languageMap[key][toFormat];
@@ -21,10 +20,12 @@ function convertLanguageFormat(value, fromFormat, toFormat) {
     }
     return null; // or throw an error if not found
 }
-}
-// // Example usage:
-// const toSlugName = convertLanguageFormat("en-US", "fourLetterDash", "slug");
-// console.log(toSlugName); // Output: "us-english"
 
-// const toFourLetterDash = convertLanguageFormat("us-english", "slug", "fourLetterDash");
-// console.log(toFourLetterDash); // Output: "en-US"
+// Example usage:
+// convertLanguageFormat("en-US", "fourLetterDash", "slug").then(toSlugName => {
+//     console.log(toSlugName); // Output: "us-english"
+// });
+
+// convertLanguageFormat("us-english", "slug", "fourLetterDash").then(toFourLetterDash => {
+//     console.log(toFourLetterDash); // Output: "en-US"
+// });

@@ -1,3 +1,4 @@
+export default function initSearch(){
 document.addEventListener('DOMContentLoaded', function () {
   const searchButton = document.getElementById('search-button');
   const searchInput = document.getElementById('search-input');
@@ -55,3 +56,4 @@ document.addEventListener('DOMContentLoaded', function () {
       resultsContainer.appendChild(list);
   }
 });
+}

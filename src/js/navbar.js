@@ -8,7 +8,7 @@ export default function initNavbar() {
 
   const handleLanguageChange = async () => {
     const languageSlug = document.getElementById('language-selector').value;
-    const languageCode = convertLanguageFormat(languageSlug, 'slug', 'fourLetterDash');
+    const languageCode = await convertLanguageFormat(languageSlug, 'slug', 'fourLetterDash');
 
     if (languageCode) {
       // Update the language in LocalStorage
@@ -27,15 +27,19 @@ export default function initNavbar() {
     window.location.href = `/${languageSlug}/${currentPath}`;
   };
 
-  document.addEventListener('DOMContentLoaded', () => {
+  document.addEventListener('DOMContentLoaded', async () => {
     const languageSelector = document.getElementById('language-selector');
     const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
     languageSelector.value = storedLanguage;
-    document.documentElement.lang = convertLanguageFormat(storedLanguage, 'slug', 'fourLetterDash');
+
+    const languageCode = await convertLanguageFormat(storedLanguage, 'slug', 'fourLetterDash');
+    document.documentElement.lang = languageCode;
 
     // Load translations on page load
     loadTranslations(storedLanguage);
   });
 
+  // Attach event listeners
   document.getElementById('language-selector').addEventListener('change', handleLanguageChange);
+  document.querySelector('.logo').addEventListener('click', handleLogoClick);
 };

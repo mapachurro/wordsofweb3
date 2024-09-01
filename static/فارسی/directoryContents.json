@@ -1,0 +1,2074 @@
+[
+  {
+    "name": "0x-api",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "3box-labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "airgap-vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "airswap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "aml-(مبارزه-با-پولشویی)",
+    "link": "aml-(مبارزه-با-پولشویی).html"
+  },
+  {
+    "name": "api-(رابط-برنامه-کاربردی)",
+    "link": "api-(رابط-برنامه-کاربردی).html"
+  },
+  {
+    "name": "api",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "apple-pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "avax",
+    "link": "avax.html"
+  },
+  {
+    "name": "axie-infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "blockies",
+    "link": "blockies.html"
+  },
+  {
+    "name": "bnb-chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "bnb",
+    "link": "bnb.html"
+  },
+  {
+    "name": "brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "btc-(بیت‌کوین)",
+    "link": "btc-(بیت‌کوین).html"
+  },
+  {
+    "name": "celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "cex",
+    "link": "cex.html"
+  },
+  {
+    "name": "chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "coinbase-pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "coingecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "coolwallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "cryptocompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "d'cent",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "dai",
+    "link": "dai.html"
+  },
+  {
+    "name": "dao",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "dex",
+    "link": "dex.html"
+  },
+  {
+    "name": "diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "dlt",
+    "link": "dlt.html"
+  },
+  {
+    "name": "dpos",
+    "link": "dpos.html"
+  },
+  {
+    "name": "edge",
+    "link": "edge.html"
+  },
+  {
+    "name": "eip-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "ens",
+    "link": "ens.html"
+  },
+  {
+    "name": "erc-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "erc-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "erc-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "erc",
+    "link": "erc.html"
+  },
+  {
+    "name": "eth",
+    "link": "eth.html"
+  },
+  {
+    "name": "ethereum-2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "eur",
+    "link": "eur.html"
+  },
+  {
+    "name": "evm",
+    "link": "evm.html"
+  },
+  {
+    "name": "fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "flask-(metamask-flask)",
+    "link": "flask-(metamask-flask).html"
+  },
+  {
+    "name": "flask",
+    "link": "flask.html"
+  },
+  {
+    "name": "ftm",
+    "link": "ftm.html"
+  },
+  {
+    "name": "ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gas-station-network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "gbp",
+    "link": "gbp.html"
+  },
+  {
+    "name": "gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "github",
+    "link": "github.html"
+  },
+  {
+    "name": "goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "gsn",
+    "link": "gsn.html"
+  },
+  {
+    "name": "harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "id",
+    "link": "id.html"
+  },
+  {
+    "name": "infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "institutional-(metamask-institutional)-(mmi)",
+    "link": "institutional-(metamask-institutional)-(mmi).html"
+  },
+  {
+    "name": "interplanetary-file-system-(ipfs)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "ipfs",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "ipo",
+    "link": "ipo.html"
+  },
+  {
+    "name": "kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "kyc",
+    "link": "kyc.html"
+  },
+  {
+    "name": "kyt",
+    "link": "kyt.html"
+  },
+  {
+    "name": "lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "learn-metamask-learn",
+    "link": "learn-metamask-learn.html"
+  },
+  {
+    "name": "ledger-live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "lightning-network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "matic",
+    "link": "matic.html"
+  },
+  {
+    "name": "mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "metamask-bridge",
+    "link": "metamask-bridge.html"
+  },
+  {
+    "name": "metamask-flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "metamask-institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "metamask-learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "metamask-swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metamask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "metametrics",
+    "link": "metametrics.html"
+  },
+  {
+    "name": "mobikwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "moonpay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "nft",
+    "link": "nft.html"
+  },
+  {
+    "name": "ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "one",
+    "link": "one.html"
+  },
+  {
+    "name": "opensea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "p2p",
+    "link": "p2p.html"
+  },
+  {
+    "name": "palm",
+    "link": "palm.html"
+  },
+  {
+    "name": "paraswap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "paypal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "rocket-pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "rpc",
+    "link": "rpc.html"
+  },
+  {
+    "name": "safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "samsung-pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "sdk",
+    "link": "sdk.html"
+  },
+  {
+    "name": "sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "snap",
+    "link": "snap.html"
+  },
+  {
+    "name": "snaps-(metamask-snaps)",
+    "link": "snaps-(metamask-snaps).html"
+  },
+  {
+    "name": "solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "u2f",
+    "link": "u2f.html"
+  },
+  {
+    "name": "uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "url",
+    "link": "url.html"
+  },
+  {
+    "name": "usd",
+    "link": "usd.html"
+  },
+  {
+    "name": "utxo",
+    "link": "utxo.html"
+  },
+  {
+    "name": "vault-decryptor",
+    "link": "vault-decryptor.html"
+  },
+  {
+    "name": "walletconnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "webhid",
+    "link": "webhid.html"
+  },
+  {
+    "name": "wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "آدرس-«آدرس-عمومی»",
+    "link": "آدرس-«آدرس-عمومی».html"
+  },
+  {
+    "name": "آدرس-آی‌پی",
+    "link": "آدرس-آی‌پی.html"
+  },
+  {
+    "name": "آدرس-صفر",
+    "link": "آدرس-صفر.html"
+  },
+  {
+    "name": "آدرس-عمومی-اتریوم",
+    "link": "آدرس-عمومی-اتریوم.html"
+  },
+  {
+    "name": "آدرس-عمومی",
+    "link": "آدرس-عمومی.html"
+  },
+  {
+    "name": "آزمایشی",
+    "link": "آزمایشی.html"
+  },
+  {
+    "name": "آشکار-کردن",
+    "link": "آشکار-کردن.html"
+  },
+  {
+    "name": "آلتکوین",
+    "link": "آلتکوین.html"
+  },
+  {
+    "name": "آموختن",
+    "link": "آموختن.html"
+  },
+  {
+    "name": "آموزش",
+    "link": "آموزش.html"
+  },
+  {
+    "name": "اتر-(eth)",
+    "link": "اتر-(eth).html"
+  },
+  {
+    "name": "اتر-(نام‌گذاری‌ها)",
+    "link": "اتر-(نام‌گذاری‌ها).html"
+  },
+  {
+    "name": "اتر",
+    "link": "اتر.html"
+  },
+  {
+    "name": "اثبات-اعتبار-(poa)",
+    "link": "اثبات-اعتبار-(poa).html"
+  },
+  {
+    "name": "اثبات-اعتبار",
+    "link": "اثبات-اعتبار.html"
+  },
+  {
+    "name": "اثبات-اعتبار،-اثبات-سهام،-اثبات-کار",
+    "link": "اثبات-اعتبار،-اثبات-سهام،-اثبات-کار.html"
+  },
+  {
+    "name": "اثبات-تقلب",
+    "link": "اثبات-تقلب.html"
+  },
+  {
+    "name": "اثبات-دانش-صفر",
+    "link": "اثبات-دانش-صفر.html"
+  },
+  {
+    "name": "اثبات-سهام-(pos)",
+    "link": "اثبات-سهام-(pos).html"
+  },
+  {
+    "name": "اثبات-سهام",
+    "link": "اثبات-سهام.html"
+  },
+  {
+    "name": "اثبات-کار-(pow)",
+    "link": "اثبات-کار-(pow).html"
+  },
+  {
+    "name": "اثبات-کار",
+    "link": "اثبات-کار.html"
+  },
+  {
+    "name": "اجماع",
+    "link": "اجماع.html"
+  },
+  {
+    "name": "احراز-هویت-مشتری-(kyc)",
+    "link": "احراز-هویت-مشتری-(kyc).html"
+  },
+  {
+    "name": "احراز-هویت-مشتری",
+    "link": "احراز-هویت-مشتری.html"
+  },
+  {
+    "name": "احراز-هویت-چند-عاملی",
+    "link": "احراز-هویت-چند-عاملی.html"
+  },
+  {
+    "name": "اختیاری",
+    "link": "اختیاری.html"
+  },
+  {
+    "name": "ادغام",
+    "link": "ادغام.html"
+  },
+  {
+    "name": "ارتباطات-در-محدوده-نزدیک-(nfc)",
+    "link": "ارتباطات-در-محدوده-نزدیک-(nfc).html"
+  },
+  {
+    "name": "ارتفاع-بلاک",
+    "link": "ارتفاع-بلاک.html"
+  },
+  {
+    "name": "ارتقا",
+    "link": "ارتقا.html"
+  },
+  {
+    "name": "ارز-خصوصی",
+    "link": "ارز-خصوصی.html"
+  },
+  {
+    "name": "ارز-فیات",
+    "link": "ارز-فیات.html"
+  },
+  {
+    "name": "ارزش-بازار",
+    "link": "ارزش-بازار.html"
+  },
+  {
+    "name": "ارزش-کل-سرمایه-قفل-شده-(tvl)",
+    "link": "ارزش-کل-سرمایه-قفل-شده-(tvl).html"
+  },
+  {
+    "name": "ارسال",
+    "link": "ارسال.html"
+  },
+  {
+    "name": "ازدحام-شبکه",
+    "link": "ازدحام-شبکه.html"
+  },
+  {
+    "name": "استاندارد-توکن-erc-20",
+    "link": "استاندارد-توکن-erc-20.html"
+  },
+  {
+    "name": "استاندارد-توکن-erc-721",
+    "link": "استاندارد-توکن-erc-721.html"
+  },
+  {
+    "name": "استاندارد-توکن",
+    "link": "استاندارد-توکن.html"
+  },
+  {
+    "name": "استخر-تراکنش",
+    "link": "استخر-تراکنش.html"
+  },
+  {
+    "name": "استخر-حافظه",
+    "link": "استخر-حافظه.html"
+  },
+  {
+    "name": "استخر-حافظه؛-ممپول",
+    "link": "استخر-حافظه؛-ممپول.html"
+  },
+  {
+    "name": "استخر-نقدینگی",
+    "link": "استخر-نقدینگی.html"
+  },
+  {
+    "name": "استخراج",
+    "link": "استخراج.html"
+  },
+  {
+    "name": "استخراج‌کننده",
+    "link": "استخراج‌کننده.html"
+  },
+  {
+    "name": "استیبل-کوین",
+    "link": "استیبل-کوین.html"
+  },
+  {
+    "name": "اسلات",
+    "link": "اسلات.html"
+  },
+  {
+    "name": "اسکریپت",
+    "link": "اسکریپت.html"
+  },
+  {
+    "name": "اسکن-کردن",
+    "link": "اسکن-کردن.html"
+  },
+  {
+    "name": "اعتبارسنج",
+    "link": "اعتبارسنج.html"
+  },
+  {
+    "name": "افزایش-سرعت",
+    "link": "افزایش-سرعت.html"
+  },
+  {
+    "name": "افزونه-متامسک",
+    "link": "افزونه-متامسک.html"
+  },
+  {
+    "name": "افزونه",
+    "link": "افزونه.html"
+  },
+  {
+    "name": "اقتصاد-رمزارز-محور",
+    "link": "اقتصاد-رمزارز-محور.html"
+  },
+  {
+    "name": "الگوریتم",
+    "link": "الگوریتم.html"
+  },
+  {
+    "name": "امضا-(رمزنگاری)",
+    "link": "امضا-(رمزنگاری).html"
+  },
+  {
+    "name": "امضا-کردن",
+    "link": "امضا-کردن.html"
+  },
+  {
+    "name": "امضای-دیجیتال",
+    "link": "امضای-دیجیتال.html"
+  },
+  {
+    "name": "امنیت-و-حریم-خصوصی",
+    "link": "امنیت-و-حریم-خصوصی.html"
+  },
+  {
+    "name": "امور-مالی-غیرمتمرکز",
+    "link": "امور-مالی-غیرمتمرکز.html"
+  },
+  {
+    "name": "انتقال-از-یک-شبکه-به-شبکه-دیگر",
+    "link": "انتقال-از-یک-شبکه-به-شبکه-دیگر.html"
+  },
+  {
+    "name": "انتقال-دادن",
+    "link": "انتقال-دادن.html"
+  },
+  {
+    "name": "انشعاب-نرم",
+    "link": "انشعاب-نرم.html"
+  },
+  {
+    "name": "انطباق-رمزنگاری",
+    "link": "انطباق-رمزنگاری.html"
+  },
+  {
+    "name": "انعام-ماینر",
+    "link": "انعام-ماینر.html"
+  },
+  {
+    "name": "اوراکل",
+    "link": "اوراکل.html"
+  },
+  {
+    "name": "اکوسیستم",
+    "link": "اکوسیستم.html"
+  },
+  {
+    "name": "ایجاد",
+    "link": "ایجاد.html"
+  },
+  {
+    "name": "ایردراپ-ان‌اف‌تی",
+    "link": "ایردراپ-ان‌اف‌تی.html"
+  },
+  {
+    "name": "ایردراپ",
+    "link": "ایردراپ.html"
+  },
+  {
+    "name": "ای‌سیک(مدارهای-مجتمع-با-کاربرد-خاص)",
+    "link": "ای‌سیک(مدارهای-مجتمع-با-کاربرد-خاص).html"
+  },
+  {
+    "name": "باز-کردن",
+    "link": "باز-کردن.html"
+  },
+  {
+    "name": "بازنشانی",
+    "link": "بازنشانی.html"
+  },
+  {
+    "name": "بازیابی",
+    "link": "بازیابی.html"
+  },
+  {
+    "name": "بایت‌کد",
+    "link": "بایت‌کد.html"
+  },
+  {
+    "name": "بدافزار",
+    "link": "بدافزار.html"
+  },
+  {
+    "name": "بدون-نیاز-به-اعتماد",
+    "link": "بدون-نیاز-به-اعتماد.html"
+  },
+  {
+    "name": "برنامه-ledger-live",
+    "link": "برنامه-ledger-live.html"
+  },
+  {
+    "name": "برنامه-غیرمتمرکز",
+    "link": "برنامه-غیرمتمرکز.html"
+  },
+  {
+    "name": "برون-زنجیره‌ای",
+    "link": "برون-زنجیره‌ای.html"
+  },
+  {
+    "name": "بلاک-اولیه",
+    "link": "بلاک-اولیه.html"
+  },
+  {
+    "name": "بلاک-اومر",
+    "link": "بلاک-اومر.html"
+  },
+  {
+    "name": "بلاک-تراکنش",
+    "link": "بلاک-تراکنش.html"
+  },
+  {
+    "name": "بلاک",
+    "link": "بلاک.html"
+  },
+  {
+    "name": "بلاک‌چین-تودرتو",
+    "link": "بلاک‌چین-تودرتو.html"
+  },
+  {
+    "name": "بلاک‌چین-خصوصی",
+    "link": "بلاک‌چین-خصوصی.html"
+  },
+  {
+    "name": "بلاک‌چین-عمومی",
+    "link": "بلاک‌چین-عمومی.html"
+  },
+  {
+    "name": "بلاک‌چین-مدولار",
+    "link": "بلاک‌چین-مدولار.html"
+  },
+  {
+    "name": "بلاک‌چین",
+    "link": "بلاک‌چین.html"
+  },
+  {
+    "name": "بمب-سختی",
+    "link": "بمب-سختی.html"
+  },
+  {
+    "name": "به‌روزرسانی-کردن",
+    "link": "به‌روزرسانی-کردن.html"
+  },
+  {
+    "name": "بیت‌کوین",
+    "link": "بیت‌کوین.html"
+  },
+  {
+    "name": "بیدل",
+    "link": "بیدل.html"
+  },
+  {
+    "name": "بیومتریک",
+    "link": "بیومتریک.html"
+  },
+  {
+    "name": "بیکن-چین",
+    "link": "بیکن-چین.html"
+  },
+  {
+    "name": "بی‌نظمی",
+    "link": "بی‌نظمی.html"
+  },
+  {
+    "name": "تاخیر",
+    "link": "تاخیر.html"
+  },
+  {
+    "name": "تاریخچه-وضعیت",
+    "link": "تاریخچه-وضعیت.html"
+  },
+  {
+    "name": "تایید-هویت-دو-عاملی-(2fa)",
+    "link": "تایید-هویت-دو-عاملی-(2fa).html"
+  },
+  {
+    "name": "تایید",
+    "link": "تایید.html"
+  },
+  {
+    "name": "تبدیل",
+    "link": "تبدیل.html"
+  },
+  {
+    "name": "تجمیع‌کننده-ان‌اف‌تی",
+    "link": "تجمیع‌کننده-ان‌اف‌تی.html"
+  },
+  {
+    "name": "تجمیع‌کننده-نقدینگی",
+    "link": "تجمیع‌کننده-نقدینگی.html"
+  },
+  {
+    "name": "تحمل-خطای-بیزانس",
+    "link": "تحمل-خطای-بیزانس.html"
+  },
+  {
+    "name": "تراکنش-داخلی",
+    "link": "تراکنش-داخلی.html"
+  },
+  {
+    "name": "تراکنش-محافظت‌شده",
+    "link": "تراکنش-محافظت‌شده.html"
+  },
+  {
+    "name": "تراکنش",
+    "link": "تراکنش.html"
+  },
+  {
+    "name": "تشخیص-خودکار",
+    "link": "تشخیص-خودکار.html"
+  },
+  {
+    "name": "تعامل‌‌پذیری",
+    "link": "تعامل‌‌پذیری.html"
+  },
+  {
+    "name": "تغییر-دادن",
+    "link": "تغییر-دادن.html"
+  },
+  {
+    "name": "تغییرناپذیری",
+    "link": "تغییرناپذیری.html"
+  },
+  {
+    "name": "تلفیق-هیبریدی-گواه-اثبات-سهاماثبات-کار",
+    "link": "تلفیق-هیبریدی-گواه-اثبات-سهاماثبات-کار.html"
+  },
+  {
+    "name": "تم",
+    "link": "تم.html"
+  },
+  {
+    "name": "تمرکززدایی",
+    "link": "تمرکززدایی.html"
+  },
+  {
+    "name": "تنظیمات",
+    "link": "تنظیمات.html"
+  },
+  {
+    "name": "تورینگ-کامل",
+    "link": "تورینگ-کامل.html"
+  },
+  {
+    "name": "توزیع-برنامه‌ریزی-شده-توکن",
+    "link": "توزیع-برنامه‌ریزی-شده-توکن.html"
+  },
+  {
+    "name": "توسعه-دهنده",
+    "link": "توسعه-دهنده.html"
+  },
+  {
+    "name": "توکن-اوراق-بهادار",
+    "link": "توکن-اوراق-بهادار.html"
+  },
+  {
+    "name": "توکن-بی‌همتا",
+    "link": "توکن-بی‌همتا.html"
+  },
+  {
+    "name": "توکن",
+    "link": "توکن.html"
+  },
+  {
+    "name": "توکن‌های-سودده",
+    "link": "توکن‌های-سودده.html"
+  },
+  {
+    "name": "جداسازی-فیزیکی",
+    "link": "جداسازی-فیزیکی.html"
+  },
+  {
+    "name": "جریان-پول",
+    "link": "جریان-پول.html"
+  },
+  {
+    "name": "جزیکون‌ها",
+    "link": "جزیکون‌ها.html"
+  },
+  {
+    "name": "جستجو",
+    "link": "جستجو.html"
+  },
+  {
+    "name": "جسورانه",
+    "link": "جسورانه.html"
+  },
+  {
+    "name": "جیسون-rpc",
+    "link": "جیسون-rpc.html"
+  },
+  {
+    "name": "جیوی",
+    "link": "جیوی.html"
+  },
+  {
+    "name": "حاکمیت",
+    "link": "حاکمیت.html"
+  },
+  {
+    "name": "حداکثر-ارزش-قابل-استخراج-(mev)",
+    "link": "حداکثر-ارزش-قابل-استخراج-(mev).html"
+  },
+  {
+    "name": "حداکثر-میزان-گس",
+    "link": "حداکثر-میزان-گس.html"
+  },
+  {
+    "name": "حداکثر-کارمزد-اولویت",
+    "link": "حداکثر-کارمزد-اولویت.html"
+  },
+  {
+    "name": "حذف-کردن",
+    "link": "حذف-کردن.html"
+  },
+  {
+    "name": "حذف",
+    "link": "حذف.html"
+  },
+  {
+    "name": "حساب-قرارداد",
+    "link": "حساب-قرارداد.html"
+  },
+  {
+    "name": "حساب",
+    "link": "حساب.html"
+  },
+  {
+    "name": "حضانت",
+    "link": "حضانت.html"
+  },
+  {
+    "name": "حمله-51-درصدی",
+    "link": "حمله-51-درصدی.html"
+  },
+  {
+    "name": "حمله-محروم‌سازی-از-سرویس-(دیداس)",
+    "link": "حمله-محروم‌سازی-از-سرویس-(دیداس).html"
+  },
+  {
+    "name": "حواله-بین-بانکی-پایا",
+    "link": "حواله-بین-بانکی-پایا.html"
+  },
+  {
+    "name": "خروجی-خرج‌نشده-تراکنش-(utxo)",
+    "link": "خروجی-خرج‌نشده-تراکنش-(utxo).html"
+  },
+  {
+    "name": "خروجی-خرج‌نشده-تراکنش",
+    "link": "خروجی-خرج‌نشده-تراکنش.html"
+  },
+  {
+    "name": "خطا",
+    "link": "خطا.html"
+  },
+  {
+    "name": "خود-اجراشونده",
+    "link": "خود-اجراشونده.html"
+  },
+  {
+    "name": "خود-حضانتی",
+    "link": "خود-حضانتی.html"
+  },
+  {
+    "name": "داده‌های-هگز",
+    "link": "داده‌های-هگز.html"
+  },
+  {
+    "name": "دارایی-دیجیتال",
+    "link": "دارایی-دیجیتال.html"
+  },
+  {
+    "name": "دارایی-رمزارزی",
+    "link": "دارایی-رمزارزی.html"
+  },
+  {
+    "name": "دارایی‌های-رمزنگاری-شده",
+    "link": "دارایی‌های-رمزنگاری-شده.html"
+  },
+  {
+    "name": "دانلود",
+    "link": "دانلود.html"
+  },
+  {
+    "name": "درآمد-قطره‌ای",
+    "link": "درآمد-قطره‌ای.html"
+  },
+  {
+    "name": "درباه",
+    "link": "درباه.html"
+  },
+  {
+    "name": "درخت-مرکل-پاتریشیا",
+    "link": "درخت-مرکل-پاتریشیا.html"
+  },
+  {
+    "name": "درخواست-کردن",
+    "link": "درخواست-کردن.html"
+  },
+  {
+    "name": "درخواست",
+    "link": "درخواست.html"
+  },
+  {
+    "name": "درون-زنجیره‌ای",
+    "link": "درون-زنجیره‌ای.html"
+  },
+  {
+    "name": "دریافت",
+    "link": "دریافت.html"
+  },
+  {
+    "name": "دستگاه",
+    "link": "دستگاه.html"
+  },
+  {
+    "name": "دفترکل-توزیع‌شده",
+    "link": "دفترکل-توزیع‌شده.html"
+  },
+  {
+    "name": "دفترکل-مجوزدار",
+    "link": "دفترکل-مجوزدار.html"
+  },
+  {
+    "name": "دموکراسی-نقدینگی",
+    "link": "دموکراسی-نقدینگی.html"
+  },
+  {
+    "name": "دنباله‌سازی",
+    "link": "دنباله‌سازی.html"
+  },
+  {
+    "name": "دوبار-خرج‌کردن",
+    "link": "دوبار-خرج‌کردن.html"
+  },
+  {
+    "name": "دوره-زمانیایپاک",
+    "link": "دوره-زمانیایپاک.html"
+  },
+  {
+    "name": "دیفای",
+    "link": "دیفای.html"
+  },
+  {
+    "name": "ذخیره-کردن",
+    "link": "ذخیره-کردن.html"
+  },
+  {
+    "name": "ذخیره‌سازی-گرم",
+    "link": "ذخیره‌سازی-گرم.html"
+  },
+  {
+    "name": "راهکارهای-خوشبینانه",
+    "link": "راهکارهای-خوشبینانه.html"
+  },
+  {
+    "name": "رد-شدن",
+    "link": "رد-شدن.html"
+  },
+  {
+    "name": "رد-کردن",
+    "link": "رد-کردن.html"
+  },
+  {
+    "name": "رله‌کننده",
+    "link": "رله‌کننده.html"
+  },
+  {
+    "name": "رمزارز",
+    "link": "رمزارز.html"
+  },
+  {
+    "name": "رمزارزی",
+    "link": "رمزارزی.html"
+  },
+  {
+    "name": "رمزنگاری-کلید-عمومی",
+    "link": "رمزنگاری-کلید-عمومی.html"
+  },
+  {
+    "name": "رمزنگاری",
+    "link": "رمزنگاری.html"
+  },
+  {
+    "name": "رمزگذاری",
+    "link": "رمزگذاری.html"
+  },
+  {
+    "name": "رول‌آپ‌-بی‌نیاز-به-دانش",
+    "link": "رول‌آپ‌-بی‌نیاز-به-دانش.html"
+  },
+  {
+    "name": "رول‌آپ‌ها",
+    "link": "رول‌آپ‌ها.html"
+  },
+  {
+    "name": "زمان-بلاک",
+    "link": "زمان-بلاک.html"
+  },
+  {
+    "name": "زنجیره-جانبی",
+    "link": "زنجیره-جانبی.html"
+  },
+  {
+    "name": "زنجیره-شارد",
+    "link": "زنجیره-شارد.html"
+  },
+  {
+    "name": "زیرساخت-کلید-عمومی",
+    "link": "زیرساخت-کلید-عمومی.html"
+  },
+  {
+    "name": "سابو",
+    "link": "سابو.html"
+  },
+  {
+    "name": "ساتوشی-ناکاموتو",
+    "link": "ساتوشی-ناکاموتو.html"
+  },
+  {
+    "name": "سازمان-خودگردان-غیرمتمرکز-(دائو)",
+    "link": "سازمان-خودگردان-غیرمتمرکز-(دائو).html"
+  },
+  {
+    "name": "سازمان-خودگردان-غیرمتمرکز",
+    "link": "سازمان-خودگردان-غیرمتمرکز.html"
+  },
+  {
+    "name": "سازمانی",
+    "link": "سازمانی.html"
+  },
+  {
+    "name": "سختی",
+    "link": "سختی.html"
+  },
+  {
+    "name": "سرنیتی",
+    "link": "سرنیتی.html"
+  },
+  {
+    "name": "سرویس-نام-اتریوم-(ens)",
+    "link": "سرویس-نام-اتریوم-(ens).html"
+  },
+  {
+    "name": "سرویس-نام-اتریوم",
+    "link": "سرویس-نام-اتریوم.html"
+  },
+  {
+    "name": "سفت‌افزار",
+    "link": "سفت‌افزار.html"
+  },
+  {
+    "name": "سندباکس",
+    "link": "سندباکس.html"
+  },
+  {
+    "name": "سه‌گانه-بلاک‌چین",
+    "link": "سه‌گانه-بلاک‌چین.html"
+  },
+  {
+    "name": "سپرده‌گذاری-نقدشونده",
+    "link": "سپرده‌گذاری-نقدشونده.html"
+  },
+  {
+    "name": "سپرده‌گذاری",
+    "link": "سپرده‌گذاری.html"
+  },
+  {
+    "name": "شاردینگ",
+    "link": "شاردینگ.html"
+  },
+  {
+    "name": "شانزده‌شماری؛-داده‌های-هگز",
+    "link": "شانزده‌شماری؛-داده‌های-هگز.html"
+  },
+  {
+    "name": "شبکه-آزمایش-کوان",
+    "link": "شبکه-آزمایش-کوان.html"
+  },
+  {
+    "name": "شبکه-آزمایشی-راپستن",
+    "link": "شبکه-آزمایشی-راپستن.html"
+  },
+  {
+    "name": "شبکه-آزمایشی-رینکبای",
+    "link": "شبکه-آزمایشی-رینکبای.html"
+  },
+  {
+    "name": "شبکه-آزمایشی",
+    "link": "شبکه-آزمایشی.html"
+  },
+  {
+    "name": "شبکه-اصلی-اتریوم",
+    "link": "شبکه-اصلی-اتریوم.html"
+  },
+  {
+    "name": "شبکه-اصلی",
+    "link": "شبکه-اصلی.html"
+  },
+  {
+    "name": "شبکه-هیبریدی",
+    "link": "شبکه-هیبریدی.html"
+  },
+  {
+    "name": "شبکه",
+    "link": "شبکه.html"
+  },
+  {
+    "name": "شرط-کاهنده",
+    "link": "شرط-کاهنده.html"
+  },
+  {
+    "name": "شناسایی-مبدأ-تراکنش‌ها",
+    "link": "شناسایی-مبدأ-تراکنش‌ها.html"
+  },
+  {
+    "name": "شناسه-آیدنتیکان",
+    "link": "شناسه-آیدنتیکان.html"
+  },
+  {
+    "name": "شناسه-تراکنش",
+    "link": "شناسه-تراکنش.html"
+  },
+  {
+    "name": "شناسه-توکن",
+    "link": "شناسه-توکن.html"
+  },
+  {
+    "name": "شناسه-زنجیره",
+    "link": "شناسه-زنجیره.html"
+  },
+  {
+    "name": "صرافی-غیرمتمرکز-(دکس)",
+    "link": "صرافی-غیرمتمرکز-(دکس).html"
+  },
+  {
+    "name": "صرافی-غیرمتمرکز",
+    "link": "صرافی-غیرمتمرکز.html"
+  },
+  {
+    "name": "صرافی-متمرکز-(cex)",
+    "link": "صرافی-متمرکز-(cex).html"
+  },
+  {
+    "name": "صرافی-متمرکز",
+    "link": "صرافی-متمرکز.html"
+  },
+  {
+    "name": "صرافی",
+    "link": "صرافی.html"
+  },
+  {
+    "name": "صندوق-رمزارزی",
+    "link": "صندوق-رمزارزی.html"
+  },
+  {
+    "name": "ضرب-کردن",
+    "link": "ضرب-کردن.html"
+  },
+  {
+    "name": "عبارت-بازیابی-محرمانه",
+    "link": "عبارت-بازیابی-محرمانه.html"
+  },
+  {
+    "name": "عبارت-بازیابی",
+    "link": "عبارت-بازیابی.html"
+  },
+  {
+    "name": "عبارت-عبور",
+    "link": "عبارت-عبور.html"
+  },
+  {
+    "name": "عبارت-یادآور",
+    "link": "عبارت-یادآور.html"
+  },
+  {
+    "name": "عرضه-اولیه-کوین",
+    "link": "عرضه-اولیه-کوین.html"
+  },
+  {
+    "name": "عرضه-توکن-اوراق-بهادار-(sto)",
+    "link": "عرضه-توکن-اوراق-بهادار-(sto).html"
+  },
+  {
+    "name": "عمومی",
+    "link": "عمومی.html"
+  },
+  {
+    "name": "غیرفعال-کردن",
+    "link": "غیرفعال-کردن.html"
+  },
+  {
+    "name": "فایروال",
+    "link": "فایروال.html"
+  },
+  {
+    "name": "فایل-جیسون",
+    "link": "فایل-جیسون.html"
+  },
+  {
+    "name": "فایل-کلید-خصوصی",
+    "link": "فایل-کلید-خصوصی.html"
+  },
+  {
+    "name": "فراخوانی-رویه-از-راه-دور",
+    "link": "فراخوانی-رویه-از-راه-دور.html"
+  },
+  {
+    "name": "فراداده",
+    "link": "فراداده.html"
+  },
+  {
+    "name": "فعال-کردن",
+    "link": "فعال-کردن.html"
+  },
+  {
+    "name": "فناوری-دفترکل-توزیع‌شده",
+    "link": "فناوری-دفترکل-توزیع‌شده.html"
+  },
+  {
+    "name": "فناوری-مالی",
+    "link": "فناوری-مالی.html"
+  },
+  {
+    "name": "فورک-قسطنطنیه",
+    "link": "فورک-قسطنطنیه.html"
+  },
+  {
+    "name": "فورک",
+    "link": "فورک.html"
+  },
+  {
+    "name": "فیشینگ",
+    "link": "فیشینگ.html"
+  },
+  {
+    "name": "فینی",
+    "link": "فینی.html"
+  },
+  {
+    "name": "فین‌تک",
+    "link": "فین‌تک.html"
+  },
+  {
+    "name": "قرارداد-هوشمند",
+    "link": "قرارداد-هوشمند.html"
+  },
+  {
+    "name": "قرارداد",
+    "link": "قرارداد.html"
+  },
+  {
+    "name": "قطعی،-قطعیت",
+    "link": "قطعی،-قطعیت.html"
+  },
+  {
+    "name": "قفل-شدن-توکن",
+    "link": "قفل-شدن-توکن.html"
+  },
+  {
+    "name": "قفل-کردن",
+    "link": "قفل-کردن.html"
+  },
+  {
+    "name": "قیمت-گس",
+    "link": "قیمت-گس.html"
+  },
+  {
+    "name": "لانچ‌پد",
+    "link": "لانچ‌پد.html"
+  },
+  {
+    "name": "لایه-0",
+    "link": "لایه-0.html"
+  },
+  {
+    "name": "لایه-1",
+    "link": "لایه-1.html"
+  },
+  {
+    "name": "لایه-2",
+    "link": "لایه-2.html"
+  },
+  {
+    "name": "لایه-اجرا",
+    "link": "لایه-اجرا.html"
+  },
+  {
+    "name": "لایه-اجماع",
+    "link": "لایه-اجماع.html"
+  },
+  {
+    "name": "لغزش-قیمت",
+    "link": "لغزش-قیمت.html"
+  },
+  {
+    "name": "لغو",
+    "link": "لغو.html"
+  },
+  {
+    "name": "لینک",
+    "link": "لینک.html"
+  },
+  {
+    "name": "لیکوئید-شدن",
+    "link": "لیکوئید-شدن.html"
+  },
+  {
+    "name": "ماشین-مجازی-اتریوم-(evm)",
+    "link": "ماشین-مجازی-اتریوم-(evm).html"
+  },
+  {
+    "name": "ماشین-مجازی-اتریوم",
+    "link": "ماشین-مجازی-اتریوم.html"
+  },
+  {
+    "name": "مالکیت-درصدی",
+    "link": "مالکیت-درصدی.html"
+  },
+  {
+    "name": "مبادله",
+    "link": "مبادله.html"
+  },
+  {
+    "name": "متاورس",
+    "link": "متاورس.html"
+  },
+  {
+    "name": "مجوز",
+    "link": "مجوز.html"
+  },
+  {
+    "name": "مخاطبین",
+    "link": "مخاطبین.html"
+  },
+  {
+    "name": "مدیر-گذرواژه",
+    "link": "مدیر-گذرواژه.html"
+  },
+  {
+    "name": "مرورگر-بلاک",
+    "link": "مرورگر-بلاک.html"
+  },
+  {
+    "name": "مرورگر-بلاک‌چین",
+    "link": "مرورگر-بلاک‌چین.html"
+  },
+  {
+    "name": "مرورگر",
+    "link": "مرورگر.html"
+  },
+  {
+    "name": "مرکز-پشتیبانی",
+    "link": "مرکز-پشتیبانی.html"
+  },
+  {
+    "name": "مسیر-ورود",
+    "link": "مسیر-ورود.html"
+  },
+  {
+    "name": "مسیر-ورود،-مسیر-خروج",
+    "link": "مسیر-ورود،-مسیر-خروج.html"
+  },
+  {
+    "name": "مشتق-شدناشتقاق",
+    "link": "مشتق-شدناشتقاق.html"
+  },
+  {
+    "name": "معاملات-نهانی",
+    "link": "معاملات-نهانی.html"
+  },
+  {
+    "name": "معلق",
+    "link": "معلق.html"
+  },
+  {
+    "name": "مقیاس-پذیری",
+    "link": "مقیاس-پذیری.html"
+  },
+  {
+    "name": "منبع",
+    "link": "منبع.html"
+  },
+  {
+    "name": "منشأ-دارایی",
+    "link": "منشأ-دارایی.html"
+  },
+  {
+    "name": "موتور-جستجو",
+    "link": "موتور-جستجو.html"
+  },
+  {
+    "name": "موجودی",
+    "link": "موجودی.html"
+  },
+  {
+    "name": "مکانیزم-اجماع",
+    "link": "مکانیزم-اجماع.html"
+  },
+  {
+    "name": "ناشنناخته",
+    "link": "ناشنناخته.html"
+  },
+  {
+    "name": "نامعتبر",
+    "link": "نامعتبر.html"
+  },
+  {
+    "name": "ناموفق",
+    "link": "ناموفق.html"
+  },
+  {
+    "name": "ناموق",
+    "link": "ناموق.html"
+  },
+  {
+    "name": "نانس-سفارشی",
+    "link": "نانس-سفارشی.html"
+  },
+  {
+    "name": "نانس",
+    "link": "نانس.html"
+  },
+  {
+    "name": "نرخ-قطعیت",
+    "link": "نرخ-قطعیت.html"
+  },
+  {
+    "name": "نصب",
+    "link": "نصب.html"
+  },
+  {
+    "name": "نقدشوندگی",
+    "link": "نقدشوندگی.html"
+  },
+  {
+    "name": "نقشه-راه",
+    "link": "نقشه-راه.html"
+  },
+  {
+    "name": "نماد",
+    "link": "نماد.html"
+  },
+  {
+    "name": "نمایش",
+    "link": "نمایش.html"
+  },
+  {
+    "name": "نود-کامل",
+    "link": "نود-کامل.html"
+  },
+  {
+    "name": "نکات",
+    "link": "نکات.html"
+  },
+  {
+    "name": "هارد-فورک-بیزانس",
+    "link": "هارد-فورک-بیزانس.html"
+  },
+  {
+    "name": "هارد-فورک",
+    "link": "هارد-فورک.html"
+  },
+  {
+    "name": "هاوینگ-(نصف-شدن-پاداش-استخراج)",
+    "link": "هاوینگ-(نصف-شدن-پاداش-استخراج).html"
+  },
+  {
+    "name": "هایپرلجر",
+    "link": "هایپرلجر.html"
+  },
+  {
+    "name": "هش",
+    "link": "هش.html"
+  },
+  {
+    "name": "هشدارها",
+    "link": "هشدارها.html"
+  },
+  {
+    "name": "همتا-به-همتا-(p2p)",
+    "link": "همتا-به-همتا-(p2p).html"
+  },
+  {
+    "name": "همتا-به-همتا",
+    "link": "همتا-به-همتا.html"
+  },
+  {
+    "name": "همگردانی",
+    "link": "همگردانی.html"
+  },
+  {
+    "name": "هویت-دیجیتال",
+    "link": "هویت-دیجیتال.html"
+  },
+  {
+    "name": "وارد-کردن",
+    "link": "وارد-کردن.html"
+  },
+  {
+    "name": "واریز",
+    "link": "واریز.html"
+  },
+  {
+    "name": "وب-3.0",
+    "link": "وب-3.0.html"
+  },
+  {
+    "name": "وب-3،-وب-3.0",
+    "link": "وب-3،-وب-3.0.html"
+  },
+  {
+    "name": "وب-غیرمتمرکز",
+    "link": "وب-غیرمتمرکز.html"
+  },
+  {
+    "name": "وب3",
+    "link": "وب3.html"
+  },
+  {
+    "name": "وب‌سوکت",
+    "link": "وب‌سوکت.html"
+  },
+  {
+    "name": "ورود",
+    "link": "ورود.html"
+  },
+  {
+    "name": "وضعیت",
+    "link": "وضعیت.html"
+  },
+  {
+    "name": "ولیدیوم",
+    "link": "ولیدیوم.html"
+  },
+  {
+    "name": "وی",
+    "link": "وی.html"
+  },
+  {
+    "name": "ویرایش",
+    "link": "ویرایش.html"
+  },
+  {
+    "name": "پاداش-بلاک",
+    "link": "پاداش-بلاک.html"
+  },
+  {
+    "name": "پاداش-پیدا-کردن-اشکال",
+    "link": "پاداش-پیدا-کردن-اشکال.html"
+  },
+  {
+    "name": "پاداش‌های-رمزی",
+    "link": "پاداش‌های-رمزی.html"
+  },
+  {
+    "name": "پاک-کردن",
+    "link": "پاک-کردن.html"
+  },
+  {
+    "name": "پایین",
+    "link": "پایین.html"
+  },
+  {
+    "name": "پرتفوی",
+    "link": "پرتفوی.html"
+  },
+  {
+    "name": "پروتکل-ارتباط-بین-بلاکچینی-(ibc)",
+    "link": "پروتکل-ارتباط-بین-بلاکچینی-(ibc).html"
+  },
+  {
+    "name": "پروتکل",
+    "link": "پروتکل.html"
+  },
+  {
+    "name": "پروتکل‌-میکر",
+    "link": "پروتکل‌-میکر.html"
+  },
+  {
+    "name": "پروتکل‌های-بهبود-اتریوم-(eip)",
+    "link": "پروتکل‌های-بهبود-اتریوم-(eip).html"
+  },
+  {
+    "name": "پروتکل‌های-بهبود-اتریوم",
+    "link": "پروتکل‌های-بهبود-اتریوم.html"
+  },
+  {
+    "name": "پشتیبان",
+    "link": "پشتیبان.html"
+  },
+  {
+    "name": "پشتیبانی-متامسک",
+    "link": "پشتیبانی-متامسک.html"
+  },
+  {
+    "name": "پشتیبانی",
+    "link": "پشتیبانی.html"
+  },
+  {
+    "name": "پل",
+    "link": "پل.html"
+  },
+  {
+    "name": "پلاسما",
+    "link": "پلاسما.html"
+  },
+  {
+    "name": "پلتفرم-انجمن-متامسک",
+    "link": "پلتفرم-انجمن-متامسک.html"
+  },
+  {
+    "name": "پلتفرم-انجمن",
+    "link": "پلتفرم-انجمن.html"
+  },
+  {
+    "name": "پنهان-کردن",
+    "link": "پنهان-کردن.html"
+  },
+  {
+    "name": "پیشرفته",
+    "link": "پیشرفته.html"
+  },
+  {
+    "name": "پیش‌فرض",
+    "link": "پیش‌فرض.html"
+  },
+  {
+    "name": "چند-امضایی",
+    "link": "چند-امضایی.html"
+  },
+  {
+    "name": "کارمزد-اولویت",
+    "link": "کارمزد-اولویت.html"
+  },
+  {
+    "name": "کارمزد-تراکنش",
+    "link": "کارمزد-تراکنش.html"
+  },
+  {
+    "name": "کارمزد-پایه",
+    "link": "کارمزد-پایه.html"
+  },
+  {
+    "name": "کارمزد-گس",
+    "link": "کارمزد-گس.html"
+  },
+  {
+    "name": "کانال‌های-وضعیت",
+    "link": "کانال‌های-وضعیت.html"
+  },
+  {
+    "name": "کتابخانه",
+    "link": "کتابخانه.html"
+  },
+  {
+    "name": "کد-کیوآر",
+    "link": "کد-کیوآر.html"
+  },
+  {
+    "name": "کدیفای",
+    "link": "کدیفای.html"
+  },
+  {
+    "name": "کشت-سود",
+    "link": "کشت-سود.html"
+  },
+  {
+    "name": "کلاهبرداری",
+    "link": "کلاهبرداری.html"
+  },
+  {
+    "name": "کلاینت-(اتریوم-یا-سایر-بلاک‌چین‌های-سازگار)",
+    "link": "کلاینت-(اتریوم-یا-سایر-بلاک‌چین‌های-سازگار).html"
+  },
+  {
+    "name": "کلاینت-اجرا",
+    "link": "کلاینت-اجرا.html"
+  },
+  {
+    "name": "کلاینت-اجماع",
+    "link": "کلاینت-اجماع.html"
+  },
+  {
+    "name": "کلاینت-پریتی",
+    "link": "کلاینت-پریتی.html"
+  },
+  {
+    "name": "کلید-خصوصی",
+    "link": "کلید-خصوصی.html"
+  },
+  {
+    "name": "کلید-عمومی",
+    "link": "کلید-عمومی.html"
+  },
+  {
+    "name": "کلیدخصوصی-توسعه-یافته-(xpriv)",
+    "link": "کلیدخصوصی-توسعه-یافته-(xpriv).html"
+  },
+  {
+    "name": "کلیدعمومی-توسعه-یافته-(xpub)",
+    "link": "کلیدعمومی-توسعه-یافته-(xpub).html"
+  },
+  {
+    "name": "کلیدهای-رمزگذاری-شده-در-مقابل-کلیدهای-رمزگذاری-نشده",
+    "link": "کلیدهای-رمزگذاری-شده-در-مقابل-کلیدهای-رمزگذاری-نشده.html"
+  },
+  {
+    "name": "کوین",
+    "link": "کوین.html"
+  },
+  {
+    "name": "کپی",
+    "link": "کپی.html"
+  },
+  {
+    "name": "کیت-توسعه-نرم‌افزار-(sdk)",
+    "link": "کیت-توسعه-نرم‌افزار-(sdk).html"
+  },
+  {
+    "name": "کیت-توسعه-نرم‌افزار-متامسک",
+    "link": "کیت-توسعه-نرم‌افزار-متامسک.html"
+  },
+  {
+    "name": "کیف-پول-ذهنی",
+    "link": "کیف-پول-ذهنی.html"
+  },
+  {
+    "name": "کیف-پول-رمزارز",
+    "link": "کیف-پول-رمزارز.html"
+  },
+  {
+    "name": "کیف-پول-سخت‌افزاری",
+    "link": "کیف-پول-سخت‌افزاری.html"
+  },
+  {
+    "name": "کیف-پول-سرد",
+    "link": "کیف-پول-سرد.html"
+  },
+  {
+    "name": "کیف-پول-سردرذخیره‌سازی-سرد",
+    "link": "کیف-پول-سردرذخیره‌سازی-سرد.html"
+  },
+  {
+    "name": "کیف-پول-قطعی-سلسله-مراتبی-(hd)",
+    "link": "کیف-پول-قطعی-سلسله-مراتبی-(hd).html"
+  },
+  {
+    "name": "کیف-پول-چند-امضایی-(multisig)",
+    "link": "کیف-پول-چند-امضایی-(multisig).html"
+  },
+  {
+    "name": "کیف-پول-گرم",
+    "link": "کیف-پول-گرم.html"
+  },
+  {
+    "name": "کیف-پول",
+    "link": "کیف-پول.html"
+  },
+  {
+    "name": "گذرواژه",
+    "link": "گذرواژه.html"
+  },
+  {
+    "name": "گره",
+    "link": "گره.html"
+  },
+  {
+    "name": "گزارش-اشکال",
+    "link": "گزارش-اشکال.html"
+  },
+  {
+    "name": "گزارش-جامع",
+    "link": "گزارش-جامع.html"
+  },
+  {
+    "name": "گس",
+    "link": "گس.html"
+  },
+  {
+    "name": "گواهی",
+    "link": "گواهی.html"
+  },
+  {
+    "name": "گواه‌های-اثبات-دانش-صفر-غیرتعاملی",
+    "link": "گواه‌های-اثبات-دانش-صفر-غیرتعاملی.html"
+  },
+  {
+    "name": "گیرنده-سبک",
+    "link": "گیرنده-سبک.html"
+  },
+  {
+    "name": "گیگاوی",
+    "link": "گیگاوی.html"
+  },
+  {
+    "name": "‏اتحاد-سازمانی-اتریوم-(eea)",
+    "link": "‏اتحاد-سازمانی-اتریوم-(eea).html"
+  },
+  {
+    "name": "‏کلاهبرداری-راگ-پول",
+    "link": "‏کلاهبرداری-راگ-پول.html"
+  }
+]

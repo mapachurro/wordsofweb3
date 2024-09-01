@@ -1,14 +1,13 @@
 import initNavbar from './navbar.js';
 import initSearch from './search.js';
 import initExplore from './explore.js';
-import initl10n from './l10n.js';
+import { convertLanguageFormat } from './l10n.js'; // Adjusted import to bring in only necessary functions
 
 document.addEventListener('DOMContentLoaded', () => {
-  init
   initNavbar();
   initSearch();
   initExplore();
-  initl10n();
+  initApp();
 });
 
 export function initApp() {
@@ -39,10 +38,8 @@ export function initApp() {
     });
   };
 
-  document.addEventListener('DOMContentLoaded', () => {
-    const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
-    loadTranslations(storedLanguage);
-  });
+  const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
+  loadTranslations(storedLanguage);
 
   function searchQuery() {
     document.getElementById('search-button').addEventListener('click', function () {
