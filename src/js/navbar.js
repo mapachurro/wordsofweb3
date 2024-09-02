@@ -1,6 +1,7 @@
 import { convertLanguageFormat } from './l10n.js';
+import { loadTranslations } from './index.js';  // Ensure loadTranslations is imported or defined
 
-// navbar.js
+// Render the navbar HTML dynamically
 export function renderNavbar(languageOptions) {
   return `
     <nav class="navbar">
@@ -17,7 +18,6 @@ export function renderNavbar(languageOptions) {
 
 // Example language options array, you can dynamically generate this based on your locales
 export const languageOptions = [
- 
   { value: "us-english", label: "English" },
   { value: "deutsch", label: "Deutsch" },
   { value: "italiano", label: "Italiano" },
@@ -66,7 +66,7 @@ export function initNavbar() {
       document.documentElement.lang = languageCode;
 
       // Reload translations
-      loadTranslations(languageSlug);
+      await loadTranslations(languageSlug);
     } else {
       console.error('Invalid language selection');
     }
@@ -84,7 +84,7 @@ export function initNavbar() {
     document.documentElement.lang = languageCode;
 
     // Load translations on page load
-    loadTranslations(storedLanguage);
+    await loadTranslations(storedLanguage);
   });
 
   // Attach event listeners

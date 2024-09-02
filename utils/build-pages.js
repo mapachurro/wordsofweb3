@@ -1,9 +1,20 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { renderNavbar, languageOptions } from '../src/js/navbar.js';
 
 // Characters to check for that might cause issues in URLs
 const problematicChars = /[;:<>\\/?%#]/;
+
+// This creates an equivalent of `__dirname` for ESModules contexts
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Load the template file
+const templatePath = path.join(__dirname, 'template.html');
+let template = fs.readFileSync(templatePath, 'utf-8');
+
+template = template.replace('<!-- Navbar will be injected here -->', renderNavbar(languageOptions));
 
 // Locale to Language Name Mapping
 const languageNames = {
@@ -35,10 +46,6 @@ const languageNames = {
   "vi-VN": "tiếng-việt",
 };
 
-// This creates an equivalent of `__dirname` for ESModules contexts
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
 // Directory paths
 const localesDir = path.join(__dirname, "../locales");
 const outputDir = path.join(__dirname, "../static");
@@ -51,69 +58,6 @@ function logToFile(message) {
 
 // Clear the log file before starting
 fs.writeFileSync(logFilePath, "", "utf-8");
-
-const template = `
-<!DOCTYPE html>
-<html lang="{{locale}}">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../assets/css/styles.css">
-  <title>{{term}} - wordsofweb3</title>
-  <script type="module" src="./js/index.js" defer></script>
-</head>
-<body>
-  <header>
-    <nav class="navbar">
-      <div class="logo">
-        <img src="../assets/education-dao-circle.png" alt="Logo" class="logo-image" />
-        wordsofweb3
-      </div>
-      <select id="language-selector" class="language-selector">
-        <option value="us-english">English</option>
-        <option value="deutsch">Deutsch</option>
-        <option value="italiano">Italiano</option>
-        <option value="العربية">العربية</option>
-        <option value="中文-(简体)">中文 (简体)</option>
-        <option value="中文-(繁體)">中文 (繁體)</option>
-        <option value="nederlands">Nederlands</option>
-        <option value="français">Français</option>
-        <option value="Ελληνικά">Ελληνικά</option>
-        <option value="hausa">Hausa</option>
-        <option value="हिन्दी">हिन्दी</option>
-        <option value="magyar">Magyar</option>
-        <option value="bahasa-indonesia">Bahasa Indonesia</option>
-        <option value="日本語">日本語</option>
-        <option value="한국어">한국어</option>
-        <option value="فارسی">فارسی</option>
-        <option value="bahasa-melayu">Bahasa Melayu</option>
-        <option value="naijá">Naijá</option>
-        <option value="polski">Polski</option>
-        <option value="português-brasil">Português (Brasil)</option>
-        <option value="română">Română</option>
-        <option value="Русский">Русский</option>
-        <option value="español-latinoamérica">Español (Latinoamérica)</option>
-        <option value="tagalog">Tagalog</option>
-        <option value="ไทย">ไทย</option>
-        <option value="türkçe">Türkçe</option>
-        <option value="Українська">Українська</option>
-        <option value="tiếng-việt">Tiếng Việt</option>
-      </select>    
-    </nav>
-  </header>
-  <main>
-    <h1 id="term">{{term}}</h1>
-    <p id="phonetic"><strong>Phonetic:</strong> {{phonetic}}</p>
-    <h3 id="partofspeech"><strong>Part of Speech:</strong> {{partOfSpeech}}</h3>
-    <h3 id="category"><strong>Category:</strong> {{termCategory}}</h3>
-    <p id="definition"><strong>Definition:</strong> {{definition}}</p>
-  </main>
-  <footer>
-    <p>&copy; 2024 Education DAO</p>
-  </footer>
-</body>
-</html>
-`;
 
 export default function buildPages(){
 
