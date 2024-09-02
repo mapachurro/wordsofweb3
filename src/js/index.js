@@ -31,15 +31,14 @@ function updateUIStrings(translations) {
 
 // Ensure that all initialization happens after the DOM is fully loaded
 if (typeof document !== 'undefined') {
-  document.addEventListener('DOMContentLoaded', () => {
-    document.getElementById('navbar-container').innerHTML = renderNavbar(languageOptions);
-    initNavbar();
-    initSearch();
-    initExplore();
-    initApp();
-  });
+    document.addEventListener('DOMContentLoaded', () => {
+        document.getElementById('navbar-container').innerHTML = renderNavbar(languageOptions);
+        initNavbar();
+        initSearch();  // Initialize search without Lunr
+        initExplore();
+        initApp();
+    });
 }
-
 
 export function initApp() {
     const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
@@ -49,31 +48,44 @@ export function initApp() {
         document.getElementById('search-button').addEventListener('click', function () {
             const searchQuery = document.getElementById('search-input').value.toLowerCase();
             const locale = document.documentElement.lang;
-            const indexUrl = `./assets/search-indices/${locale}-index.json`;
+            const indexUrl = `./${locale}/directoryContents.json`;
 
             fetch(indexUrl)
                 .then(response => response.json())
                 .then(indexData => {
-                    const idx = lunr.Index.load(indexData);
-                    const results = idx.search(searchQuery);
+                    const results = searchIndex(indexData, searchQuery);
                     displayResults(results);
                 })
-                .catch(err => console.error('Failed to load search index:', err));
+                .catch(err => console.error('Failed to load directory index:', err));
         });
+
+        function searchIndex(indexData, query) {
+            const results = [];
+            for (const item of indexData) {
+                if (item.name.toLowerCase().includes(query)) {
+                    results.push(item);
+                }
+            }
+            return results;
+        }
 
         function displayResults(results) {
             const resultsContainer = document.getElementById('search-results');
             resultsContainer.innerHTML = '';
 
+            if (results.length === 0) {
+                resultsContainer.innerHTML = '<p>No results found</p>';
+                return;
+            }
+
             results.forEach(result => {
                 const listItem = document.createElement('li');
-                listItem.textContent = result.ref; // term
+                listItem.innerHTML = `<a href="${result.link}">${result.name}</a>`;
                 resultsContainer.appendChild(listItem);
             });
         }
     }
 
-    // Initialize other functions here if needed
     searchQuery();
     initExplore();
 }

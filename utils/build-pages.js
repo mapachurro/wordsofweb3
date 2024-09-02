@@ -13,24 +13,6 @@ const problematicChars = /[;:<>\\/?%#]/;
 const templatePath = path.join(__dirname, 'template.html');
 const template = fs.readFileSync(templatePath, 'utf-8');
 
-// Check if we're in a browser environment
-let renderNavbar, languageOptions;
-if (typeof window === 'undefined') {
-    // Server-side code: provide dummy values or skip this part
-    renderNavbar = () => '';
-    languageOptions = [];
-} else {
-    // Client-side code: Import the actual functions
-    const { renderNavbar: clientRenderNavbar, languageOptions: clientLanguageOptions } = await import('..src/js/navbar.js');
-    renderNavbar = clientRenderNavbar;
-    languageOptions = clientLanguageOptions;
-}
-
-// Inject the navbar into the template
-const processedTemplate = template.replace('<!-- Navbar will be injected here -->', renderNavbar(languageOptions));
-
-// Use `processedTemplate` in the rest of your code
-
 // Locale to Language Name Mapping
 const languageNames = {
     "ar-AR": "العربية",
@@ -59,7 +41,7 @@ const languageNames = {
     "tr-TR": "türkçe",
     "uk-UA": "Українська",
     "vi-VN": "tiếng-việt",
-  };
+};
 
 // Directory paths
 const localesDir = path.join(__dirname, "../locales");
@@ -74,9 +56,38 @@ function logToFile(message) {
 // Clear the log file before starting
 fs.writeFileSync(logFilePath, "", "utf-8");
 
-export default function buildPages(){
+export default function buildPages() {
+    const locales = fs.readdirSync(localesDir).filter(dir => fs.lstatSync(path.join(localesDir, dir)).isDirectory());
 
-    fs.readdirSync(localesDir).forEach((locale) => {
+    // Load all terms across locales to create a cross-locale map
+    const crossLocaleMap = {};
+
+    locales.forEach((locale) => {
+        const localePath = path.join(localesDir, locale, `${locale}.json`);
+        let terms;
+
+        try {
+            const data = JSON.parse(fs.readFileSync(localePath, "utf-8"));
+            terms = data.terms || {}; // Safeguard against missing 'terms' object
+            logToFile(`Successfully loaded terms for locale: ${locale}`);
+        } catch (err) {
+            const errorMessage = `Failed to load terms for locale: ${locale} - ${err.message}`;
+            logToFile(errorMessage);
+            console.error(errorMessage);
+            return; // Skip this locale if the file cannot be read or parsed
+        }
+
+        // Populate the cross-locale map
+        Object.keys(terms).forEach((termKey) => {
+            if (!crossLocaleMap[termKey]) {
+                crossLocaleMap[termKey] = {};
+            }
+            crossLocaleMap[termKey][locale] = terms[termKey].term;
+        });
+    });
+
+    // Generate the pages
+    locales.forEach((locale) => {
         const localePath = path.join(localesDir, locale, `${locale}.json`);
         let terms;
 
@@ -108,16 +119,11 @@ export default function buildPages(){
                 const termCategoryValue = termData.termCategory || "";
 
                 // Log any missing data
-                if (!termData.term)
-                    logToFile(`Missing 'term' for entry '${termKey}' in locale ${locale}`);
-                if (!termData.phonetic)
-                    logToFile(`Missing 'phonetic' for entry '${termKey}' in locale ${locale}`);
-                if (!termData.partOfSpeech)
-                    logToFile(`Missing 'partOfSpeech' for entry '${termKey}' in locale ${locale}`);
-                if (!termData.definition)
-                    logToFile(`Missing 'definition' for entry '${termKey}' in locale ${locale}`);
-                if (!termData.termCategory)
-                    logToFile(`Missing 'termCategory' for entry '${termKey}' in locale ${locale}`);
+                if (!termData.term) logToFile(`Missing 'term' for entry '${termKey}' in locale ${locale}`);
+                if (!termData.phonetic) logToFile(`Missing 'phonetic' for entry '${termKey}' in locale ${locale}`);
+                if (!termData.partOfSpeech) logToFile(`Missing 'partOfSpeech' for entry '${termKey}' in locale ${locale}`);
+                if (!termData.definition) logToFile(`Missing 'definition' for entry '${termKey}' in locale ${locale}`);
+                if (!termData.termCategory) logToFile(`Missing 'termCategory' for entry '${termKey}' in locale ${locale}`);
 
                 if (problematicChars.test(termValue)) {
                     const warningMessage = `Warning: Term '${termValue}' in locale '${locale}' contains problematic characters that may break URLs.`;
@@ -125,15 +131,28 @@ export default function buildPages(){
                     console.warn(warningMessage);
                 }
 
-                let html = processedTemplate
+                // Generate language switcher links
+                const languageLinks = locales.map(lang => {
+                    const langName = languageNames[lang];
+                    const translatedTerm = crossLocaleMap[termKey][lang];
+                    if (translatedTerm) {
+                        const safeTranslatedTerm = translatedTerm.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "");
+                        return `<a href="/${langName}/${safeTranslatedTerm}.html">${langName}</a>`;
+                    } else {
+                        return `<span class="unavailable">${langName}</span>`;
+                    }
+                }).join(' | ');
+
+                let html = template
                     .replace(/{{locale}}/g, locale)
                     .replace(/{{term}}/g, termValue)
                     .replace(/{{phonetic}}/g, phoneticValue)
                     .replace(/{{partOfSpeech}}/g, partOfSpeechValue)
                     .replace(/{{definition}}/g, definitionValue)
-                    .replace(/{{termCategory}}/g, termCategoryValue);
+                    .replace(/{{termCategory}}/g, termCategoryValue)
+                    .replace(/{{languageLinks}}/g, languageLinks);
 
-                const fileName = `${termValue.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "")}.html`;
+                const fileName = `${termKey.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "")}.html`;
                 const filePath = path.join(localeOutputDir, fileName);
 
                 try {

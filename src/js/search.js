@@ -1,59 +1,62 @@
+import { convertLanguageFormat } from './l10n.js';
+
 export default function initSearch(){
-document.addEventListener('DOMContentLoaded', function () {
-  const searchButton = document.getElementById('search-button');
-  const searchInput = document.getElementById('search-input');
-  const resultsContainer = document.getElementById('search-results');
+    document.addEventListener('DOMContentLoaded', async function () {
+        const searchButton = document.getElementById('search-button');
+        const searchInput = document.getElementById('search-input');
+        const resultsContainer = document.getElementById('search-results');
 
-  searchButton.addEventListener('click', function () {
-      const query = searchInput.value.trim().toLowerCase();
-      if (!query) {
-          return;
-      }
+        searchButton.addEventListener('click', function () {
+            const query = searchInput.value.trim().toLowerCase();
+            if (!query) {
+                return;
+            }
 
-      fetchSearchResults(query);
-  });
+            fetchSearchResults(query);
+        });
 
-  function fetchSearchResults(query) {
-      resultsContainer.innerHTML = ''; // Clear previous results
+        async function fetchSearchResults(query) {
+            resultsContainer.innerHTML = ''; // Clear previous results
 
-      // Load the appropriate search index based on the current language
-      const currentLang = document.documentElement.lang; // Assumes `lang` attribute is set on <html>
-      const indexFilePath = `./assets/search-indices/${currentLang}-index.json`;
+            // Load the appropriate directory index based on the current language
+            const currentLang = document.documentElement.lang; // Assumes `lang` attribute is set on <html>
+            const slugLang = await convertLanguageFormat(currentLang, 'fourLetterDash', 'slug'); // Convert to slug format
+            const indexFilePath = `./${slugLang}/directoryContents.json`;
 
-      fetch(indexFilePath)
-          .then(response => response.json())
-          .then(data => {
-              const results = searchIndex(data, query);
-              displayResults(results);
-          })
-          .catch(error => {
-              console.error('Error loading search index:', error);
-          });
-  }
+            fetch(indexFilePath)
+                .then(response => response.json())
+                .then(data => {
+                    const results = searchIndex(data, query);
+                    displayResults(results);
+                })
+                .catch(error => {
+                    console.error('Error loading directory index:', error);
+                });
+        }
 
-  function searchIndex(index, query) {
-      const results = [];
-      for (const term in index) {
-          if (index[term].term.toLowerCase().includes(query) || index[term].definition.toLowerCase().includes(query)) {
-              results.push(index[term]);
-          }
-      }
-      return results;
-  }
+        function searchIndex(index, query) {
+            const results = [];
+            for (const item of index) {
+                if (item.name.toLowerCase().includes(query)) {
+                    results.push(item);
+                }
+            }
+            return results;
+        }
 
-  function displayResults(results) {
-      if (results.length === 0) {
-          resultsContainer.innerHTML = '<p>No results found</p>';
-          return;
-      }
+        function displayResults(results) {
+            if (results.length === 0) {
+                resultsContainer.innerHTML = '<p>No results found</p>';
+                return;
+            }
 
-      const list = document.createElement('ul');
-      results.forEach(result => {
-          const listItem = document.createElement('li');
-          listItem.innerHTML = `<a href="${result.url}">${result.term}</a>: ${result.definition}`;
-          list.appendChild(listItem);
-      });
-      resultsContainer.appendChild(list);
-  }
-});
+            const list = document.createElement('ul');
+            results.forEach(result => {
+                const listItem = document.createElement('li');
+                listItem.innerHTML = `<a href="${result.link}">${result.name}</a>`;
+                list.appendChild(listItem);
+            });
+            resultsContainer.appendChild(list);
+        }
+    });
 }

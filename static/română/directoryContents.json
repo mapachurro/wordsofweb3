@@ -12,6 +12,10 @@
     "link": "3box-labs.html"
   },
   {
+    "name": "51-attack",
+    "link": "51-attack.html"
+  },
+  {
     "name": "a-derivaderivare",
     "link": "a-derivaderivare.html"
   },
@@ -28,8 +32,20 @@
     "link": "aave.html"
   },
   {
+    "name": "about",
+    "link": "about.html"
+  },
+  {
     "name": "accelerareaccelerează",
     "link": "accelerareaccelerează.html"
+  },
+  {
+    "name": "account",
+    "link": "account.html"
+  },
+  {
+    "name": "ach-transfer",
+    "link": "ach-transfer.html"
   },
   {
     "name": "activ-digital",
@@ -42,6 +58,10 @@
   {
     "name": "actualizează",
     "link": "actualizează.html"
+  },
+  {
+    "name": "address",
+    "link": "address.html"
   },
   {
     "name": "adresă-ip",
@@ -64,12 +84,24 @@
     "link": "adresă„adresă-publică”-(adresa-portofelului).html"
   },
   {
+    "name": "advanced",
+    "link": "advanced.html"
+  },
+  {
     "name": "afișează",
     "link": "afișează.html"
   },
   {
     "name": "află-mai-multe",
     "link": "află-mai-multe.html"
+  },
+  {
+    "name": "aggregator",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "aggressive",
+    "link": "aggressive.html"
   },
   {
     "name": "agoric",
@@ -92,6 +124,10 @@
     "link": "air-gapping.html"
   },
   {
+    "name": "airdrop",
+    "link": "airdrop.html"
+  },
+  {
     "name": "airgap-vault",
     "link": "airgap-vault.html"
   },
@@ -104,12 +140,24 @@
     "link": "alerte.html"
   },
   {
+    "name": "alerts",
+    "link": "alerts.html"
+  },
+  {
+    "name": "algorithm",
+    "link": "algorithm.html"
+  },
+  {
     "name": "algoritm",
     "link": "algoritm.html"
   },
   {
     "name": "altcoin",
     "link": "altcoin.html"
+  },
+  {
+    "name": "aml-(anti-money-laundering)",
+    "link": "aml-(anti-money-laundering).html"
   },
   {
     "name": "aml-(combaterea-spălării-banilor)",
@@ -130,6 +178,10 @@
   {
     "name": "apel-de-procedură-la-distanță",
     "link": "apel-de-procedură-la-distanță.html"
+  },
+  {
+    "name": "api-(application-programming-interface)",
+    "link": "api-(application-programming-interface).html"
   },
   {
     "name": "api-(interfață-de-programare-a-aplicațiilor)",
@@ -156,6 +208,10 @@
     "link": "apple-pay.html"
   },
   {
+    "name": "approve",
+    "link": "approve.html"
+  },
+  {
     "name": "aprobă",
     "link": "aprobă.html"
   },
@@ -176,6 +232,10 @@
     "link": "ascunde.html"
   },
   {
+    "name": "asic-(application-specific-integrated-circuit)",
+    "link": "asic-(application-specific-integrated-circuit).html"
+  },
+  {
     "name": "asic-(circuit-integrat-specific-aplicației)",
     "link": "asic-(circuit-integrat-specific-aplicației).html"
   },
@@ -186,6 +246,10 @@
   {
     "name": "asistență",
     "link": "asistență.html"
+  },
+  {
+    "name": "asset-provenance",
+    "link": "asset-provenance.html"
   },
   {
     "name": "atac-51",
@@ -200,6 +264,10 @@
     "link": "atestare.html"
   },
   {
+    "name": "attestation",
+    "link": "attestation.html"
+  },
+  {
     "name": "aurora",
     "link": "aurora.html"
   },
@@ -210,6 +278,10 @@
   {
     "name": "autentificare-în-doi-factori-(2fa)",
     "link": "autentificare-în-doi-factori-(2fa).html"
+  },
+  {
+    "name": "autodetection",
+    "link": "autodetection.html"
   },
   {
     "name": "autoexecutare",
@@ -244,6 +316,10 @@
     "link": "banxa.html"
   },
   {
+    "name": "base-fee",
+    "link": "base-fee.html"
+  },
+  {
     "name": "beacon-chain",
     "link": "beacon-chain.html"
   },
@@ -258,6 +334,10 @@
   {
     "name": "binance",
     "link": "binance.html"
+  },
+  {
+    "name": "biometrics",
+    "link": "biometrics.html"
   },
   {
     "name": "biometrie",
@@ -292,8 +372,24 @@
     "link": "blochează.html"
   },
   {
+    "name": "block-(noun)",
+    "link": "block-(noun).html"
+  },
+  {
     "name": "block-explorer",
     "link": "block-explorer.html"
+  },
+  {
+    "name": "block-height",
+    "link": "block-height.html"
+  },
+  {
+    "name": "block-reward",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "block-time",
+    "link": "block-time.html"
   },
   {
     "name": "blockchain-explorer",
@@ -310,6 +406,10 @@
   {
     "name": "blockchain-public",
     "link": "blockchain-public.html"
+  },
+  {
+    "name": "blockchain-trilemma",
+    "link": "blockchain-trilemma.html"
   },
   {
     "name": "blockchain",
@@ -344,12 +444,20 @@
     "link": "brave.html"
   },
   {
+    "name": "bridge",
+    "link": "bridge.html"
+  },
+  {
     "name": "browser",
     "link": "browser.html"
   },
   {
     "name": "btc",
     "link": "btc.html"
+  },
+  {
+    "name": "bug-report",
+    "link": "bug-report.html"
   },
   {
     "name": "buidl",
@@ -376,8 +484,16 @@
     "link": "byzantine-fault-tolerance.html"
   },
   {
+    "name": "byzantium-fork",
+    "link": "byzantium-fork.html"
+  },
+  {
     "name": "canale-de-stare",
     "link": "canale-de-stare.html"
+  },
+  {
+    "name": "cancel",
+    "link": "cancel.html"
   },
   {
     "name": "capitalizarea-pieței",
@@ -392,12 +508,24 @@
     "link": "celo.html"
   },
   {
+    "name": "centralized-exchange-(cex)",
+    "link": "centralized-exchange-(cex).html"
+  },
+  {
+    "name": "centralized-exchange",
+    "link": "centralized-exchange.html"
+  },
+  {
     "name": "centru-de-asistență",
     "link": "centru-de-asistență.html"
   },
   {
     "name": "cex",
     "link": "cex.html"
+  },
+  {
+    "name": "chain-id",
+    "link": "chain-id.html"
   },
   {
     "name": "chei-criptate-vs.-chei-necriptate",
@@ -432,6 +560,10 @@
     "link": "clear.html"
   },
   {
+    "name": "client-(ethereum-or-other-compatible-blockchain)",
+    "link": "client-(ethereum-or-other-compatible-blockchain).html"
+  },
+  {
     "name": "client-(ethereum-sau-alt-blockchain-compatibil)",
     "link": "client-(ethereum-sau-alt-blockchain-compatibil).html"
   },
@@ -454,6 +586,10 @@
   {
     "name": "codefi",
     "link": "codefi.html"
+  },
+  {
+    "name": "coin",
+    "link": "coin.html"
   },
   {
     "name": "coinbase-pay",
@@ -480,8 +616,16 @@
     "link": "comision-tranzacție.html"
   },
   {
+    "name": "community-platform",
+    "link": "community-platform.html"
+  },
+  {
     "name": "compilare",
     "link": "compilare.html"
+  },
+  {
+    "name": "compiling",
+    "link": "compiling.html"
   },
   {
     "name": "compound",
@@ -500,8 +644,16 @@
     "link": "conectează-te.html"
   },
   {
+    "name": "confirm",
+    "link": "confirm.html"
+  },
+  {
     "name": "confirmare",
     "link": "confirmare.html"
+  },
+  {
+    "name": "confirmation",
+    "link": "confirmation.html"
   },
   {
     "name": "confirmă",
@@ -520,12 +672,40 @@
     "link": "consens.html"
   },
   {
+    "name": "consensus-client",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "consensus-layer",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "consensus-mechanism",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "consensus",
+    "link": "consensus.html"
+  },
+  {
     "name": "consensys",
     "link": "consensys.html"
   },
   {
+    "name": "constantinople-fork",
+    "link": "constantinople-fork.html"
+  },
+  {
     "name": "cont",
     "link": "cont.html"
+  },
+  {
+    "name": "contacts",
+    "link": "contacts.html"
+  },
+  {
+    "name": "contract-account",
+    "link": "contract-account.html"
   },
   {
     "name": "contract",
@@ -540,12 +720,24 @@
     "link": "conversie.html"
   },
   {
+    "name": "conversion",
+    "link": "conversion.html"
+  },
+  {
     "name": "coolwallet",
     "link": "coolwallet.html"
   },
   {
     "name": "copiază",
     "link": "copiază.html"
+  },
+  {
+    "name": "copy",
+    "link": "copy.html"
+  },
+  {
+    "name": "create",
+    "link": "create.html"
   },
   {
     "name": "creează",
@@ -584,8 +776,48 @@
     "link": "criptomonede.html"
   },
   {
+    "name": "crypto-",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "crypto-asset",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "crypto-bounties",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "crypto-compliance",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "crypto-fund",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "crypto-wallet",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "cryptoassets",
+    "link": "cryptoassets.html"
+  },
+  {
     "name": "cryptocompare",
     "link": "cryptocompare.html"
+  },
+  {
+    "name": "cryptocurrency",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "cryptoeconomics",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "cryptography",
+    "link": "cryptography.html"
   },
   {
     "name": "curve",
@@ -598,6 +830,14 @@
   {
     "name": "custodie",
     "link": "custodie.html"
+  },
+  {
+    "name": "custody-(noun)",
+    "link": "custody-(noun).html"
+  },
+  {
+    "name": "custom-nonce",
+    "link": "custom-nonce.html"
   },
   {
     "name": "d'cent",
@@ -628,16 +868,68 @@
     "link": "deblochează.html"
   },
   {
+    "name": "decentralization",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "decentralized-application",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "decentralized-autonomous-organization-(dao)",
+    "link": "decentralized-autonomous-organization-(dao).html"
+  },
+  {
+    "name": "decentralized-autonomous-organization",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "decentralized-exchange-(dex)",
+    "link": "decentralized-exchange-(dex).html"
+  },
+  {
+    "name": "decentralized-exchange",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "decentralized-finance",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "decentralized-web",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "default",
+    "link": "default.html"
+  },
+  {
     "name": "defi",
     "link": "defi.html"
+  },
+  {
+    "name": "delegated-proof-of-stake-(dpos)",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "delete",
+    "link": "delete.html"
   },
   {
     "name": "democrație-lichidă-(democrație-delegată)",
     "link": "democrație-lichidă-(democrație-delegată).html"
   },
   {
+    "name": "deposit",
+    "link": "deposit.html"
+  },
+  {
     "name": "depozit",
     "link": "depozit.html"
+  },
+  {
+    "name": "derive--derivation",
+    "link": "derive--derivation.html"
   },
   {
     "name": "descarcă",
@@ -664,6 +956,14 @@
     "link": "devcon.html"
   },
   {
+    "name": "developer",
+    "link": "developer.html"
+  },
+  {
+    "name": "device",
+    "link": "device.html"
+  },
+  {
     "name": "dex",
     "link": "dex.html"
   },
@@ -672,20 +972,56 @@
     "link": "difficulty-bomb.html"
   },
   {
+    "name": "difficulty",
+    "link": "difficulty.html"
+  },
+  {
     "name": "dificultate",
     "link": "dificultate.html"
+  },
+  {
+    "name": "digital-asset",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "digital-identity",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "digital-signature",
+    "link": "digital-signature.html"
   },
   {
     "name": "diligence",
     "link": "diligence.html"
   },
   {
+    "name": "disable",
+    "link": "disable.html"
+  },
+  {
     "name": "dispozitiv",
     "link": "dispozitiv.html"
   },
   {
+    "name": "distributed-denial-of-service-(ddos)-attack",
+    "link": "distributed-denial-of-service-(ddos)-attack.html"
+  },
+  {
+    "name": "distributed-ledger-technology",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "distributed-ledger",
+    "link": "distributed-ledger.html"
+  },
+  {
     "name": "dlt",
     "link": "dlt.html"
+  },
+  {
+    "name": "double-spend",
+    "link": "double-spend.html"
   },
   {
     "name": "dovada-validității",
@@ -696,8 +1032,16 @@
     "link": "dovadă-cunoștințe-zero.html"
   },
   {
+    "name": "download",
+    "link": "download.html"
+  },
+  {
     "name": "dpos",
     "link": "dpos.html"
+  },
+  {
+    "name": "dropped",
+    "link": "dropped.html"
   },
   {
     "name": "durata-blocului",
@@ -708,8 +1052,16 @@
     "link": "ecosistem.html"
   },
   {
+    "name": "ecosystem",
+    "link": "ecosystem.html"
+  },
+  {
     "name": "edge",
     "link": "edge.html"
+  },
+  {
+    "name": "edit",
+    "link": "edit.html"
   },
   {
     "name": "editează",
@@ -718,6 +1070,18 @@
   {
     "name": "eip-1559",
     "link": "eip-1559.html"
+  },
+  {
+    "name": "enable",
+    "link": "enable.html"
+  },
+  {
+    "name": "encrypted-vs-unencrypted-keys",
+    "link": "encrypted-vs-unencrypted-keys.html"
+  },
+  {
+    "name": "encryption",
+    "link": "encryption.html"
   },
   {
     "name": "ens",
@@ -732,6 +1096,10 @@
     "link": "entropie.html"
   },
   {
+    "name": "entropy",
+    "link": "entropy.html"
+  },
+  {
     "name": "epoch",
     "link": "epoch.html"
   },
@@ -740,8 +1108,16 @@
     "link": "erc-1155.html"
   },
   {
+    "name": "erc-20-token-standard",
+    "link": "erc-20-token-standard.html"
+  },
+  {
     "name": "erc-20",
     "link": "erc-20.html"
+  },
+  {
+    "name": "erc-721-token-standard",
+    "link": "erc-721-token-standard.html"
   },
   {
     "name": "erc-721",
@@ -760,6 +1136,10 @@
     "link": "eth.html"
   },
   {
+    "name": "ether-(denominations)",
+    "link": "ether-(denominations).html"
+  },
+  {
     "name": "ether-(denumiri)",
     "link": "ether-(denumiri).html"
   },
@@ -776,12 +1156,36 @@
     "link": "ethereum-2.0.html"
   },
   {
+    "name": "ethereum-improvement-proposal-(eip)",
+    "link": "ethereum-improvement-proposal-(eip).html"
+  },
+  {
+    "name": "ethereum-improvement-protocols",
+    "link": "ethereum-improvement-protocols.html"
+  },
+  {
+    "name": "ethereum-mainnet",
+    "link": "ethereum-mainnet.html"
+  },
+  {
     "name": "ethereum-name-service-(ens)",
     "link": "ethereum-name-service-(ens).html"
   },
   {
     "name": "ethereum-name-service",
     "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "ethereum-public-address",
+    "link": "ethereum-public-address.html"
+  },
+  {
+    "name": "ethereum-virtual-machine-(evm)",
+    "link": "ethereum-virtual-machine-(evm).html"
+  },
+  {
+    "name": "ethereum-virtual-machine",
+    "link": "ethereum-virtual-machine.html"
   },
   {
     "name": "ethereum",
@@ -800,12 +1204,36 @@
     "link": "evm.html"
   },
   {
+    "name": "exchange",
+    "link": "exchange.html"
+  },
+  {
+    "name": "execution-client",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "execution-layer",
+    "link": "execution-layer.html"
+  },
+  {
     "name": "experimental",
     "link": "experimental.html"
   },
   {
+    "name": "export",
+    "link": "export.html"
+  },
+  {
     "name": "exportă",
     "link": "exportă.html"
+  },
+  {
+    "name": "extended-private-key-(xpriv)",
+    "link": "extended-private-key-(xpriv).html"
+  },
+  {
+    "name": "extended-public-key-(xpub)",
+    "link": "extended-public-key-(xpub).html"
   },
   {
     "name": "extensie-metamask",
@@ -816,8 +1244,16 @@
     "link": "extensie.html"
   },
   {
+    "name": "extension",
+    "link": "extension.html"
+  },
+  {
     "name": "eșuat",
     "link": "eșuat.html"
+  },
+  {
+    "name": "failed",
+    "link": "failed.html"
   },
   {
     "name": "fantom",
@@ -828,8 +1264,24 @@
     "link": "faucet.html"
   },
   {
+    "name": "fiat-currency",
+    "link": "fiat-currency.html"
+  },
+  {
     "name": "final,-finalitate",
     "link": "final,-finalitate.html"
+  },
+  {
+    "name": "final,-finality",
+    "link": "final,-finality.html"
+  },
+  {
+    "name": "finality-rate",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "financial-technology",
+    "link": "financial-technology.html"
   },
   {
     "name": "finanțe-descentralizate",
@@ -888,8 +1340,16 @@
     "link": "fork.html"
   },
   {
+    "name": "fractional-ownership",
+    "link": "fractional-ownership.html"
+  },
+  {
     "name": "fragmentare",
     "link": "fragmentare.html"
+  },
+  {
+    "name": "fraud-proof",
+    "link": "fraud-proof.html"
   },
   {
     "name": "frază-mnemotehnică",
@@ -904,12 +1364,28 @@
     "link": "ftm.html"
   },
   {
+    "name": "full-node",
+    "link": "full-node.html"
+  },
+  {
     "name": "fuziune",
     "link": "fuziune.html"
   },
   {
     "name": "ganache",
     "link": "ganache.html"
+  },
+  {
+    "name": "gas-fee",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "gas-limit",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "gas-price",
+    "link": "gas-price.html"
   },
   {
     "name": "gas-station-network",
@@ -926,6 +1402,10 @@
   {
     "name": "general",
     "link": "general.html"
+  },
+  {
+    "name": "genesis-block",
+    "link": "genesis-block.html"
   },
   {
     "name": "gigawei",
@@ -956,16 +1436,36 @@
     "link": "gwei.html"
   },
   {
+    "name": "halving",
+    "link": "halving.html"
+  },
+  {
     "name": "hard-fork",
     "link": "hard-fork.html"
+  },
+  {
+    "name": "hardware-wallet",
+    "link": "hardware-wallet.html"
   },
   {
     "name": "harmony",
     "link": "harmony.html"
   },
   {
+    "name": "hash-(noun)",
+    "link": "hash-(noun).html"
+  },
+  {
     "name": "hash",
     "link": "hash.html"
+  },
+  {
+    "name": "hex-data",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "hexadecimal-'hex-data'",
+    "link": "hexadecimal-'hex-data'.html"
   },
   {
     "name": "hexazecimal-„date-hexazecimale”",
@@ -976,6 +1476,14 @@
     "link": "hibrid-pospow.html"
   },
   {
+    "name": "hide",
+    "link": "hide.html"
+  },
+  {
+    "name": "hierarchical-deterministic-(hd)-wallet",
+    "link": "hierarchical-deterministic-(hd)-wallet.html"
+  },
+  {
     "name": "hot-storage",
     "link": "hot-storage.html"
   },
@@ -984,12 +1492,20 @@
     "link": "hot-wallet.html"
   },
   {
+    "name": "hybrid-network",
+    "link": "hybrid-network.html"
+  },
+  {
     "name": "hyperledger",
     "link": "hyperledger.html"
   },
   {
     "name": "ico-(ofertă-inițială-de-monedă)",
     "link": "ico-(ofertă-inițială-de-monedă).html"
+  },
+  {
+    "name": "ico",
+    "link": "ico.html"
   },
   {
     "name": "id-chain",
@@ -1020,6 +1536,14 @@
     "link": "ignoră.html"
   },
   {
+    "name": "immutability",
+    "link": "immutability.html"
+  },
+  {
+    "name": "import",
+    "link": "import.html"
+  },
+  {
     "name": "importă",
     "link": "importă.html"
   },
@@ -1036,8 +1560,20 @@
     "link": "infura.html"
   },
   {
+    "name": "initial-public-offering-(ipo)",
+    "link": "initial-public-offering-(ipo).html"
+  },
+  {
+    "name": "insider-trading",
+    "link": "insider-trading.html"
+  },
+  {
     "name": "instalează",
     "link": "instalează.html"
+  },
+  {
+    "name": "install",
+    "link": "install.html"
   },
   {
     "name": "institutional-(metamask-institutional)-(mmi)",
@@ -1048,12 +1584,32 @@
     "link": "institutional.html"
   },
   {
+    "name": "inter-blockchain-communication-(ibc)-protocol",
+    "link": "inter-blockchain-communication-(ibc)-protocol.html"
+  },
+  {
+    "name": "internal-transaction",
+    "link": "internal-transaction.html"
+  },
+  {
     "name": "interoperabilitate",
     "link": "interoperabilitate.html"
   },
   {
+    "name": "interoperability",
+    "link": "interoperability.html"
+  },
+  {
     "name": "interplanetary-file-system-(ipfs)",
     "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "invalid",
+    "link": "invalid.html"
+  },
+  {
+    "name": "ip-address",
+    "link": "ip-address.html"
   },
   {
     "name": "ipfs",
@@ -1064,12 +1620,20 @@
     "link": "jazzicons.html"
   },
   {
+    "name": "json-file",
+    "link": "json-file.html"
+  },
+  {
     "name": "json-rpc",
     "link": "json-rpc.html"
   },
   {
     "name": "jurnale-de-stare",
     "link": "jurnale-de-stare.html"
+  },
+  {
+    "name": "keystore-file",
+    "link": "keystore-file.html"
   },
   {
     "name": "know-your-customer-(kyc)",
@@ -1098,6 +1662,10 @@
   {
     "name": "lanț-de-fragmente",
     "link": "lanț-de-fragmente.html"
+  },
+  {
+    "name": "latency",
+    "link": "latency.html"
   },
   {
     "name": "latență",
@@ -1132,12 +1700,24 @@
     "link": "learn-metamask-learn.html"
   },
   {
+    "name": "learn",
+    "link": "learn.html"
+  },
+  {
+    "name": "ledger-live-app",
+    "link": "ledger-live-app.html"
+  },
+  {
     "name": "ledger-live",
     "link": "ledger-live.html"
   },
   {
     "name": "ledger",
     "link": "ledger.html"
+  },
+  {
+    "name": "library",
+    "link": "library.html"
   },
   {
     "name": "lichidare",
@@ -1150,6 +1730,10 @@
   {
     "name": "lido",
     "link": "lido.html"
+  },
+  {
+    "name": "light-client",
+    "link": "light-client.html"
   },
   {
     "name": "lightning-network",
@@ -1168,8 +1752,40 @@
     "link": "link.html"
   },
   {
+    "name": "liquid-democracy-(delegative-democracy)",
+    "link": "liquid-democracy-(delegative-democracy).html"
+  },
+  {
+    "name": "liquidation",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "liquidity-pool",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "liquidity-staking",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "liquidity",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "lock",
+    "link": "lock.html"
+  },
+  {
+    "name": "low",
+    "link": "low.html"
+  },
+  {
     "name": "mainnet-ethereum",
     "link": "mainnet-ethereum.html"
+  },
+  {
+    "name": "maker-protocol",
+    "link": "maker-protocol.html"
   },
   {
     "name": "malware",
@@ -1180,8 +1796,20 @@
     "link": "manager-parole.html"
   },
   {
+    "name": "market-cap",
+    "link": "market-cap.html"
+  },
+  {
     "name": "matic",
     "link": "matic.html"
+  },
+  {
+    "name": "maximal-extractable-value-(mev)",
+    "link": "maximal-extractable-value-(mev).html"
+  },
+  {
+    "name": "maximum-priority-fee",
+    "link": "maximum-priority-fee.html"
   },
   {
     "name": "mașina-virtuală-ethereum-(evm)",
@@ -1196,12 +1824,24 @@
     "link": "mecanism-de-consens.html"
   },
   {
+    "name": "memory-pool-mempool",
+    "link": "memory-pool-mempool.html"
+  },
+  {
     "name": "mempool",
     "link": "mempool.html"
   },
   {
     "name": "mercuryo",
     "link": "mercuryo.html"
+  },
+  {
+    "name": "merge-(noun)",
+    "link": "merge-(noun).html"
+  },
+  {
+    "name": "merkle-patricia-trie",
+    "link": "merkle-patricia-trie.html"
   },
   {
     "name": "mesh",
@@ -1214,6 +1854,14 @@
   {
     "name": "metamask-bridge",
     "link": "metamask-bridge.html"
+  },
+  {
+    "name": "metamask-community-platform",
+    "link": "metamask-community-platform.html"
+  },
+  {
+    "name": "metamask-extension",
+    "link": "metamask-extension.html"
   },
   {
     "name": "metamask-flask",
@@ -1232,6 +1880,10 @@
     "link": "metamask-sdk.html"
   },
   {
+    "name": "metamask-support",
+    "link": "metamask-support.html"
+  },
+  {
     "name": "metamask-swaps",
     "link": "metamask-swaps.html"
   },
@@ -1248,6 +1900,10 @@
     "link": "metavers.html"
   },
   {
+    "name": "metaverse",
+    "link": "metaverse.html"
+  },
+  {
     "name": "minare",
     "link": "minare.html"
   },
@@ -1260,12 +1916,24 @@
     "link": "miner.html"
   },
   {
+    "name": "mining",
+    "link": "mining.html"
+  },
+  {
     "name": "mint",
     "link": "mint.html"
   },
   {
+    "name": "mnemonic-phrase",
+    "link": "mnemonic-phrase.html"
+  },
+  {
     "name": "mobikwik",
     "link": "mobikwik.html"
+  },
+  {
+    "name": "modular-blockchain",
+    "link": "modular-blockchain.html"
   },
   {
     "name": "monedă-fiduciară",
@@ -1292,6 +1960,18 @@
     "link": "multi-sig.html"
   },
   {
+    "name": "multi-signature-wallet-(multisig)",
+    "link": "multi-signature-wallet-(multisig).html"
+  },
+  {
+    "name": "multifactor-authentication",
+    "link": "multifactor-authentication.html"
+  },
+  {
+    "name": "near-field-communication-(nfc)",
+    "link": "near-field-communication-(nfc).html"
+  },
+  {
     "name": "near-field-communication-(nfc---comunicare-în-câmp-apropiat)",
     "link": "near-field-communication-(nfc---comunicare-în-câmp-apropiat).html"
   },
@@ -1304,8 +1984,20 @@
     "link": "nested-blockchain.html"
   },
   {
+    "name": "network-congestion",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "network",
+    "link": "network.html"
+  },
+  {
     "name": "nevalid",
     "link": "nevalid.html"
+  },
+  {
+    "name": "nft-aggregator",
+    "link": "nft-aggregator.html"
   },
   {
     "name": "nft-drop",
@@ -1328,6 +2020,14 @@
     "link": "nod.html"
   },
   {
+    "name": "node",
+    "link": "node.html"
+  },
+  {
+    "name": "non-fungible-token",
+    "link": "non-fungible-token.html"
+  },
+  {
     "name": "nonce-personalizat",
     "link": "nonce-personalizat.html"
   },
@@ -1346,6 +2046,10 @@
   {
     "name": "off-chain",
     "link": "off-chain.html"
+  },
+  {
+    "name": "ommer-block",
+    "link": "ommer-block.html"
   },
   {
     "name": "on-chain",
@@ -1374,6 +2078,14 @@
   {
     "name": "optimism",
     "link": "optimism.html"
+  },
+  {
+    "name": "optimistic-rollup",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "optional",
+    "link": "optional.html"
   },
   {
     "name": "opțional",
@@ -1408,12 +2120,24 @@
     "link": "paritate.html"
   },
   {
+    "name": "parity",
+    "link": "parity.html"
+  },
+  {
     "name": "parolă",
     "link": "parolă.html"
   },
   {
     "name": "passphrase",
     "link": "passphrase.html"
+  },
+  {
+    "name": "password-manager",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "password",
+    "link": "password.html"
   },
   {
     "name": "paypal",
@@ -1428,8 +2152,24 @@
     "link": "peer-to-peer.html"
   },
   {
+    "name": "pending",
+    "link": "pending.html"
+  },
+  {
     "name": "permisiune",
     "link": "permisiune.html"
+  },
+  {
+    "name": "permission",
+    "link": "permission.html"
+  },
+  {
+    "name": "permissioned-ledger",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "phishing-(noun)",
+    "link": "phishing-(noun).html"
   },
   {
     "name": "phishing",
@@ -1500,6 +2240,10 @@
     "link": "portofel.html"
   },
   {
+    "name": "pospow-hybrid",
+    "link": "pospow-hybrid.html"
+  },
+  {
     "name": "prestabilit",
     "link": "prestabilit.html"
   },
@@ -1510,6 +2254,22 @@
   {
     "name": "primește",
     "link": "primește.html"
+  },
+  {
+    "name": "priority-fee",
+    "link": "priority-fee.html"
+  },
+  {
+    "name": "private-blockchain",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "private-currency",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "private-key",
+    "link": "private-key.html"
   },
   {
     "name": "programator",
@@ -1564,6 +2324,30 @@
     "link": "proveniența-activelor.html"
   },
   {
+    "name": "public-address",
+    "link": "public-address.html"
+  },
+  {
+    "name": "public-blockchain",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "public-key-cryptography",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "public-key-infrastructure",
+    "link": "public-key-infrastructure.html"
+  },
+  {
+    "name": "public-key",
+    "link": "public-key.html"
+  },
+  {
+    "name": "qr-code",
+    "link": "qr-code.html"
+  },
+  {
     "name": "quorum",
     "link": "quorum.html"
   },
@@ -1574,6 +2358,10 @@
   {
     "name": "rarible",
     "link": "rarible.html"
+  },
+  {
+    "name": "receive",
+    "link": "receive.html"
   },
   {
     "name": "recompensa-blocului",
@@ -1588,8 +2376,36 @@
     "link": "registru-distribuit.html"
   },
   {
+    "name": "reject",
+    "link": "reject.html"
+  },
+  {
     "name": "relayer",
     "link": "relayer.html"
+  },
+  {
+    "name": "remote-procedure-call-(rpc)",
+    "link": "remote-procedure-call-(rpc).html"
+  },
+  {
+    "name": "remote-procedure-call",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "remove",
+    "link": "remove.html"
+  },
+  {
+    "name": "request-(noun)",
+    "link": "request-(noun).html"
+  },
+  {
+    "name": "request-(verb)",
+    "link": "request-(verb).html"
+  },
+  {
+    "name": "reset",
+    "link": "reset.html"
   },
   {
     "name": "resetează",
@@ -1602,6 +2418,14 @@
   {
     "name": "restabilește",
     "link": "restabilește.html"
+  },
+  {
+    "name": "restore",
+    "link": "restore.html"
+  },
+  {
+    "name": "reveal",
+    "link": "reveal.html"
   },
   {
     "name": "rezultatul-tranzacției-necheltuite-(utxo)",
@@ -1680,12 +2504,28 @@
     "link": "satoshi-nakamoto.html"
   },
   {
+    "name": "save",
+    "link": "save.html"
+  },
+  {
     "name": "scalabilitate",
     "link": "scalabilitate.html"
   },
   {
+    "name": "scalability",
+    "link": "scalability.html"
+  },
+  {
     "name": "scaling",
     "link": "scaling.html"
+  },
+  {
+    "name": "scam",
+    "link": "scam.html"
+  },
+  {
+    "name": "scan",
+    "link": "scan.html"
   },
   {
     "name": "scanarescanează",
@@ -1708,12 +2548,44 @@
     "link": "sdk.html"
   },
   {
+    "name": "search-engine",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "search",
+    "link": "search.html"
+  },
+  {
+    "name": "secret-recovery-phrase",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
     "name": "securitate-și-confidențialitate",
     "link": "securitate-și-confidențialitate.html"
   },
   {
+    "name": "security-&-privacy",
+    "link": "security-&-privacy.html"
+  },
+  {
+    "name": "security-token-offering-(sto)",
+    "link": "security-token-offering-(sto).html"
+  },
+  {
+    "name": "security-token",
+    "link": "security-token.html"
+  },
+  {
     "name": "seed-phrase",
     "link": "seed-phrase.html"
+  },
+  {
+    "name": "self-custody-(noun)",
+    "link": "self-custody-(noun).html"
+  },
+  {
+    "name": "self-executing",
+    "link": "self-executing.html"
   },
   {
     "name": "semnează",
@@ -1740,6 +2612,14 @@
     "link": "serializare.html"
   },
   {
+    "name": "serialization",
+    "link": "serialization.html"
+  },
+  {
+    "name": "settings",
+    "link": "settings.html"
+  },
+  {
     "name": "setări",
     "link": "setări.html"
   },
@@ -1748,16 +2628,52 @@
     "link": "sfaturi.html"
   },
   {
+    "name": "shard-chain",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "sharding-(noun)",
+    "link": "sharding-(noun).html"
+  },
+  {
+    "name": "shielded-transaction",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "show",
+    "link": "show.html"
+  },
+  {
     "name": "sidechain",
     "link": "sidechain.html"
+  },
+  {
+    "name": "sign-in",
+    "link": "sign-in.html"
+  },
+  {
+    "name": "sign",
+    "link": "sign.html"
+  },
+  {
+    "name": "signature-(cryptographic)",
+    "link": "signature-(cryptographic).html"
   },
   {
     "name": "simbol",
     "link": "simbol.html"
   },
   {
+    "name": "skip",
+    "link": "skip.html"
+  },
+  {
     "name": "slabscăzut",
     "link": "slabscăzut.html"
+  },
+  {
+    "name": "slashing-condition",
+    "link": "slashing-condition.html"
   },
   {
     "name": "slippage",
@@ -1800,8 +2716,20 @@
     "link": "solidity.html"
   },
   {
+    "name": "source-(noun)",
+    "link": "source-(noun).html"
+  },
+  {
+    "name": "speed-up",
+    "link": "speed-up.html"
+  },
+  {
     "name": "stablecoin",
     "link": "stablecoin.html"
+  },
+  {
+    "name": "staking-(noun)",
+    "link": "staking-(noun).html"
   },
   {
     "name": "staking-de-lichidități",
@@ -1828,6 +2756,22 @@
     "link": "stare.html"
   },
   {
+    "name": "state-channels",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "state-logs",
+    "link": "state-logs.html"
+  },
+  {
+    "name": "state",
+    "link": "state.html"
+  },
+  {
+    "name": "status",
+    "link": "status.html"
+  },
+  {
     "name": "strat-de-consens",
     "link": "strat-de-consens.html"
   },
@@ -1836,12 +2780,40 @@
     "link": "streaming.html"
   },
   {
+    "name": "submit",
+    "link": "submit.html"
+  },
+  {
+    "name": "support-center",
+    "link": "support-center.html"
+  },
+  {
+    "name": "support",
+    "link": "support.html"
+  },
+  {
     "name": "sursă",
     "link": "sursă.html"
   },
   {
+    "name": "swap-(noun)",
+    "link": "swap-(noun).html"
+  },
+  {
+    "name": "swap-(verb)",
+    "link": "swap-(verb).html"
+  },
+  {
     "name": "swap",
     "link": "swap.html"
+  },
+  {
+    "name": "switch-(verb)",
+    "link": "switch-(verb).html"
+  },
+  {
+    "name": "symbol",
+    "link": "symbol.html"
   },
   {
     "name": "szabo",
@@ -1884,6 +2856,10 @@
     "link": "testnet-(rețea-de-testare).html"
   },
   {
+    "name": "testnet-(test-network)",
+    "link": "testnet-(test-network).html"
+  },
+  {
     "name": "testnet-kovan",
     "link": "testnet-kovan.html"
   },
@@ -1900,12 +2876,32 @@
     "link": "testnet.html"
   },
   {
+    "name": "theme",
+    "link": "theme.html"
+  },
+  {
+    "name": "tips",
+    "link": "tips.html"
+  },
+  {
     "name": "token-de-securitate",
     "link": "token-de-securitate.html"
   },
   {
+    "name": "token-id",
+    "link": "token-id.html"
+  },
+  {
+    "name": "token-lockup",
+    "link": "token-lockup.html"
+  },
+  {
     "name": "token-nefungibil",
     "link": "token-nefungibil.html"
+  },
+  {
+    "name": "token-standard",
+    "link": "token-standard.html"
   },
   {
     "name": "token",
@@ -1916,8 +2912,36 @@
     "link": "tokeni-yield-bearing.html"
   },
   {
+    "name": "total-value-locked-(tvl)",
+    "link": "total-value-locked-(tvl).html"
+  },
+  {
+    "name": "transaction-block",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "transaction-fee",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "transaction-id",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "transaction-pool",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "transaction",
+    "link": "transaction.html"
+  },
+  {
     "name": "transak",
     "link": "transak.html"
+  },
+  {
+    "name": "transfer-(verb)",
+    "link": "transfer-(verb).html"
   },
   {
     "name": "transferă",
@@ -1964,8 +2988,16 @@
     "link": "turing-complet.html"
   },
   {
+    "name": "turing-complete",
+    "link": "turing-complete.html"
+  },
+  {
     "name": "tutorial",
     "link": "tutorial.html"
+  },
+  {
+    "name": "two-factor-authentication-(2fa)",
+    "link": "two-factor-authentication-(2fa).html"
   },
   {
     "name": "txid",
@@ -1978,6 +3010,26 @@
   {
     "name": "uniswap",
     "link": "uniswap.html"
+  },
+  {
+    "name": "unknown",
+    "link": "unknown.html"
+  },
+  {
+    "name": "unlock",
+    "link": "unlock.html"
+  },
+  {
+    "name": "unspent-transaction-output-(utxo)",
+    "link": "unspent-transaction-output-(utxo).html"
+  },
+  {
+    "name": "unspent-transaction-output",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "update-(verb)",
+    "link": "update-(verb).html"
   },
   {
     "name": "upgrade",
@@ -2000,6 +3052,10 @@
     "link": "validator.html"
   },
   {
+    "name": "validity-proof",
+    "link": "validity-proof.html"
+  },
+  {
     "name": "validium",
     "link": "validium.html"
   },
@@ -2018,6 +3074,10 @@
   {
     "name": "vesting",
     "link": "vesting.html"
+  },
+  {
+    "name": "wallet",
+    "link": "wallet.html"
   },
   {
     "name": "walletconnect",
@@ -2064,8 +3124,24 @@
     "link": "wyre.html"
   },
   {
+    "name": "yield-bearing-tokens",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
     "name": "yield-farming",
     "link": "yield-farming.html"
+  },
+  {
+    "name": "zero-address",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "zero-knowledge-proof",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "zero-knowledge-rollup",
+    "link": "zero-knowledge-rollup.html"
   },
   {
     "name": "zk-snarks",
