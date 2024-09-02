@@ -4,19 +4,22 @@
 const isNode = typeof process !== 'undefined' && process.versions != null && process.versions.node != null;
 
 // Shared logic (if any)
-// function commonLogic() {
+function commonLogic() {
     // Any logic that is common to both environments can go here
-// }
+}
 
-// Node.js-specific functions
-function loadLanguageMapNode() {
-    const fs = require('fs');
-    const path = require('path');
-    const { fileURLToPath } = require('url');
+// Node.js-specific functions (using ES module syntax)
+async function loadLanguageMapNode() {
+    const { readFileSync } = await import('fs');
+    const { join, dirname } = await import('path');
+    const { fileURLToPath } = await import('url');
+    
     const __filename = fileURLToPath(import.meta.url);
-    const __dirname = path.dirname(__filename);
-    const languageCodesPath = path.join(__dirname, '../../l10n/language-codes.json');
-    return JSON.parse(fs.readFileSync(languageCodesPath, 'utf8'));
+    const __dirname = dirname(__filename);
+    const languageCodesPath = join(__dirname, '../../l10n/language-codes.json');
+    
+    const data = readFileSync(languageCodesPath, 'utf8');
+    return JSON.parse(data);
 }
 
 function convertLanguageFormatNode(value, fromFormat, toFormat) {
