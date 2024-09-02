@@ -1,9 +1,38 @@
-//Difficulty: this script is both client side and server side. Sad!
-//Hence, the following function doesn't work during build. It needs to have a build version and a client version.
+// l10n.js
 
-export async function loadLanguageMap() {
+// Environment detection
+const isNode = typeof process !== 'undefined' && process.versions != null && process.versions.node != null;
+
+// Shared logic (if any)
+// function commonLogic() {
+    // Any logic that is common to both environments can go here
+// }
+
+// Node.js-specific functions
+function loadLanguageMapNode() {
+    const fs = require('fs');
+    const path = require('path');
+    const { fileURLToPath } = require('url');
+    const __filename = fileURLToPath(import.meta.url);
+    const __dirname = path.dirname(__filename);
+    const languageCodesPath = path.join(__dirname, '../../l10n/language-codes.json');
+    return JSON.parse(fs.readFileSync(languageCodesPath, 'utf8'));
+}
+
+function convertLanguageFormatNode(value, fromFormat, toFormat) {
+    const languageMap = loadLanguageMapNode();
+    for (let key in languageMap) {
+        if (languageMap[key][fromFormat] === value) {
+            return languageMap[key][toFormat];
+        }
+    }
+    return null; // or throw an error if not found
+}
+
+// Browser-specific functions
+async function loadLanguageMapBrowser() {
     try {
-        const response = await fetch('../../l10n/language-codes.json');
+        const response = await fetch('./l10n/language-codes.json');
         if (!response.ok) {
             throw new Error('Failed to load language codes');
         }
@@ -14,8 +43,8 @@ export async function loadLanguageMap() {
     }
 }
 
-export async function convertLanguageFormat(value, fromFormat, toFormat) {
-    const languageMap = await loadLanguageMap();
+async function convertLanguageFormatBrowser(value, fromFormat, toFormat) {
+    const languageMap = await loadLanguageMapBrowser();
     for (let key in languageMap) {
         if (languageMap[key][fromFormat] === value) {
             return languageMap[key][toFormat];
@@ -24,11 +53,6 @@ export async function convertLanguageFormat(value, fromFormat, toFormat) {
     return null; // or throw an error if not found
 }
 
-// Example usage:
-// convertLanguageFormat("en-US", "fourLetterDash", "slug").then(toSlugName => {
-//     console.log(toSlugName); // Output: "us-english"
-// });
-
-// convertLanguageFormat("us-english", "slug", "fourLetterDash").then(toFourLetterDash => {
-//     console.log(toFourLetterDash); // Output: "en-US"
-// });
+// Export environment-specific functions
+export const loadLanguageMap = isNode ? loadLanguageMapNode : loadLanguageMapBrowser;
+export const convertLanguageFormat = isNode ? convertLanguageFormatNode : convertLanguageFormatBrowser;
