@@ -30,13 +30,16 @@ function updateUIStrings(translations) {
 }
 
 // Ensure that all initialization happens after the DOM is fully loaded
-document.addEventListener('DOMContentLoaded', () => {
-  document.getElementById('navbar-container').innerHTML = renderNavbar(languageOptions);
-  initNavbar();
-  initSearch();
-  initExplore();
-  initApp();
-});
+if (typeof document !== 'undefined') {
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('navbar-container').innerHTML = renderNavbar(languageOptions);
+    initNavbar();
+    initSearch();
+    initExplore();
+    initApp();
+  });
+}
+
 
 export function initApp() {
     const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';

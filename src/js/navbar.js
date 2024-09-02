@@ -6,7 +6,7 @@ export function renderNavbar(languageOptions) {
   return `
     <nav class="navbar">
       <div class="logo">
-        <img src="./assets/education-dao-circle.png" alt="Logo" class="logo-image" />
+        <img src="/assets/education-dao-circle.png" alt="Logo" class="logo-image" />
         <span id="logoText">wordsofweb3</span>
       </div>
       <select id="language-selector" class="language-selector">

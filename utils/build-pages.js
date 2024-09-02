@@ -1,50 +1,65 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { renderNavbar, languageOptions } from '../src/js/navbar.js';
-
-// Characters to check for that might cause issues in URLs
-const problematicChars = /[;:<>\\/?%#]/;
 
 // This creates an equivalent of `__dirname` for ESModules contexts
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Characters to check for that might cause issues in URLs
+const problematicChars = /[;:<>\\/?%#]/;
+
 // Load the template file
 const templatePath = path.join(__dirname, 'template.html');
-let template = fs.readFileSync(templatePath, 'utf-8');
+const template = fs.readFileSync(templatePath, 'utf-8');
 
-template = template.replace('<!-- Navbar will be injected here -->', renderNavbar(languageOptions));
+// Check if we're in a browser environment
+let renderNavbar, languageOptions;
+if (typeof window === 'undefined') {
+    // Server-side code: provide dummy values or skip this part
+    renderNavbar = () => '';
+    languageOptions = [];
+} else {
+    // Client-side code: Import the actual functions
+    const { renderNavbar: clientRenderNavbar, languageOptions: clientLanguageOptions } = await import('..src/js/navbar.js');
+    renderNavbar = clientRenderNavbar;
+    languageOptions = clientLanguageOptions;
+}
+
+// Inject the navbar into the template
+const processedTemplate = template.replace('<!-- Navbar will be injected here -->', renderNavbar(languageOptions));
+
+// Use `processedTemplate` in the rest of your code
 
 // Locale to Language Name Mapping
 const languageNames = {
-  "ar-AR": "العربية",
-  "zh-CN": "中文-(简体)",
-  "zh-TW": "中文-(繁體)",
-  "nl-NL": "nederlands",
-  "fr-FR": "français",
-  "el-GR": "Ελληνικά",
-  "en-US": "us-english",
-  "ha-NG": "hausa",
-  "hi-IN": "हिन्दी",
-  "hu-HU": "magyar",
-  "id-ID": "bahasa-indonesia",
-  "ja-JP": "日本語",
-  "ko-KR": "한국어",
-  "fa-IR": "فارسی",
-  "ms-MY": "bahasa-melayu",
-  "pcm-NG": "naijá",
-  "pl-PL": "polski",
-  "pt-BR": "português-brasil",
-  "ro-RO": "română",
-  "ru-RU": "Русский",
-  "es-419": "español-latinoamérica",
-  "tl-PH": "tagalog",
-  "th-TH": "ไทย",
-  "tr-TR": "türkçe",
-  "uk-UA": "Українська",
-  "vi-VN": "tiếng-việt",
-};
+    "ar-AR": "العربية",
+    "zh-CN": "中文-(简体)",
+    "zh-TW": "中文-(繁體)",
+    "nl-NL": "nederlands",
+    "fr-FR": "français",
+    "el-GR": "Ελληνικά",
+    "en-US": "us-english",
+    "ha-NG": "hausa",
+    "hi-IN": "हिन्दी",
+    "hu-HU": "magyar",
+    "id-ID": "bahasa-indonesia",
+    "ja-JP": "日本語",
+    "ko-KR": "한국어",
+    "fa-IR": "فارسی",
+    "ms-MY": "bahasa-melayu",
+    "pcm-NG": "naijá",
+    "pl-PL": "polski",
+    "pt-BR": "português-brasil",
+    "ro-RO": "română",
+    "ru-RU": "Русский",
+    "es-419": "español-latinoamérica",
+    "tl-PH": "tagalog",
+    "th-TH": "ไทย",
+    "tr-TR": "türkçe",
+    "uk-UA": "Українська",
+    "vi-VN": "tiếng-việt",
+  };
 
 // Directory paths
 const localesDir = path.join(__dirname, "../locales");
@@ -110,7 +125,7 @@ export default function buildPages(){
                     console.warn(warningMessage);
                 }
 
-                let html = template
+                let html = processedTemplate
                     .replace(/{{locale}}/g, locale)
                     .replace(/{{term}}/g, termValue)
                     .replace(/{{phonetic}}/g, phoneticValue)

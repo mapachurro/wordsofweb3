@@ -145,7 +145,7 @@ if (fs.existsSync(l10nDir)) {
     console.warn('l10n directory not found.');
 }
 
-// Copy index.html and index.js to root build directory
+// Copy index.html to root build directory
 ['index.html'].forEach((file) => {
     const filePath = path.join(__dirname, `../${file}`);
     if (fs.existsSync(filePath)) {
