@@ -35,7 +35,7 @@ function convertLanguageFormatNode(value, fromFormat, toFormat) {
 // Browser-specific functions
 async function loadLanguageMapBrowser() {
     try {
-        const response = await fetch('./l10n/language-codes.json');
+        const response = await fetch('../l10n/language-codes.json');
         if (!response.ok) {
             throw new Error('Failed to load language codes');
         }
