@@ -61,6 +61,7 @@ export function initNavbar() {
     if (languageCode) {
       // Update the language in LocalStorage
       localStorage.setItem('selectedLanguage', languageSlug);
+      console.log('Site language set to: ' + languageSlug);
 
       // Update the <html lang> attribute
       document.documentElement.lang = languageCode;
@@ -84,7 +85,8 @@ export function initNavbar() {
     document.documentElement.lang = languageCode;
 
     // Load translations on page load
-    await loadTranslations(storedLanguage);
+    loadTranslations(storedLanguage);
+    console.log('Page content loaded in: ' + storedLanguage);
   });
 
   // Attach event listeners
