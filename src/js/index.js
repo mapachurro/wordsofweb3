@@ -6,7 +6,7 @@ import { convertLanguageFormat } from './l10n.js';
 // Define loadTranslations at a higher scope
 export async function loadTranslations(languageSlug) {
     const languageCode = await convertLanguageFormat(languageSlug, 'slug', 'fourLetterDash');
-    const translationFilePath = `./l10n/locales/${languageCode}/translation.json`;
+    const translationFilePath = `../../l10n/locales/${languageCode}/translation.json`;
 
     try {
         const response = await fetch(translationFilePath);

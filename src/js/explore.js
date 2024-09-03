@@ -1,6 +1,6 @@
 export default function initExplore() {
   const exploreContainer = document.getElementById('explore-container');
-  const jsonFilePath = './us-english/directoryContents.json'; // Path to the JSON file
+  const jsonFilePath = './directoryContents.json'; // Path to the JSON file
 
   fetch(jsonFilePath) // Fetch the JSON file
     .then(response => response.json())
@@ -9,7 +9,7 @@ export default function initExplore() {
 
       shuffledLinks.forEach(link => {
         const termLink = document.createElement('a');
-        termLink.href = './us-english/' + link.link;
+        termLink.href = './' + link.link;
         termLink.textContent = link.name;
         termLink.style.display = 'block';
         exploreContainer.appendChild(termLink);
