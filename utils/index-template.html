@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{locale}}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="./assets/favicon.ico">
+  <link rel="stylesheet" href="../assets/css/styles.css">
+  <title>{{title}}</title>
+  <script type="module" src="../js/index.js" defer></script>
+</head>
+<body onload="initApp()">
+  <header>
+    <nav class="navbar">
+      <div class="logo" onclick="handleLogoClick()">
+        <img src="../assets/education-dao-circle.png" alt="Logo" class="logo-image" />
+        <span id="logoText">{{logoText}}</span>
+      </div>
+      <select id="language-selector" class="language-selector">
+        {{languageOptions}}
+      </select>    
+    </nav>
+  </header>
+
+  <main>
+    <h2 id="search-header">{{searchHeader}}</h2>
+    <!-- Search form -->
+    <div id="search-container">
+      <input type="text" id="search-input" placeholder="{{searchPlaceholder}}">
+      <button id="search-button">{{searchButton}}</button>
+    </div>
+
+    <!-- Search results -->
+    <div id="search-results"></div>
+
+    <!-- Explore section -->
+    <h3 id="explore">{{exploreHeader}}</h3>
+    <div id="explore-container"></div>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Education DAO</p>
+  </footer>
+</body>
+</html>

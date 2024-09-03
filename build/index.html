@@ -4,16 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" href="./assets/favicon.ico">
-  <title>wordsofweb3</title>
-  
   <link rel="stylesheet" href="./assets/css/styles.css">
-
-   <script type="module" src="./js/search.js"></script>
-   <script type="module" src="./js/navbar.js"></script>
-   <script type="module" src="./js/index.js"></script>
-
+  <title>wordsofweb3</title>
+  <script type="module" src="./js/index.js" defer></script>
 </head>
-<body>
+<body onload="initApp() {    
+  initNavbar();
+  initSearch();
+  initExplore();
+  };">
   <header>
     <nav class="navbar">
       <div class="logo" onclick="handleLogoClick()">
@@ -67,17 +66,10 @@
     <!-- Explore section -->
     <h3 id="explore">Explore:</h3>
     <div id="explore-container"></div>
-
-    <!-- Include the search.js script -->
-    <script src="./js/search.js"></script>
-
   </main>
 
   <footer>
     <p>&copy; 2024 Education DAO</p>
   </footer>
-
-
-
 </body>
 </html>

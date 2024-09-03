@@ -2,7 +2,7 @@
 import fs from 'fs';
 import path from 'path';
 import buildPages from './build-pages.js';
-import buildSearchIndices from './build-search-indices.js';
+// import buildSearchIndices from './build-search-indices.js';
 import intertextualLinks from './intertextual.js';
 import { fileURLToPath } from 'url';
 
@@ -90,9 +90,9 @@ console.log('Directory indices generated.');
 intertextualLinks();
 console.log('Intertextual links inserted.');
 
-// Run the search index build process
-buildSearchIndices();
-console.log('Search indices created.');
+// This is an attempt to use lunr.js to create search indices; might be worthwhile in the future.
+// buildSearchIndices();
+// console.log('Search indices created.');
 
 // Copy term pages to corresponding directories in the build folder
 if (fs.existsSync(staticDir)) {
