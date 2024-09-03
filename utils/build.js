@@ -2,6 +2,7 @@
 import fs from 'fs';
 import path from 'path';
 import buildPages from './build-pages.js';
+import buildHomepages from './build-homepages.js';
 // import buildSearchIndices from './build-search-indices.js';
 import intertextualLinks from './intertextual.js';
 import { fileURLToPath } from 'url';
@@ -78,9 +79,13 @@ function generateDirectoryIndex(directoryPath) {
     });
 }
 
-// Run the page build process
+// Run the entry page generation process
 buildPages();
 console.log('Pages built.');
+
+// Run the homepage generation process
+buildHomepages();
+console.log('Built homepages for each locale.')
 
 // Generate directory index files
 generateDirectoryIndex(staticDir);
@@ -101,9 +106,9 @@ if (fs.existsSync(staticDir)) {
         const targetPath = path.join(buildDir, dir);
         copyFolderRecursiveSync(sourcePath, targetPath);
     });
-    console.log('Term pages copied to build directory.');
+    console.log('Term pages and homepages copied to build directory.');
 } else {
-    console.warn('Static directory not found. Term pages not copied.');
+    console.warn('Static directory not found. Pages not copied.');
 }
 
 // Copy CSS files to 'assets/css'
