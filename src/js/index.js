@@ -40,14 +40,14 @@ if (typeof document !== 'undefined') {
 }
 
 export function initApp() {
-    // const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
+    const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
     // loadTranslations(storedLanguage);
 
     function searchQuery() {
         document.getElementById('search-button').addEventListener('click', function () {
             const searchQuery = document.getElementById('search-input').value.toLowerCase();
-            const locale = document.documentElement.lang;
-            const indexUrl = `./${locale}/directoryContents.json`;
+            // const locale = document.documentElement.lang;
+            const indexUrl = `./directoryContents.json`;
 
             fetch(indexUrl)
                 .then(response => response.json())
@@ -79,7 +79,7 @@ export function initApp() {
 
             results.forEach(result => {
                 const listItem = document.createElement('li');
-                listItem.innerHTML = `<a href="./${locale}/${result.link}">${result.name}</a>`;
+                listItem.innerHTML = `<a href="./${storedLanguage}/${result.link}">${result.name}</a>`;
                 resultsContainer.appendChild(listItem);
             });
         }

@@ -66,8 +66,6 @@ export function initNavbar() {
       localStorage.setItem("selectedLanguage", languageSlug);
       console.log("Site language set to: " + languageSlug);
 
-      document.documentElement.lang = languageCode;
-
       const currentPath = window.location.pathname.split("/").slice(2).join("/");
       window.location.href = `/${languageSlug}/${currentPath}`;
     } else {
@@ -75,13 +73,12 @@ export function initNavbar() {
     }
   };
 
-  document.addEventListener("DOMContentLoaded", async () => {
+  document.addEventListener("DOMContentLoaded", () => {
     const languageSelector = document.getElementById("language-selector");
     const storedLanguage = localStorage.getItem("selectedLanguage") || "us-english";
     languageSelector.value = storedLanguage;
 
-    const languageCode = await convertLanguageFormat(storedLanguage, "slug", "fourLetterDash");
-    document.documentElement.lang = languageCode;
+    // No need to set document.documentElement.lang or load translations, as we're only navigating between pages
   });
 
   document.getElementById("language-selector").addEventListener("change", handleLanguageChange);
