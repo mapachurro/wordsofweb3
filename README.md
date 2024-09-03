@@ -47,22 +47,25 @@ This means that if you're installing an npm package, or importing a CDN, you mig
 
 Yes, this means custom scripting; but anyone that tells you that an npm package or open source project will require *less* maintenance than custom scripts that do what you want, well, wish them the best of luck with that.
 
-### Creating the homepages
+### Homepages
 
 As a fully internationalized app, the site will actually have multiple potential versions of its homepage.
 
-This will likely mean an `index.html`, which loads an `index.js`; that JS file will likely ensure:
+This means there is an `index.html` page in the root directory `./`, as well as an index.html page in each of the locale directories, e.g. `./nederlands/index.html`.
 
-- The user's browser language is detected
-- An appropriate linguistic version of the site is loaded
-    - Filling in the UI elements in a templated version of the homepage, using JQuery-like placeholders or tags, with UI strings from a .json file corresponding to the language in question
-        - And falling back to the closest available locale (e.g. fall back to es-419 if es_HN is not available), or English if there is no support for a language family at all
+The root index file, upon load, *should* detect the user's browser locale, and direct them to the correct `./<locale>/index.html` file.
+If there doesn't seem to be an appropriate locale for the user, the root index file should show a welcome message, display all available locales and allow the user to choose one.
+
+These homepages are created by `build-homepages.js`, which runs during the build process.
+This script ingests `index-template.html`, and applies UI translation strings found in `./l10n/<four-letter-dash-locale-code>/translation.json` to the elements that need to contain human-readable information.
 
 #### The Navbar and language switching
 
-There will be a language dropdown selector on the navbar of the site.
-Changing the language in this dropdown will trigger a function in `index.js` which loads the corresponding language's strings -- **and changes the links on the page to URL paths or slugs which match that language**.
-There will be no English-langauge slug elements when a user is experiencing the site in a language other than English.
+The language dropdown selector on this site is much dumber than many that are out there.
+
+It should do two things: update its current state to whatever language you've chosen, and take you to the equivalent of the page that you're on in that locale. It will do this through static routing and a term equivalency mapping object that is created in the `build-pages.js` script.
+
+The navbar does not do any UI string swapping. Or, at least, it shouldn't.
 
 ### Creating the glossary entries
 
@@ -143,95 +146,18 @@ Once this information is in its .json files in corresponding locale folders, we 
 
 `./utils/build-pages.js` does the following:
 
-- Contains a mapping of locales to human-readable language names, **which will be used as the names of the corresponding directories into which every entry page will be placed**:
-
-```javascript
-// Locale to Language Name Mapping
-const languageNames = {
-    "ar_AR": "العربية",
-    "zh_CN": "中文-(简体)",
-    "zh_TW": "中文-(繁體)",
-    "nl_NL": "nederlands",
-    "fr_FR": "français",
-    "el_GR": "Ελληνικά",
-    "ha_NG": "hausa",
-    "hi_IN": "हिन्दी",
-    "hu_HU": "magyar",
-    "id_ID": "bahasa-indonesia",
-    "ja_JP": "日本語",
-    "ko_KR": "한국어",
-    "fa_IR": "فارسی",
-    "ms_MY": "bahasa-melayu",
-    "pcm_NG": "naijá",
-    "pl_PL": "polski",
-    "pt_BR": "português-brasil",
-    "ro_RO": "română",
-    "ru_RU": "Русский",
-    "es-419": "español-latinoamérica",
-    "tl_PH": "tagalog",
-    "th_TH": "ไทย",
-    "tr_TR": "türkçe",
-    "uk_UA": "Українська",
-    "vi_VN": "tiếng-việt",
-};
-
-```
-
-- Contains an entry template, which will be a wireframe HTML of what each `term`'s entry page should have on it:
-
-```javascript
-const template = `
-<!DOCTYPE html>
-<html lang="{{locale}}">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../../css/styles.css">
-  <title>{{term}} - wordsofweb3</title>
-</head>
-<body>
-  <header>
-    <nav class="navbar">
-      <div class="logo">
-        <img src="../../assets/education-dao-circle.png" alt="Logo" />
-        wordsofweb3
-      </div>
-    </nav>
-  </header>
-  <main>
-    <h1 id="term">{{term}}</h1>
-    <p id="phonetic"><strong>Phonetic:</strong> {{phonetic}}</p>
-    <h3 id="partofspeech"><strong>Part of Speech:</strong> {{partOfSpeech}}</h3>
-    <h3 id="category"><strong>Category:</strong> {{termCategory}}</h3>
-    <p id="definition"><strong>Definition:</strong> {{definition}}</p>
-  </main>
-  <footer>
-    <p>&copy; 2024 Education DAO</p>
-  </footer>
-</body>
-</html>
-`;
-```
-
-The script then dynamically creates content for each entry, by mapping structured content from the .json to the html ids:
-
-```javascript
- Object.keys(terms).forEach((termKey) => {
-    const termData = terms[termKey] || {};
-    const termValue = termData.term || "";
-    const phoneticValue = termData.phonetic || "";
-    const partOfSpeechValue = termData.partOfSpeech || "";
-    const definitionValue = termData.definition || "Definition not available.";
-    const termCategoryValue = termData.termCategory || "";
-```
+- Ingests `template.html`
+- Looks up the list of terms in each language, in `./locales/<four-letter-dash-locale-code>/<four-letter-dash-locale-code>.json`
+  - Iterates through that .json file, and for each `term` object, 
+    - Creates an .HTML file, filling in the placeholders in the HTML template with the values found in the object.
 
 The script then should save that HTML file (e.g. `cuenta.html`) in a directory which it will create (and overwrite the contents of if it already exists, to ensure the most up to date build / version) if it doesn't already exist.
 
 The script should save these **static HTML files** to:
 
-`./static/<languageName>/<termin-that-language>.html`
+`./static/<language-slug>/<term-in-that-language>.html`
 
-**TODO**: a consideration should be made for linking readers to the entry page for *the term whose page they're on, but in a different language*. So, if I'm reading an entry in French, there could be, e.g., a sidebar or section at the bottom of the page like so:
+There is a cross-locale mapping function present in this script, which should link a term entry in one language to its equivalent in every other in which it exists, by using the `object key` from the .json file, which should be the same for every term across all languages. It produces something like this:
 
 ```markdown
 ### Read this entry in:
@@ -239,20 +165,40 @@ The script should save these **static HTML files** to:
 [English](./path-to-entry-in-English.html)
 
 ```
-Given the fact that each `term` object will be labelled with its equivalent in English, a sort of reverse route mapping function could be developed to draw the connections between translations of given terms, and during the build process, create these links in the entry pages.
 
 ### Paths and slugs
 
-Ideally, the url structure will be something like `wordsofweb3/home`; `wordsofweb3/account`; `wordsofweb3/cuenta`, with no prefixing of e.g. locale codes, etc. This may require a small file server, to make each locale's HTML files available at the top directory level.
+wordsofweb3 should always prioritize human-readability over concessions to the conventions of machines, even when that sucks for technical reasons.
 
-Additionally, we should not, e.g., convert non-Latin alphabets into strings of `%%C9A%` etc.; this is meant to be a reference and educational site, and making the URLs unreadable to those trying to access it is contrary to its primary goals.
+An example of this: we do not have paths like `/es-419/cuenta.html`; no, we have `/nederlands/ethereum.html`. This does mean that, at times, we have to leverage functions available in the `l10n.js` script to convert between different formats of language codes. This script leverages a .json file which contains several different formats, at `./l10n/language-codes.json`:
+
+```json
+{
+    "ar-AR": {
+        "name": "العربية",
+        "slug": "العربية",
+        "fourLetterDash": "ar-AR",
+        "fourLetterUnderscore": "ar_AR",
+        "twoLetter": "ar",
+        "threeLetter": "ara"
+    },
+    "zh-CN": {
+        "name": "中文-(简体)",
+        "slug": "中文-(简体)",
+        "fourLetterDash": "zh-CN",
+        "fourLetterUnderscore": "zh_CN",
+        "twoLetter": "zh",
+        "threeLetter": "zho"
+    },
+```
+...and so on.
 
 ## Creating the connections between the `definitions`
 
 Subsequent to the creation of the entry pages in `build-pages.js`, a second script is run (when invoked using `npm run build` and the `build.js` script): `./utils/intertextual.js` does the following:
 
-- Ingest the corresponding `./locales/<locale-code>.json` file
-- Iterate over the built files for that locale in `./static/<locale-code>/*`
+- Ingest the corresponding `./locales/<four-letter-dash-locale-code>/<four-letter-dash-locale-code>.json` file
+- Iterate over the built files for that locale in `./static/<locale-slug>/*`
 - In each HTML file within that directory, locate the `<p id="description">` tag which will have been created by `build-pages.js`
 - Search for terms or phrases which [match](#matching) a `term` key in the .json file
 - For each match, create a hyperlink to that term, following the pattern `./<term-key>.html`. Given that all the .html files will be in the same directory, this should provide for easy resolution. **terms will not be indexed across languages**.
@@ -272,23 +218,26 @@ One option is to leverage [lunr-languages](https://github.com/MihaiValentin/lunr
 ```bash
 ./build (once build.js has been run (npm run build))
     index.html
-    index.js
     ./js
         search.js
         navbar.js
+        index.js
+        l10n.js
+        explore.js
     ./assets
-        ./search-indices
-            `<locale-code>-index.json` x number of locales
+        <locale-code>-index.json` x number of locales
     ./css
         styles.css
     ./images
         `any images needed by the app`
     favicon.ico
     ./en-US
+        directoryContents.json
         51%-attack.html
         account.html
             etc.
     ./es-ES
+        directoryContents.json
         ataque-del-51%.html
         cuenta.html
         ...etc
@@ -296,18 +245,16 @@ One option is to leverage [lunr-languages](https://github.com/MihaiValentin/lunr
 
 ## Navbar / top-level link structure
 
-As stated, upon changing the language using the dropdown selector (or the URL bar), the `index.js` script will change the UI strings; it should also change *the search index used for any searches made*, such that if I have selected Nigerian Pidgin, I am searching the index of Nigerian Pidgin terms.
+As stated, upon changing the language using the dropdown selector (or the URL bar), you go to the corresponding index.html page.
 
+This should also change *the search index used for any searches made*, such that if I have selected Nigerian Pidgin, I am searching the index of Nigerian Pidgin terms.
 
 # Search
 
 The search will be key functionality in this site.
 
-The current plan is to use `lunr.js`, perhaps as the sole dependency added to this project, to build search indices during the build phase, which when created, are written to `./build/assets/search-indices/<locale-code>-index.json`. 
+The current implementation leverages the directoryContents.json files, which are generated during build. It currently matches any terms which have the search query term in them. Ideally, we have something like this in the future:
 
-The search function should, as indicated, consult the linguistically correct search index for the locale the user has selected.
-
-An autocomplete function would be nice, although that depends on how many dependencies that would bring into the app. The search function should display a new page--for which, perhaps, a `results.html` and `results.js` template should be made--which would display:
 
 ```markdown
 ## Term matches
