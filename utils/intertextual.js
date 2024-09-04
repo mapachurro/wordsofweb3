@@ -50,10 +50,10 @@ export default function intertextualLinks() {
             let content = fs.readFileSync(filePath, 'utf-8');
 
             // Isolate the content inside the <p id="description"> tag
-            const descriptionRegex = /<p id="description">([\s\S]*?)<\/p>/i;
+            const descriptionRegex = /<p id="definition">([\s\S]*?)<\/p>/i;
             const descriptionMatch = content.match(descriptionRegex);
             if (!descriptionMatch) {
-                console.warn(`No <p id="description"> tag found in file: ${filePath}`);
+                console.warn(`No <p id="definition"> tag found in file: ${filePath}`);
                 return;
             }
 
