@@ -15,7 +15,6 @@ export function renderNavbar(languageOptions) {
   `;
 }
 
-// Example language options array, you can dynamically generate this based on your locales
 export const languageOptions = [
   { value: "us-english", label: "English" },
   { value: "deutsch", label: "Deutsch" },
@@ -51,6 +50,8 @@ export function initNavbar() {
   const handleLogoClick = () => {
     const language = localStorage.getItem("selectedLanguage") || "us-english";
     const currentPath = window.location.pathname;
+    
+    // Redirect to the homepage for the selected language
     if (!currentPath.includes(`/${language}/`)) {
       window.location.href = `/${language}/index.html`;
     } else {
@@ -60,27 +61,38 @@ export function initNavbar() {
 
   const handleLanguageChange = async () => {
     const languageSlug = document.getElementById("language-selector").value;
-    const languageCode = await convertLanguageFormat(languageSlug, "slug", "fourLetterDash");
+    
+    try {
+      const languageCode = await convertLanguageFormat(languageSlug, "slug", "fourLetterDash");
 
-    if (languageCode) {
-      localStorage.setItem("selectedLanguage", languageSlug);
-      console.log("Site language set to: " + languageSlug);
+      if (languageCode) {
+        localStorage.setItem("selectedLanguage", languageSlug);
+        console.log("Site language set to: " + languageSlug);
 
-      const currentPath = window.location.pathname.split("/").slice(2).join("/");
-      window.location.href = `/${languageSlug}/${currentPath}`;
-    } else {
-      console.error("Invalid language selection");
+        const currentPathParts = window.location.pathname.split("/");
+        const currentPage = currentPathParts.pop(); // Get the current page (e.g., index.html or term page)
+        const newPath = `/${languageSlug}/${currentPage || "index.html"}`;
+
+        window.location.href = newPath;
+      } else {
+        throw new Error("Invalid language selection");
+      }
+    } catch (error) {
+      console.error("Error during language selection:", error);
     }
   };
 
   document.addEventListener("DOMContentLoaded", () => {
     const languageSelector = document.getElementById("language-selector");
     const storedLanguage = localStorage.getItem("selectedLanguage") || "us-english";
+
+    // Set the language selector to the correct value based on the current language
     languageSelector.value = storedLanguage;
 
     // No need to set document.documentElement.lang or load translations, as we're only navigating between pages
   });
 
+  // Set event listeners
   document.getElementById("language-selector").addEventListener("change", handleLanguageChange);
   document.querySelector(".logo").addEventListener("click", handleLogoClick);
 }
