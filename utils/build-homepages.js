@@ -11,7 +11,7 @@ const templatePath = path.join(__dirname, 'index-template.html');
 const template = fs.readFileSync(templatePath, 'utf-8');
 
 // Locale to Language Name Mapping
-const languageNames = {
+const languageSlugs = {
     "ar-AR": "العربية",
     "zh-CN": "中文-(简体)",
     "zh-TW": "中文-(繁體)",
@@ -57,9 +57,9 @@ export default function buildHomepages() {
             return;
         }
 
-        const languageName = languageNames[locale];
-        if (languageName) {
-            const localeOutputDir = path.join(outputDir, languageName);
+        const languageSlug = languageSlugs[locale];
+        if (languageSlug) {
+            const localeOutputDir = path.join(outputDir, languageSlug);
             if (!fs.existsSync(localeOutputDir)) {
                 fs.mkdirSync(localeOutputDir, { recursive: true });
             }
@@ -74,7 +74,7 @@ export default function buildHomepages() {
                 .replace(/{{exploreHeader}}/g, translations['Glossary'] || 'Explore');
 
             // Generate options for the language selector
-            const languageOptions = Object.entries(languageNames)
+            const languageOptions = Object.entries(languageSlugs)
                 .map(([code, name]) => `<option value="${name}">${translations[name] || name}</option>`)
                 .join('');
 

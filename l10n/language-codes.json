@@ -87,6 +87,14 @@
         "twoLetter": "id",
         "threeLetter": "ind"
     },
+    "it-IT":{
+        "name": "italiano",
+        "slug": "italiano",
+        "fourLetterDash": "it-IT",
+        "fourLetterUnderscore": "it_IT",
+        "twoLetter": "it",
+        "threeLetter": "ita"
+    },
     "ja-JP": {
         "name": "日本語",
         "slug": "日本語",

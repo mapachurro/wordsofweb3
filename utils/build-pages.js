@@ -15,7 +15,7 @@ const template = fs.readFileSync(templatePath, 'utf-8');
 
 // Locale to Language Name Mapping. 
 // IMPORTANT: THIS IS THE LIST OF LOCALES THAT WILL BE BUILT.
-const languageNames = {
+const languageSlugs = {
     "ar-AR": "العربية",
     "el-GR": "Ελληνικά",
     "en-US": "us-english",
@@ -105,12 +105,12 @@ export default function buildPages() {
             return; // Skip this locale if the file cannot be read or parsed
         }
 
-        const languageName = languageNames[locale];
-        if (languageName) {
-            const localeOutputDir = path.join(outputDir, languageName);
+        const languageSlug = languageSlugs[locale];
+        if (languageSlug) {
+            const localeOutputDir = path.join(outputDir, languageSlug);
             if (!fs.existsSync(localeOutputDir)) {
                 fs.mkdirSync(localeOutputDir, { recursive: true });
-                logToFile(`Created directory for language: ${languageName}`);
+                logToFile(`Created directory for language: ${languageSlug}`);
             }
 
             Object.keys(terms).forEach((termKey) => {
@@ -136,7 +136,7 @@ export default function buildPages() {
 
                 // Generate language switcher links
                 const languageLinks = locales.map(lang => {
-                    const langName = languageNames[lang];
+                    const langName = languageSlugs[lang];
                     const translatedTerm = crossLocaleMap[termKey][lang];
                     if (translatedTerm) {
                         const safeTranslatedTerm = translatedTerm.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "");
