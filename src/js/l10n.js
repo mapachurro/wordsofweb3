@@ -22,8 +22,8 @@ async function loadLanguageMapNode() {
     return JSON.parse(data);
 }
 
-function convertLanguageFormatNode(value, fromFormat, toFormat) {
-    const languageMap = loadLanguageMapNode();
+async function convertLanguageFormatNode(value, fromFormat, toFormat) {
+    const languageMap = await loadLanguageMapNode();  // Await the result here
     for (let key in languageMap) {
         if (languageMap[key][fromFormat] === value) {
             return languageMap[key][toFormat];

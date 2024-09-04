@@ -15,18 +15,22 @@ function escapeRegExp(string) {
 const localesDir = path.join(__dirname, '../locales');
 const staticDir = path.join(__dirname, '../static');
 
-export default function intertextualLinks(){
-    fs.readdirSync(staticDir).forEach((slugDir) => {
+export default function intertextualLinks() {
+    fs.readdirSync(staticDir).forEach(async (slugDir) => {
+        console.log(`Attempting to convert slug: ${slugDir}`);
+        
         // Convert slug directory name back to the four-letter-dash format
-        const locale = convertLanguageFormat(slugDir, 'slug', 'fourLetterDash');
-        console.log('Commencing intertextual hyperlink creation... *now*')
-
+        const locale = await convertLanguageFormat(slugDir, 'slug', 'fourLetterDash');
+        console.log(`Locale code found for ${slugDir}: ${locale}`);
+        
         if (!locale) {
             console.warn(`No matching locale found for slug: ${slugDir}`);
             return; // Skip if the conversion fails
         }
 
+        // Ensure we're accessing the correct locale directory for the JSON files
         const localePath = path.join(localesDir, locale, `${locale}.json`);
+        console.log('locale path:' + localePath)
         let terms;
 
         // Attempt to read and parse the JSON file
@@ -39,20 +43,21 @@ export default function intertextualLinks(){
             return; // Skip this locale if the file cannot be read or parsed
         }
 
-        const localeStaticDir = path.join(staticDir, slugDir); // Use the slugDir here
+        // Now iterate through the HTML files in the static directory for this locale slug
+        const localeStaticDir = path.join(staticDir, slugDir);
         fs.readdirSync(localeStaticDir).forEach((file) => {
             const filePath = path.join(localeStaticDir, file);
             let content = fs.readFileSync(filePath, 'utf-8');
 
-            // Isolate the content inside the <p id="definition"> tag
-            const definitionRegex = /<p id="definition">([\s\S]*?)<\/p>/i;
-            const definitionMatch = content.match(definitionRegex);
-            if (!definitionMatch) {
-                console.warn(`No <p id="definition"> tag found in file: ${filePath}`);
+            // Isolate the content inside the <p id="description"> tag
+            const descriptionRegex = /<p id="description">([\s\S]*?)<\/p>/i;
+            const descriptionMatch = content.match(descriptionRegex);
+            if (!descriptionMatch) {
+                console.warn(`No <p id="description"> tag found in file: ${filePath}`);
                 return;
             }
 
-            let definitionContent = definitionMatch[1]; // Extract the content inside <p id="definition">
+            let descriptionContent = descriptionMatch[1]; // Extract the content inside <p id="description">
 
             // Sort terms by length in descending order to avoid overlapping replacements
             const sortedTerms = Object.keys(terms).sort((a, b) => terms[b].term.length - terms[a].term.length);
@@ -74,9 +79,9 @@ export default function intertextualLinks(){
                     return;
                 }
 
-                // Replace only within the definition content
-                definitionContent = definitionContent.replace(termRegex, (match) => {
-                    const hasAnchorTag = new RegExp(`<a [^>]*>${escapeRegExp(match)}<\/a>`, 'g').test(definitionContent);
+                // Replace only within the description content
+                descriptionContent = descriptionContent.replace(termRegex, (match) => {
+                    const hasAnchorTag = new RegExp(`<a [^>]*>${escapeRegExp(match)}<\/a>`, 'g').test(descriptionContent);
                     if (hasAnchorTag) return match; // If already inside an <a> tag, return the match as is
 
                     console.log(`Linking term '${match}' to file '${fileName}' in ${filePath}`);
@@ -84,8 +89,8 @@ export default function intertextualLinks(){
                 });
             });
 
-            // Reassemble the content with the modified definition
-            content = content.replace(definitionRegex, `<p id="definition">${definitionContent}</p>`);
+            // Reassemble the content with the modified description
+            content = content.replace(descriptionRegex, `<p id="description">${descriptionContent}</p>`);
 
             try {
                 fs.writeFileSync(filePath, content, 'utf-8');
