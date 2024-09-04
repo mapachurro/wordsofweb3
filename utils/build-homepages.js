@@ -10,34 +10,36 @@ const __dirname = path.dirname(__filename);
 const templatePath = path.join(__dirname, 'index-template.html');
 const template = fs.readFileSync(templatePath, 'utf-8');
 
-// Locale to Language Name Mapping
+// Locale to Language Name Mapping. 
+// IMPORTANT: THIS IS THE LIST OF LOCALES THAT WILL BE BUILT.
 const languageSlugs = {
     "ar-AR": "العربية",
-    "zh-CN": "中文-(简体)",
-    "zh-TW": "中文-(繁體)",
-    "nl-NL": "nederlands",
-    "fr-FR": "français",
     "el-GR": "Ελληνικά",
     "en-US": "us-english",
+    "es-419": "español-latinoamérica",
+    "fa-IR": "فارسی",
+    "fr-FR": "français",
     "ha-NG": "hausa",
     "hi-IN": "हिन्दी",
     "hu-HU": "magyar",
     "id-ID": "bahasa-indonesia",
+    "it-IT": "italiano",
     "ja-JP": "日本語",
     "ko-KR": "한국어",
-    "fa-IR": "فارسی",
     "ms-MY": "bahasa-melayu",
+    "nl-NL": "nederlands",
     "pcm-NG": "naijá",
     "pl-PL": "polski",
     "pt-BR": "português-brasil",
     "ro-RO": "română",
     "ru-RU": "Русский",
-    "es-419": "español-latinoamérica",
-    "tl-PH": "tagalog",
     "th-TH": "ไทย",
+    "tl-PH": "tagalog",
     "tr-TR": "türkçe",
     "uk-UA": "Українська",
     "vi-VN": "tiếng-việt",
+    "zh-CN": "中文-(简体)",
+    "zh-TW": "中文-(繁體)",
 };
 
 // Directory paths
