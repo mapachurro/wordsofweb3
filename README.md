@@ -43,6 +43,10 @@ For these reasons, at every point at which we can choose "how to do X", we shoul
 
 This means that if you're installing an npm package, or importing a CDN, you might be doing it wrong.
 
+### Conventions
+
+We use ES Module syntax in wordsofweb3, so make sure any functionality uses this design paradigm. Additionally, please add graceful failures and error handling, and console logging, in any scripts you build or modify!
+
 ## Implementation implications
 
 Yes, this means custom scripting; but anyone that tells you that an npm package or open source project will require *less* maintenance than custom scripts that do what you want, well, wish them the best of luck with that.
