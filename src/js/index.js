@@ -3,32 +3,6 @@ import initSearch from './search.js';
 import initExplore from './explore.js';
 // import { convertLanguageFormat } from './l10n.js';
 
-// // Define loadTranslations at a higher scope
-// export async function loadTranslations(languageSlug) {
-//     const languageCode = await convertLanguageFormat(languageSlug, 'slug', 'fourLetterDash');
-//     const translationFilePath = `../../l10n/locales/${languageCode}/translation.json`;
-
-//     try {
-//         const response = await fetch(translationFilePath);
-//         if (!response.ok) {
-//             throw new Error('Translation file not found');
-//         }
-//         const translations = await response.json();
-//         updateUIStrings(translations);
-//     } catch (error) {
-//         console.error('Error loading translations:', error);
-//     }
-// }
-
-// function updateUIStrings(translations) {
-//     Object.keys(translations).forEach((key) => {
-//         const element = document.getElementById(key);
-//         if (element) {
-//             element.textContent = translations[key];
-//         }
-//     });
-// }
-
 if (typeof document !== 'undefined') {
     document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('navbar-container').innerHTML = renderNavbar(languageOptions);
