@@ -52,22 +52,6 @@
     "link": "agoric.html"
   },
   {
-    "name": "agregator-nft",
-    "link": "agregator-nft.html"
-  },
-  {
-    "name": "agregator",
-    "link": "agregator.html"
-  },
-  {
-    "name": "agresif",
-    "link": "agresif.html"
-  },
-  {
-    "name": "air-gap",
-    "link": "air-gap.html"
-  },
-  {
     "name": "air-gapping",
     "link": "air-gapping.html"
   },
@@ -84,48 +68,12 @@
     "link": "airswap.html"
   },
   {
-    "name": "aktifkan",
-    "link": "aktifkan.html"
-  },
-  {
-    "name": "akun-kontrak",
-    "link": "akun-kontrak.html"
-  },
-  {
-    "name": "akun",
-    "link": "akun.html"
-  },
-  {
-    "name": "alamat\"alamat-publik\"-(alamat-dompet)",
-    "link": "alamat\"alamat-publik\"-(alamat-dompet).html"
-  },
-  {
-    "name": "alamat-ip",
-    "link": "alamat-ip.html"
-  },
-  {
-    "name": "alamat-nol",
-    "link": "alamat-nol.html"
-  },
-  {
-    "name": "alamat-publik-ethereum",
-    "link": "alamat-publik-ethereum.html"
-  },
-  {
-    "name": "alamat-publik",
-    "link": "alamat-publik.html"
-  },
-  {
     "name": "alerts",
     "link": "alerts.html"
   },
   {
     "name": "algorithm",
     "link": "algorithm.html"
-  },
-  {
-    "name": "algoritma",
-    "link": "algoritma.html"
   },
   {
     "name": "altcoin",
@@ -136,28 +84,12 @@
     "link": "aml-(anti-money-laundering).html"
   },
   {
-    "name": "aml-(anti-pencucian-uang)",
-    "link": "aml-(anti-pencucian-uang).html"
-  },
-  {
-    "name": "api-(antarmuka-pemrograman-aplikasi)",
-    "link": "api-(antarmuka-pemrograman-aplikasi).html"
-  },
-  {
     "name": "api-(application-programming-interface)",
     "link": "api-(application-programming-interface).html"
   },
   {
     "name": "api",
     "link": "api.html"
-  },
-  {
-    "name": "aplikasi-ledger-live",
-    "link": "aplikasi-ledger-live.html"
-  },
-  {
-    "name": "aplikasi-terdesentralisasi",
-    "link": "aplikasi-terdesentralisasi.html"
   },
   {
     "name": "appchain",
@@ -176,24 +108,8 @@
     "link": "arbitrum.html"
   },
   {
-    "name": "asal-usul-aset",
-    "link": "asal-usul-aset.html"
-  },
-  {
-    "name": "aset-digital",
-    "link": "aset-digital.html"
-  },
-  {
-    "name": "aset-kripto",
-    "link": "aset-kripto.html"
-  },
-  {
     "name": "asic-(application-specific-integrated-circuit)",
     "link": "asic-(application-specific-integrated-circuit).html"
-  },
-  {
-    "name": "asic-(sirkuit-terpadu-khusus-aplikasi)",
-    "link": "asic-(sirkuit-terpadu-khusus-aplikasi).html"
   },
   {
     "name": "asset-provenance",
@@ -208,20 +124,8 @@
     "link": "aurora.html"
   },
   {
-    "name": "autentikasi-dua-faktor-(2fa)",
-    "link": "autentikasi-dua-faktor-(2fa).html"
-  },
-  {
-    "name": "autentikasi-multifaktor",
-    "link": "autentikasi-multifaktor.html"
-  },
-  {
     "name": "autodetection",
     "link": "autodetection.html"
-  },
-  {
-    "name": "autodeteksi",
-    "link": "autodeteksi.html"
   },
   {
     "name": "avalanche",
@@ -252,48 +156,12 @@
     "link": "base-fee.html"
   },
   {
-    "name": "batal",
-    "link": "batal.html"
-  },
-  {
-    "name": "batas-gas",
-    "link": "batas-gas.html"
-  },
-  {
     "name": "beacon-chain",
     "link": "beacon-chain.html"
   },
   {
-    "name": "beralih-(verb)",
-    "link": "beralih-(verb).html"
-  },
-  {
-    "name": "berasal--turunan",
-    "link": "berasal--turunan.html"
-  },
-  {
     "name": "besu",
     "link": "besu.html"
-  },
-  {
-    "name": "biaya-dasar",
-    "link": "biaya-dasar.html"
-  },
-  {
-    "name": "biaya-gas",
-    "link": "biaya-gas.html"
-  },
-  {
-    "name": "biaya-prioritas-maksimum",
-    "link": "biaya-prioritas-maksimum.html"
-  },
-  {
-    "name": "biaya-prioritas",
-    "link": "biaya-prioritas.html"
-  },
-  {
-    "name": "biaya-transaksi",
-    "link": "biaya-transaksi.html"
   },
   {
     "name": "binance",
@@ -302,10 +170,6 @@
   {
     "name": "biometrics",
     "link": "biometrics.html"
-  },
-  {
-    "name": "biometrik",
-    "link": "biometrik.html"
   },
   {
     "name": "bitcoin",
@@ -320,16 +184,8 @@
     "link": "block-explorer.html"
   },
   {
-    "name": "block-genesis",
-    "link": "block-genesis.html"
-  },
-  {
     "name": "block-height",
     "link": "block-height.html"
-  },
-  {
-    "name": "block-ommer",
-    "link": "block-ommer.html"
   },
   {
     "name": "block-reward",
@@ -340,28 +196,8 @@
     "link": "block-time.html"
   },
   {
-    "name": "block-transaksi",
-    "link": "block-transaksi.html"
-  },
-  {
     "name": "blockchain-explorer",
     "link": "blockchain-explorer.html"
-  },
-  {
-    "name": "blockchain-modular",
-    "link": "blockchain-modular.html"
-  },
-  {
-    "name": "blockchain-pribadi",
-    "link": "blockchain-pribadi.html"
-  },
-  {
-    "name": "blockchain-publik",
-    "link": "blockchain-publik.html"
-  },
-  {
-    "name": "blockchain-trilema",
-    "link": "blockchain-trilema.html"
   },
   {
     "name": "blockchain-trilemma",
@@ -388,10 +224,6 @@
     "link": "bounty--bug-bounty.html"
   },
   {
-    "name": "bounty-kripto",
-    "link": "bounty-kripto.html"
-  },
-  {
     "name": "brain-wallet",
     "link": "brain-wallet.html"
   },
@@ -412,64 +244,12 @@
     "link": "btc.html"
   },
   {
-    "name": "buat",
-    "link": "buat.html"
-  },
-  {
     "name": "bug-report",
     "link": "bug-report.html"
   },
   {
     "name": "buidl",
     "link": "buidl.html"
-  },
-  {
-    "name": "buka",
-    "link": "buka.html"
-  },
-  {
-    "name": "bukti-kepemilikan-(pos)",
-    "link": "bukti-kepemilikan-(pos).html"
-  },
-  {
-    "name": "bukti-kerja-(pow)",
-    "link": "bukti-kerja-(pow).html"
-  },
-  {
-    "name": "bukti-nol-pengetahuan",
-    "link": "bukti-nol-pengetahuan.html"
-  },
-  {
-    "name": "bukti-otoritas-(poa)",
-    "link": "bukti-otoritas-(poa).html"
-  },
-  {
-    "name": "bukti-penipuan",
-    "link": "bukti-penipuan.html"
-  },
-  {
-    "name": "bukti-validitas",
-    "link": "bukti-validitas.html"
-  },
-  {
-    "name": "bursa-terdesentralisasi-(dex)",
-    "link": "bursa-terdesentralisasi-(dex).html"
-  },
-  {
-    "name": "bursa-terdesentralisasi",
-    "link": "bursa-terdesentralisasi.html"
-  },
-  {
-    "name": "bursa-tersentralisasi-(cex)",
-    "link": "bursa-tersentralisasi-(cex).html"
-  },
-  {
-    "name": "bursa-tersentralisasi",
-    "link": "bursa-tersentralisasi.html"
-  },
-  {
-    "name": "bursa",
-    "link": "bursa.html"
   },
   {
     "name": "bytecode",
@@ -484,16 +264,8 @@
     "link": "byzantium-fork.html"
   },
   {
-    "name": "cadangan",
-    "link": "cadangan.html"
-  },
-  {
     "name": "cancel",
     "link": "cancel.html"
-  },
-  {
-    "name": "cari",
-    "link": "cari.html"
   },
   {
     "name": "celo",
@@ -508,20 +280,12 @@
     "link": "centralized-exchange.html"
   },
   {
-    "name": "cetak",
-    "link": "cetak.html"
-  },
-  {
     "name": "cex",
     "link": "cex.html"
   },
   {
     "name": "chain-id",
     "link": "chain-id.html"
-  },
-  {
-    "name": "chain-pecahan",
-    "link": "chain-pecahan.html"
   },
   {
     "name": "chrome",
@@ -696,20 +460,12 @@
     "link": "dai.html"
   },
   {
-    "name": "dana-kripto",
-    "link": "dana-kripto.html"
-  },
-  {
     "name": "dao",
     "link": "dao.html"
   },
   {
     "name": "dapp",
     "link": "dapp.html"
-  },
-  {
-    "name": "data-hex",
-    "link": "data-hex.html"
   },
   {
     "name": "decentralization",
@@ -752,10 +508,6 @@
     "link": "defi.html"
   },
   {
-    "name": "dekriptor-vault",
-    "link": "dekriptor-vault.html"
-  },
-  {
     "name": "delegated-proof-of-stake-(dpos)",
     "link": "delegated-proof-of-stake-(dpos).html"
   },
@@ -764,20 +516,12 @@
     "link": "delete.html"
   },
   {
-    "name": "demokrasi-likuid-(demokrasi-delegatif)",
-    "link": "demokrasi-likuid-(demokrasi-delegatif).html"
-  },
-  {
     "name": "deposit",
     "link": "deposit.html"
   },
   {
     "name": "derive--derivation",
     "link": "derive--derivation.html"
-  },
-  {
-    "name": "desentralisasi",
-    "link": "desentralisasi.html"
   },
   {
     "name": "dev",
@@ -820,10 +564,6 @@
     "link": "digital-signature.html"
   },
   {
-    "name": "dihapus",
-    "link": "dihapus.html"
-  },
-  {
     "name": "diligence",
     "link": "diligence.html"
   },
@@ -848,26 +588,6 @@
     "link": "dlt.html"
   },
   {
-    "name": "dompet-deterministik-hierarkis-(hd)",
-    "link": "dompet-deterministik-hierarkis-(hd).html"
-  },
-  {
-    "name": "dompet-kripto",
-    "link": "dompet-kripto.html"
-  },
-  {
-    "name": "dompet-multi-tanda-tangan-(multisig)",
-    "link": "dompet-multi-tanda-tangan-(multisig).html"
-  },
-  {
-    "name": "dompet-perangkat-keras",
-    "link": "dompet-perangkat-keras.html"
-  },
-  {
-    "name": "dompet",
-    "link": "dompet.html"
-  },
-  {
     "name": "double-spend",
     "link": "double-spend.html"
   },
@@ -876,20 +596,8 @@
     "link": "download.html"
   },
   {
-    "name": "dpos",
-    "link": "dpos.html"
-  },
-  {
     "name": "dropped",
     "link": "dropped.html"
-  },
-  {
-    "name": "dukungan-metamask",
-    "link": "dukungan-metamask.html"
-  },
-  {
-    "name": "dukungan",
-    "link": "dukungan.html"
   },
   {
     "name": "ecosystem",
@@ -908,38 +616,6 @@
     "link": "eip-1559.html"
   },
   {
-    "name": "ekosistem",
-    "link": "ekosistem.html"
-  },
-  {
-    "name": "eksekusi-mandiri",
-    "link": "eksekusi-mandiri.html"
-  },
-  {
-    "name": "eksperimental",
-    "link": "eksperimental.html"
-  },
-  {
-    "name": "ekspor",
-    "link": "ekspor.html"
-  },
-  {
-    "name": "ekstensi-kunci-pribadi-(xpriv)",
-    "link": "ekstensi-kunci-pribadi-(xpriv).html"
-  },
-  {
-    "name": "ekstensi-kunci-umum-(xpub)",
-    "link": "ekstensi-kunci-umum-(xpub).html"
-  },
-  {
-    "name": "ekstensi-metamask",
-    "link": "ekstensi-metamask.html"
-  },
-  {
-    "name": "ekstensi",
-    "link": "ekstensi.html"
-  },
-  {
     "name": "enable",
     "link": "enable.html"
   },
@@ -952,10 +628,6 @@
     "link": "encryption.html"
   },
   {
-    "name": "enkripsi",
-    "link": "enkripsi.html"
-  },
-  {
     "name": "ens",
     "link": "ens.html"
   },
@@ -964,20 +636,12 @@
     "link": "enterprise-ethereum-alliance-(eea).html"
   },
   {
-    "name": "entropi",
-    "link": "entropi.html"
-  },
-  {
     "name": "entropy",
     "link": "entropy.html"
   },
   {
     "name": "epoch",
     "link": "epoch.html"
-  },
-  {
-    "name": "epok",
-    "link": "epok.html"
   },
   {
     "name": "erc-1155",
@@ -1124,18 +788,6 @@
     "link": "fiat-currency.html"
   },
   {
-    "name": "file-json",
-    "link": "file-json.html"
-  },
-  {
-    "name": "file-keystore",
-    "link": "file-keystore.html"
-  },
-  {
-    "name": "final,-finalitas",
-    "link": "final,-finalitas.html"
-  },
-  {
     "name": "final,-finality",
     "link": "final,-finality.html"
   },
@@ -1184,14 +836,6 @@
     "link": "fractional-ownership.html"
   },
   {
-    "name": "frasa-mnemonik",
-    "link": "frasa-mnemonik.html"
-  },
-  {
-    "name": "frasa-pemulihan-rahasia",
-    "link": "frasa-pemulihan-rahasia.html"
-  },
-  {
     "name": "fraud-proof",
     "link": "fraud-proof.html"
   },
@@ -1202,10 +846,6 @@
   {
     "name": "full-node",
     "link": "full-node.html"
-  },
-  {
-    "name": "gagal",
-    "link": "gagal.html"
   },
   {
     "name": "ganache",
@@ -1276,10 +916,6 @@
     "link": "halving.html"
   },
   {
-    "name": "hapus",
-    "link": "hapus.html"
-  },
-  {
     "name": "hard-fork",
     "link": "hard-fork.html"
   },
@@ -1288,20 +924,12 @@
     "link": "hardware-wallet.html"
   },
   {
-    "name": "harga-gas",
-    "link": "harga-gas.html"
-  },
-  {
     "name": "harmony",
     "link": "harmony.html"
   },
   {
     "name": "hash-(noun)",
     "link": "hash-(noun).html"
-  },
-  {
-    "name": "heksadesimal-\"data-hex\"",
-    "link": "heksadesimal-\"data-hex\".html"
   },
   {
     "name": "hex-data",
@@ -1340,18 +968,6 @@
     "link": "ico.html"
   },
   {
-    "name": "id-chain",
-    "link": "id-chain.html"
-  },
-  {
-    "name": "id-token",
-    "link": "id-token.html"
-  },
-  {
-    "name": "id-transaksi",
-    "link": "id-transaksi.html"
-  },
-  {
     "name": "id",
     "link": "id.html"
   },
@@ -1360,36 +976,12 @@
     "link": "identicon.html"
   },
   {
-    "name": "identikon",
-    "link": "identikon.html"
-  },
-  {
-    "name": "identitas-digital",
-    "link": "identitas-digital.html"
-  },
-  {
-    "name": "imbalan-block",
-    "link": "imbalan-block.html"
-  },
-  {
     "name": "immutability",
     "link": "immutability.html"
   },
   {
-    "name": "impor",
-    "link": "impor.html"
-  },
-  {
     "name": "import",
     "link": "import.html"
-  },
-  {
-    "name": "imutabilitas",
-    "link": "imutabilitas.html"
-  },
-  {
-    "name": "infrastruktur-kunci-publik",
-    "link": "infrastruktur-kunci-publik.html"
   },
   {
     "name": "infura",
@@ -1402,10 +994,6 @@
   {
     "name": "insider-trading",
     "link": "insider-trading.html"
-  },
-  {
-    "name": "instal",
-    "link": "instal.html"
   },
   {
     "name": "install",
@@ -1436,10 +1024,6 @@
     "link": "interplanetary-file-system-(ipfs).html"
   },
   {
-    "name": "interpolaritas",
-    "link": "interpolaritas.html"
-  },
-  {
     "name": "invalid",
     "link": "invalid.html"
   },
@@ -1450,26 +1034,6 @@
   {
     "name": "ipfs",
     "link": "ipfs.html"
-  },
-  {
-    "name": "ipo",
-    "link": "ipo.html"
-  },
-  {
-    "name": "izin",
-    "link": "izin.html"
-  },
-  {
-    "name": "jaringan-hybrid",
-    "link": "jaringan-hybrid.html"
-  },
-  {
-    "name": "jaringan",
-    "link": "jaringan.html"
-  },
-  {
-    "name": "jazzicon",
-    "link": "jazzicon.html"
   },
   {
     "name": "jazzicons",
@@ -1484,76 +1048,8 @@
     "link": "json-rpc.html"
   },
   {
-    "name": "kap-pasar",
-    "link": "kap-pasar.html"
-  },
-  {
-    "name": "kata-sandi",
-    "link": "kata-sandi.html"
-  },
-  {
-    "name": "keamanan-&-privasi",
-    "link": "keamanan-&-privasi.html"
-  },
-  {
-    "name": "kemacetan-jaringan",
-    "link": "kemacetan-jaringan.html"
-  },
-  {
-    "name": "kepatuhan-kripto",
-    "link": "kepatuhan-kripto.html"
-  },
-  {
-    "name": "kepemilikan-fraksional",
-    "link": "kepemilikan-fraksional.html"
-  },
-  {
-    "name": "kesalahan",
-    "link": "kesalahan.html"
-  },
-  {
-    "name": "kesulitan",
-    "link": "kesulitan.html"
-  },
-  {
-    "name": "ketinggian-block",
-    "link": "ketinggian-block.html"
-  },
-  {
-    "name": "keuangan-terdesentralisasi",
-    "link": "keuangan-terdesentralisasi.html"
-  },
-  {
     "name": "keystore-file",
     "link": "keystore-file.html"
-  },
-  {
-    "name": "kiat",
-    "link": "kiat.html"
-  },
-  {
-    "name": "kirim",
-    "link": "kirim.html"
-  },
-  {
-    "name": "kit-pengembangan-perangkat-lunak-(sdk)",
-    "link": "kit-pengembangan-perangkat-lunak-(sdk).html"
-  },
-  {
-    "name": "klien-(ethereum-atau-blockchain-yang-kompatibel-lainnya)",
-    "link": "klien-(ethereum-atau-blockchain-yang-kompatibel-lainnya).html"
-  },
-  {
-    "name": "klien-eksekusi",
-    "link": "klien-eksekusi.html"
-  },
-  {
-    "name": "klien-konsensus",
-    "link": "klien-konsensus.html"
-  },
-  {
-    "name": "klien-ringan",
-    "link": "klien-ringan.html"
   },
   {
     "name": "know-your-customer-(kyc)",
@@ -1568,88 +1064,8 @@
     "link": "know-your-transaction.html"
   },
   {
-    "name": "kode-byte",
-    "link": "kode-byte.html"
-  },
-  {
-    "name": "kode-qr",
-    "link": "kode-qr.html"
-  },
-  {
-    "name": "koin",
-    "link": "koin.html"
-  },
-  {
-    "name": "komunikasi-near-field-(nfc)",
-    "link": "komunikasi-near-field-(nfc).html"
-  },
-  {
-    "name": "kondisi-slashing",
-    "link": "kondisi-slashing.html"
-  },
-  {
-    "name": "konfirmasi",
-    "link": "konfirmasi.html"
-  },
-  {
-    "name": "konfirmasikan",
-    "link": "konfirmasikan.html"
-  },
-  {
-    "name": "konsensus",
-    "link": "konsensus.html"
-  },
-  {
-    "name": "kontak",
-    "link": "kontak.html"
-  },
-  {
-    "name": "kontrak-cerdas",
-    "link": "kontrak-cerdas.html"
-  },
-  {
-    "name": "kontrak",
-    "link": "kontrak.html"
-  },
-  {
-    "name": "konversi",
-    "link": "konversi.html"
-  },
-  {
     "name": "kovan",
     "link": "kovan.html"
-  },
-  {
-    "name": "kripto-",
-    "link": "kripto-.html"
-  },
-  {
-    "name": "kriptografi-kunci-publik",
-    "link": "kriptografi-kunci-publik.html"
-  },
-  {
-    "name": "kriptografi",
-    "link": "kriptografi.html"
-  },
-  {
-    "name": "kriptonomik",
-    "link": "kriptonomik.html"
-  },
-  {
-    "name": "kunci-pribadi",
-    "link": "kunci-pribadi.html"
-  },
-  {
-    "name": "kunci-publik",
-    "link": "kunci-publik.html"
-  },
-  {
-    "name": "kunci-terenkripsi-vs-tidak-terenkripsi",
-    "link": "kunci-terenkripsi-vs-tidak-terenkripsi.html"
-  },
-  {
-    "name": "kunci",
-    "link": "kunci.html"
   },
   {
     "name": "kyc",
@@ -1660,20 +1076,8 @@
     "link": "kyt.html"
   },
   {
-    "name": "lanjutan",
-    "link": "lanjutan.html"
-  },
-  {
-    "name": "laporan-bug",
-    "link": "laporan-bug.html"
-  },
-  {
     "name": "latency",
     "link": "latency.html"
-  },
-  {
-    "name": "latensi",
-    "link": "latensi.html"
   },
   {
     "name": "lattice1",
@@ -1682,14 +1086,6 @@
   {
     "name": "launchpad",
     "link": "launchpad.html"
-  },
-  {
-    "name": "layanan-nama-ethereum-(ens)",
-    "link": "layanan-nama-ethereum-(ens).html"
-  },
-  {
-    "name": "layanan-nama-ethereum",
-    "link": "layanan-nama-ethereum.html"
   },
   {
     "name": "layer-0",
@@ -1702,14 +1098,6 @@
   {
     "name": "layer-2",
     "link": "layer-2.html"
-  },
-  {
-    "name": "layer-eksekusi",
-    "link": "layer-eksekusi.html"
-  },
-  {
-    "name": "layer-konsensus",
-    "link": "layer-konsensus.html"
   },
   {
     "name": "learn-metamask-learn",
@@ -1728,20 +1116,8 @@
     "link": "ledger-live.html"
   },
   {
-    "name": "ledger-terdistribusi",
-    "link": "ledger-terdistribusi.html"
-  },
-  {
-    "name": "ledger-yang-diizinkan",
-    "link": "ledger-yang-diizinkan.html"
-  },
-  {
     "name": "ledger",
     "link": "ledger.html"
-  },
-  {
-    "name": "lewati",
-    "link": "lewati.html"
   },
   {
     "name": "library",
@@ -1758,14 +1134,6 @@
   {
     "name": "lightning-network",
     "link": "lightning-network.html"
-  },
-  {
-    "name": "likuidasi",
-    "link": "likuidasi.html"
-  },
-  {
-    "name": "likuiditas",
-    "link": "likuiditas.html"
   },
   {
     "name": "linea",
@@ -1800,16 +1168,8 @@
     "link": "lock.html"
   },
   {
-    "name": "log-state",
-    "link": "log-state.html"
-  },
-  {
     "name": "low",
     "link": "low.html"
-  },
-  {
-    "name": "mainnet-ethereum",
-    "link": "mainnet-ethereum.html"
   },
   {
     "name": "maker-protocol",
@@ -1824,22 +1184,6 @@
     "link": "market-cap.html"
   },
   {
-    "name": "masuk",
-    "link": "masuk.html"
-  },
-  {
-    "name": "mata-uang-fiat",
-    "link": "mata-uang-fiat.html"
-  },
-  {
-    "name": "mata-uang-kripto",
-    "link": "mata-uang-kripto.html"
-  },
-  {
-    "name": "mata-uang-pribadi",
-    "link": "mata-uang-pribadi.html"
-  },
-  {
     "name": "matic",
     "link": "matic.html"
   },
@@ -1852,28 +1196,12 @@
     "link": "maximum-priority-fee.html"
   },
   {
-    "name": "mekanisme-konsensus",
-    "link": "mekanisme-konsensus.html"
-  },
-  {
-    "name": "memindahkan",
-    "link": "memindahkan.html"
-  },
-  {
     "name": "memory-pool-mempool",
     "link": "memory-pool-mempool.html"
   },
   {
     "name": "mempool",
     "link": "mempool.html"
-  },
-  {
-    "name": "mengompilasi",
-    "link": "mengompilasi.html"
-  },
-  {
-    "name": "menunggu",
-    "link": "menunggu.html"
   },
   {
     "name": "mercuryo",
@@ -1890,18 +1218,6 @@
   {
     "name": "mesh",
     "link": "mesh.html"
-  },
-  {
-    "name": "mesin-pencari",
-    "link": "mesin-pencari.html"
-  },
-  {
-    "name": "mesin-virtual-ethereum-(evm)",
-    "link": "mesin-virtual-ethereum-(evm).html"
-  },
-  {
-    "name": "mesin-virtual-ethereum",
-    "link": "mesin-virtual-ethereum.html"
   },
   {
     "name": "metadata",
@@ -1972,10 +1288,6 @@
     "link": "mint.html"
   },
   {
-    "name": "minta",
-    "link": "minta.html"
-  },
-  {
     "name": "mnemonic-phrase",
     "link": "mnemonic-phrase.html"
   },
@@ -2036,28 +1348,12 @@
     "link": "ngrave.html"
   },
   {
-    "name": "nilai-finalitas",
-    "link": "nilai-finalitas.html"
-  },
-  {
-    "name": "nilai-yang-dapat-diekstrak-maksimal-(mev)",
-    "link": "nilai-yang-dapat-diekstrak-maksimal-(mev).html"
-  },
-  {
-    "name": "node-penuh",
-    "link": "node-penuh.html"
-  },
-  {
     "name": "node",
     "link": "node.html"
   },
   {
     "name": "non-fungible-token",
     "link": "non-fungible-token.html"
-  },
-  {
-    "name": "nonaktifkan",
-    "link": "nonaktifkan.html"
   },
   {
     "name": "nonce",
@@ -2080,10 +1376,6 @@
     "link": "on-ramp,-off-ramp.html"
   },
   {
-    "name": "on-ramp-off-ramp",
-    "link": "on-ramp-off-ramp.html"
-  },
-  {
     "name": "on-ramp",
     "link": "on-ramp.html"
   },
@@ -2098,10 +1390,6 @@
   {
     "name": "opera",
     "link": "opera.html"
-  },
-  {
-    "name": "opsional",
-    "link": "opsional.html"
   },
   {
     "name": "optimism",
@@ -2120,22 +1408,6 @@
     "link": "oracle.html"
   },
   {
-    "name": "organisasi-otonom-terdesentralisasi-(dao)",
-    "link": "organisasi-otonom-terdesentralisasi-(dao).html"
-  },
-  {
-    "name": "organisasi-otonom-terdesentralisasi",
-    "link": "organisasi-otonom-terdesentralisasi.html"
-  },
-  {
-    "name": "output-transaksi-tidak-digunakan-(utxo)",
-    "link": "output-transaksi-tidak-digunakan-(utxo).html"
-  },
-  {
-    "name": "output-transaksi-yang-tidak-digunakan",
-    "link": "output-transaksi-yang-tidak-digunakan.html"
-  },
-  {
     "name": "p2p",
     "link": "p2p.html"
   },
@@ -2144,20 +1416,8 @@
     "link": "palm.html"
   },
   {
-    "name": "panggilan-prosedur-jarak-jauh-(rpc)",
-    "link": "panggilan-prosedur-jarak-jauh-(rpc).html"
-  },
-  {
-    "name": "panggilan-prosedur-jarak-jauh",
-    "link": "panggilan-prosedur-jarak-jauh.html"
-  },
-  {
     "name": "paraswap",
     "link": "paraswap.html"
-  },
-  {
-    "name": "paritas",
-    "link": "paritas.html"
   },
   {
     "name": "parity",
@@ -2188,92 +1448,8 @@
     "link": "peer-to-peer.html"
   },
   {
-    "name": "pelajari",
-    "link": "pelajari.html"
-  },
-  {
-    "name": "pemecahan-(noun)",
-    "link": "pemecahan-(noun).html"
-  },
-  {
-    "name": "penambang",
-    "link": "penambang.html"
-  },
-  {
-    "name": "penambangan",
-    "link": "penambangan.html"
-  },
-  {
-    "name": "penawaran-token-keamanan-(sto)",
-    "link": "penawaran-token-keamanan-(sto).html"
-  },
-  {
-    "name": "pencarian-token",
-    "link": "pencarian-token.html"
-  },
-  {
     "name": "pending",
     "link": "pending.html"
-  },
-  {
-    "name": "pengaturan",
-    "link": "pengaturan.html"
-  },
-  {
-    "name": "pengelola-kata-sandi",
-    "link": "pengelola-kata-sandi.html"
-  },
-  {
-    "name": "pengelola",
-    "link": "pengelola.html"
-  },
-  {
-    "name": "pengembang",
-    "link": "pengembang.html"
-  },
-  {
-    "name": "pengesahan",
-    "link": "pengesahan.html"
-  },
-  {
-    "name": "penggunaan-ganda",
-    "link": "penggunaan-ganda.html"
-  },
-  {
-    "name": "penipuan",
-    "link": "penipuan.html"
-  },
-  {
-    "name": "penukaran-(noun)",
-    "link": "penukaran-(noun).html"
-  },
-  {
-    "name": "penyimpanan-(noun)",
-    "link": "penyimpanan-(noun).html"
-  },
-  {
-    "name": "penyimpanan-mandiri-(noun)",
-    "link": "penyimpanan-mandiri-(noun).html"
-  },
-  {
-    "name": "perangkat",
-    "link": "perangkat.html"
-  },
-  {
-    "name": "perbarui-(verb)",
-    "link": "perbarui-(verb).html"
-  },
-  {
-    "name": "percepat",
-    "link": "percepat.html"
-  },
-  {
-    "name": "peringatan",
-    "link": "peringatan.html"
-  },
-  {
-    "name": "permintaan",
-    "link": "permintaan.html"
   },
   {
     "name": "permission",
@@ -2284,28 +1460,12 @@
     "link": "permissioned-ledger.html"
   },
   {
-    "name": "peta-jalan",
-    "link": "peta-jalan.html"
-  },
-  {
     "name": "phishing-(noun)",
     "link": "phishing-(noun).html"
   },
   {
-    "name": "pindai",
-    "link": "pindai.html"
-  },
-  {
     "name": "plasma",
     "link": "plasma.html"
-  },
-  {
-    "name": "platform-komunitas-metamask",
-    "link": "platform-komunitas-metamask.html"
-  },
-  {
-    "name": "platform-komunitas",
-    "link": "platform-komunitas.html"
   },
   {
     "name": "poa,-pos,-pow",
@@ -2316,36 +1476,12 @@
     "link": "polygon.html"
   },
   {
-    "name": "pool-likuiditas",
-    "link": "pool-likuiditas.html"
-  },
-  {
-    "name": "pool-memori-mempool",
-    "link": "pool-memori-mempool.html"
-  },
-  {
-    "name": "pool-transaksi",
-    "link": "pool-transaksi.html"
-  },
-  {
     "name": "portfolio",
     "link": "portfolio.html"
   },
   {
     "name": "pospow-hybrid",
     "link": "pospow-hybrid.html"
-  },
-  {
-    "name": "prinsip-mengenal-nasabah-(kyc)",
-    "link": "prinsip-mengenal-nasabah-(kyc).html"
-  },
-  {
-    "name": "prinsip-mengenal-nasabah",
-    "link": "prinsip-mengenal-nasabah.html"
-  },
-  {
-    "name": "prinsip-mengenal-transaksi",
-    "link": "prinsip-mengenal-transaksi.html"
   },
   {
     "name": "priority-fee",
@@ -2384,28 +1520,8 @@
     "link": "proof-of-work.html"
   },
   {
-    "name": "proposal-peningkatan-ethereum-(eip)",
-    "link": "proposal-peningkatan-ethereum-(eip).html"
-  },
-  {
     "name": "protocol",
     "link": "protocol.html"
-  },
-  {
-    "name": "protokol-komunikasi-antar-blockchain-(ibc)",
-    "link": "protokol-komunikasi-antar-blockchain-(ibc).html"
-  },
-  {
-    "name": "protokol-maker",
-    "link": "protokol-maker.html"
-  },
-  {
-    "name": "protokol-peningkatan-ethereum",
-    "link": "protokol-peningkatan-ethereum.html"
-  },
-  {
-    "name": "protokol",
-    "link": "protokol.html"
   },
   {
     "name": "public-address",
@@ -2426,14 +1542,6 @@
   {
     "name": "public-key",
     "link": "public-key.html"
-  },
-  {
-    "name": "pulihkan",
-    "link": "pulihkan.html"
-  },
-  {
-    "name": "pusat-dukungan",
-    "link": "pusat-dukungan.html"
   },
   {
     "name": "qr-code",
@@ -2472,10 +1580,6 @@
     "link": "remove.html"
   },
   {
-    "name": "rendah",
-    "link": "rendah.html"
-  },
-  {
     "name": "request-(noun)",
     "link": "request-(noun).html"
   },
@@ -2508,18 +1612,6 @@
     "link": "rocket-pool.html"
   },
   {
-    "name": "roll-up-optimis",
-    "link": "roll-up-optimis.html"
-  },
-  {
-    "name": "rollup-nol-pengetahuan",
-    "link": "rollup-nol-pengetahuan.html"
-  },
-  {
-    "name": "rollup",
-    "link": "rollup.html"
-  },
-  {
     "name": "rollups",
     "link": "rollups.html"
   },
@@ -2538,18 +1630,6 @@
   {
     "name": "safeheron",
     "link": "safeheron.html"
-  },
-  {
-    "name": "saldo",
-    "link": "saldo.html"
-  },
-  {
-    "name": "salin",
-    "link": "salin.html"
-  },
-  {
-    "name": "saluran-state",
-    "link": "saluran-state.html"
   },
   {
     "name": "samsung-pay",
@@ -2632,40 +1712,20 @@
     "link": "self-executing.html"
   },
   {
-    "name": "sembunyikan",
-    "link": "sembunyikan.html"
-  },
-  {
     "name": "sepolia",
     "link": "sepolia.html"
-  },
-  {
-    "name": "serangan-distributed-denial-of-service-(ddos)",
-    "link": "serangan-distributed-denial-of-service-(ddos).html"
   },
   {
     "name": "serenity",
     "link": "serenity.html"
   },
   {
-    "name": "serialisasi",
-    "link": "serialisasi.html"
-  },
-  {
     "name": "serialization",
     "link": "serialization.html"
   },
   {
-    "name": "sesuaikan-nonce",
-    "link": "sesuaikan-nonce.html"
-  },
-  {
     "name": "settings",
     "link": "settings.html"
-  },
-  {
-    "name": "setujui",
-    "link": "setujui.html"
   },
   {
     "name": "shard-chain",
@@ -2700,22 +1760,6 @@
     "link": "signature-(cryptographic).html"
   },
   {
-    "name": "simbol",
-    "link": "simbol.html"
-  },
-  {
-    "name": "simpan",
-    "link": "simpan.html"
-  },
-  {
-    "name": "sistem-file-interplanetary-(ipfs)",
-    "link": "sistem-file-interplanetary-(ipfs).html"
-  },
-  {
-    "name": "skalabilitas",
-    "link": "skalabilitas.html"
-  },
-  {
     "name": "skip",
     "link": "skip.html"
   },
@@ -2726,10 +1770,6 @@
   {
     "name": "slippage",
     "link": "slippage.html"
-  },
-  {
-    "name": "slipselip",
-    "link": "slipselip.html"
   },
   {
     "name": "slot",
@@ -2776,14 +1816,6 @@
     "link": "staking-(noun).html"
   },
   {
-    "name": "staking-likuiditas",
-    "link": "staking-likuiditas.html"
-  },
-  {
-    "name": "standar-token",
-    "link": "standar-token.html"
-  },
-  {
     "name": "state-channels",
     "link": "state-channels.html"
   },
@@ -2806,10 +1838,6 @@
   {
     "name": "submit",
     "link": "submit.html"
-  },
-  {
-    "name": "sumber",
-    "link": "sumber.html"
   },
   {
     "name": "support-center",
@@ -2840,52 +1868,8 @@
     "link": "szabo.html"
   },
   {
-    "name": "tampilkan",
-    "link": "tampilkan.html"
-  },
-  {
-    "name": "tanda-tangan-(kriptografik)",
-    "link": "tanda-tangan-(kriptografik).html"
-  },
-  {
-    "name": "tanda-tangan-digital",
-    "link": "tanda-tangan-digital.html"
-  },
-  {
-    "name": "tandatangani",
-    "link": "tandatangani.html"
-  },
-  {
-    "name": "tautan",
-    "link": "tautan.html"
-  },
-  {
-    "name": "teknologi-keuangan",
-    "link": "teknologi-keuangan.html"
-  },
-  {
-    "name": "teknologi-ledger-terdistribusi",
-    "link": "teknologi-ledger-terdistribusi.html"
-  },
-  {
     "name": "teku",
     "link": "teku.html"
-  },
-  {
-    "name": "tema",
-    "link": "tema.html"
-  },
-  {
-    "name": "tentang",
-    "link": "tentang.html"
-  },
-  {
-    "name": "terima",
-    "link": "terima.html"
-  },
-  {
-    "name": "testnet-(jaringan-tes)",
-    "link": "testnet-(jaringan-tes).html"
   },
   {
     "name": "testnet-(test-network)",
@@ -2912,22 +1896,6 @@
     "link": "theme.html"
   },
   {
-    "name": "tidak-dikenal",
-    "link": "tidak-dikenal.html"
-  },
-  {
-    "name": "tidak-tepercaya",
-    "link": "tidak-tepercaya.html"
-  },
-  {
-    "name": "tidak-valid",
-    "link": "tidak-valid.html"
-  },
-  {
-    "name": "tip-penambang",
-    "link": "tip-penambang.html"
-  },
-  {
     "name": "tips",
     "link": "tips.html"
   },
@@ -2936,52 +1904,20 @@
     "link": "token-id.html"
   },
   {
-    "name": "token-keamanan",
-    "link": "token-keamanan.html"
-  },
-  {
     "name": "token-lockup",
     "link": "token-lockup.html"
-  },
-  {
-    "name": "token-standar-erc-20",
-    "link": "token-standar-erc-20.html"
-  },
-  {
-    "name": "token-standar-erc-721",
-    "link": "token-standar-erc-721.html"
   },
   {
     "name": "token-standard",
     "link": "token-standard.html"
   },
   {
-    "name": "token-yield-bearing",
-    "link": "token-yield-bearing.html"
-  },
-  {
     "name": "token",
     "link": "token.html"
   },
   {
-    "name": "tolak",
-    "link": "tolak.html"
-  },
-  {
-    "name": "toleransi-kesalahan-byzantine",
-    "link": "toleransi-kesalahan-byzantine.html"
-  },
-  {
-    "name": "total-nilai-dikunci-(tvl)",
-    "link": "total-nilai-dikunci-(tvl).html"
-  },
-  {
     "name": "total-value-locked-(tvl)",
     "link": "total-value-locked-(tvl).html"
-  },
-  {
-    "name": "trading-orang-dalam",
-    "link": "trading-orang-dalam.html"
   },
   {
     "name": "transaction-block",
@@ -3008,24 +1944,8 @@
     "link": "transak.html"
   },
   {
-    "name": "transaksi-internal",
-    "link": "transaksi-internal.html"
-  },
-  {
-    "name": "transaksi-terlindung",
-    "link": "transaksi-terlindung.html"
-  },
-  {
-    "name": "transaksi",
-    "link": "transaksi.html"
-  },
-  {
     "name": "transfer-(verb)",
     "link": "transfer-(verb).html"
-  },
-  {
-    "name": "transfer-ach",
-    "link": "transfer-ach.html"
   },
   {
     "name": "trezor",
@@ -3038,10 +1958,6 @@
   {
     "name": "trustless",
     "link": "trustless.html"
-  },
-  {
-    "name": "tukar",
-    "link": "tukar.html"
   },
   {
     "name": "turing-complete",
@@ -3062,14 +1978,6 @@
   {
     "name": "u2f",
     "link": "u2f.html"
-  },
-  {
-    "name": "umum",
-    "link": "umum.html"
-  },
-  {
-    "name": "unduh",
-    "link": "unduh.html"
   },
   {
     "name": "uniswap",
@@ -3132,10 +2040,6 @@
     "link": "vesting.html"
   },
   {
-    "name": "waktu-block",
-    "link": "waktu-block.html"
-  },
-  {
     "name": "wallet",
     "link": "wallet.html"
   },
@@ -3146,10 +2050,6 @@
   {
     "name": "web-3.0",
     "link": "web-3.0.html"
-  },
-  {
-    "name": "web-terdesentralisasi",
-    "link": "web-terdesentralisasi.html"
   },
   {
     "name": "web3,-web-3.0",
@@ -3206,9 +2106,5 @@
   {
     "name": "zk-snarks",
     "link": "zk-snarks.html"
-  },
-  {
-    "name": "zk-zsnakrs",
-    "link": "zk-zsnakrs.html"
   }
 ]

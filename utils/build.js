@@ -20,7 +20,7 @@ const srcJsDir = path.join(__dirname, '../src/js');
 
 // Ensure a clean build directory
 if (fs.existsSync(buildDir)) {
-    fs.rmdirSync(buildDir, { recursive: true });
+    fs.rmSync(buildDir, { recursive: true, force: true });
 }
 fs.mkdirSync(buildDir, { recursive: true });
 
@@ -95,10 +95,7 @@ console.log('Directory indices generated.');
 intertextualLinks();
 console.log('Intertextual links inserted.');
 
-// This is an attempt to use lunr.js to create search indices; might be worthwhile in the future.
-// buildSearchIndices();
-// console.log('Search indices created.');
-
+console.log('build process complete; copying built files starting now')
 // Copy term pages to corresponding directories in the build folder
 if (fs.existsSync(staticDir)) {
     fs.readdirSync(staticDir).forEach((dir) => {
@@ -112,7 +109,7 @@ if (fs.existsSync(staticDir)) {
 }
 
 // Copy CSS files to 'assets/css'
-const cssDir = path.join(publicDir, 'assets/css');
+const cssDir = path.join(publicDir, 'assets/css/');
 if (fs.existsSync(cssDir)) {
     copyFolderRecursiveSync(cssDir, path.join(buildDir, 'assets/css'));
     console.log('CSS files copied to assets/css.');

@@ -20,7 +20,7 @@ const languageSlugs = {
     "el-GR": "Ελληνικά",
     "en-US": "us-english",
     "es-419": "español-latinoamérica",
-    "fa-IR": "فارسی",
+    "fa-IR": "فارسی",   
     "fr-FR": "français",
     "ha-NG": "hausa",
     "hi-IN": "हिन्दी",

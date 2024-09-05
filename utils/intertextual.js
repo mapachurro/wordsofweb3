@@ -56,14 +56,15 @@ export default function intertextualLinks() {
             const filePath = path.join(localeStaticDir, file);
             let content = fs.readFileSync(filePath, 'utf-8');
 
-            const descriptionRegex = /<p id="description">([\s\S]*?)<\/p>/i;
+            const descriptionRegex = /<p id="definition">([\s\S]*?)<\/p>/i;
             const descriptionMatch = content.match(descriptionRegex);
-            if (!descriptionMatch) {
-                logMessage(`No <p id="description"> tag found in file: ${filePath}`);
-                return;
-            }
+                if (!descriptionMatch) {
+                    logMessage(`No <p id="definition"> tag found in file: ${filePath}`);
+                return;  // Skip this file if no description is found
+                }
 
-            let descriptionContent = descriptionMatch[1];
+            let descriptionContent = descriptionMatch[1];  // Content inside <p id="definition">
+
 
             const sortedTerms = Object.keys(terms).sort((a, b) => terms[b].term.length - terms[a].term.length);
 
@@ -92,7 +93,7 @@ export default function intertextualLinks() {
                 });
             });
 
-            content = content.replace(descriptionRegex, `<p id="description">${descriptionContent}</p>`);
+            content = content.replace(descriptionRegex, `<p id="definition">${descriptionContent}</p>`);
 
             try {
                 fs.writeFileSync(filePath, content, 'utf-8');
