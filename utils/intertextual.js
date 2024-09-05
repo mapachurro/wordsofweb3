@@ -7,6 +7,16 @@ import { convertLanguageFormat } from '../src/js/l10n.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Create a write stream to a .txt file
+const logFilePath = path.join(__dirname, 'intertextual-output.txt');
+const logStream = fs.createWriteStream(logFilePath, { flags: 'a' });  // 'a' flag to append to the file
+
+// Function to log to both the file and the console
+function logMessage(message) {
+    console.log(message);           // Log to console
+    logStream.write(message + '\n'); // Log to file
+}
+
 // Function to escape special characters for use in RegExp
 function escapeRegExp(string) {
     return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
@@ -17,87 +27,81 @@ const staticDir = path.join(__dirname, '../static');
 
 export default function intertextualLinks() {
     fs.readdirSync(staticDir).forEach(async (slugDir) => {
-        console.log(`Attempting to convert slug: ${slugDir}`);
+        if (slugDir === 'assets') return;  // Skip non-locale directories
+
+        logMessage(`Attempting to convert slug: ${slugDir}`);
         
-        // Convert slug directory name back to the four-letter-dash format
         const locale = await convertLanguageFormat(slugDir, 'slug', 'fourLetterDash');
-        console.log(`Locale code found for ${slugDir}: ${locale}`);
-        
+        logMessage(`Locale code found for ${slugDir}: ${locale}`);
+
         if (!locale) {
-            console.warn(`No matching locale found for slug: ${slugDir}`);
+            logMessage(`No matching locale found for slug: ${slugDir}`);
             return; // Skip if the conversion fails
         }
 
-        // Ensure we're accessing the correct locale directory for the JSON files
         const localePath = path.join(localesDir, locale, `${locale}.json`);
-        console.log('locale path:' + localePath)
         let terms;
 
-        // Attempt to read and parse the JSON file
         try {
             const data = JSON.parse(fs.readFileSync(localePath, 'utf-8'));
-            terms = data.terms; // Access the 'terms' object within the JSON
-            console.log(`Successfully loaded terms for locale: ${locale}`);
+            terms = data.terms;
+            logMessage(`Successfully loaded terms for locale: ${locale}`);
         } catch (err) {
-            console.error(`Failed to load terms for locale: ${locale} - ${err.message}`);
-            return; // Skip this locale if the file cannot be read or parsed
+            logMessage(`Failed to load terms for locale: ${locale} - ${err.message}`);
+            return;
         }
 
-        // Now iterate through the HTML files in the static directory for this locale slug
         const localeStaticDir = path.join(staticDir, slugDir);
         fs.readdirSync(localeStaticDir).forEach((file) => {
             const filePath = path.join(localeStaticDir, file);
             let content = fs.readFileSync(filePath, 'utf-8');
 
-            // Isolate the content inside the <p id="description"> tag
-            const descriptionRegex = /<p id="definition">([\s\S]*?)<\/p>/i;
+            const descriptionRegex = /<p id="description">([\s\S]*?)<\/p>/i;
             const descriptionMatch = content.match(descriptionRegex);
             if (!descriptionMatch) {
-                console.warn(`No <p id="definition"> tag found in file: ${filePath}`);
+                logMessage(`No <p id="description"> tag found in file: ${filePath}`);
                 return;
             }
 
-            let descriptionContent = descriptionMatch[1]; // Extract the content inside <p id="description">
+            let descriptionContent = descriptionMatch[1];
 
-            // Sort terms by length in descending order to avoid overlapping replacements
             const sortedTerms = Object.keys(terms).sort((a, b) => terms[b].term.length - terms[a].term.length);
 
             sortedTerms.forEach((termKey) => {
                 const term = terms[termKey];
                 if (!term || !term.term) {
-                    console.warn(`Missing 'term' for entry '${termKey}' in locale ${locale}`);
-                    return; // Skip this term if 'term' is undefined
+                    logMessage(`Missing 'term' for entry '${termKey}' in locale ${locale}`);
+                    return;
                 }
 
                 const escapedTerm = escapeRegExp(term.term);
                 const termRegex = new RegExp(`\\b${escapedTerm}\\b`, 'g');
 
-                // Skip linking the term to itself
                 const fileName = `${term.term.replace(/\s+/g, '-').toLowerCase()}.html`;
                 if (file.toLowerCase() === fileName.toLowerCase()) {
-                    console.log(`Skipping self-linking for term: ${term.term}`);
+                    logMessage(`Skipping self-linking for term: ${term.term}`);
                     return;
                 }
 
-                // Replace only within the description content
                 descriptionContent = descriptionContent.replace(termRegex, (match) => {
                     const hasAnchorTag = new RegExp(`<a [^>]*>${escapeRegExp(match)}<\/a>`, 'g').test(descriptionContent);
-                    if (hasAnchorTag) return match; // If already inside an <a> tag, return the match as is
+                    if (hasAnchorTag) return match;
 
-                    console.log(`Linking term '${match}' to file '${fileName}' in ${filePath}`);
+                    logMessage(`Linking term '${match}' to file '${fileName}' in ${filePath}`);
                     return `<a href="./${fileName}">${match}</a>`;
                 });
             });
 
-            // Reassemble the content with the modified description
             content = content.replace(descriptionRegex, `<p id="description">${descriptionContent}</p>`);
 
             try {
                 fs.writeFileSync(filePath, content, 'utf-8');
-                console.log(`Updated: ${filePath}`);
+                logMessage(`Updated: ${filePath}`);
             } catch (err) {
-                console.error(`Failed to write file: ${filePath} - ${err.message}`);
+                logMessage(`Failed to write file: ${filePath} - ${err.message}`);
             }
         });
     });
+
+    logMessage('Intertextual links inserted.');
 }

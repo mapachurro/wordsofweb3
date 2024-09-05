@@ -53,7 +53,7 @@ export default function initSearch(){
             const list = document.createElement('ul');
             results.forEach(result => {
                 const listItem = document.createElement('li');
-                listItem.innerHTML = `<a href="${result.link}">${result.name}</a>`;
+                listItem.innerHTML = `<a href="./${result.name}.html">${result.name}</a>`;
                 list.appendChild(listItem);
             });
             resultsContainer.appendChild(list);
