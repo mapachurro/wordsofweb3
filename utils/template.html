@@ -3,27 +3,40 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="../assets/favicon.ico">
   <link rel="stylesheet" href="../assets/css/styles.css">
-  <title>{{term}} - wordsofweb3</title>
-  <!-- Load the main script, which includes the navbar logic -->
+  <link rel="stylesheet" href="../assets/css/bootstrap/bootstrap.css">
+<!-- The following line is a placeholder stylesheet, in case we need to customize Bootstrap styling at some point. -->
+  <link rel="stylesheet" href="../assets/css/bootstrap/custom.css">
+  <title>{{title}}</title>
   <script type="module" src="../js/index.js" defer></script>
 </head>
 <body>
-  <header>
-    <nav id="navbar-container">
-      <!-- Navbar will be injected here -->
-    </nav>
+  <header id="navbar-container" class="mb-5">
+    <!-- Navbar will be dynamically injected here -->
   </header>
-  <main>
-    <h1 id="term">{{term}}</h1>
+
+  <main class="container">
+    <h1 class="display-4">{{term}}</h1>
     <p id="phonetic"><strong>Phonetic:</strong> {{phonetic}}</p>
     <h3 id="partofspeech"><strong>Part of Speech:</strong> {{partOfSpeech}}</h3>
     <h3 id="category"><strong>Category:</strong> {{termCategory}}</h3>
-    <p id="definition"><strong>Definition:</strong> {{definition}}</p>
+    <p id="definition">{{definition}}</p>
+
     <nav id="language-nav">
       <!-- Links to other language versions of this term will be injected here -->
       {{languageLinks}}
     </nav>
+  </main>
+
+  <footer class="text-center mt-5">
+    <p>&copy; 2024 Education DAO</p>
+  </footer>
+</body>
+</html>
+
+  <main>
+
   </main>
   <footer>
     <p>&copy; 2024 Education DAO</p>

@@ -4,32 +4,36 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" href="../assets/favicon.ico">
+  <link rel="stylesheet" href="../assets/css/bootstrap/bootstrap.css">
+<!-- The following line is a placeholder stylesheet, in case we need to customize Bootstrap styling at some point. -->
+  <link rel="stylesheet" href="../assets/css/bootstrap/custom.css">
   <link rel="stylesheet" href="../assets/css/styles.css">
   <title>{{title}}</title>
   <script type="module" src="../js/index.js" defer></script>
 </head>
 <body>
-  <header id="navbar-container">
+  <header id="navbar-container" class="mb-5">
     <!-- Navbar will be dynamically injected here -->
   </header>
 
-  <main>
-    <h2 id="search-header">{{searchHeader}}</h2>
+  <main class="container">
+    <h2 id="search-header" class="text-center">{{searchHeader}}</h2>
+
     <!-- Search form -->
-    <div id="search-container">
-      <input type="text" id="search-input" placeholder="{{searchPlaceholder}}">
-      <button id="search-button">{{searchButton}}</button>
+    <div id="search-container" class="input-group mb-3">
+      <input type="text" id="search-input" class="form-control" placeholder="{{searchPlaceholder}}">
+      <button id="search-button" class="btn btn-primary">{{searchButton}}</button>
     </div>
 
     <!-- Search results -->
-    <div id="search-results"></div>
+    <div id="search-results" class="list-group"></div>
 
     <!-- Explore section -->
-    <h3 id="explore">{{exploreHeader}}</h3>
+    <h3 id="explore" class="mt-5">{{exploreHeader}}</h3>
     <div id="explore-container"></div>
   </main>
 
-  <footer>
+  <footer class="text-center mt-5">
     <p>&copy; 2024 Education DAO</p>
   </footer>
 </body>

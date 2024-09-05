@@ -46,17 +46,20 @@ export default function initSearch(){
 
         function displayResults(results) {
             if (results.length === 0) {
-                resultsContainer.innerHTML = '<p>No results found</p>';
-                return;
+              resultsContainer.innerHTML = '<p>No results found</p>';
+              return;
             }
-
+          
             const list = document.createElement('ul');
             results.forEach(result => {
-                const listItem = document.createElement('li');
-                listItem.innerHTML = `<a href="./${result.name}.html">${result.name}</a>`;
-                list.appendChild(listItem);
+              const listItem = document.createElement('li');
+              const currentLang = document.documentElement.lang;
+              listItem.innerHTML = `<a href="/${currentLang}/${result.name}.html">${result.name}</a>`;
+              list.appendChild(listItem);
             });
             resultsContainer.appendChild(list);
-        }
+          }
+          
+          
     });
 }

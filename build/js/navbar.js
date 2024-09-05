@@ -1,16 +1,17 @@
 import { convertLanguageFormat } from "./l10n.js";
 
-// Render the navbar HTML dynamically
 export function renderNavbar(languageOptions) {
   return `
-    <nav class="navbar">
-      <div class="logo">
+    <nav class="navbar navbar-expand-lg navbar-dark">
+      <a class="navbar-brand" href="#">
         <img src="/assets/education-dao-circle.png" alt="Logo" class="logo-image" />
-        <span id="logoText">wordsofweb3</span>
+        wordsofweb3
+      </a>
+      <div class="collapse navbar-collapse">
+        <select id="language-selector" class="form-select ml-auto">
+          ${languageOptions.map(option => `<option value="${option.value}">${option.label}</option>`).join("")}
+        </select>
       </div>
-      <select id="language-selector" class="language-selector">
-        ${languageOptions.map((option) => `<option value="${option.value}">${option.label}</option>`).join("")}
-      </select>    
     </nav>
   `;
 }
@@ -47,52 +48,51 @@ export const languageOptions = [
 ];
 
 export function initNavbar() {
-  const handleLogoClick = () => {
-    const language = localStorage.getItem("selectedLanguage") || "us-english";
-    const currentPath = window.location.pathname;
-    
-    // Redirect to the homepage for the selected language
-    if (!currentPath.includes(`/${language}/`)) {
-      window.location.href = `/${language}/index.html`;
-    } else {
-      window.location.href = `${currentPath}`;
-    }
-  };
-
-  const handleLanguageChange = async () => {
-    const languageSlug = document.getElementById("language-selector").value;
-    
-    try {
-      const languageCode = await convertLanguageFormat(languageSlug, "slug", "fourLetterDash");
-
-      if (languageCode) {
-        localStorage.setItem("selectedLanguage", languageSlug);
-        console.log("Site language set to: " + languageSlug);
-
-        const currentPathParts = window.location.pathname.split("/");
-        const currentPage = currentPathParts.pop(); // Get the current page (e.g., index.html or term page)
-        const newPath = `/${languageSlug}/${currentPage || "index.html"}`;
-
-        window.location.href = newPath;
-      } else {
-        throw new Error("Invalid language selection");
-      }
-    } catch (error) {
-      console.error("Error during language selection:", error);
-    }
-  };
-
   document.addEventListener("DOMContentLoaded", () => {
     const languageSelector = document.getElementById("language-selector");
-    const storedLanguage = localStorage.getItem("selectedLanguage") || "us-english";
+    const logoElement = document.querySelector(".logo");
 
-    // Set the language selector to the correct value based on the current language
+    // Check if the elements exist before trying to add event listeners
+    if (!languageSelector || !logoElement) {
+      console.error("Navbar elements not found");
+      return;
+    }
+
+    const handleLogoClick = () => {
+      const selectedLanguage = languageSelector.value;
+      window.location.href = `/${selectedLanguage}/index.html`;
+    };
+
+    const handleLanguageChange = async () => {
+      const languageSlug = languageSelector.value;
+
+      try {
+        const languageCode = await convertLanguageFormat(languageSlug, "slug", "fourLetterDash");
+
+        if (languageCode) {
+          localStorage.setItem("selectedLanguage", languageSlug);
+          console.log("Site language set to: " + languageSlug);
+
+          const currentPathParts = window.location.pathname.split("/");
+          const currentPage = currentPathParts.pop() || "index.html";
+          const newPath = `/${languageSlug}/${currentPage}`;
+
+          window.location.href = newPath;
+        } else {
+          throw new Error("Invalid language selection");
+        }
+      } catch (error) {
+        console.error("Error during language selection:", error);
+      }
+    };
+
+    // Set the language selector to the correct value based on the current URL path or localStorage
+    const storedLanguage = localStorage.getItem("selectedLanguage") || window.location.pathname.split("/")[1];
     languageSelector.value = storedLanguage;
 
-    // No need to set document.documentElement.lang or load translations, as we're only navigating between pages
+    // Set event listeners
+    languageSelector.addEventListener("change", handleLanguageChange);
+    logoElement.addEventListener("click", handleLogoClick);
   });
-
-  // Set event listeners
-  document.getElementById("language-selector").addEventListener("change", handleLanguageChange);
-  document.querySelector(".logo").addEventListener("click", handleLogoClick);
 }
+

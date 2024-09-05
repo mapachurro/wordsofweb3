@@ -1,30 +1,27 @@
 .navbar {
-    padding: 1rem;
-    background-color: #333;
-    color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  
-  .logo {
-    text-decoration: none;
-    color: #fff;
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-  }
-  
-  .logo-image {
-    margin-right: 0.5rem;
-    height: 40px;
-  }
-  
-  .language-selector {
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 5px;
-    cursor: pointer;
-  }
-  
+  padding: 1rem;
+  background-color: #333; /* Dark background as you intended */
+  color: #fff;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.logo-image {
+  margin-right: 0.5rem;
+  height: 40px;
+}
+
+.language-selector {
+  max-width: 150px; /* Adjust the width to your liking */
+  margin-left: auto; /* Align right */
+  display: block; /* Ensure it's visible */
+}
+
