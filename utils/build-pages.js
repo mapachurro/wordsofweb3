@@ -116,8 +116,8 @@ export default function buildPages() {
             Object.keys(terms).forEach((termKey) => {
                 const termData = terms[termKey] || {};
                 const termValue = termData.term || "";
-                const phoneticValue = termData.phonetic || "";
-                const partOfSpeechValue = termData.partOfSpeech || "";
+                const phoneticValue = termData.phonetic || "Pronunciation not yet available";
+                const partOfSpeechValue = termData.partOfSpeech || "Grammatical data not yet aviailable";
                 const definitionValue = termData.definition || "Definition not available.";
                 const termCategoryValue = termData.termCategory || "";
 
@@ -147,6 +147,7 @@ export default function buildPages() {
                 }).join(' | ');
 
                 let html = template
+                    .replace(/{{title}}/g, termValue)
                     .replace(/{{locale}}/g, locale)
                     .replace(/{{term}}/g, termValue)
                     .replace(/{{phonetic}}/g, phoneticValue)

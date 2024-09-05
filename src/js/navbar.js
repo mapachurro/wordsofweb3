@@ -8,7 +8,7 @@ export function renderNavbar(languageOptions) {
         wordsofweb3
       </a>
       <div class="collapse navbar-collapse">
-        <select id="language-selector" class="form-select ml-auto">
+        <select id="language-selector" class="form-select ml-auto language-selector">
           ${languageOptions.map(option => `<option value="${option.value}">${option.label}</option>`).join("")}
         </select>
       </div>

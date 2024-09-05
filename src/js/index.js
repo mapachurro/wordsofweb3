@@ -1,26 +1,39 @@
 import { renderNavbar, initNavbar, languageOptions } from './navbar.js';
 import initSearch from './search.js';
 import initExplore from './explore.js';
-// import { convertLanguageFormat } from './l10n.js';
 
 if (typeof document !== 'undefined') {
     document.addEventListener('DOMContentLoaded', () => {
-        document.getElementById('navbar-container').innerHTML = renderNavbar(languageOptions);
-        initNavbar();
-        initSearch();  
-        initExplore();
+        const navbarContainer = document.getElementById('navbar-container');
+        if (navbarContainer) {
+            navbarContainer.innerHTML = renderNavbar(languageOptions);
+            initNavbar();
+        }
+
+        // Only initialize search and explore functionality on pages where the elements exist
+        if (document.getElementById('search-input') && document.getElementById('search-button')) {
+            initSearch();
+        }
+
+        if (document.getElementById('explore-container')) {
+            initExplore();
+        }
+
         initApp();
     });
 }
 
 export function initApp() {
     const storedLanguage = localStorage.getItem('selectedLanguage') || 'us-english';
-    // loadTranslations(storedLanguage);
 
     function searchQuery() {
-        document.getElementById('search-button').addEventListener('click', function () {
+        const searchButton = document.getElementById('search-button');
+        if (!searchButton) {
+            return; // Exit if the search button doesn't exist
+        }
+
+        searchButton.addEventListener('click', function () {
             const searchQuery = document.getElementById('search-input').value.toLowerCase();
-            // const locale = document.documentElement.lang;
             const indexUrl = `./directoryContents.json`;
 
             fetch(indexUrl)

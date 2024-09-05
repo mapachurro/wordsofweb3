@@ -46,20 +46,18 @@ export default function initSearch(){
 
         function displayResults(results) {
             if (results.length === 0) {
-              resultsContainer.innerHTML = '<p>No results found</p>';
-              return;
+                resultsContainer.innerHTML = '<p>No results found</p>';
+                return;
             }
-          
+        
             const list = document.createElement('ul');
             results.forEach(result => {
-              const listItem = document.createElement('li');
-              const currentLang = document.documentElement.lang;
-              listItem.innerHTML = `<a href="/${currentLang}/${result.name}.html">${result.name}</a>`;
-              list.appendChild(listItem);
+                const currentLang = document.documentElement.lang; // Get the current language from <html lang="">
+                const basePath = window.location.pathname.split('/').slice(0, 2).join('/'); // Get the base path like /us-english/
+                listItem.innerHTML = `<a href="${basePath}/${result.name}.html">${result.name}</a>`;
+                list.appendChild(listItem);
             });
             resultsContainer.appendChild(list);
-          }
-          
-          
+        }         
     });
 }

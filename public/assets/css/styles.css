@@ -20,8 +20,14 @@
 }
 
 .language-selector {
-  max-width: 150px; /* Adjust the width to your liking */
-  margin-left: auto; /* Align right */
-  display: block; /* Ensure it's visible */
+  max-width: 150px !important; /* Keep the dropdown small */
+  margin-left: auto !important; /* Align it to the right */
+  display: block !important; /* Ensure it's visible */
 }
 
+@media (max-width: 767px) {
+  /* Ensure the dropdown stays visible on smaller screens */
+  .language-selector {
+    width: 100% !important; /* Make it responsive and full-width on small screens */
+  }
+}
