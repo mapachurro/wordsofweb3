@@ -156,7 +156,7 @@ export default function buildPages() {
                     .replace(/{{termCategory}}/g, termCategoryValue)
                     .replace(/{{languageLinks}}/g, languageLinks);
 
-                const fileName = `${termKey.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "")}.html`;
+                const fileName = `${termValue.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "")}.html`;
                 const filePath = path.join(localeOutputDir, fileName);
 
                 try {

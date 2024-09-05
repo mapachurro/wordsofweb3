@@ -16,6 +16,10 @@
     "link": "51-attack.html"
   },
   {
+    "name": "51-pag-atake",
+    "link": "51-pag-atake.html"
+  },
+  {
     "name": "aave",
     "link": "aave.html"
   },
@@ -24,12 +28,20 @@
     "link": "about.html"
   },
   {
+    "name": "account-ng-kontrata",
+    "link": "account-ng-kontrata.html"
+  },
+  {
     "name": "account",
     "link": "account.html"
   },
   {
     "name": "ach-transfer",
     "link": "ach-transfer.html"
+  },
+  {
+    "name": "address\"pampublikong-address\"-(address-ng-wallet)",
+    "link": "address\"pampublikong-address\"-(address-ng-wallet).html"
   },
   {
     "name": "address",
@@ -50,6 +62,10 @@
   {
     "name": "agoric",
     "link": "agoric.html"
+  },
+  {
+    "name": "agresibo",
+    "link": "agresibo.html"
   },
   {
     "name": "air-gapping",
@@ -74,6 +90,14 @@
   {
     "name": "algorithm",
     "link": "algorithm.html"
+  },
+  {
+    "name": "algoritmo",
+    "link": "algoritmo.html"
+  },
+  {
+    "name": "alisin",
+    "link": "alisin.html"
   },
   {
     "name": "altcoin",
@@ -102,6 +126,10 @@
   {
     "name": "approve",
     "link": "approve.html"
+  },
+  {
+    "name": "aprubahan",
+    "link": "aprubahan.html"
   },
   {
     "name": "arbitrum",
@@ -136,6 +164,10 @@
     "link": "avax.html"
   },
   {
+    "name": "awtomatikong-pagtuklas",
+    "link": "awtomatikong-pagtuklas.html"
+  },
+  {
     "name": "axie-infinity",
     "link": "axie-infinity.html"
   },
@@ -148,12 +180,32 @@
     "link": "balance.html"
   },
   {
+    "name": "balanse",
+    "link": "balanse.html"
+  },
+  {
     "name": "banxa",
     "link": "banxa.html"
   },
   {
     "name": "base-fee",
     "link": "base-fee.html"
+  },
+  {
+    "name": "batayang-bayad",
+    "link": "batayang-bayad.html"
+  },
+  {
+    "name": "bayad-sa-gas",
+    "link": "bayad-sa-gas.html"
+  },
+  {
+    "name": "bayad-sa-priyoridad",
+    "link": "bayad-sa-priyoridad.html"
+  },
+  {
+    "name": "bayad-sa-transaksyon",
+    "link": "bayad-sa-transaksyon.html"
   },
   {
     "name": "beacon-chain",
@@ -180,12 +232,20 @@
     "link": "block-(noun).html"
   },
   {
+    "name": "block-(pangngalan)",
+    "link": "block-(pangngalan).html"
+  },
+  {
     "name": "block-explorer",
     "link": "block-explorer.html"
   },
   {
     "name": "block-height",
     "link": "block-height.html"
+  },
+  {
+    "name": "block-ng-transaksyon",
+    "link": "block-ng-transaksyon.html"
   },
   {
     "name": "block-reward",
@@ -286,6 +346,10 @@
   {
     "name": "chain-id",
     "link": "chain-id.html"
+  },
+  {
+    "name": "chain-ng-pagpipira-piraso",
+    "link": "chain-ng-pagpipira-piraso.html"
   },
   {
     "name": "chrome",
@@ -416,6 +480,10 @@
     "link": "crypto-fund.html"
   },
   {
+    "name": "crypto-na-asset",
+    "link": "crypto-na-asset.html"
+  },
+  {
     "name": "crypto-wallet",
     "link": "crypto-wallet.html"
   },
@@ -520,8 +588,20 @@
     "link": "deposit.html"
   },
   {
+    "name": "deposito",
+    "link": "deposito.html"
+  },
+  {
     "name": "derive--derivation",
     "link": "derive--derivation.html"
+  },
+  {
+    "name": "desentralisadong-web",
+    "link": "desentralisadong-web.html"
+  },
+  {
+    "name": "desentralisasyon",
+    "link": "desentralisasyon.html"
   },
   {
     "name": "dev",
@@ -544,6 +624,10 @@
     "link": "dex.html"
   },
   {
+    "name": "di-wasto",
+    "link": "di-wasto.html"
+  },
+  {
     "name": "difficulty-bomb",
     "link": "difficulty-bomb.html"
   },
@@ -558,6 +642,18 @@
   {
     "name": "digital-identity",
     "link": "digital-identity.html"
+  },
+  {
+    "name": "digital-na-asset",
+    "link": "digital-na-asset.html"
+  },
+  {
+    "name": "digital-na-lagda",
+    "link": "digital-na-lagda.html"
+  },
+  {
+    "name": "digital-na-pagkakakilanlan",
+    "link": "digital-na-pagkakakilanlan.html"
   },
   {
     "name": "digital-signature",
@@ -576,6 +672,10 @@
     "link": "distributed-denial-of-service-(ddos)-attack.html"
   },
   {
+    "name": "distributed-denial-of-service-(ddos)-na-pag-atake",
+    "link": "distributed-denial-of-service-(ddos)-na-pag-atake.html"
+  },
+  {
     "name": "distributed-ledger-technology",
     "link": "distributed-ledger-technology.html"
   },
@@ -588,12 +688,20 @@
     "link": "dlt.html"
   },
   {
+    "name": "dobleng-paggasta",
+    "link": "dobleng-paggasta.html"
+  },
+  {
     "name": "double-spend",
     "link": "double-spend.html"
   },
   {
     "name": "download",
     "link": "download.html"
+  },
+  {
+    "name": "dpos",
+    "link": "dpos.html"
   },
   {
     "name": "dropped",
@@ -614,6 +722,14 @@
   {
     "name": "eip-1559",
     "link": "eip-1559.html"
+  },
+  {
+    "name": "ekosistema",
+    "link": "ekosistema.html"
+  },
+  {
+    "name": "eksperimental",
+    "link": "eksperimental.html"
   },
   {
     "name": "enable",
@@ -672,6 +788,10 @@
     "link": "error.html"
   },
   {
+    "name": "estado",
+    "link": "estado.html"
+  },
+  {
     "name": "eth",
     "link": "eth.html"
   },
@@ -682,6 +802,10 @@
   {
     "name": "ether-(eth)",
     "link": "ether-(eth).html"
+  },
+  {
+    "name": "ether-(mga-denominasyon)",
+    "link": "ether-(mga-denominasyon).html"
   },
   {
     "name": "ether",
@@ -768,6 +892,10 @@
     "link": "extended-public-key-(xpub).html"
   },
   {
+    "name": "extension-ng-metamask",
+    "link": "extension-ng-metamask.html"
+  },
+  {
     "name": "extension",
     "link": "extension.html"
   },
@@ -786,6 +914,18 @@
   {
     "name": "fiat-currency",
     "link": "fiat-currency.html"
+  },
+  {
+    "name": "fiat-na-salapi",
+    "link": "fiat-na-salapi.html"
+  },
+  {
+    "name": "file-na-json",
+    "link": "file-na-json.html"
+  },
+  {
+    "name": "file-ng-keystore",
+    "link": "file-ng-keystore.html"
   },
   {
     "name": "final,-finality",
@@ -832,6 +972,10 @@
     "link": "fork.html"
   },
   {
+    "name": "fractional-na-pagmamay-ari",
+    "link": "fractional-na-pagmamay-ari.html"
+  },
+  {
     "name": "fractional-ownership",
     "link": "fractional-ownership.html"
   },
@@ -850,6 +994,14 @@
   {
     "name": "ganache",
     "link": "ganache.html"
+  },
+  {
+    "name": "ganap-na-node",
+    "link": "ganap-na-node.html"
+  },
+  {
+    "name": "gantimpala-ng-block",
+    "link": "gantimpala-ng-block.html"
   },
   {
     "name": "gas-fee",
@@ -908,6 +1060,10 @@
     "link": "gsn.html"
   },
   {
+    "name": "gumawa",
+    "link": "gumawa.html"
+  },
+  {
     "name": "gwei",
     "link": "gwei.html"
   },
@@ -932,20 +1088,44 @@
     "link": "hash-(noun).html"
   },
   {
+    "name": "hash-(pangngalan)",
+    "link": "hash-(pangngalan).html"
+  },
+  {
     "name": "hex-data",
     "link": "hex-data.html"
+  },
+  {
+    "name": "hex-na-data",
+    "link": "hex-na-data.html"
   },
   {
     "name": "hexadecimal-'hex-data'",
     "link": "hexadecimal-'hex-data'.html"
   },
   {
+    "name": "hexadecimal-'hex-na-data'",
+    "link": "hexadecimal-'hex-na-data'.html"
+  },
+  {
     "name": "hide",
     "link": "hide.html"
   },
   {
+    "name": "hierarchical-deterministic-(hd)-na-wallet",
+    "link": "hierarchical-deterministic-(hd)-na-wallet.html"
+  },
+  {
     "name": "hierarchical-deterministic-(hd)-wallet",
     "link": "hierarchical-deterministic-(hd)-wallet.html"
+  },
+  {
+    "name": "hindi-kailangan-ng-tiwala",
+    "link": "hindi-kailangan-ng-tiwala.html"
+  },
+  {
+    "name": "hindi-kilala",
+    "link": "hindi-kilala.html"
   },
   {
     "name": "hot-storage",
@@ -956,6 +1136,14 @@
     "link": "hot-wallet.html"
   },
   {
+    "name": "humiling-(pandiwa)",
+    "link": "humiling-(pandiwa).html"
+  },
+  {
+    "name": "huwag-paganahin",
+    "link": "huwag-paganahin.html"
+  },
+  {
     "name": "hybrid-network",
     "link": "hybrid-network.html"
   },
@@ -964,8 +1152,72 @@
     "link": "hyperledger.html"
   },
   {
+    "name": "i-clear",
+    "link": "i-clear.html"
+  },
+  {
+    "name": "i-custom-ang-nonce",
+    "link": "i-custom-ang-nonce.html"
+  },
+  {
+    "name": "i-download",
+    "link": "i-download.html"
+  },
+  {
+    "name": "i-edit",
+    "link": "i-edit.html"
+  },
+  {
+    "name": "i-export",
+    "link": "i-export.html"
+  },
+  {
+    "name": "i-lock",
+    "link": "i-lock.html"
+  },
+  {
+    "name": "i-reset",
+    "link": "i-reset.html"
+  },
+  {
+    "name": "i-save",
+    "link": "i-save.html"
+  },
+  {
+    "name": "i-swap",
+    "link": "i-swap.html"
+  },
+  {
+    "name": "i-unlock",
+    "link": "i-unlock.html"
+  },
+  {
+    "name": "i-update-(pandiwa)",
+    "link": "i-update-(pandiwa).html"
+  },
+  {
+    "name": "ibalik",
+    "link": "ibalik.html"
+  },
+  {
+    "name": "ibunyag",
+    "link": "ibunyag.html"
+  },
+  {
     "name": "ico",
     "link": "ico.html"
+  },
+  {
+    "name": "id-ng-chain",
+    "link": "id-ng-chain.html"
+  },
+  {
+    "name": "id-ng-token",
+    "link": "id-ng-token.html"
+  },
+  {
+    "name": "id-ng-transaksyon",
+    "link": "id-ng-transaksyon.html"
   },
   {
     "name": "id",
@@ -1032,8 +1284,24 @@
     "link": "ip-address.html"
   },
   {
+    "name": "ipakita",
+    "link": "ipakita.html"
+  },
+  {
     "name": "ipfs",
     "link": "ipfs.html"
+  },
+  {
+    "name": "ipinamahaging-ledger",
+    "link": "ipinamahaging-ledger.html"
+  },
+  {
+    "name": "ipo",
+    "link": "ipo.html"
+  },
+  {
+    "name": "itago",
+    "link": "itago.html"
   },
   {
     "name": "jazzicons",
@@ -1048,8 +1316,48 @@
     "link": "json-rpc.html"
   },
   {
+    "name": "kahilingan-(pangngalan)",
+    "link": "kahilingan-(pangngalan).html"
+  },
+  {
+    "name": "kahirapan",
+    "link": "kahirapan.html"
+  },
+  {
+    "name": "kanselahin",
+    "link": "kanselahin.html"
+  },
+  {
+    "name": "kapanahunan",
+    "link": "kapanahunan.html"
+  },
+  {
+    "name": "katayuan",
+    "link": "katayuan.html"
+  },
+  {
+    "name": "katibayan-ng-bisa",
+    "link": "katibayan-ng-bisa.html"
+  },
+  {
+    "name": "katibayan-ng-panloloko",
+    "link": "katibayan-ng-panloloko.html"
+  },
+  {
+    "name": "kawalan-ng-pagbabago",
+    "link": "kawalan-ng-pagbabago.html"
+  },
+  {
     "name": "keystore-file",
     "link": "keystore-file.html"
+  },
+  {
+    "name": "kliyente-(ethereum-o-iba-pang-katugmang-blockchain)",
+    "link": "kliyente-(ethereum-o-iba-pang-katugmang-blockchain).html"
+  },
+  {
+    "name": "kliyente-sa-pagpapatupad",
+    "link": "kliyente-sa-pagpapatupad.html"
   },
   {
     "name": "know-your-customer-(kyc)",
@@ -1064,8 +1372,36 @@
     "link": "know-your-transaction.html"
   },
   {
+    "name": "kondisyon-ng-paglaslas",
+    "link": "kondisyon-ng-paglaslas.html"
+  },
+  {
+    "name": "kontrata",
+    "link": "kontrata.html"
+  },
+  {
+    "name": "kopyahin",
+    "link": "kopyahin.html"
+  },
+  {
     "name": "kovan",
     "link": "kovan.html"
+  },
+  {
+    "name": "kriptograpiya",
+    "link": "kriptograpiya.html"
+  },
+  {
+    "name": "kumpirmahin",
+    "link": "kumpirmahin.html"
+  },
+  {
+    "name": "kumpirmasyon",
+    "link": "kumpirmasyon.html"
+  },
+  {
+    "name": "kustodiya-(pangngalan)",
+    "link": "kustodiya-(pangngalan).html"
   },
   {
     "name": "kyc",
@@ -1074,6 +1410,14 @@
   {
     "name": "kyt",
     "link": "kyt.html"
+  },
+  {
+    "name": "lagda-(kriptograpiya)",
+    "link": "lagda-(kriptograpiya).html"
+  },
+  {
+    "name": "laktawan",
+    "link": "laktawan.html"
   },
   {
     "name": "latency",
@@ -1098,6 +1442,14 @@
   {
     "name": "layer-2",
     "link": "layer-2.html"
+  },
+  {
+    "name": "layer-ng-kasunduan",
+    "link": "layer-ng-kasunduan.html"
+  },
+  {
+    "name": "layer-ng-pagpapatupad",
+    "link": "layer-ng-pagpapatupad.html"
   },
   {
     "name": "learn-metamask-learn",
@@ -1136,12 +1488,24 @@
     "link": "lightning-network.html"
   },
   {
+    "name": "lihim-na-parirala-sa-pagbawi",
+    "link": "lihim-na-parirala-sa-pagbawi.html"
+  },
+  {
+    "name": "limitasyon-ng-gas",
+    "link": "limitasyon-ng-gas.html"
+  },
+  {
     "name": "linea",
     "link": "linea.html"
   },
   {
     "name": "link",
     "link": "link.html"
+  },
+  {
+    "name": "liquid-democracy-(delegatibong-demokrasya)",
+    "link": "liquid-democracy-(delegatibong-demokrasya).html"
   },
   {
     "name": "liquid-democracy-(delegative-democracy)",
@@ -1172,6 +1536,62 @@
     "link": "low.html"
   },
   {
+    "name": "lumipat-(pandiwa)",
+    "link": "lumipat-(pandiwa).html"
+  },
+  {
+    "name": "mababa",
+    "link": "mababa.html"
+  },
+  {
+    "name": "mag-import",
+    "link": "mag-import.html"
+  },
+  {
+    "name": "mag-install",
+    "link": "mag-install.html"
+  },
+  {
+    "name": "mag-scan",
+    "link": "mag-scan.html"
+  },
+  {
+    "name": "mag-sign-in",
+    "link": "mag-sign-in.html"
+  },
+  {
+    "name": "mag-upgrade",
+    "link": "mag-upgrade.html"
+  },
+  {
+    "name": "magaan-na-kliyente",
+    "link": "magaan-na-kliyente.html"
+  },
+  {
+    "name": "maghanap",
+    "link": "maghanap.html"
+  },
+  {
+    "name": "maglipat-(pandiwa)",
+    "link": "maglipat-(pandiwa).html"
+  },
+  {
+    "name": "magsumite",
+    "link": "magsumite.html"
+  },
+  {
+    "name": "mainit-na-imbakan",
+    "link": "mainit-na-imbakan.html"
+  },
+  {
+    "name": "mainit-na-wallet",
+    "link": "mainit-na-wallet.html"
+  },
+  {
+    "name": "mainnet-ng-ethereum",
+    "link": "mainnet-ng-ethereum.html"
+  },
+  {
     "name": "maker-protocol",
     "link": "maker-protocol.html"
   },
@@ -1188,12 +1608,20 @@
     "link": "matic.html"
   },
   {
+    "name": "matuto",
+    "link": "matuto.html"
+  },
+  {
     "name": "maximal-extractable-value-(mev)",
     "link": "maximal-extractable-value-(mev).html"
   },
   {
     "name": "maximum-priority-fee",
     "link": "maximum-priority-fee.html"
+  },
+  {
+    "name": "mekanismo-ng-kasunduan",
+    "link": "mekanismo-ng-kasunduan.html"
   },
   {
     "name": "memory-pool-mempool",
@@ -1210,6 +1638,10 @@
   {
     "name": "merge-(noun)",
     "link": "merge-(noun).html"
+  },
+  {
+    "name": "merge-(pangngalan)",
+    "link": "merge-(pangngalan).html"
   },
   {
     "name": "merkle-patricia-trie",
@@ -1272,6 +1704,38 @@
     "link": "metaverse.html"
   },
   {
+    "name": "mga-alerto",
+    "link": "mga-alerto.html"
+  },
+  {
+    "name": "mga-channel-ng-estado",
+    "link": "mga-channel-ng-estado.html"
+  },
+  {
+    "name": "mga-kontak",
+    "link": "mga-kontak.html"
+  },
+  {
+    "name": "mga-pabuya-ng-crypto",
+    "link": "mga-pabuya-ng-crypto.html"
+  },
+  {
+    "name": "mga-setting",
+    "link": "mga-setting.html"
+  },
+  {
+    "name": "mga-tala-ng-estado",
+    "link": "mga-tala-ng-estado.html"
+  },
+  {
+    "name": "mga-tip",
+    "link": "mga-tip.html"
+  },
+  {
+    "name": "mga-token-na-nagbubunga",
+    "link": "mga-token-na-nagbubunga.html"
+  },
+  {
     "name": "miner-tip",
     "link": "miner-tip.html"
   },
@@ -1280,12 +1744,20 @@
     "link": "miner.html"
   },
   {
+    "name": "minero",
+    "link": "minero.html"
+  },
+  {
     "name": "mining",
     "link": "mining.html"
   },
   {
     "name": "mint",
     "link": "mint.html"
+  },
+  {
+    "name": "mnemonic-na-parirala",
+    "link": "mnemonic-na-parirala.html"
   },
   {
     "name": "mnemonic-phrase",
@@ -1300,12 +1772,20 @@
     "link": "modular-blockchain.html"
   },
   {
+    "name": "modular-na-blockchain",
+    "link": "modular-na-blockchain.html"
+  },
+  {
     "name": "moonpay",
     "link": "moonpay.html"
   },
   {
     "name": "multi-sig",
     "link": "multi-sig.html"
+  },
+  {
+    "name": "multi-signature-na-wallet-(multisig)",
+    "link": "multi-signature-na-wallet-(multisig).html"
   },
   {
     "name": "multi-signature-wallet-(multisig)",
@@ -1316,12 +1796,56 @@
     "link": "multifactor-authentication.html"
   },
   {
+    "name": "multifactor-na-pagpapatunay",
+    "link": "multifactor-na-pagpapatunay.html"
+  },
+  {
+    "name": "nabigo",
+    "link": "nabigo.html"
+  },
+  {
+    "name": "nagmula--pinagmulan",
+    "link": "nagmula--pinagmulan.html"
+  },
+  {
+    "name": "nagpapatibay",
+    "link": "nagpapatibay.html"
+  },
+  {
+    "name": "nahulog",
+    "link": "nahulog.html"
+  },
+  {
+    "name": "naka-encrypt-kumpara-sa-mga-hindi-naka-encrypt-na-key",
+    "link": "naka-encrypt-kumpara-sa-mga-hindi-naka-encrypt-na-key.html"
+  },
+  {
+    "name": "nakabinbin",
+    "link": "nakabinbin.html"
+  },
+  {
+    "name": "nasa-chain",
+    "link": "nasa-chain.html"
+  },
+  {
+    "name": "nasa-rampa,-wala-sa-rampa",
+    "link": "nasa-rampa,-wala-sa-rampa.html"
+  },
+  {
+    "name": "nasa-rampa",
+    "link": "nasa-rampa.html"
+  },
+  {
     "name": "near-field-communication-(nfc)",
     "link": "near-field-communication-(nfc).html"
   },
   {
     "name": "nested-blockchain",
     "link": "nested-blockchain.html"
+  },
+  {
+    "name": "nested-na-blockchain",
+    "link": "nested-na-blockchain.html"
   },
   {
     "name": "network-congestion",
@@ -1392,6 +1916,10 @@
     "link": "opera.html"
   },
   {
+    "name": "opsyonal",
+    "link": "opsyonal.html"
+  },
+  {
     "name": "optimism",
     "link": "optimism.html"
   },
@@ -1408,16 +1936,156 @@
     "link": "oracle.html"
   },
   {
+    "name": "orakulo",
+    "link": "orakulo.html"
+  },
+  {
+    "name": "oras-ng-block",
+    "link": "oras-ng-block.html"
+  },
+  {
     "name": "p2p",
     "link": "p2p.html"
+  },
+  {
+    "name": "pabilisan",
+    "link": "pabilisan.html"
+  },
+  {
+    "name": "pag-encrypt",
+    "link": "pag-encrypt.html"
+  },
+  {
+    "name": "pag-lock-ng-token",
+    "link": "pag-lock-ng-token.html"
+  },
+  {
+    "name": "paganahin",
+    "link": "paganahin.html"
+  },
+  {
+    "name": "paghati",
+    "link": "paghati.html"
+  },
+  {
+    "name": "pagkakapantay-pantay",
+    "link": "pagkakapantay-pantay.html"
+  },
+  {
+    "name": "paglaglag-ng-nft",
+    "link": "paglaglag-ng-nft.html"
+  },
+  {
+    "name": "paglilinang-ng-ani",
+    "link": "paglilinang-ng-ani.html"
+  },
+  {
+    "name": "pagmimina",
+    "link": "pagmimina.html"
+  },
+  {
+    "name": "pagpapatunay",
+    "link": "pagpapatunay.html"
+  },
+  {
+    "name": "pagpipira-piraso-(pangngalan)",
+    "link": "pagpipira-piraso-(pangngalan).html"
+  },
+  {
+    "name": "pagse-serye",
+    "link": "pagse-serye.html"
+  },
+  {
+    "name": "pagsisikip-ng-network",
+    "link": "pagsisikip-ng-network.html"
+  },
+  {
+    "name": "pagtataya-(pangngalan)",
+    "link": "pagtataya-(pangngalan).html"
+  },
+  {
+    "name": "pagtaya-ng-liquidity",
+    "link": "pagtaya-ng-liquidity.html"
+  },
+  {
+    "name": "pagtuturo",
+    "link": "pagtuturo.html"
+  },
+  {
+    "name": "pahintulot",
+    "link": "pahintulot.html"
+  },
+  {
+    "name": "palitan-(pangngalan)",
+    "link": "palitan-(pangngalan).html"
+  },
+  {
+    "name": "palitan",
+    "link": "palitan.html"
   },
   {
     "name": "palm",
     "link": "palm.html"
   },
   {
+    "name": "pamamahala",
+    "link": "pamamahala.html"
+  },
+  {
+    "name": "pamantayan-ng-token-ng-erc-20",
+    "link": "pamantayan-ng-token-ng-erc-20.html"
+  },
+  {
+    "name": "pamantayan-ng-token-ng-erc-21",
+    "link": "pamantayan-ng-token-ng-erc-21.html"
+  },
+  {
+    "name": "pamantayan-ng-token",
+    "link": "pamantayan-ng-token.html"
+  },
+  {
+    "name": "pampublikong-address-ng-ethereum",
+    "link": "pampublikong-address-ng-ethereum.html"
+  },
+  {
+    "name": "pampublikong-address",
+    "link": "pampublikong-address.html"
+  },
+  {
+    "name": "pampublikong-blockchain",
+    "link": "pampublikong-blockchain.html"
+  },
+  {
+    "name": "pampublikong-key-na-imprastraktura",
+    "link": "pampublikong-key-na-imprastraktura.html"
+  },
+  {
+    "name": "pampublikong-key-na-kriptograpiya",
+    "link": "pampublikong-key-na-kriptograpiya.html"
+  },
+  {
+    "name": "pampublikong-key",
+    "link": "pampublikong-key.html"
+  },
+  {
+    "name": "pangkalahatan",
+    "link": "pangkalahatan.html"
+  },
+  {
+    "name": "panloloko",
+    "link": "panloloko.html"
+  },
+  {
+    "name": "panloob-na-transaksyon",
+    "link": "panloob-na-transaksyon.html"
+  },
+  {
     "name": "paraswap",
     "link": "paraswap.html"
+  },
+  {
+    "name": "pariralang-binhi",
+    "link": "pariralang-binhi.html"
   },
   {
     "name": "parity",
@@ -1434,6 +2102,10 @@
   {
     "name": "password",
     "link": "password.html"
+  },
+  {
+    "name": "patunay-na-walang-kaalaman",
+    "link": "patunay-na-walang-kaalaman.html"
   },
   {
     "name": "paypal",
@@ -1464,8 +2136,44 @@
     "link": "phishing-(noun).html"
   },
   {
+    "name": "phishing-(pangngalan)",
+    "link": "phishing-(pangngalan).html"
+  },
+  {
+    "name": "pinagkasunduan",
+    "link": "pinagkasunduan.html"
+  },
+  {
+    "name": "pinagmulan-(pangngalan)",
+    "link": "pinagmulan-(pangngalan).html"
+  },
+  {
+    "name": "pinagmulan-ng-asset",
+    "link": "pinagmulan-ng-asset.html"
+  },
+  {
+    "name": "pinagsasama-sama",
+    "link": "pinagsasama-sama.html"
+  },
+  {
+    "name": "pinahintulutang-ledger",
+    "link": "pinahintulutang-ledger.html"
+  },
+  {
+    "name": "pinakamataas-na-bayad-sa-priyoridad",
+    "link": "pinakamataas-na-bayad-sa-priyoridad.html"
+  },
+  {
     "name": "plasma",
     "link": "plasma.html"
+  },
+  {
+    "name": "platform-ng-komunidad-ng-metamask",
+    "link": "platform-ng-komunidad-ng-metamask.html"
+  },
+  {
+    "name": "platform-ng-komunidad",
+    "link": "platform-ng-komunidad.html"
   },
   {
     "name": "poa,-pos,-pow",
@@ -1476,12 +2184,40 @@
     "link": "polygon.html"
   },
   {
+    "name": "pondo-ng-crypto",
+    "link": "pondo-ng-crypto.html"
+  },
+  {
+    "name": "pool-ng-liquidity",
+    "link": "pool-ng-liquidity.html"
+  },
+  {
+    "name": "pool-ng-transaksyon",
+    "link": "pool-ng-transaksyon.html"
+  },
+  {
     "name": "portfolio",
     "link": "portfolio.html"
   },
   {
     "name": "pospow-hybrid",
     "link": "pospow-hybrid.html"
+  },
+  {
+    "name": "presyo-ng-gas",
+    "link": "presyo-ng-gas.html"
+  },
+  {
+    "name": "pribadong-blockchain",
+    "link": "pribadong-blockchain.html"
+  },
+  {
+    "name": "pribadong-key",
+    "link": "pribadong-key.html"
+  },
+  {
+    "name": "pribadong-salapi",
+    "link": "pribadong-salapi.html"
   },
   {
     "name": "priority-fee",
@@ -1520,6 +2256,10 @@
     "link": "proof-of-work.html"
   },
   {
+    "name": "protocol-ng-inter-blockchain-communication-(ibc)",
+    "link": "protocol-ng-inter-blockchain-communication-(ibc).html"
+  },
+  {
     "name": "protocol",
     "link": "protocol.html"
   },
@@ -1544,6 +2284,14 @@
     "link": "public-key.html"
   },
   {
+    "name": "pumirma",
+    "link": "pumirma.html"
+  },
+  {
+    "name": "puwang",
+    "link": "puwang.html"
+  },
+  {
     "name": "qr-code",
     "link": "qr-code.html"
   },
@@ -1554,6 +2302,10 @@
   {
     "name": "rarible",
     "link": "rarible.html"
+  },
+  {
+    "name": "rate-ng-pangwakas",
+    "link": "rate-ng-pangwakas.html"
   },
   {
     "name": "receive",
@@ -1612,6 +2364,10 @@
     "link": "rocket-pool.html"
   },
   {
+    "name": "rollup-na-walang-kaalaman",
+    "link": "rollup-na-walang-kaalaman.html"
+  },
+  {
     "name": "rollups",
     "link": "rollups.html"
   },
@@ -1642,6 +2398,14 @@
   {
     "name": "sardine",
     "link": "sardine.html"
+  },
+  {
+    "name": "sariling-kustodiya-(pangngalan)",
+    "link": "sariling-kustodiya-(pangngalan).html"
+  },
+  {
+    "name": "sariling-pagpapatupad",
+    "link": "sariling-pagpapatupad.html"
   },
   {
     "name": "satoshi-nakamoto",
@@ -1704,12 +2468,20 @@
     "link": "seed-phrase.html"
   },
   {
+    "name": "seguridad-at-pagkapribado",
+    "link": "seguridad-at-pagkapribado.html"
+  },
+  {
     "name": "self-custody-(noun)",
     "link": "self-custody-(noun).html"
   },
   {
     "name": "self-executing",
     "link": "self-executing.html"
+  },
+  {
+    "name": "sentro-ng-suporta",
+    "link": "sentro-ng-suporta.html"
   },
   {
     "name": "sepolia",
@@ -1736,6 +2508,10 @@
     "link": "sharding-(noun).html"
   },
   {
+    "name": "shielded-na-transaksyon",
+    "link": "shielded-na-transaksyon.html"
+  },
+  {
     "name": "shielded-transaction",
     "link": "shielded-transaction.html"
   },
@@ -1760,6 +2536,10 @@
     "link": "signature-(cryptographic).html"
   },
   {
+    "name": "simbolo",
+    "link": "simbolo.html"
+  },
+  {
     "name": "skip",
     "link": "skip.html"
   },
@@ -1778,6 +2558,10 @@
   {
     "name": "smart-contract",
     "link": "smart-contract.html"
+  },
+  {
+    "name": "smart-na-kontrata",
+    "link": "smart-na-kontrata.html"
   },
   {
     "name": "snap",
@@ -1840,6 +2624,14 @@
     "link": "submit.html"
   },
   {
+    "name": "suporta-sa-metamask",
+    "link": "suporta-sa-metamask.html"
+  },
+  {
+    "name": "suporta",
+    "link": "suporta.html"
+  },
+  {
     "name": "support-center",
     "link": "support-center.html"
   },
@@ -1868,8 +2660,32 @@
     "link": "szabo.html"
   },
   {
+    "name": "taas-ng-block",
+    "link": "taas-ng-block.html"
+  },
+  {
+    "name": "tagapaghatid",
+    "link": "tagapaghatid.html"
+  },
+  {
+    "name": "tagapamahala-ng-password",
+    "link": "tagapamahala-ng-password.html"
+  },
+  {
+    "name": "tanggalin",
+    "link": "tanggalin.html"
+  },
+  {
+    "name": "tanggihan",
+    "link": "tanggihan.html"
+  },
+  {
     "name": "teku",
     "link": "teku.html"
+  },
+  {
+    "name": "tema",
+    "link": "tema.html"
   },
   {
     "name": "testnet-(test-network)",
@@ -1896,6 +2712,10 @@
     "link": "theme.html"
   },
   {
+    "name": "tip-ng-minero",
+    "link": "tip-ng-minero.html"
+  },
+  {
     "name": "tips",
     "link": "tips.html"
   },
@@ -1906,6 +2726,10 @@
   {
     "name": "token-lockup",
     "link": "token-lockup.html"
+  },
+  {
+    "name": "token-ng-seguridad",
+    "link": "token-ng-seguridad.html"
   },
   {
     "name": "token-standard",
@@ -1944,6 +2768,10 @@
     "link": "transak.html"
   },
   {
+    "name": "transaksyon",
+    "link": "transaksyon.html"
+  },
+  {
     "name": "transfer-(verb)",
     "link": "transfer-(verb).html"
   },
@@ -1960,8 +2788,20 @@
     "link": "trustless.html"
   },
   {
+    "name": "tumanggap",
+    "link": "tumanggap.html"
+  },
+  {
+    "name": "tungkol",
+    "link": "tungkol.html"
+  },
+  {
     "name": "turing-complete",
     "link": "turing-complete.html"
+  },
+  {
+    "name": "turing-kumpleto",
+    "link": "turing-kumpleto.html"
   },
   {
     "name": "tutorial",
@@ -1978,6 +2818,10 @@
   {
     "name": "u2f",
     "link": "u2f.html"
+  },
+  {
+    "name": "ulat-ng-bug",
+    "link": "ulat-ng-bug.html"
   },
   {
     "name": "uniswap",
@@ -2038,6 +2882,22 @@
   {
     "name": "vesting",
     "link": "vesting.html"
+  },
+  {
+    "name": "wakas,-pangwakas",
+    "link": "wakas,-pangwakas.html"
+  },
+  {
+    "name": "wala-sa-chain",
+    "link": "wala-sa-chain.html"
+  },
+  {
+    "name": "wallet-na-hardware",
+    "link": "wallet-na-hardware.html"
+  },
+  {
+    "name": "wallet-ng-crypto",
+    "link": "wallet-ng-crypto.html"
   },
   {
     "name": "wallet",
