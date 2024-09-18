@@ -30,9 +30,10 @@ function generateIndexForDirectory(directoryPath, outputPath) {
         const indexData = files.filter(file => file.endsWith('.html')).map(file => {
             return {
                 name: path.basename(file, '.html'), // Remove the .html extension
-                link: file
+                link: path.basename(file, '.html')  // Use only the file name without .html
             };
         });
+        
 
         fs.writeFile(outputPath, JSON.stringify(indexData, null, 2), (err) => {
             if (err) {
