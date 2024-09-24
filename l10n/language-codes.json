@@ -1,218 +1,218 @@
 {
-    "ar-AR": {
-        "name": "العربية",
-        "slug": "العربية",
-        "fourLetterDash": "ar-AR",
-        "fourLetterUnderscore": "ar_AR",
-        "twoLetter": "ar",
-        "threeLetter": "ara"
-    },
-    "zh-CN": {
-        "name": "中文-(简体)",
-        "slug": "中文-(简体)",
-        "fourLetterDash": "zh-CN",
-        "fourLetterUnderscore": "zh_CN",
-        "twoLetter": "zh",
-        "threeLetter": "zho"
-    },
-    "zh-TW": {
-        "name": "中文-(繁體)",
-        "slug": "中文-(繁體)",
-        "fourLetterDash": "zh-TW",
-        "fourLetterUnderscore": "zh_TW",
-        "twoLetter": "zh",
-        "threeLetter": "zho"
-    },
-    "nl-NL": {
-        "name": "nederlands",
-        "slug": "nederlands",
-        "fourLetterDash": "nl-NL",
-        "fourLetterUnderscore": "nl_NL",
-        "twoLetter": "nl",
-        "threeLetter": "nld"
-    },
-    "fr-FR": {
-        "name": "français",
-        "slug": "français",
-        "fourLetterDash": "fr-FR",
-        "fourLetterUnderscore": "fr_FR",
-        "twoLetter": "fr",
-        "threeLetter": "fra"
-    },
-    "el-GR": {
-        "name": "Ελληνικά",
-        "slug": "Ελληνικά",
-        "fourLetterDash": "el-GR",
-        "fourLetterUnderscore": "el_GR",
-        "twoLetter": "el",
-        "threeLetter": "ell"
-    },
-    "en-US": {
-        "name": "us-english",
-        "slug": "us-english",
-        "fourLetterDash": "en-US",
-        "fourLetterUnderscore": "en_US",
-        "twoLetter": "en",
-        "threeLetter": "eng"
-    },
-    "ha-NG": {
-        "name": "hausa",
-        "slug": "hausa",
-        "fourLetterDash": "ha-NG",
-        "fourLetterUnderscore": "ha_NG",
-        "twoLetter": "ha",
-        "threeLetter": "hau"
-    },
-    "hi-IN": {
-        "name": "हिन्दी",
-        "slug": "हिन्दी",
-        "fourLetterDash": "hi-IN",
-        "fourLetterUnderscore": "hi_IN",
-        "twoLetter": "hi",
-        "threeLetter": "hin"
-    },
-    "hu-HU": {
-        "name": "magyar",
-        "slug": "magyar",
-        "fourLetterDash": "hu-HU",
-        "fourLetterUnderscore": "hu_HU",
-        "twoLetter": "hu",
-        "threeLetter": "hun"
-    },
-    "id-ID": {
-        "name": "bahasa-indonesia",
-        "slug": "bahasa-indonesia",
-        "fourLetterDash": "id-ID",
-        "fourLetterUnderscore": "id_ID",
-        "twoLetter": "id",
-        "threeLetter": "ind"
-    },
-    "it-IT":{
-        "name": "italiano",
-        "slug": "italiano",
-        "fourLetterDash": "it-IT",
-        "fourLetterUnderscore": "it_IT",
-        "twoLetter": "it",
-        "threeLetter": "ita"
-    },
-    "ja-JP": {
-        "name": "日本語",
-        "slug": "日本語",
-        "fourLetterDash": "ja-JP",
-        "fourLetterUnderscore": "ja_JP",
-        "twoLetter": "ja",
-        "threeLetter": "jpn"
-    },
-    "ko-KR": {
-        "name": "한국어",
-        "slug": "한국어",
-        "fourLetterDash": "ko-KR",
-        "fourLetterUnderscore": "ko_KR",
-        "twoLetter": "ko",
-        "threeLetter": "kor"
-    },
-    "fa-IR": {
-        "name": "فارسی",
-        "slug": "فارسی",
-        "fourLetterDash": "fa-IR",
-        "fourLetterUnderscore": "fa_IR",
-        "twoLetter": "fa",
-        "threeLetter": "fas"
-    },
-    "ms-MY": {
-        "name": "bahasa-melayu",
-        "slug": "bahasa-melayu",
-        "fourLetterDash": "ms-MY",
-        "fourLetterUnderscore": "ms_MY",
-        "twoLetter": "ms",
-        "threeLetter": "msa"
-    },
-    "pcm-NG": {
-        "name": "naijá",
-        "slug": "naijá",
-        "fourLetterDash": "pcm-NG",
-        "fourLetterUnderscore": "pcm_NG",
-        "twoLetter": "pc",
-        "threeLetter": "pcm"
-    },
-    "pl-PL": {
-        "name": "polski",
-        "slug": "polski",
-        "fourLetterDash": "pl-PL",
-        "fourLetterUnderscore": "pl_PL",
-        "twoLetter": "pl",
-        "threeLetter": "pol"
-    },
-    "pt-BR": {
-        "name": "português-brasil",
-        "slug": "português-brasil",
-        "fourLetterDash": "pt-BR",
-        "fourLetterUnderscore": "pt_BR",
-        "twoLetter": "pt",
-        "threeLetter": "por"
-    },
-    "ro-RO": {
-        "name": "română",
-        "slug": "română",
-        "fourLetterDash": "ro-RO",
-        "fourLetterUnderscore": "ro_RO",
-        "twoLetter": "ro",
-        "threeLetter": "ron"
-    },
-    "ru-RU": {
-        "name": "Русский",
-        "slug": "Русский",
-        "fourLetterDash": "ru-RU",
-        "fourLetterUnderscore": "ru_RU",
-        "twoLetter": "ru",
-        "threeLetter": "rus"
-    },
-    "es-419": {
-        "name": "español-latinoamérica",
-        "slug": "español-latinoamérica",
-        "fourLetterDash": "es-419",
-        "fourLetterUnderscore": "es_419",
-        "twoLetter": "es",
-        "threeLetter": "spa"
-    },
-    "tl-PH": {
-        "name": "tagalog",
-        "slug": "tagalog",
-        "fourLetterDash": "tl-PH",
-        "fourLetterUnderscore": "tl_PH",
-        "twoLetter": "tl",
-        "threeLetter": "tgl"
-    },
-    "th-TH": {
-        "name": "ไทย",
-        "slug": "ไทย",
-        "fourLetterDash": "th-TH",
-        "fourLetterUnderscore": "th_TH",
-        "twoLetter": "th",
-        "threeLetter": "tha"
-    },
-    "tr-TR": {
-        "name": "türkçe",
-        "slug": "türkçe",
-        "fourLetterDash": "tr-TR",
-        "fourLetterUnderscore": "tr_TR",
-        "twoLetter": "tr",
-        "threeLetter": "tur"
-    },
-    "uk-UA": {
-        "name": "Українська",
-        "slug": "Українська",
-        "fourLetterDash": "uk-UA",
-        "fourLetterUnderscore": "uk_UA",
-        "twoLetter": "uk",
-        "threeLetter": "ukr"
-    },
-    "vi-VN": {
-        "name": "tiếng-việt",
-        "slug": "tiếng-việt",
-        "fourLetterDash": "vi-VN",
-        "fourLetterUnderscore": "vi_VN",
-        "twoLetter": "vi",
-        "threeLetter": "vie"
-    }
+  "ar-AR": {
+    "name": "العربية",
+    "slug": "العربية",
+    "fourLetterDash": "ar-AR",
+    "fourLetterUnderscore": "ar_AR",
+    "twoLetter": "ar",
+    "threeLetter": "ara"
+  },
+  "zh-CN": {
+    "name": "中文-(简体)",
+    "slug": "中文-(简体)",
+    "fourLetterDash": "zh-CN",
+    "fourLetterUnderscore": "zh_CN",
+    "twoLetter": "zh",
+    "threeLetter": "zho"
+  },
+  "zh-TW": {
+    "name": "中文-(繁體)",
+    "slug": "中文-(繁體)",
+    "fourLetterDash": "zh-TW",
+    "fourLetterUnderscore": "zh_TW",
+    "twoLetter": "zh",
+    "threeLetter": "zho"
+  },
+  "nl-NL": {
+    "name": "nederlands",
+    "slug": "nederlands",
+    "fourLetterDash": "nl-NL",
+    "fourLetterUnderscore": "nl_NL",
+    "twoLetter": "nl",
+    "threeLetter": "nld"
+  },
+  "fr-FR": {
+    "name": "français",
+    "slug": "français",
+    "fourLetterDash": "fr-FR",
+    "fourLetterUnderscore": "fr_FR",
+    "twoLetter": "fr",
+    "threeLetter": "fra"
+  },
+  "el-GR": {
+    "name": "Ελληνικά",
+    "slug": "Ελληνικά",
+    "fourLetterDash": "el-GR",
+    "fourLetterUnderscore": "el_GR",
+    "twoLetter": "el",
+    "threeLetter": "ell"
+  },
+  "en-US": {
+    "name": "us-english",
+    "slug": "us-english",
+    "fourLetterDash": "en-US",
+    "fourLetterUnderscore": "en_US",
+    "twoLetter": "en",
+    "threeLetter": "eng"
+  },
+  "ha-NG": {
+    "name": "hausa",
+    "slug": "hausa",
+    "fourLetterDash": "ha-NG",
+    "fourLetterUnderscore": "ha_NG",
+    "twoLetter": "ha",
+    "threeLetter": "hau"
+  },
+  "hi-IN": {
+    "name": "हिन्दी",
+    "slug": "हिन्दी",
+    "fourLetterDash": "hi-IN",
+    "fourLetterUnderscore": "hi_IN",
+    "twoLetter": "hi",
+    "threeLetter": "hin"
+  },
+  "hu-HU": {
+    "name": "magyar",
+    "slug": "magyar",
+    "fourLetterDash": "hu-HU",
+    "fourLetterUnderscore": "hu_HU",
+    "twoLetter": "hu",
+    "threeLetter": "hun"
+  },
+  "id-ID": {
+    "name": "bahasa-indonesia",
+    "slug": "bahasa-indonesia",
+    "fourLetterDash": "id-ID",
+    "fourLetterUnderscore": "id_ID",
+    "twoLetter": "id",
+    "threeLetter": "ind"
+  },
+  "it-IT": {
+    "name": "italiano",
+    "slug": "italiano",
+    "fourLetterDash": "it-IT",
+    "fourLetterUnderscore": "it_IT",
+    "twoLetter": "it",
+    "threeLetter": "ita"
+  },
+  "ja-JP": {
+    "name": "日本語",
+    "slug": "日本語",
+    "fourLetterDash": "ja-JP",
+    "fourLetterUnderscore": "ja_JP",
+    "twoLetter": "ja",
+    "threeLetter": "jpn"
+  },
+  "ko-KR": {
+    "name": "한국어",
+    "slug": "한국어",
+    "fourLetterDash": "ko-KR",
+    "fourLetterUnderscore": "ko_KR",
+    "twoLetter": "ko",
+    "threeLetter": "kor"
+  },
+  "fa-IR": {
+    "name": "فارسی",
+    "slug": "فارسی",
+    "fourLetterDash": "fa-IR",
+    "fourLetterUnderscore": "fa_IR",
+    "twoLetter": "fa",
+    "threeLetter": "fas"
+  },
+  "ms-MY": {
+    "name": "bahasa-melayu",
+    "slug": "bahasa-melayu",
+    "fourLetterDash": "ms-MY",
+    "fourLetterUnderscore": "ms_MY",
+    "twoLetter": "ms",
+    "threeLetter": "msa"
+  },
+  "pcm-NG": {
+    "name": "naijá",
+    "slug": "naijá",
+    "fourLetterDash": "pcm-NG",
+    "fourLetterUnderscore": "pcm_NG",
+    "twoLetter": "pc",
+    "threeLetter": "pcm"
+  },
+  "pl-PL": {
+    "name": "polski",
+    "slug": "polski",
+    "fourLetterDash": "pl-PL",
+    "fourLetterUnderscore": "pl_PL",
+    "twoLetter": "pl",
+    "threeLetter": "pol"
+  },
+  "pt-BR": {
+    "name": "português-brasil",
+    "slug": "português-brasil",
+    "fourLetterDash": "pt-BR",
+    "fourLetterUnderscore": "pt_BR",
+    "twoLetter": "pt",
+    "threeLetter": "por"
+  },
+  "ro-RO": {
+    "name": "română",
+    "slug": "română",
+    "fourLetterDash": "ro-RO",
+    "fourLetterUnderscore": "ro_RO",
+    "twoLetter": "ro",
+    "threeLetter": "ron"
+  },
+  "ru-RU": {
+    "name": "Русский",
+    "slug": "Русский",
+    "fourLetterDash": "ru-RU",
+    "fourLetterUnderscore": "ru_RU",
+    "twoLetter": "ru",
+    "threeLetter": "rus"
+  },
+  "es-419": {
+    "name": "español-latinoamérica",
+    "slug": "español-latinoamérica",
+    "fourLetterDash": "es-419",
+    "fourLetterUnderscore": "es_419",
+    "twoLetter": "es",
+    "threeLetter": "spa"
+  },
+  "tl-PH": {
+    "name": "tagalog",
+    "slug": "tagalog",
+    "fourLetterDash": "tl-PH",
+    "fourLetterUnderscore": "tl_PH",
+    "twoLetter": "tl",
+    "threeLetter": "tgl"
+  },
+  "th-TH": {
+    "name": "ไทย",
+    "slug": "ไทย",
+    "fourLetterDash": "th-TH",
+    "fourLetterUnderscore": "th_TH",
+    "twoLetter": "th",
+    "threeLetter": "tha"
+  },
+  "tr-TR": {
+    "name": "türkçe",
+    "slug": "türkçe",
+    "fourLetterDash": "tr-TR",
+    "fourLetterUnderscore": "tr_TR",
+    "twoLetter": "tr",
+    "threeLetter": "tur"
+  },
+  "uk-UA": {
+    "name": "Українська",
+    "slug": "Українська",
+    "fourLetterDash": "uk-UA",
+    "fourLetterUnderscore": "uk_UA",
+    "twoLetter": "uk",
+    "threeLetter": "ukr"
+  },
+  "vi-VN": {
+    "name": "tiếng-việt",
+    "slug": "tiếng-việt",
+    "fourLetterDash": "vi-VN",
+    "fourLetterUnderscore": "vi_VN",
+    "twoLetter": "vi",
+    "threeLetter": "vie"
+  }
 }

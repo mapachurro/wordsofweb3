@@ -1,6 +1,6 @@
-import { convertLanguageFormat, loadLanguageMap } from './l10n.js';
+import { convertLanguageFormat, loadLanguageMap } from "./l10n.js";
 
-document.addEventListener('DOMContentLoaded', async () => {
+document.addEventListener("DOMContentLoaded", async () => {
   const userLocale = navigator.language || navigator.languages[0];
 
   // Load the language map once and use it for mapping locales
@@ -29,14 +29,18 @@ function findBestLocaleMatch(userLocale, languageMap) {
 }
 
 function displayLanguageSelection(languageMap) {
-  const mainElement = document.querySelector('main');
+  const mainElement = document.querySelector("main");
   mainElement.innerHTML = `
     <h1>Welcome to wordsofweb3!</h1>
     <p>What language would you like to select?</p>
     <div id="language-selection">
-      ${Object.values(languageMap).map(option => `
+      ${Object.values(languageMap)
+        .map(
+          (option) => `
         <button onclick="window.location.href='./${option.slug}/index.html'">${option.name}</button>
-      `).join('')}
+      `,
+        )
+        .join("")}
     </div>
   `;
 }

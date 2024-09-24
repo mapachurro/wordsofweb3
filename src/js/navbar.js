@@ -9,7 +9,7 @@ export function renderNavbar(languageOptions) {
       </a>
       <div class="collapse navbar-collapse">
         <select id="language-selector" class="form-select ml-auto language-selector">
-          ${languageOptions.map(option => `<option value="${option.value}">${option.label}</option>`).join("")}
+          ${languageOptions.map((option) => `<option value="${option.value}">${option.label}</option>`).join("")}
         </select>
       </div>
     </nav>
@@ -47,10 +47,56 @@ export const languageOptions = [
   { value: "tiếng-việt", label: "Tiếng Việt" },
 ];
 
+// Fix for language change not triggering navigation
+const handleLanguageChange = async () => {
+  const languageSlug = languageSelector.value;
+
+  try {
+    const languageCode = await convertLanguageFormat(languageSlug, "slug", "fourLetterDash");
+    console.log("language selected: "+languageCode)
+
+    if (languageCode) {
+      localStorage.setItem("selectedLanguage", languageSlug);
+      console.log("Site language set to: " + languageSlug);
+
+      const currentPathParts = window.location.pathname.split("/");
+      const currentPage = currentPathParts.pop() || "index.html";
+
+      // Get the term slug (e.g., 3box-labs) from the current URL
+      const termSlug = currentPathParts.pop();
+
+      // Try fetching the localized term page
+      const newPath = `/${languageSlug}/${termSlug}.html`;
+      const response = await fetch(newPath);
+
+      // If the term exists in the new language, navigate to it
+      if (response.ok) {
+        window.location.href = newPath;
+      } else {
+        // If not, navigate to the homepage in the selected language
+        window.location.href = `/${languageSlug}/index.html`;
+      }
+    } else {
+      throw new Error("Invalid language selection");
+    }
+  } catch (error) {
+    console.error("Error during language selection:", error);
+  }
+};
+
+// Fix for logo click appending #
+const handleLogoClick = (event) => {
+  console.log("go to homepage in this locale")
+  event.preventDefault();  // Prevent the default behavior of adding a hash
+  const selectedLanguage = languageSelector.value;
+  window.location.href = `/${selectedLanguage}/index.html`;
+};
+
+// Make sure the navbar initializes correctly
 export function initNavbar() {
   document.addEventListener("DOMContentLoaded", () => {
     const languageSelector = document.getElementById("language-selector");
-    const logoElement = document.querySelector(".logo");
+    const logoElement = document.querySelector(".navbar-brand");
 
     // Check if the elements exist before trying to add event listeners
     if (!languageSelector || !logoElement) {
@@ -58,41 +104,8 @@ export function initNavbar() {
       return;
     }
 
-    const handleLogoClick = () => {
-      const selectedLanguage = languageSelector.value;
-      window.location.href = `/${selectedLanguage}/index.html`;
-    };
-
-    const handleLanguageChange = async () => {
-      const languageSlug = languageSelector.value;
-
-      try {
-        const languageCode = await convertLanguageFormat(languageSlug, "slug", "fourLetterDash");
-
-        if (languageCode) {
-          localStorage.setItem("selectedLanguage", languageSlug);
-          console.log("Site language set to: " + languageSlug);
-
-          const currentPathParts = window.location.pathname.split("/");
-          const currentPage = currentPathParts.pop() || "index.html";
-          const newPath = `/${languageSlug}/${currentPage}`;
-
-          window.location.href = newPath;
-        } else {
-          throw new Error("Invalid language selection");
-        }
-      } catch (error) {
-        console.error("Error during language selection:", error);
-      }
-    };
-
-    // Set the language selector to the correct value based on the current URL path or localStorage
-    const storedLanguage = localStorage.getItem("selectedLanguage") || window.location.pathname.split("/")[1];
-    languageSelector.value = storedLanguage;
-
     // Set event listeners
     languageSelector.addEventListener("change", handleLanguageChange);
     logoElement.addEventListener("click", handleLogoClick);
   });
 }
-

@@ -4,7 +4,8 @@ This repo is the backend for the `wordsofweb3.eth` glossary, from [Education DAO
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
 
 - [wordsofweb3](#wordsofweb3)
 - [wordsofweb3: Architecture](#wordsofweb3-architecture)
@@ -32,14 +33,14 @@ This repo is the backend for the `wordsofweb3.eth` glossary, from [Education DAO
 
 wordsofweb3 is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.
 
-It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is *also* a `term` in the glossary in that language, there will be a hyperlink to that term.
+It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is _also_ a `term` in the glossary in that language, there will be a hyperlink to that term.
 Ideally, there will be a `breadcrumbs` element at the top of each entry page, tracking the user's journey through the interwoven terminology of this space.
 
 ## Design principles
 
-This app is meant to be *for the ages*. The idea is that it *will never break*. It is designed to be deployed on decentralized storage networks, such as IPFS, which sometimes experience high latency; additionally, this technology should be accessible by the widest possible audience. 
+This app is meant to be _for the ages_. The idea is that it _will never break_. It is designed to be deployed on decentralized storage networks, such as IPFS, which sometimes experience high latency; additionally, this technology should be accessible by the widest possible audience.
 
-For these reasons, at every point at which we can choose "how to do X", we should choose the dumbest, most low-tech way possible. 
+For these reasons, at every point at which we can choose "how to do X", we should choose the dumbest, most low-tech way possible.
 
 This means that if you're installing an npm package, or importing a CDN, you might be doing it wrong.
 
@@ -49,7 +50,7 @@ We use ES Module syntax in wordsofweb3, so make sure any functionality uses this
 
 ## Implementation implications
 
-Yes, this means custom scripting; but anyone that tells you that an npm package or open source project will require *less* maintenance than custom scripts that do what you want, well, wish them the best of luck with that.
+Yes, this means custom scripting; but anyone that tells you that an npm package or open source project will require _less_ maintenance than custom scripts that do what you want, well, wish them the best of luck with that.
 
 ### Homepages
 
@@ -57,7 +58,7 @@ As a fully internationalized app, the site will actually have multiple potential
 
 This means there is an `index.html` page in the root directory `./`, as well as an index.html page in each of the locale directories, e.g. `./nederlands/index.html`.
 
-The root index file, upon load, *should* detect the user's browser locale, and direct them to the correct `./<locale>/index.html` file.
+The root index file, upon load, _should_ detect the user's browser locale, and direct them to the correct `./<locale>/index.html` file.
 If there doesn't seem to be an appropriate locale for the user, the root index file should show a welcome message, display all available locales and allow the user to choose one.
 
 These homepages are created by `build-homepages.js`, which runs during the build process.
@@ -73,7 +74,7 @@ The navbar does not do any UI string swapping. Or, at least, it shouldn't.
 
 ### Creating the glossary entries
 
-Similarly to the "template" format of the homepage, each `term`'s `entry page` will be generated **on the build side of the app; nothing will be created "generatively" on the reader's side.** 
+Similarly to the "template" format of the homepage, each `term`'s `entry page` will be generated **on the build side of the app; nothing will be created "generatively" on the reader's side.**
 
 There are two data inputs to these `entry pages`:
 
@@ -89,12 +90,13 @@ Account,حساب,账户,帳戶,account,Compte,Konto,Λογαριασμός,Asusu
 ```
 
 This .csv will be processed by a script, `generate-json.js`. For each locale, this script:
+
 - Iterates through `./locales/<locale-code>` directories
-    - In each directory, it looks for a file, `./locales/<locale-code>/<locale-code>.json`
-        - If that file exists, it iterates through the rows of `ext-sync-terms.csv`, ensuring that:
-            - There is a `term` object for each row of that locale (each word in that language), and that
-            - There are no duplicate terms, such that building an HTML file from it would result in multiple HTML files located at the same URL path / slug.
-            - Additionally, when this script creates a new term, it uses the following structure:
+  - In each directory, it looks for a file, `./locales/<locale-code>/<locale-code>.json`
+    - If that file exists, it iterates through the rows of `ext-sync-terms.csv`, ensuring that:
+      - There is a `term` object for each row of that locale (each word in that language), and that
+      - There are no duplicate terms, such that building an HTML file from it would result in multiple HTML files located at the same URL path / slug.
+      - Additionally, when this script creates a new term, it uses the following structure:
 
 ```json
     "Ethereum": {
@@ -152,7 +154,7 @@ Once this information is in its .json files in corresponding locale folders, we 
 
 - Ingests `template.html`
 - Looks up the list of terms in each language, in `./locales/<four-letter-dash-locale-code>/<four-letter-dash-locale-code>.json`
-  - Iterates through that .json file, and for each `term` object, 
+  - Iterates through that .json file, and for each `term` object,
     - Creates an .HTML file, filling in the placeholders in the HTML template with the values found in the object.
 
 The script then should save that HTML file (e.g. `cuenta.html`) in a directory which it will create (and overwrite the contents of if it already exists, to ensure the most up to date build / version) if it doesn't already exist.
@@ -165,9 +167,9 @@ There is a cross-locale mapping function present in this script, which should li
 
 ```markdown
 ### Read this entry in:
+
 [Spanish](./path-to-entry-in-Spanish.html)
 [English](./path-to-entry-in-English.html)
-
 ```
 
 ### Paths and slugs
@@ -195,6 +197,7 @@ An example of this: we do not have paths like `/es-419/cuenta.html`; no, we have
         "threeLetter": "zho"
     },
 ```
+
 ...and so on.
 
 ## Creating the connections between the `definitions`
@@ -214,7 +217,7 @@ It should save this output to file at `./utils/intertextual-output-<number>.txt`
 
 There is a difficult implementation detail here: `stop words`, `stems`, and `plurals`.
 
-A quality contextual search will use detailed information about the morphology of a given language to find a *good* match, not just something that happens to match a pattern.
+A quality contextual search will use detailed information about the morphology of a given language to find a _good_ match, not just something that happens to match a pattern.
 One option is to leverage [lunr-languages](https://github.com/MihaiValentin/lunr-languages), which has a decent and open source (MPL) collection of such files.
 
 # Overall site / `build` directory structure
@@ -251,7 +254,7 @@ One option is to leverage [lunr-languages](https://github.com/MihaiValentin/lunr
 
 As stated, upon changing the language using the dropdown selector (or the URL bar), you go to the corresponding index.html page.
 
-This should also change *the search index used for any searches made*, such that if I have selected Nigerian Pidgin, I am searching the index of Nigerian Pidgin terms.
+This should also change _the search index used for any searches made_, such that if I have selected Nigerian Pidgin, I am searching the index of Nigerian Pidgin terms.
 
 # Search
 
@@ -259,20 +262,24 @@ The search will be key functionality in this site.
 
 The current implementation leverages the directoryContents.json files, which are generated during build. It currently matches any terms which have the search query term in them. Ideally, we have something like this in the future:
 
-
 ```markdown
 ## Term matches
+
 - Terms that have the search query in them
+
 ## Definition matches
+
 - Terms that have the search query in their `description` field
+
 ## Partial matches
+
 - Terms that partially match the search query
 ```
 
 In this way, the reader will be presented with the most relevant searches first.
 
-
 # Build
+
 There is a distinction made in this repo between the JS files in `./src/js`, and `./utils`:
 
 ./src/js: client-facing javascript, ie, things that run "in the site", such as the Search function that happens when you click the "search" button
@@ -287,8 +294,10 @@ For this reason, `build.js` is located in `utils`, and should only ever copy ove
 
 This script is invoked by `npm run build`, and will, in turn:
 
-- Run anew `build-pages.js`
+- Build the homepages, with `build-homepages.js`
+- Build the individual entry pages, with `build-pages.js`
 - Run `intertextual.js`
+- Create the `directoryContents.json` files
 - Copy over the following directories and files:
 
 ```txt
@@ -303,6 +312,6 @@ index.js to ./build/index.js
 
 # Deployment
 
-This site will be deployed on IPFS, for starters, using Fleek.xyz. It can and probably should be deployed on other decentralized storage networks.
+This site is deployed on IPFS, for starters, using Fleek.xyz. It can and probably should be deployed on other decentralized storage networks.
 
 The intention is to route the ENS name `wordsofweb3.eth` to an IPNS hash using Fleek.xyz, such that it could be accessed at `wordsofweb3.eth.limo`, etc.

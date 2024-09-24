@@ -2,20 +2,20 @@
 
 The Education DAO Glossary is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.
 
-It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is *also* a `term` in the glossary in that language, there will be a hyperlink to that term.
+It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is _also_ a `term` in the glossary in that language, there will be a hyperlink to that term.
 Ideally, there will be a `breadcrumbs` element at the top of each entry page, tracking the user's journey through the interwoven terminology of this space.
 
 ## Design principles
 
-This app is meant to be *for the ages*. The idea is that it *will never break*. It is designed to be deployed on decentralized storage networks, such as IPFS, which sometimes experience high latency; additionally, this technology should be accessible by the widest possible audience. 
+This app is meant to be _for the ages_. The idea is that it _will never break_. It is designed to be deployed on decentralized storage networks, such as IPFS, which sometimes experience high latency; additionally, this technology should be accessible by the widest possible audience.
 
-For these reasons, at every point at which we can choose "how to do X", we should choose the dumbest, most low-tech way possible. 
+For these reasons, at every point at which we can choose "how to do X", we should choose the dumbest, most low-tech way possible.
 
 This means that if you're installing an npm package, or importing a CDN, you might be doing it wrong.
 
 ## Implementation implications
 
-Yes, this means custom scripting; but anyone that tells you that an npm package or open source project will require *less* maintenance than custom scripts that do what you want, well, wish them the best of luck with that.
+Yes, this means custom scripting; but anyone that tells you that an npm package or open source project will require _less_ maintenance than custom scripts that do what you want, well, wish them the best of luck with that.
 
 ### Creating the homepages
 
@@ -25,8 +25,8 @@ This will likely mean an `index.html`, which loads an `index.js`; that JS file w
 
 - The user's browser language is detected
 - An appropriate linguistic version of the site is loaded
-    - Filling in the UI elements in a templated version of the homepage, using JQuery-like placeholders or tags, with UI strings from a .json file corresponding to the language in question
-        - And falling back to the closest available locale (e.g. fall back to es-419 if es_HN is not available), or English if there is no support for a language family at all
+  - Filling in the UI elements in a templated version of the homepage, using JQuery-like placeholders or tags, with UI strings from a .json file corresponding to the language in question
+    - And falling back to the closest available locale (e.g. fall back to es-419 if es_HN is not available), or English if there is no support for a language family at all
 
 #### The Navbar and language switching
 
@@ -36,7 +36,7 @@ There will be no English-langauge slug elements when a user is experiencing the 
 
 ### Creating the glossary entries
 
-Similarly to the "template" format of the homepage, each `term`'s `entry page` will be generated **on the build side of the app; nothing will be created "generatively" on the reader's side.** 
+Similarly to the "template" format of the homepage, each `term`'s `entry page` will be generated **on the build side of the app; nothing will be created "generatively" on the reader's side.**
 
 There are two data inputs to these `entry pages`:
 
@@ -52,12 +52,13 @@ Account,حساب,账户,帳戶,account,Compte,Konto,Λογαριασμός,Asusu
 ```
 
 This .csv will be processed by a script, `generate-json.js`. For each locale, this script:
+
 - Iterates through `./locales/<locale-code>` directories
-    - In each directory, it looks for a file, `./locales/<locale-code>/<locale-code>.json`
-        - If that file exists, it iterates through the rows of `ext-sync-terms.csv`, ensuring that:
-            - There is a `term` object for each row of that locale (each word in that language), and that
-            - There are no duplicate terms, such that building an HTML file from it would result in multiple HTML files located at the same URL path / slug.
-            - Additionally, when this script creates a new term, it uses the following structure:
+  - In each directory, it looks for a file, `./locales/<locale-code>/<locale-code>.json`
+    - If that file exists, it iterates through the rows of `ext-sync-terms.csv`, ensuring that:
+      - There is a `term` object for each row of that locale (each word in that language), and that
+      - There are no duplicate terms, such that building an HTML file from it would result in multiple HTML files located at the same URL path / slug.
+      - Additionally, when this script creates a new term, it uses the following structure:
 
 ```json
     "Ethereum": {
@@ -90,8 +91,8 @@ For example:
       "termCategory": "project or product",
       "source": "",
       "datefirstseen": ""
-    },
-  },
+    }
+  }
 }
 ```
 
@@ -111,30 +112,30 @@ address,noun,decentralized web,"/ˈæd.rɛs/ ""ˈpʌblɪk ˈæd.rɛs""","Synonym
 
 ```
 
-
 ### Moving the information from .json to HTML
 
 Once this information is in its .json files in corresponding locale folders, we can proceed to generate the site's content from it.
 
 `./utils/build-pages.js`, yet to be created, will do the following:
 
-- Ingest `entrytemplate.html`, which will be a wireframe HTML of what each `term`'s entry page should have on it (Navbar, "new search" field at the bottom, other features TBD) that will not be dependent on JS functionality. 
-    - It will also invoke `entrytemplate.js`, which will have **dynamic content placeholders** for each of the values of a `term` object, and a few more.
-- For each locale, ingest that locale's `<locale>.json`, and 
+- Ingest `entrytemplate.html`, which will be a wireframe HTML of what each `term`'s entry page should have on it (Navbar, "new search" field at the bottom, other features TBD) that will not be dependent on JS functionality.
+  - It will also invoke `entrytemplate.js`, which will have **dynamic content placeholders** for each of the values of a `term` object, and a few more.
+- For each locale, ingest that locale's `<locale>.json`, and
 - Create an HTML file for each term
-    - Named by the `term` value, not the English object name
-    - Filling out the dynamic content placeholders with the corresponding values
-    - Creating links dynamically as specified in the code
+  - Named by the `term` value, not the English object name
+  - Filling out the dynamic content placeholders with the corresponding values
+  - Creating links dynamically as specified in the code
 - Save that HTML file (e.g. `cuenta.html`) in a directory which it will create (and overwrite the contents of) if it doesn't already exist: `./static`. **This is the "build directory"**.
 
-**One important point**: a consideration should be made for linking readers to the entry page for *the term whose page they're on, but in a different language*. So, if I'm reading an entry in French, there could be, e.g., a sidebar or section at the bottom of the page like so:
+**One important point**: a consideration should be made for linking readers to the entry page for _the term whose page they're on, but in a different language_. So, if I'm reading an entry in French, there could be, e.g., a sidebar or section at the bottom of the page like so:
 
 ```markdown
 ### Read this entry in:
+
 [Spanish](./path-to-entry-in-Spanish.html)
 [English](./path-to-entry-in-English.html)
-
 ```
+
 Given the fact that each `term` object will be labelled with its equivalent in English, a sort of reverse route mapping function could be developed to draw the connections between translations of given terms, and during the build process, create these links in the entry pages.
 
 ### Paths and slugs
@@ -162,7 +163,7 @@ It should save this output to file at `./utils/intertextual-output-<number>.txt`
 
 There is a difficult implementation detail here: `stop words`, `stems`, and `plurals`.
 
-A quality contextual search will use detailed information about the morphology of a given language to find a *good* match, not just something that happens to match a pattern.
+A quality contextual search will use detailed information about the morphology of a given language to find a _good_ match, not just something that happens to match a pattern.
 One option is to leverage [lunr-languages](https://github.com/MihaiValentin/lunr-languages), which has a decent and open source (MPL) collection of such files.
 
 # Overall site / `static` directory structure
@@ -194,14 +195,13 @@ One option is to leverage [lunr-languages](https://github.com/MihaiValentin/lunr
 
 ## Navbar / top-level link structure
 
-As stated, upon changing the language using the dropdown selector (or the URL bar), the `index.js` script will change the UI strings; it should also change *the search index used for any searches made*, such that if I have selected Nigerian Pidgin, I am searching the index of Nigerian Pidgin terms.
-
+As stated, upon changing the language using the dropdown selector (or the URL bar), the `index.js` script will change the UI strings; it should also change _the search index used for any searches made_, such that if I have selected Nigerian Pidgin, I am searching the index of Nigerian Pidgin terms.
 
 # Search
 
 The search will be key functionality in this site.
 
-The current plan is to use `lunr.js`, perhaps as the sole dependency added to this project, to build search indices during the build phase, which when created, are written to `./build/assets/search-indices/<locale-code>-index.json`. 
+The current plan is to use `lunr.js`, perhaps as the sole dependency added to this project, to build search indices during the build phase, which when created, are written to `./build/assets/search-indices/<locale-code>-index.json`.
 
 The search function should, as indicated, consult the linguistically correct search index for the locale the user has selected.
 
@@ -209,17 +209,22 @@ An autocomplete function would be nice, although that depends on how many depend
 
 ```markdown
 ## Term matches
+
 - Terms that have the search query in them
+
 ## Definition matches
+
 - Terms that have the search query in their `description` field
+
 ## Partial matches
+
 - Terms that partially match the search query
 ```
 
 In this way, the reader will be presented with the most relevant searches first.
 
-
 # Build
+
 The various scripts mentioned above which must be run every time the site builds should be all located in `./src/js`, whenever possible.
 
 They should probably be invokable using a single command, such as `npm run build`; there should probably be a `./src/js/build.js` script, which will collate and manage that series of scripts, for example
