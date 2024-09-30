@@ -1,5 +1,5 @@
 {
-  "ar": {
+  "ar-001": {
       "name": "العربية",
       "slug": "العربية",
       "fourLetterDash": "ar-001",
@@ -35,7 +35,7 @@
       "threeLetter": "nld",
       "notes": "Using the four letter code for Dutch; Netherlands appears to be our current Dutch-speaking user base"
   },
-  "fr": {
+  "fr-FR": {
       "name": "Français",
       "slug": "français",
       "fourLetterDash": "fr-FR",
@@ -44,7 +44,7 @@
       "threeLetter": "fra",
       "notes": "For French, we should default to fr for now, until we can parse the differences between France, Canada, and Francophone Africa"
   },
-  "de_DE": {
+  "de-DE": {
       "name": "Deutsch",
       "slug": "deutsch",
       "fourLetterDash": "de-DE",
@@ -161,7 +161,7 @@
       "threeLetter": "msa",
       "notes": "Malay, Malaysia is relevant to our user base"
   },
-  "pcm": {
+  "pcm-NG": {
       "name": "Pidgin",
       "slug": "pidgin",
       "fourLetterDash": "pcm-NG",
@@ -215,7 +215,7 @@
       "threeLetter": "spa",
       "notes": "For now, we are only localizing for Latin American Spanish, so this is the most relevant locale for us to use"
   },
-  "tl": {
+  "tl-PH": {
       "name": "tagalog",
       "slug": "tagalog",
       "fourLetterDash": "tl-PH",

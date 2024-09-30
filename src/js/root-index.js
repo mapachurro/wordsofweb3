@@ -1,4 +1,4 @@
-import { convertLanguageFormat, loadLanguageMap } from "./l10n.js";
+import { convertLocaleFormat, loadLanguageMap } from "./l10n.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
   const userLocale = navigator.language || navigator.languages[0];
