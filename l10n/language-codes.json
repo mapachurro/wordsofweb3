@@ -1,218 +1,263 @@
 {
-  "ar-AR": {
-    "name": "العربية",
-    "slug": "العربية",
-    "fourLetterDash": "ar-AR",
-    "fourLetterUnderscore": "ar_AR",
-    "twoLetter": "ar",
-    "threeLetter": "ara"
+  "ar": {
+      "name": "العربية",
+      "slug": "العربية",
+      "fourLetterDash": "ar-001",
+      "fourLetterUnderscore": "ar_001",
+      "twoLetter": "ar",
+      "threeLetter": "ara",
+      "notes": "As of 2024, we have limited Arabic dialectical differentiation, so preference is to use generic code"
   },
   "zh-CN": {
-    "name": "中文-(简体)",
-    "slug": "中文-(简体)",
-    "fourLetterDash": "zh-CN",
-    "fourLetterUnderscore": "zh_CN",
-    "twoLetter": "zh",
-    "threeLetter": "zho"
+      "name": "中文-(简体)",
+      "slug": "中文-简体",
+      "fourLetterDash": "zh-CN",
+      "fourLetterUnderscore": "zh_CN",
+      "twoLetter": "zh",
+      "threeLetter": "zho",
+      "notes": "The alternative is to use zh-Hans and zh-Hant - which would delineate Simplified vs. Traditional without any regional association. I think for now we can stick with zh-CN and zh-TW, and perhaps expand to zh-HK if we need to."
+     
   },
   "zh-TW": {
-    "name": "中文-(繁體)",
-    "slug": "中文-(繁體)",
-    "fourLetterDash": "zh-TW",
-    "fourLetterUnderscore": "zh_TW",
-    "twoLetter": "zh",
-    "threeLetter": "zho"
+      "name": "中文-(繁體)",
+      "slug": "中文-繁體",
+      "fourLetterDash": "zh-TW",
+      "fourLetterUnderscore": "zh_TW",
+      "twoLetter": "zh",
+      "threeLetter": "zho"
   },
   "nl-NL": {
-    "name": "nederlands",
-    "slug": "nederlands",
-    "fourLetterDash": "nl-NL",
-    "fourLetterUnderscore": "nl_NL",
-    "twoLetter": "nl",
-    "threeLetter": "nld"
+      "name": "Nederlands",
+      "slug": "nederlands",
+      "fourLetterDash": "nl-NL",
+      "fourLetterUnderscore": "nl_NL",
+      "twoLetter": "nl",
+      "threeLetter": "nld",
+      "notes": "Using the four letter code for Dutch; Netherlands appears to be our current Dutch-speaking user base"
   },
-  "fr-FR": {
-    "name": "français",
-    "slug": "français",
-    "fourLetterDash": "fr-FR",
-    "fourLetterUnderscore": "fr_FR",
-    "twoLetter": "fr",
-    "threeLetter": "fra"
+  "fr": {
+      "name": "Français",
+      "slug": "français",
+      "fourLetterDash": "fr-FR",
+      "fourLetterUnderscore": "fr_FR",
+      "twoLetter": "fr",
+      "threeLetter": "fra",
+      "notes": "For French, we should default to fr for now, until we can parse the differences between France, Canada, and Francophone Africa"
+  },
+  "de_DE": {
+      "name": "Deutsch",
+      "slug": "deutsch",
+      "fourLetterDash": "de-DE",
+      "fourLetterUnderscore": "de_DE",
+      "twoLetter": "de",
+      "threeLetter": "deu",
+      "notes": "German, Germany aligns with our current user base"
   },
   "el-GR": {
-    "name": "Ελληνικά",
-    "slug": "Ελληνικά",
-    "fourLetterDash": "el-GR",
-    "fourLetterUnderscore": "el_GR",
-    "twoLetter": "el",
-    "threeLetter": "ell"
+      "name": "Ελληνικά",
+      "slug": "eλληνικά",
+      "fourLetterDash": "el-GR",
+      "fourLetterUnderscore": "el_GR",
+      "twoLetter": "el",
+      "threeLetter": "ell",
+      "notes": "Greek, Greece aligns with our current user base"
+  },
+  "en-GB": {
+      "name": "English (United Kingdom)",
+      "slug": "english-uk",
+      "fourLetterDash": "en-GB",
+      "fourLetterUnderscore": "en_GB",
+      "twoLetter": "en",
+      "threeLetter": "eng",
+      "notes": "English UK is available if needed, esp. to comply with UK regulations"
   },
   "en-US": {
-    "name": "us-english",
-    "slug": "us-english",
-    "fourLetterDash": "en-US",
-    "fourLetterUnderscore": "en_US",
-    "twoLetter": "en",
-    "threeLetter": "eng"
+      "name": "English (United States)",
+      "slug": "english-us",
+      "fourLetterDash": "en-US",
+      "fourLetterUnderscore": "en_US",
+      "twoLetter": "en",
+      "threeLetter": "eng",
+      "notes": "We use English (United States) as our source locale across products and projects"
   },
   "ha-NG": {
-    "name": "hausa",
-    "slug": "hausa",
-    "fourLetterDash": "ha-NG",
-    "fourLetterUnderscore": "ha_NG",
-    "twoLetter": "ha",
-    "threeLetter": "hau"
+      "name": "Hausa",
+      "slug": "hausa",
+      "fourLetterDash": "ha-NG",
+      "fourLetterUnderscore": "ha_NG",
+      "twoLetter": "ha",
+      "threeLetter": "hau",
+      "notes": "Nigerian Hausa is most relevant to our current user base"
   },
   "hi-IN": {
-    "name": "हिन्दी",
-    "slug": "हिन्दी",
-    "fourLetterDash": "hi-IN",
-    "fourLetterUnderscore": "hi_IN",
-    "twoLetter": "hi",
-    "threeLetter": "hin"
+      "name": "हिन्दी",
+      "slug": "हिन्दी",
+      "fourLetterDash": "hi-IN",
+      "fourLetterUnderscore": "hi_IN",
+      "twoLetter": "hi",
+      "threeLetter": "hin",
+      "notes": "Hindi, India aligns is a relevant locale code, but more exploration into Indian languages is warranted"
   },
   "hu-HU": {
-    "name": "magyar",
-    "slug": "magyar",
-    "fourLetterDash": "hu-HU",
-    "fourLetterUnderscore": "hu_HU",
-    "twoLetter": "hu",
-    "threeLetter": "hun"
+      "name": "Magyar",
+      "slug": "magyar",
+      "fourLetterDash": "hu-HU",
+      "fourLetterUnderscore": "hu_HU",
+      "twoLetter": "hu",
+      "threeLetter": "hun",
+      "notes": "Hungarian, Hungary is the most relevant locale code for our user base"
   },
   "id-ID": {
-    "name": "bahasa-indonesia",
-    "slug": "bahasa-indonesia",
-    "fourLetterDash": "id-ID",
-    "fourLetterUnderscore": "id_ID",
-    "twoLetter": "id",
-    "threeLetter": "ind"
+      "name": "Bahasa-Indonesia",
+      "slug": "bahasa-indonesia",
+      "fourLetterDash": "id-ID",
+      "fourLetterUnderscore": "id_ID",
+      "twoLetter": "id",
+      "threeLetter": "ind",
+      "notes": "Indonesian, Indonesia is the most relevant locale code for our user base"
   },
-  "it-IT": {
-    "name": "italiano",
-    "slug": "italiano",
-    "fourLetterDash": "it-IT",
-    "fourLetterUnderscore": "it_IT",
-    "twoLetter": "it",
-    "threeLetter": "ita"
+  "it-IT":{
+      "name": "italiano",
+      "slug": "italiano",
+      "fourLetterDash": "it-IT",
+      "fourLetterUnderscore": "it_IT",
+      "twoLetter": "it",
+      "threeLetter": "ita",
+      "notes": "Italian, Italy is a relevant locale code for our user base"
   },
   "ja-JP": {
-    "name": "日本語",
-    "slug": "日本語",
-    "fourLetterDash": "ja-JP",
-    "fourLetterUnderscore": "ja_JP",
-    "twoLetter": "ja",
-    "threeLetter": "jpn"
+      "name": "日本語",
+      "slug": "日本語",
+      "fourLetterDash": "ja-JP",
+      "fourLetterUnderscore": "ja_JP",
+      "twoLetter": "ja",
+      "threeLetter": "jpn",
+      "notes": "Japanese, Japan is a relevant locale code for our user base"
   },
   "ko-KR": {
-    "name": "한국어",
-    "slug": "한국어",
-    "fourLetterDash": "ko-KR",
-    "fourLetterUnderscore": "ko_KR",
-    "twoLetter": "ko",
-    "threeLetter": "kor"
+      "name": "한국어",
+      "slug": "한국어",
+      "fourLetterDash": "ko-KR",
+      "fourLetterUnderscore": "ko_KR",
+      "twoLetter": "ko",
+      "threeLetter": "kor",
+      "notes": "This level of specificity is important because it denotes South Korean Korean separately from North Korea"
   },
-  "fa-IR": {
-    "name": "فارسی",
-    "slug": "فارسی",
-    "fourLetterDash": "fa-IR",
-    "fourLetterUnderscore": "fa_IR",
-    "twoLetter": "fa",
-    "threeLetter": "fas"
+  "fa-AF": {
+      "name": "فارسی",
+      "slug": "فارسی",
+      "fourLetterDash": "fa-AF",
+      "fourLetterUnderscore": "fa_AF",
+      "twoLetter": "fa",
+      "threeLetter": "fas",
+      "notes": "This level of specificity is important because it denotes the Persian spoken in Afghanistan separately from the Persian spoken in Iran. There may be implications to including fa-IR because of Iran's presence on the OFAC sanctions list. Also, the Persian spoken in Tajikistan is written in the Cyrillic alphabet"
   },
   "ms-MY": {
-    "name": "bahasa-melayu",
-    "slug": "bahasa-melayu",
-    "fourLetterDash": "ms-MY",
-    "fourLetterUnderscore": "ms_MY",
-    "twoLetter": "ms",
-    "threeLetter": "msa"
+      "name": "Bahasa-Melayu",
+      "slug": "bahasa-melayu",
+      "fourLetterDash": "ms-MY",
+      "fourLetterUnderscore": "ms_MY",
+      "twoLetter": "ms",
+      "threeLetter": "msa",
+      "notes": "Malay, Malaysia is relevant to our user base"
   },
-  "pcm-NG": {
-    "name": "naijá",
-    "slug": "naijá",
-    "fourLetterDash": "pcm-NG",
-    "fourLetterUnderscore": "pcm_NG",
-    "twoLetter": "pc",
-    "threeLetter": "pcm"
+  "pcm": {
+      "name": "Pidgin",
+      "slug": "pidgin",
+      "fourLetterDash": "pcm-NG",
+      "fourLetterUnderscore": "pcm_NG",
+      "twoLetter": "pc",
+      "threeLetter": "pcm",
+      "notes": "This is the best locale code for SEO purposes. I believe Pidgin is a better name to use for the UI than naijá"
   },
   "pl-PL": {
-    "name": "polski",
-    "slug": "polski",
-    "fourLetterDash": "pl-PL",
-    "fourLetterUnderscore": "pl_PL",
-    "twoLetter": "pl",
-    "threeLetter": "pol"
+      "name": "polski",
+      "slug": "polski",
+      "fourLetterDash": "pl-PL",
+      "fourLetterUnderscore": "pl_PL",
+      "twoLetter": "pl",
+      "threeLetter": "pol",
+      "notes": "Polish, Poland is most relevant to our user base"
   },
   "pt-BR": {
-    "name": "português-brasil",
-    "slug": "português-brasil",
-    "fourLetterDash": "pt-BR",
-    "fourLetterUnderscore": "pt_BR",
-    "twoLetter": "pt",
-    "threeLetter": "por"
+      "name": "português-brasil",
+      "slug": "português-brasil",
+      "fourLetterDash": "pt-BR",
+      "fourLetterUnderscore": "pt_BR",
+      "twoLetter": "pt",
+      "threeLetter": "por",
+      "notes": "For now, Brazilian Portugese is the only dialect of Portuguese that we are localizing for"
   },
   "ro-RO": {
-    "name": "română",
-    "slug": "română",
-    "fourLetterDash": "ro-RO",
-    "fourLetterUnderscore": "ro_RO",
-    "twoLetter": "ro",
-    "threeLetter": "ron"
+      "name": "română",
+      "slug": "română",
+      "fourLetterDash": "ro-RO",
+      "fourLetterUnderscore": "ro_RO",
+      "twoLetter": "ro",
+      "threeLetter": "ron",
+      "notes": "Romanian, Romania is the most relevant locale to our user base"
   },
   "ru-RU": {
-    "name": "Русский",
-    "slug": "Русский",
-    "fourLetterDash": "ru-RU",
-    "fourLetterUnderscore": "ru_RU",
-    "twoLetter": "ru",
-    "threeLetter": "rus"
+      "name": "Русский",
+      "slug": "русский",
+      "fourLetterDash": "ru-RU",
+      "fourLetterUnderscore": "ru_RU",
+      "twoLetter": "ru",
+      "threeLetter": "rus",
+      "notes": "Russian, Russia represents the largest group of Russian speakers, and the most relevant to our user base"
   },
   "es-419": {
-    "name": "español-latinoamérica",
-    "slug": "español-latinoamérica",
-    "fourLetterDash": "es-419",
-    "fourLetterUnderscore": "es_419",
-    "twoLetter": "es",
-    "threeLetter": "spa"
+      "name": "español-latinoamérica",
+      "slug": "español-latinoamérica",
+      "fourLetterDash": "es-419",
+      "fourLetterUnderscore": "es_419",
+      "twoLetter": "es",
+      "threeLetter": "spa",
+      "notes": "For now, we are only localizing for Latin American Spanish, so this is the most relevant locale for us to use"
   },
-  "tl-PH": {
-    "name": "tagalog",
-    "slug": "tagalog",
-    "fourLetterDash": "tl-PH",
-    "fourLetterUnderscore": "tl_PH",
-    "twoLetter": "tl",
-    "threeLetter": "tgl"
+  "tl": {
+      "name": "tagalog",
+      "slug": "tagalog",
+      "fourLetterDash": "tl-PH",
+      "fourLetterUnderscore": "tl_PH",
+      "twoLetter": "tl",
+      "threeLetter": "tgl",
+      "notes": "We have gone back and forth about which locale to use to serve our users in the Philippines. Tagalog is the basis for Filipino, the national language of the Philippines. tl is the ISO 639 standard, so we will use this until data indicates otherwise."
   },
   "th-TH": {
-    "name": "ไทย",
-    "slug": "ไทย",
-    "fourLetterDash": "th-TH",
-    "fourLetterUnderscore": "th_TH",
-    "twoLetter": "th",
-    "threeLetter": "tha"
+      "name": "ไทย",
+      "slug": "ไทย",
+      "fourLetterDash": "th-TH",
+      "fourLetterUnderscore": "th_TH",
+      "twoLetter": "th",
+      "threeLetter": "tha",
+      "notes": "Thai, Thailand is the most relevant locale for our user base"
   },
   "tr-TR": {
-    "name": "türkçe",
-    "slug": "türkçe",
-    "fourLetterDash": "tr-TR",
-    "fourLetterUnderscore": "tr_TR",
-    "twoLetter": "tr",
-    "threeLetter": "tur"
+      "name": "türkçe",
+      "slug": "türkçe",
+      "fourLetterDash": "tr-TR",
+      "fourLetterUnderscore": "tr_TR",
+      "twoLetter": "tr",
+      "threeLetter": "tur",
+      "notes": "Turkish, Turkey is the most relevant locale for our user base"
   },
   "uk-UA": {
-    "name": "Українська",
-    "slug": "Українська",
-    "fourLetterDash": "uk-UA",
-    "fourLetterUnderscore": "uk_UA",
-    "twoLetter": "uk",
-    "threeLetter": "ukr"
+      "name": "Українська",
+      "slug": "українська",
+      "fourLetterDash": "uk-UA",
+      "fourLetterUnderscore": "uk_UA",
+      "twoLetter": "uk",
+      "threeLetter": "ukr",
+      "notes": "Ukrainian, Ukraine is the most relevant locale for our user base"
   },
   "vi-VN": {
-    "name": "tiếng-việt",
-    "slug": "tiếng-việt",
-    "fourLetterDash": "vi-VN",
-    "fourLetterUnderscore": "vi_VN",
-    "twoLetter": "vi",
-    "threeLetter": "vie"
+      "name": "tiếng-việt",
+      "slug": "tiếng-việt",
+      "fourLetterDash": "vi-VN",
+      "fourLetterUnderscore": "vi_VN",
+      "twoLetter": "vi",
+      "threeLetter": "vie",
+      "notes": "Vietnamese, Vietnam is the most relevant locale for our user base"
   }
 }
