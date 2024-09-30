@@ -1,13 +1,14 @@
-import { renderNavbar, initNavbar, languageOptions } from "./navbar.js";
+import { renderNavbar, initNavbar } from "./navbar.js";
 import initSearch from "./search.js";
 import initExplore from "./explore.js";
 
 if (typeof document !== "undefined") {
-  document.addEventListener("DOMContentLoaded", () => {
-    // Initialize Navbar
+  document.addEventListener("DOMContentLoaded", async () => {
+    // Render Navbar
     const navbarContainer = document.getElementById("navbar-container");
     if (navbarContainer) {
-      navbarContainer.innerHTML = renderNavbar(languageOptions);
+      const navbarHtml = await renderNavbar(); // RenderNavbar is now async due to locale loading
+      navbarContainer.innerHTML = navbarHtml;
       initNavbar();
       console.log("navbar initialized");
     }

@@ -1,10 +1,10 @@
-import { convertLanguageFormat } from "./l10n.js";
+import { convertLocaleFormat } from "./l10n.js";
 
 export default async function initExplore() {
   const exploreContainer = document.getElementById("explore-container");
   const locale = document.documentElement.lang; // Get the current locale from the HTML lang attribute
   // Convert the four-letter locale code to a slug format
-  const localeSlug = await convertLanguageFormat(
+  const localeSlug = await convertLocaleFormat(
     locale,
     "fourLetterDash",
     "slug",

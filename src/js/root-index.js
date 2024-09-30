@@ -1,10 +1,10 @@
-import { convertLocaleFormat, loadLanguageMap } from "./l10n.js";
+import { initializeLanguageCodes, getAllLocalesInfo } from "./l10n.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
-  const userLocale = navigator.language || navigator.languages[0];
+  await initializeLanguageCodes(); // Make sure language codes are loaded
 
-  // Load the language map once and use it for mapping locales
-  const languageMap = await loadLanguageMap();
+  const userLocale = navigator.language || navigator.languages[0];
+  const languageMap = getAllLocalesInfo(); // Get the full map of locale information
 
   // Attempt to find the best match for the user's locale
   const matchedLocale = findBestLocaleMatch(userLocale, languageMap);
