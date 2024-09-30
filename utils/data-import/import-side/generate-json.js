@@ -1,9 +1,9 @@
 // This script is intended to create the .json files located at /locales/<locale-code>/<locale-code>.json.
 // They are the structured skeleton of the data that will go in each individual entry page.
 
-const fs = require('fs');
-const path = require('path');
-const csvParser = require('csv-parser');
+import fs from 'fs';
+import path from 'path';
+import csvParser from 'csv-parser';
 
 const translationsCSV = 'ext-sync-terms.csv'; // Translation CSV
 const outputDir = 'locales'; // The directory where JSON files will be saved
