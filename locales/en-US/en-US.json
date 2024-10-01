@@ -1,4 +1,5 @@
 {
+  "terms": {
   "51%-attack": {
     "term": "51% attack",
     "partOfSpeech": "noun",
@@ -3589,5 +3590,6 @@
     "definition": "Whitepapers explain the purpose and technology behind a project.",
     "source": "",
     "dateFirstRecorded": ""
+    }
   }
 }
