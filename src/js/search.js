@@ -9,6 +9,8 @@ export default function initSearch() {
     const searchButton = document.getElementById("search-button");
     const searchInput = document.getElementById("search-input");
     const resultsContainer = document.getElementById("search-results");
+    const indexFilePath = `../${slugLang}/directoryContents.json`;
+    console.log("Index file path:", indexFilePath);
 
     if (!searchButton || !searchInput) {
       console.error("Search button or input not found.");
@@ -34,9 +36,6 @@ export default function initSearch() {
 
       const slugLang = await convertLocaleFormat(currentLang, "fourLetterDash", "slug"); // Convert to slug format
       console.log("Slug language:", slugLang);
-
-      const indexFilePath = `./${slugLang}/directoryContents.json`;
-      console.log("Index file path:", indexFilePath);
 
       try {
         const response = await fetch(indexFilePath);
