@@ -2,6 +2,8 @@ import { initializeLanguageCodes, convertLocaleFormat } from "./l10n.js";
 
 export default function initSearch() {
   document.addEventListener("DOMContentLoaded", async function () {
+    console.log("Search feature initializing...");
+
     await initializeLanguageCodes(); // Ensure language codes are loaded
 
     const searchButton = document.getElementById("search-button");
@@ -13,38 +15,37 @@ export default function initSearch() {
       return;
     }
 
-    // Add click event listener for the search button
     searchButton.addEventListener("click", function () {
       const query = searchInput.value.trim().toLowerCase();
+      console.log("Search button clicked. Query:", query);
       if (!query) {
+        console.warn("No query entered.");
         return;
       }
       fetchSearchResults(query);
     });
 
-    // Add "Enter" key event listener for the search input
-    searchInput.addEventListener("keydown", function (event) {
-      if (event.key === "Enter") {
-        searchButton.click(); // Trigger the click event on the search button
-      }
-    });
-
     async function fetchSearchResults(query) {
+      console.log("Fetching search results for query:", query);
       resultsContainer.innerHTML = ""; // Clear previous results
 
       const currentLang = document.documentElement.lang; // Get the current language from the <html> element
+      console.log("Current language:", currentLang);
+
       const slugLang = await convertLocaleFormat(currentLang, "fourLetterDash", "slug"); // Convert to slug format
+      console.log("Slug language:", slugLang);
+
       const indexFilePath = `./${slugLang}/directoryContents.json`;
+      console.log("Index file path:", indexFilePath);
 
       try {
-        console.log(`Attempting to fetch index file from: ${indexFilePath}`);
         const response = await fetch(indexFilePath);
         if (!response.ok) {
           throw new Error(`Failed to load index file: ${response.statusText}`);
         }
 
         const data = await response.json();
-        console.log("Index file data:", data);
+        console.log("Data loaded from index file:", data);
 
         const results = searchIndex(data, query);
         console.log("Search results:", results);
@@ -55,6 +56,7 @@ export default function initSearch() {
     }
 
     function searchIndex(index, query) {
+      console.log("Searching index...");
       const results = [];
       for (const item of index) {
         if (item.name.toLowerCase().includes(query)) {
@@ -65,6 +67,7 @@ export default function initSearch() {
     }
 
     function displayResults(results) {
+      console.log("Displaying search results...");
       resultsContainer.innerHTML = ""; // Clear previous results
 
       if (results.length === 0) {
@@ -72,12 +75,10 @@ export default function initSearch() {
         return;
       }
 
-      // Use the stored language to generate the correct path for the links
-      const storedLanguage = localStorage.getItem("selectedLanguage") || "us-english";
       const list = document.createElement("ul");
       results.forEach((result) => {
         const listItem = document.createElement("li");
-        const resultUrl = `/${storedLanguage}/${result.link}`;
+        const resultUrl = `./${result.link}`;
         listItem.innerHTML = `<a href="${resultUrl}">${result.name}</a>`;
         list.appendChild(listItem);
       });

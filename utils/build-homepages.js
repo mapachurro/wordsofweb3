@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { getLocales, getLocaleInfo } from './../src/js/l10n.js'; // Use centralized locale handling
+import { getLocales, getLocaleInfo, initializeLanguageCodes } from './../src/js/l10n.js'; // Use centralized locale handling
 
 // Create equivalent of __dirname for ES Modules context
 const __filename = fileURLToPath(import.meta.url);
@@ -16,7 +16,9 @@ const localesDir = path.join(__dirname, '../l10n/locales');
 const outputDir = path.join(__dirname, '../build');
 
 // Function to build homepages
-export default function buildHomepages() {
+export default async function buildHomepages() {
+    await initializeLanguageCodes(); // Ensure language codes are loaded
+
     const locales = getLocales(); // Use the centralized locale list
 
     locales.forEach((locale) => {
@@ -65,7 +67,8 @@ export default function buildHomepages() {
     });
 }
 
-buildHomepages();
+// Run the async function
+buildHomepages().catch(err => console.error(`Error building homepages: ${err.message}`));
 
 
 

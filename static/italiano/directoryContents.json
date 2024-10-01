@@ -1,7 +1,15 @@
 [
   {
+    "name": "-trasferire",
+    "link": "-trasferire.html"
+  },
+  {
     "name": "0x-api",
     "link": "0x-api.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
   },
   {
     "name": "1inch",
@@ -188,6 +196,10 @@
     "link": "asset-provenance.html"
   },
   {
+    "name": "assistenza-di-metamask-",
+    "link": "assistenza-di-metamask-.html"
+  },
+  {
     "name": "assistenza-di-metamask",
     "link": "assistenza-di-metamask.html"
   },
@@ -340,6 +352,10 @@
     "link": "block-time.html"
   },
   {
+    "name": "blockaid",
+    "link": "blockaid.html"
+  },
+  {
     "name": "blockchain-explorer",
     "link": "blockchain-explorer.html"
   },
@@ -366,6 +382,10 @@
   {
     "name": "blockies",
     "link": "blockies.html"
+  },
+  {
+    "name": "blue-fox",
+    "link": "blue-fox.html"
   },
   {
     "name": "bnb-chain",
@@ -800,6 +820,14 @@
     "link": "default.html"
   },
   {
+    "name": "defi-read-api",
+    "link": "defi-read-api.html"
+  },
+  {
+    "name": "defi-write-api",
+    "link": "defi-write-api.html"
+  },
+  {
     "name": "defi",
     "link": "defi.html"
   },
@@ -1176,6 +1204,10 @@
     "link": "faucet.html"
   },
   {
+    "name": "fault-tolerant",
+    "link": "fault-tolerant.html"
+  },
+  {
     "name": "fiat-currency",
     "link": "fiat-currency.html"
   },
@@ -1428,6 +1460,10 @@
     "link": "id.html"
   },
   {
+    "name": "identicon-",
+    "link": "identicon-.html"
+  },
+  {
     "name": "identicon",
     "link": "identicon.html"
   },
@@ -1522,6 +1558,10 @@
   {
     "name": "inter-blockchain-communication-(ibc)-protocol",
     "link": "inter-blockchain-communication-(ibc)-protocol.html"
+  },
+  {
+    "name": "inter-blockchain-communication-protocol-(ibc)-",
+    "link": "inter-blockchain-communication-protocol-(ibc)-.html"
   },
   {
     "name": "inter-blockchain-communication-protocol-(ibc)",
@@ -1732,6 +1772,10 @@
     "link": "low.html"
   },
   {
+    "name": "mainnet",
+    "link": "mainnet.html"
+  },
+  {
     "name": "maker-protocol",
     "link": "maker-protocol.html"
   },
@@ -1796,6 +1840,10 @@
     "link": "metadati.html"
   },
   {
+    "name": "metamask-activity",
+    "link": "metamask-activity.html"
+  },
+  {
     "name": "metamask-bridge",
     "link": "metamask-bridge.html"
   },
@@ -1824,6 +1872,10 @@
     "link": "metamask-sdk.html"
   },
   {
+    "name": "metamask-snaps",
+    "link": "metamask-snaps.html"
+  },
+  {
     "name": "metamask-support",
     "link": "metamask-support.html"
   },
@@ -1848,6 +1900,10 @@
     "link": "metaverso.html"
   },
   {
+    "name": "mfa",
+    "link": "mfa.html"
+  },
+  {
     "name": "miner-tip",
     "link": "miner-tip.html"
   },
@@ -1862,6 +1918,10 @@
   {
     "name": "mint",
     "link": "mint.html"
+  },
+  {
+    "name": "mmi",
+    "link": "mmi.html"
   },
   {
     "name": "mnemonic-phrase",
@@ -2122,6 +2182,10 @@
   {
     "name": "piattaforma-della-community",
     "link": "piattaforma-della-community.html"
+  },
+  {
+    "name": "pki",
+    "link": "pki.html"
   },
   {
     "name": "plasma",
@@ -2608,6 +2672,10 @@
     "link": "snaps-(metamask-snaps).html"
   },
   {
+    "name": "snapshots-api",
+    "link": "snapshots-api.html"
+  },
+  {
     "name": "soft-fork",
     "link": "soft-fork.html"
   },
@@ -2634,6 +2702,10 @@
   {
     "name": "stablecoin",
     "link": "stablecoin.html"
+  },
+  {
+    "name": "stake",
+    "link": "stake.html"
   },
   {
     "name": "staking-(noun)",
@@ -2674,6 +2746,10 @@
   {
     "name": "status",
     "link": "status.html"
+  },
+  {
+    "name": "sto",
+    "link": "sto.html"
   },
   {
     "name": "streaming",
@@ -2734,6 +2810,10 @@
   {
     "name": "teku",
     "link": "teku.html"
+  },
+  {
+    "name": "telegram",
+    "link": "telegram.html"
   },
   {
     "name": "tema",
@@ -2802,6 +2882,10 @@
   {
     "name": "transaction-fee",
     "link": "transaction-fee.html"
+  },
+  {
+    "name": "transaction-history-api",
+    "link": "transaction-history-api.html"
   },
   {
     "name": "transaction-id",
@@ -2888,6 +2972,10 @@
     "link": "u2f.html"
   },
   {
+    "name": "unencrypted-key",
+    "link": "unencrypted-key.html"
+  },
+  {
     "name": "uniswap",
     "link": "uniswap.html"
   },
@@ -2906,6 +2994,10 @@
   {
     "name": "unspent-transaction-output",
     "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "unstake",
+    "link": "unstake.html"
   },
   {
     "name": "update-(verb)",
@@ -2968,6 +3060,14 @@
     "link": "vesting.html"
   },
   {
+    "name": "villagedao",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "wallet-address",
+    "link": "wallet-address.html"
+  },
+  {
     "name": "wallet-crypto",
     "link": "wallet-crypto.html"
   },
@@ -3006,6 +3106,10 @@
   {
     "name": "webhid",
     "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
   },
   {
     "name": "websocket",

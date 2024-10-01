@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { getLocales, getLocaleInfo } from './../src/js/l10n.js'; // Use centralized locale handling
+import { getLocales, getLocaleInfo, initializeLanguageCodes } from './../src/js/l10n.js'; // Use centralized locale handling
 
 // Create equivalent of __dirname for ES Modules context
 const __filename = fileURLToPath(import.meta.url);
@@ -21,9 +21,13 @@ function logToFile(message) {
     fs.appendFileSync(logFilePath, `${message}\n`, "utf-8");
 }
 
+// Clear the log file before starting
 fs.writeFileSync(logFilePath, "", "utf-8");
 
-export default function buildPages() {
+export default async function buildPages() {
+    // Initialize language codes
+    await initializeLanguageCodes(); // Make sure language codes are loaded before proceeding
+
     const locales = getLocales(); // Use the centralized locale list
 
     const crossLocaleMap = {};
@@ -130,6 +134,10 @@ export default function buildPages() {
     logToFile("Page build process completed.");
     console.log("Page build process completed. Output logged to page-output.txt.");
 }
+
+// Run the async function
+buildPages().catch(err => console.error(`Error building pages: ${err.message}`));
+
      
 
 // old version that didn't use l10n.js

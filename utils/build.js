@@ -3,7 +3,6 @@ import fs from 'fs';
 import path from 'path';
 import buildPages from './build-pages.js';
 import buildHomepages from './build-homepages.js';
-// import buildSearchIndices from './build-search-indices.js';
 import intertextualLinks from './intertextual.js';
 import { fileURLToPath } from 'url';
 
@@ -17,12 +16,6 @@ const buildDir = path.join(__dirname, '../build');
 const publicDir = path.join(__dirname, '../public');
 const l10nDir = path.join(__dirname, '../l10n');
 const srcJsDir = path.join(__dirname, '../src/js');
-
-// Ensure a clean build directory
-if (fs.existsSync(buildDir)) {
-    fs.rmSync(buildDir, { recursive: true, force: true });
-}
-fs.mkdirSync(buildDir, { recursive: true });
 
 // Function to copy files
 function copyFileSync(source, target) {
@@ -79,83 +72,101 @@ function generateDirectoryIndex(directoryPath) {
     });
 }
 
-// Run the entry page generation process
-buildPages();
-console.log('Pages built.');
+// Main build function to ensure proper sequencing of tasks
+async function build() {
+    try {
+        // Ensure a clean build directory
+        if (fs.existsSync(buildDir)) {
+            fs.rmSync(buildDir, { recursive: true, force: true });
+        }
+        fs.mkdirSync(buildDir, { recursive: true });
 
-// Run the homepage generation process
-buildHomepages();
-console.log('Built homepages for each locale.')
+        // Run the entry page generation process
+        buildPages();
+        console.log('Pages built.');
 
-// Generate directory index files
-generateDirectoryIndex(staticDir);
-console.log('Directory indices generated.');
+        // Run the homepage generation process
+        buildHomepages();
+        console.log('Built homepages for each locale.');
 
-// Run the intertextual hyperlink creation process
-intertextualLinks();
-console.log('Intertextual links inserted.');
+        // Generate directory index files
+        generateDirectoryIndex(staticDir);
+        console.log('Directory indices generated.');
 
-console.log('build process complete; copying built files starting now')
-// Copy term pages to corresponding directories in the build folder
-if (fs.existsSync(staticDir)) {
-    fs.readdirSync(staticDir).forEach((dir) => {
-        const sourcePath = path.join(staticDir, dir);
-        const targetPath = path.join(buildDir, dir);
-        copyFolderRecursiveSync(sourcePath, targetPath);
-    });
-    console.log('Term pages and homepages copied to build directory.');
-} else {
-    console.warn('Static directory not found. Pages not copied.');
-}
+        // Run the intertextual hyperlink creation process (await since it's async)
+        await intertextualLinks();
+        console.log('Intertextual links inserted.');
 
-// Copy CSS files to 'assets/css'
-const cssDir = path.join(publicDir, 'assets/css/');
-if (fs.existsSync(cssDir)) {
-    copyFolderRecursiveSync(cssDir, path.join(buildDir, 'assets/css'));
-    console.log('CSS files copied to assets/css.');
-}
+        console.log('Build process complete; copying built files starting now.');
 
-// Copy search indices to 'assets/search-indices'
-const searchIndicesDir = path.join(publicDir, 'assets/search-indices');
-if (fs.existsSync(searchIndicesDir)) {
-    copyFolderRecursiveSync(searchIndicesDir, path.join(buildDir, 'assets/search-indices'));
-    console.log('Search indices copied to assets/search-indices.');
-}
+        // Copy term pages to corresponding directories in the build folder
+        if (fs.existsSync(staticDir)) {
+            fs.readdirSync(staticDir).forEach((dir) => {
+                const sourcePath = path.join(staticDir, dir);
+                const targetPath = path.join(buildDir, dir);
+                copyFolderRecursiveSync(sourcePath, targetPath);
+            });
+            console.log('Term pages and homepages copied to build directory.');
+        } else {
+            console.warn('Static directory not found. Pages not copied.');
+        }
 
-// Copy JavaScript files to 'js'
-if (fs.existsSync(srcJsDir)) {
-    copyFolderRecursiveSync(srcJsDir, path.join(buildDir, 'js'));
-    console.log('JavaScript files copied to js directory.');
-}
+        // Copy CSS files to 'assets/css'
+        const cssDir = path.join(publicDir, 'assets/css/');
+        if (fs.existsSync(cssDir)) {
+            copyFolderRecursiveSync(cssDir, path.join(buildDir, 'assets/css'));
+            console.log('CSS files copied to assets/css.');
+        }
 
-// Copy other public assets (e.g., images, favicon) directly to 'assets'
-['favicon.ico', 'education-dao-circle.png'].forEach((file) => {
-    const filePath = path.join(publicDir, `assets/${file}`);
-    if (fs.existsSync(filePath)) {
-        copyFileSync(filePath, path.join(buildDir, 'assets', file));
-        console.log(`${file} copied to assets.`);
-    } else {
-        console.warn(`${file} not found in public/assets.`);
+        // Copy search indices to 'assets/search-indices'
+        const searchIndicesDir = path.join(publicDir, 'assets/search-indices');
+        if (fs.existsSync(searchIndicesDir)) {
+            copyFolderRecursiveSync(searchIndicesDir, path.join(buildDir, 'assets/search-indices'));
+            console.log('Search indices copied to assets/search-indices.');
+        }
+
+        // Copy JavaScript files to 'js'
+        if (fs.existsSync(srcJsDir)) {
+            copyFolderRecursiveSync(srcJsDir, path.join(buildDir, 'js'));
+            console.log('JavaScript files copied to js directory.');
+        }
+
+        // Copy other public assets (e.g., images, favicon) directly to 'assets'
+        ['favicon.ico', 'education-dao-circle.png'].forEach((file) => {
+            const filePath = path.join(publicDir, `assets/${file}`);
+            if (fs.existsSync(filePath)) {
+                copyFileSync(filePath, path.join(buildDir, 'assets', file));
+                console.log(`${file} copied to assets.`);
+            } else {
+                console.warn(`${file} not found in public/assets.`);
+            }
+        });
+
+        // Copy l10n assets to 'l10n' in build directory
+        if (fs.existsSync(l10nDir)) {
+            copyFolderRecursiveSync(l10nDir, path.join(buildDir, 'l10n'));
+            console.log('l10n assets copied.');
+        } else {
+            console.warn('l10n directory not found.');
+        }
+
+        // Copy index.html to root build directory
+        ['index.html'].forEach((file) => {
+            const filePath = path.join(__dirname, `../${file}`);
+            if (fs.existsSync(filePath)) {
+                copyFileSync(filePath, buildDir);
+                console.log(`${file} copied.`);
+            } else {
+                console.warn(`${file} not found.`);
+            }
+        });
+
+        console.log('Build process completed.');
+
+    } catch (error) {
+        console.error('An error occurred during the build process:', error);
     }
-});
-
-// Copy l10n assets to 'l10n' in build directory
-if (fs.existsSync(l10nDir)) {
-    copyFolderRecursiveSync(l10nDir, path.join(buildDir, 'l10n'));
-    console.log('l10n assets copied.');
-} else {
-    console.warn('l10n directory not found.');
 }
 
-// Copy index.html to root build directory
-['index.html'].forEach((file) => {
-    const filePath = path.join(__dirname, `../${file}`);
-    if (fs.existsSync(filePath)) {
-        copyFileSync(filePath, buildDir);
-        console.log(`${file} copied.`);
-    } else {
-        console.warn(`${file} not found.`);
-    }
-});
-
-console.log('Build process completed.');
+// Run the build process
+build();

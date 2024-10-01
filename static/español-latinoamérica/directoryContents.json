@@ -4,6 +4,10 @@
     "link": "0x-api.html"
   },
   {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  },
+  {
     "name": "1inch",
     "link": "1inch.html"
   },
@@ -356,6 +360,10 @@
     "link": "block-time.html"
   },
   {
+    "name": "blockaid",
+    "link": "blockaid.html"
+  },
+  {
     "name": "blockchain-explorer",
     "link": "blockchain-explorer.html"
   },
@@ -394,6 +402,10 @@
   {
     "name": "bloqueo-de-tokens",
     "link": "bloqueo-de-tokens.html"
+  },
+  {
+    "name": "blue-fox",
+    "link": "blue-fox.html"
   },
   {
     "name": "bnb-chain",
@@ -784,6 +796,10 @@
     "link": "coolwallet.html"
   },
   {
+    "name": "copiar-",
+    "link": "copiar-.html"
+  },
+  {
     "name": "copiar",
     "link": "copiar.html"
   },
@@ -978,6 +994,14 @@
   {
     "name": "default",
     "link": "default.html"
+  },
+  {
+    "name": "defi-read-api",
+    "link": "defi-read-api.html"
+  },
+  {
+    "name": "defi-write-api",
+    "link": "defi-write-api.html"
   },
   {
     "name": "defi",
@@ -1448,6 +1472,10 @@
     "link": "faucet.html"
   },
   {
+    "name": "fault-tolerant",
+    "link": "fault-tolerant.html"
+  },
+  {
     "name": "fiat-currency",
     "link": "fiat-currency.html"
   },
@@ -1742,6 +1770,10 @@
   {
     "name": "id",
     "link": "id.html"
+  },
+  {
+    "name": "identicon-",
+    "link": "identicon-.html"
   },
   {
     "name": "identicon",
@@ -2084,6 +2116,10 @@
     "link": "metadatos.html"
   },
   {
+    "name": "metamask-activity",
+    "link": "metamask-activity.html"
+  },
+  {
     "name": "metamask-bridge",
     "link": "metamask-bridge.html"
   },
@@ -2112,6 +2148,10 @@
     "link": "metamask-sdk.html"
   },
   {
+    "name": "metamask-snaps",
+    "link": "metamask-snaps.html"
+  },
+  {
     "name": "metamask-support",
     "link": "metamask-support.html"
   },
@@ -2136,6 +2176,10 @@
     "link": "metaverso.html"
   },
   {
+    "name": "mfa",
+    "link": "mfa.html"
+  },
+  {
     "name": "miner-tip",
     "link": "miner-tip.html"
   },
@@ -2158,6 +2202,10 @@
   {
     "name": "mint",
     "link": "mint.html"
+  },
+  {
+    "name": "mmi",
+    "link": "mmi.html"
   },
   {
     "name": "mnemonic-phrase",
@@ -2458,6 +2506,10 @@
   {
     "name": "phishing-(noun)",
     "link": "phishing-(noun).html"
+  },
+  {
+    "name": "pki",
+    "link": "pki.html"
   },
   {
     "name": "plasma",
@@ -3012,6 +3064,10 @@
     "link": "snaps-(metamask-snaps).html"
   },
   {
+    "name": "snapshots-api",
+    "link": "snapshots-api.html"
+  },
+  {
     "name": "soft-fork",
     "link": "soft-fork.html"
   },
@@ -3052,6 +3108,10 @@
     "link": "stablecoin.html"
   },
   {
+    "name": "stake",
+    "link": "stake.html"
+  },
+  {
     "name": "staking-(noun)",
     "link": "staking-(noun).html"
   },
@@ -3078,6 +3138,10 @@
   {
     "name": "status",
     "link": "status.html"
+  },
+  {
+    "name": "sto",
+    "link": "sto.html"
   },
   {
     "name": "streaming",
@@ -3154,6 +3218,10 @@
   {
     "name": "teku",
     "link": "teku.html"
+  },
+  {
+    "name": "telegram",
+    "link": "telegram.html"
   },
   {
     "name": "tema",
@@ -3260,6 +3328,10 @@
     "link": "transaction-fee.html"
   },
   {
+    "name": "transaction-history-api",
+    "link": "transaction-history-api.html"
+  },
+  {
     "name": "transaction-id",
     "link": "transaction-id.html"
   },
@@ -3328,6 +3400,10 @@
     "link": "u2f.html"
   },
   {
+    "name": "unencrypted-key",
+    "link": "unencrypted-key.html"
+  },
+  {
     "name": "uniswap",
     "link": "uniswap.html"
   },
@@ -3346,6 +3422,10 @@
   {
     "name": "unspent-transaction-output",
     "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "unstake",
+    "link": "unstake.html"
   },
   {
     "name": "update-(verb)",
@@ -3404,6 +3484,14 @@
     "link": "vesting.html"
   },
   {
+    "name": "villagedao",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "wallet-address",
+    "link": "wallet-address.html"
+  },
+  {
     "name": "wallet",
     "link": "wallet.html"
   },
@@ -3430,6 +3518,10 @@
   {
     "name": "webhid",
     "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
   },
   {
     "name": "websocket",
