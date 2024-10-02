@@ -1,10 +1,13 @@
 // Importing required modules
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
+// Import scripts that handle different parts of the build process
 import buildPages from './build-pages.js';
 import buildHomepages from './build-homepages.js';
 import intertextualLinks from './intertextual.js';
-import { fileURLToPath } from 'url';
+import { generateLanguageDropdown } from './build-dropdown.js';
+
 
 // This creates an equivalent of `__dirname`
 const __filename = fileURLToPath(import.meta.url);
@@ -88,6 +91,10 @@ async function build() {
         // Run the homepage generation process
         buildHomepages();
         console.log('Built homepages for each locale.');
+
+        // Create the language dropdown selector, based on current locales available in the app
+        generateLanguageDropdown();
+        console.log('Built language dropdown selector based on current languages')
 
         // Generate directory index files
         generateDirectoryIndex(staticDir);

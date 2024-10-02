@@ -1,62 +1,15 @@
-import { initializeLanguageCodes, getLocales, getLocaleInfo, convertLocaleFormat } from "./l10n.js";
-
 export async function renderNavbar() {
-  await initializeLanguageCodes(); // Ensure language codes are loaded
-
-  const languageOptions = getLocales().map(locale => {
-    const label = getLocaleInfo(locale, 'name'); // Assuming 'name' gives you the display name for the locale
-    const slug = getLocaleInfo(locale, 'slug');
-    return { value: slug, label };
-  });
-
-  return `
-  <nav class="navbar navbar-expand-lg navbar-dark">
-    <a class="navbar-brand" href="index.html" id="logo-link">
-      <img src="/assets/education-dao-circle.png" alt="Logo" class="logo-image" />
-      wordsofweb3
-    </a>
-    <div class="collapse navbar-collapse">
-      <select id="language-selector" class="form-select ml-auto language-selector">
-        ${languageOptions.map((option) => `<option value="${option.value}">${option.label}</option>`).join("")}
-      </select>
-    </div>
-  </nav>
-`;
-}
-
-async function handleLanguageChange() {
-  await initializeLanguageCodes(); // Make sure language codes are loaded
-
-  const languageSlug = document.getElementById('language-selector').value;
-
   try {
-    const languageCode = await convertLocaleFormat(languageSlug, "slug", "fourLetterDash");
-    console.log("Language selected: " + languageCode);
-
-    if (languageCode) {
-      localStorage.setItem("selectedLanguage", languageSlug);
-      console.log("Site language set to: " + languageSlug);
-
-      const currentPathParts = window.location.pathname.split("/");
-      // const currentPage = currentPathParts.pop() || "index.html";
-
-      // Get the term slug (e.g., 3box-labs) from the current URL
-      const termSlug = currentPathParts.pop();
-
-      // Try fetching the localized term page
-      const newPath = `/${languageSlug}/${termSlug}.html`;
-      const response = await fetch(newPath);
-
-      if (response.ok) {
-        window.location.href = newPath;
-      } else {
-        window.location.href = `/${languageSlug}/index.html`;
-      }
-    } else {
-      throw new Error("Invalid language selection");
+    // Fetch the navbar template HTML
+    const response = await fetch('/utils/navbar-template.html');
+    if (!response.ok) {
+      throw new Error('Failed to load navbar template');
     }
+    const navbarHtml = await response.text();
+    return navbarHtml;
   } catch (error) {
-    console.error("Error during language selection:", error);
+    console.error('Error fetching navbar template:', error);
+    return ''; // Return empty HTML in case of error
   }
 }
 
@@ -66,18 +19,43 @@ async function handleLogoClick(event) {
 }
 
 export function initNavbar() {
-  document.addEventListener("DOMContentLoaded", async () => {
-    await initializeLanguageCodes(); // Ensure language codes are loaded before initialization
-    const languageSelector = document.getElementById("language-selector");
-    const logoElement = document.getElementById("logo-link");
+  document.addEventListener('DOMContentLoaded', async () => {
+    const navbarContainer = document.getElementById('navbar-container');
+    
+    if (!navbarContainer) {
+      console.error('Navbar container not found');
+      return;
+    }
+
+    // Render navbar HTML
+    const navbarHtml = await renderNavbar();
+    navbarContainer.innerHTML = navbarHtml;
+
+    const languageSelector = document.getElementById('language-selector');
+    const logoElement = document.getElementById('logo-link');
 
     if (!languageSelector || !logoElement) {
-      console.error("Navbar elements not found");
+      console.error('Navbar elements not found');
       return;
     }
 
     // Set event listeners
-    languageSelector.addEventListener("change", handleLanguageChange);
-    logoElement.addEventListener("click", handleLogoClick); // Attach click event to logo
+    languageSelector.addEventListener('change', () => {
+      const newLanguagePath = languageSelector.value;
+      window.location.href = newLanguagePath; // Navigate to the selected language index page
+    });
+    
+    logoElement.addEventListener('click', handleLogoClick); // Attach click event to logo
+
+    // Set the dropdown value based on the current language
+    const currentLanguageSlug = window.location.pathname.split('/')[1];
+    if (currentLanguageSlug) {
+      for (let i = 0; i < languageSelector.options.length; i++) {
+        if (languageSelector.options[i].value.includes(currentLanguageSlug)) {
+          languageSelector.selectedIndex = i;
+          break;
+        }
+      }
+    }
   });
 }
