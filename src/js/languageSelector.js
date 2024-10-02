@@ -1,21 +1,5 @@
 import { initializeLanguageCodes, convertLocaleFormat, getLocales, getLocaleInfo } from "./l10n.js";
 
-export async function renderLanguageSelector() {
-  await initializeLanguageCodes(); // Ensure language codes are loaded
-
-  const languageOptions = getLocales().map((locale) => {
-    const label = getLocaleInfo(locale, "name"); // Get the display name for the locale
-    const slug = getLocaleInfo(locale, "slug");
-    return { value: slug, label };
-  });
-
-  return `
-    <select id="language-selector" class="form-select ml-auto language-selector">
-      ${languageOptions.map((option) => `<option value="${option.value}">${option.label}</option>`).join("")}
-    </select>
-  `;
-}
-
 export async function initLanguageSelector() {
   await initializeLanguageCodes(); // Ensure language codes are loaded before initialization
   const languageSelector = document.getElementById("language-selector");
@@ -56,3 +40,19 @@ export async function initLanguageSelector() {
     }
   });
 }
+
+export async function renderLanguageSelector() {
+    await initializeLanguageCodes(); // Ensure language codes are loaded
+  
+    const languageOptions = getLocales().map((locale) => {
+      const label = getLocaleInfo(locale, "name"); // Get the display name for the locale
+      const slug = getLocaleInfo(locale, "slug");
+      return { value: slug, label };
+    });
+  
+    return `
+      <select id="language-selector" class="form-select ml-auto language-selector">
+        ${languageOptions.map((option) => `<option value="${option.value}">${option.label}</option>`).join("")}
+      </select>
+    `;
+  }
