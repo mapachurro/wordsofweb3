@@ -20,12 +20,10 @@ async function handleLogoClick(event) {
   window.location.href = `/index.html`; // Redirect to root index.html
 }
 
-export async function initNavbar() {
-  await initializeLanguageCodes(); // Ensure language codes are loaded before using the navbar
-
+export function initNavbar() {
   document.addEventListener('DOMContentLoaded', async () => {
     const navbarContainer = document.getElementById('navbar-container');
-    
+
     if (!navbarContainer) {
       console.error('Navbar container not found');
       return;
@@ -45,10 +43,17 @@ export async function initNavbar() {
 
     // Set event listeners
     languageSelector.addEventListener('change', () => {
-      const newLanguagePath = languageSelector.value;
-      window.location.href = newLanguagePath; // Navigate to the selected language index page
+      const selectedLanguagePath = languageSelector.value; // Get selected path from the option value
+      console.log('Language selected: ', selectedLanguagePath); // Debug log
+      if (selectedLanguagePath) {
+        console.log('Redirecting to: ', selectedLanguagePath); // Extra debug
+        window.location.href = selectedLanguagePath; // Redirect to the selected language's index.html
+      } else {
+        console.error('Selected language path is invalid');
+      }
     });
     
+
     logoElement.addEventListener('click', handleLogoClick); // Attach click event to logo
 
     // Set the dropdown value based on the current language
@@ -63,3 +68,4 @@ export async function initNavbar() {
     }
   });
 }
+
