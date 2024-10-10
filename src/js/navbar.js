@@ -1,7 +1,9 @@
+import { initializeLanguageCodes } from "./l10n.js";
+
 export async function renderNavbar() {
   try {
     // Fetch the navbar template HTML
-    const response = await fetch('/utils/navbar-template.html');
+    const response = await fetch('../navbar-template.html');
     if (!response.ok) {
       throw new Error('Failed to load navbar template');
     }
@@ -18,7 +20,9 @@ async function handleLogoClick(event) {
   window.location.href = `/index.html`; // Redirect to root index.html
 }
 
-export function initNavbar() {
+export async function initNavbar() {
+  await initializeLanguageCodes(); // Ensure language codes are loaded before using the navbar
+
   document.addEventListener('DOMContentLoaded', async () => {
     const navbarContainer = document.getElementById('navbar-container');
     

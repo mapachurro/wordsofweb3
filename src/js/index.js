@@ -1,10 +1,14 @@
 import { renderNavbar, initNavbar } from "./navbar.js";
 import initSearch from "./search.js";
 import initExplore from "./explore.js";
-import { convertLocaleFormat } from "./l10n.js";
+import { convertLocaleFormat, initializeLanguageCodes } from "./l10n.js";
 
 if (typeof document !== "undefined") {
   document.addEventListener("DOMContentLoaded", async () => {
+    // Initialize language codes before everything else
+    await initializeLanguageCodes();
+    console.log("Language codes initialized");
+
     // Render Navbar
     const navbarContainer = document.getElementById("navbar-container");
     if (navbarContainer) {
