@@ -1,4 +1,4 @@
-import { renderNavbar, initNavbar } from "./navbar.js";
+import "./navbar.js";
 import initSearch from "./search.js";
 import initExplore from "./explore.js";
 import { convertLocaleFormat, initializeLanguageCodes } from "./l10n.js";
@@ -9,14 +9,9 @@ if (typeof document !== "undefined") {
     await initializeLanguageCodes();
     console.log("Language codes initialized");
 
-    // Render Navbar
-    const navbarContainer = document.getElementById("navbar-container");
-    if (navbarContainer) {
-      const navbarHtml = await renderNavbar();
-      navbarContainer.innerHTML = navbarHtml;
-      initNavbar();
-      console.log("navbar initialized");
-    }
+    // Initialize Navbar
+    // initNavbar(); 
+    // console.log("Navbar initialized");
 
     // Fetch directoryContents.json for use in other scripts
     const locale = document.documentElement.lang;
@@ -41,13 +36,13 @@ if (typeof document !== "undefined") {
       document.getElementById("search-button")
     ) {
       initSearch(directoryContents); // Pass the directory contents to search.js
-      console.log("search initialized");
+      console.log("Search initialized");
     }
 
     // Initialize Explore (if applicable)
     if (document.getElementById("explore-container")) {
       initExplore(directoryContents); // Pass the directory contents to explore.js
-      console.log("explore feature initialized");
+      console.log("Explore feature initialized");
     }
   });
 }
