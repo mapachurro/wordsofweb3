@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 // Import scripts that handle different parts of the build process
-import { updateTemplateWithLocales } from "./build-dropdown.js";
+// import { updateTemplateWithLocales } from "./build-dropdown.js";
 import buildPages from "./build-pages.js";
 import buildHomepages from "./build-homepages.js";
 import intertextualLinks from "./intertextual.js";
@@ -18,8 +18,8 @@ const buildDir = path.join(__dirname, "../build");
 const publicDir = path.join(__dirname, "../public");
 const l10nDir = path.join(__dirname, "../l10n");
 const srcJsDir = path.join(__dirname, "../src/js");
-const navbarTemplatePath = path.join(__dirname, '../navbar-template.html'); // Define path to navbar-template.html
-const indexTemplatePath = path.join(__dirname, '../utils/index-template.html'); // Define path to index-template.html
+// const navbarTemplatePath = path.join(__dirname, '../navbar-template.html'); // Define path to navbar-template.html
+// const indexTemplatePath = path.join(__dirname, '../utils/index-template.html'); // Define path to index-template.html
 
 // Function to copy files
 function copyFileSync(source, target) {
@@ -60,6 +60,7 @@ function copyFolderRecursiveSync(source, target) {
 
 // Function to generate directory index JSON files
 function generateDirectoryIndex(directoryPath) {
+  console.log("Generate index files")
   const locales = fs
     .readdirSync(directoryPath)
     .filter((dir) => fs.lstatSync(path.join(directoryPath, dir)).isDirectory());
@@ -90,19 +91,21 @@ async function build() {
     fs.mkdirSync(buildDir, { recursive: true });
 
     // Generate the locale switcher dropdown based on locales available in language-codes.json
-    updateTemplateWithLocales(navbarTemplatePath);
-    updateTemplateWithLocales(indexTemplatePath);
+    // updateTemplateWithLocales(navbarTemplatePath);
+    // updateTemplateWithLocales(indexTemplatePath);
 
     // Run the entry page generation process
-    buildPages();
+    await buildPages();
     console.log("Pages built.");
 
     // Run the homepage generation process
-    buildHomepages();
+    console.log("Beginning index.html generation for all locales")
+    await buildHomepages();
     console.log("Built homepages for each locale.");
 
     // Generate directory index files
-    generateDirectoryIndex(staticDir);
+    console.log("Beginning generation of page indices for all locales")
+    await generateDirectoryIndex(staticDir);
     console.log("Directory indices generated.");
 
     // Run the intertextual hyperlink creation process (await since it's async)
