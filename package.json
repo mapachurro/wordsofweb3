@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./utils/build.js",
     "start": "http-server ./build -p 8080",
-    "clear": "rm -rf ./build ./static ./utils/page-output.txt ./utils/intertextual-output.txt"
+    "clear": "rm -rf ./build/* ./static/* ./utils/page-output.txt ./utils/intertextual-output.txt"
   },
   "keywords": [],
   "author": "",
