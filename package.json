@@ -1,13 +1,14 @@
 {
   "name": "wordsofweb3",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Backend for wordsofweb3.eth.",
   "main": "build.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./utils/build.js",
-    "start": "http-server ./build -p 8080"
+    "start": "http-server ./build -p 8080",
+    "clear": "rm -rf ./build ./static ./utils/page-output.txt ./utils/intertextual-output.txt"
   },
   "keywords": [],
   "author": "",
