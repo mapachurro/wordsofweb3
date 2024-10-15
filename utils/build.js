@@ -3,7 +3,6 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 // Import scripts that handle different parts of the build process
-// import { updateTemplateWithLocales } from "./build-dropdown.js";
 import buildPages from "./build-pages.js";
 import buildHomepages from "./build-homepages.js";
 import intertextualLinks from "./intertextual.js";
@@ -18,8 +17,6 @@ const buildDir = path.join(__dirname, "../build");
 const publicDir = path.join(__dirname, "../public");
 const l10nDir = path.join(__dirname, "../l10n");
 const srcJsDir = path.join(__dirname, "../src/js");
-// const navbarTemplatePath = path.join(__dirname, '../navbar-template.html'); // Define path to navbar-template.html
-// const indexTemplatePath = path.join(__dirname, '../utils/index-template.html'); // Define path to index-template.html
 
 // Function to copy files
 function copyFileSync(source, target) {
@@ -89,10 +86,6 @@ async function build() {
       fs.rmSync(buildDir, { recursive: true, force: true });
     }
     fs.mkdirSync(buildDir, { recursive: true });
-
-    // Generate the locale switcher dropdown based on locales available in language-codes.json
-    // updateTemplateWithLocales(navbarTemplatePath);
-    // updateTemplateWithLocales(indexTemplatePath);
 
     // Run the entry page generation process
     await buildPages();
