@@ -1,27 +1,45 @@
-import fs from 'fs';
-import path from 'path';
+import { readFileSync, writeFileSync } from 'fs';
+import { join } from 'path';
 import { fileURLToPath } from 'url';
 
 // This creates an equivalent of `__dirname`
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const __dirname = join(__filename, '..');
 
-export function generateLanguageDropdown() {
-  const languageCodesPath = path.join(__dirname, '../l10n/language-codes.json');
-  const outputPath = path.join(__dirname, './language-dropdown.html');
+// Paths
+const navbarTemplatePath = join(__dirname, '../navbar-template.html');
+const indexTemplatePath = join(__dirname, './index-template.html');
+const languageCodesPath = join(__dirname, '../l10n/language-codes.json');
 
-  const languageCodes = JSON.parse(fs.readFileSync(languageCodesPath, 'utf-8'));
+// Read language codes
+const languageCodes = JSON.parse(readFileSync(languageCodesPath, 'utf-8'));
 
-  // Generate language dropdown selector HTML, based on languages currently available in app
-  let dropdownHtml = '<select id="language-selector" class="form-select ml-auto language-selector">';
-  Object.keys(languageCodes).forEach((locale) => {
-    const slug = languageCodes[locale].slug;
-    const name = languageCodes[locale].name;
-    dropdownHtml += `<option value="/${slug}/index.html">${name}</option>`;
-  });
-  dropdownHtml += '</select>';
+// Generate dropdown options from language codes
+const generateDropdownOptions = () => {
+    let options = '';
+    for (const locale in languageCodes) {
+        const slug = languageCodes[locale].slug;
+        const name = languageCodes[locale].name;
+        options += `<option value="/${slug}/index.html">${name}</option>\n`;
+    }
+    return options;
+};
 
-  // Write to File
-  fs.writeFileSync(outputPath, dropdownHtml);
-  console.log('Language dropdown HTML generated successfully.');
+// Function to update templates with dynamic options
+export function updateTemplateWithLocales(templateFilePath) {
+  // Use the correct variable name 'templateFilePath'
+  let template = readFileSync(templateFilePath, 'utf-8');
+
+  // Replace the hardcoded options with dynamic options
+  const updatedTemplate = template.replace(
+    /<option value="\/english-us\/index.html">English \(US\)<\/option>\n\s*<option value="\/español-latinoamérica\/index.html">Español \(Latinoamérica\)<\/option>\n\s*<option value="\/français\/index.html">Français<\/option>/,
+    `<option value="/index.html">Select language...</option>\n${generateDropdownOptions()}`
+  );
+
+  // Write back the updated template
+  writeFileSync(templateFilePath, updatedTemplate);
 }
+
+// Update navbar-template.html and index-template.html
+updateTemplateWithLocales(navbarTemplatePath);
+updateTemplateWithLocales(indexTemplatePath);

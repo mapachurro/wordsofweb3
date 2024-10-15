@@ -3,10 +3,10 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 // Import scripts that handle different parts of the build process
+import { updateTemplateWithLocales } from "./build-dropdown.js";
 import buildPages from "./build-pages.js";
 import buildHomepages from "./build-homepages.js";
 import intertextualLinks from "./intertextual.js";
-import { generateLanguageDropdown } from "./build-dropdown.js";
 
 // This creates an equivalent of `__dirname`
 const __filename = fileURLToPath(import.meta.url);
@@ -18,7 +18,8 @@ const buildDir = path.join(__dirname, "../build");
 const publicDir = path.join(__dirname, "../public");
 const l10nDir = path.join(__dirname, "../l10n");
 const srcJsDir = path.join(__dirname, "../src/js");
-const navbarTemplatePath = path.join(__dirname, '../utils/navbar-template.html'); // Define path to navbar-template.html
+const navbarTemplatePath = path.join(__dirname, '../navbar-template.html'); // Define path to navbar-template.html
+const indexTemplatePath = path.join(__dirname, '../utils/index-template.html'); // Define path to index-template.html
 
 // Function to copy files
 function copyFileSync(source, target) {
@@ -88,6 +89,10 @@ async function build() {
     }
     fs.mkdirSync(buildDir, { recursive: true });
 
+    // Generate the locale switcher dropdown based on locales available in language-codes.json
+    updateTemplateWithLocales(navbarTemplatePath);
+    updateTemplateWithLocales(indexTemplatePath);
+
     // Run the entry page generation process
     buildPages();
     console.log("Pages built.");
@@ -96,9 +101,9 @@ async function build() {
     buildHomepages();
     console.log("Built homepages for each locale.");
 
-    // Create the language dropdown selector, based on current locales available in the app
-    generateLanguageDropdown();
-    console.log("Built language dropdown selector based on current languages");
+    // // Create the language dropdown selector, based on current locales available in the app
+    // generateLanguageDropdown();
+    // console.log("Built language dropdown selector based on current languages");
 
     // Generate directory index files
     generateDirectoryIndex(staticDir);
