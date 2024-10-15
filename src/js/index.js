@@ -9,10 +9,6 @@ if (typeof document !== "undefined") {
     await initializeLanguageCodes();
     console.log("Language codes initialized");
 
-    // Initialize Navbar
-    // initNavbar(); 
-    // console.log("Navbar initialized");
-
     // Fetch directoryContents.json for use in other scripts
     const locale = document.documentElement.lang;
     const localeSlug = await convertLocaleFormat(locale, "fourLetterDash", "slug");

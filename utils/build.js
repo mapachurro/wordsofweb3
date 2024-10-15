@@ -101,10 +101,6 @@ async function build() {
     buildHomepages();
     console.log("Built homepages for each locale.");
 
-    // // Create the language dropdown selector, based on current locales available in the app
-    // generateLanguageDropdown();
-    // console.log("Built language dropdown selector based on current languages");
-
     // Generate directory index files
     generateDirectoryIndex(staticDir);
     console.log("Directory indices generated.");
@@ -149,18 +145,6 @@ async function build() {
       copyFolderRecursiveSync(srcJsDir, path.join(buildDir, "js"));
       console.log("JavaScript files copied to js directory.");
     }
-
-    // Copy navbar-template.html to 'build'
-    // const targetNavbarTemplatePath = path.join(
-    //   buildDir,
-    //   "js/navbar-template.html",
-    // );
-    // if (fs.existsSync(navbarTemplatePath)) {
-    //   copyFileSync(navbarTemplatePath, targetNavbarTemplatePath);
-    //   console.log("navbar-template.html copied to js directory.");
-    // } else {
-    //   console.warn("navbar-template.html not found.");
-    // }
 
     // Copy other public assets (e.g., images, favicon) directly to 'assets'
     ["favicon.ico", "education-dao-circle.png"].forEach((file) => {
