@@ -1,9 +1,9 @@
 # Education DAO Glossary: Architecture
 
-The Education DAO Glossary is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.
+The Education DAO Glossary is a multilingual glossary app. It is intended to be a place where people can collaboratively create `credibly neutral` definitions, explanations, and etymological histories for terms and concepts arising from crypto, web3, and decentralized web technologies.
 
-It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is _also_ a `term` in the glossary in that language, there will be a hyperlink to that term.
-Ideally, there will be a `breadcrumbs` element at the top of each entry page, tracking the user's journey through the interwoven terminology of this space.
+It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is _also_ a `term` in the glossary in that language, there should be a hyperlink to that term.
+Ideally, there will be a `breadcrumbs` element at the top of each entry page, tracking the user's journey through the interwoven terminology of this space. (`TODO`)
 
 ## Design principles
 

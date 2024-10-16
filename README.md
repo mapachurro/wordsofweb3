@@ -31,18 +31,20 @@ This repo is the backend for the `wordsofweb3.eth` glossary, from [Education DAO
 
 # wordsofweb3: Architecture
 
-wordsofweb3 is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.
+`wordsofweb3.eth` is a multilingual glossary app. It is intended to be a place where people can come together to agree upon `credibly neutral` definitions and explanations for terms and concepts arising from crypto, web3, and decentralized web technologies in general.
 
-It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is _also_ a `term` in the glossary in that language, there will be a hyperlink to that term.
-Ideally, there will be a `breadcrumbs` element at the top of each entry page, tracking the user's journey through the interwoven terminology of this space.
+It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is _also_ a `term` in the glossary in that language, there *should* be a hyperlink to that term.
+Ideally, there will be a `breadcrumbs` element at the top of each entry page, tracking the user's journey through the interwoven terminology of this space. (`TODO`)
 
 ## Design principles
 
-This app is meant to be _for the ages_. The idea is that it _will never break_. It is designed to be deployed on decentralized storage networks, such as IPFS, which sometimes experience high latency; additionally, this technology should be accessible by the widest possible audience.
+- This app is meant to be _for the ages_. The idea is that it _will never break_. It is designed to be deployed on decentralized storage networks, such as IPFS, which sometimes experience high latency (they load slow). 
 
-For these reasons, at every point at which we can choose "how to do X", we should choose the dumbest, most low-tech way possible.
+- These new technologies should be *accessible and comprehensible to the widest possible audience*.
 
-This means that if you're installing an npm package, or importing a CDN, you might be doing it wrong.
+For these reasons, at every point at which we can choose "how to do XYZ" in `wordsofweb3.eth`, **we should choose the dumbest, least breakable way possible**.
+
+This means that **if you're installing an npm package, or importing a CDN, you might be doing it wrong.**
 
 ### Conventions
 
@@ -52,27 +54,44 @@ We use ES Module syntax in wordsofweb3, so make sure any functionality uses this
 
 Yes, this means custom scripting; but anyone that tells you that an npm package or open source project will require _less_ maintenance than custom scripts that do what you want, well, wish them the best of luck with that.
 
-### Homepages
+## Homepages and overall site structure
 
 As a fully internationalized app, the site will actually have multiple potential versions of its homepage.
 
-This means there is an `index.html` page in the root directory `./`, as well as an index.html page in each of the locale directories, e.g. `./nederlands/index.html`.
+### The root index page
 
-The root index file, upon load, _should_ detect the user's browser locale, and direct them to the correct `./<locale>/index.html` file.
-If there doesn't seem to be an appropriate locale for the user, the root index file should show a welcome message, display all available locales and allow the user to choose one.
+The root homepage of wordsofweb3.eth is `./index.html`, in the repo, in the `./build` directory, and on the deployed site.
 
-These homepages are created by `build-homepages.js`, which runs during the build process.
-This script ingests `index-template.html`, and applies UI translation strings found in `./l10n/<four-letter-dash-locale-code>/translation.json` to the elements that need to contain human-readable information.
+Currently, this page is rarely seen; it is set up to detect your browser's locale, and direct you to an appropriate linguistic homepage for your best language. If it doesn't have a good match, it has a graceful fallback, showing you all the languages available and letting you choose.
+
+However, after recent conversations with i18n gigabrain @GuiBibeau , this might be Really Not Good Actually for SEO, which contravenes the `accessible` design principle. So we might make it less opinionated and just have you choose your language up front.
+
+### Individual language homepages
+
+In the `./build` directory and on the deployed site, the overall structure looks like so:
+
+![site directory tree](./public/assets/img/README/language-dirs.png)
+
+As you can see, each language has its own directory. Those directories are big buckets with all static, generated content for that language inside of it, including the individual term pages, the `directoryContents.json` file, which is used by the `Search` function, and, of course, the `index.html` homepage for that language:
+
+![directoryContents file](./public/assets/img/README/directoryContents.png)
+
+![language homepage file](./public/assets/img/README/homepage-file.png)
+
+These homepages are created by [`build-homepages.js`](./utils/build-homepages.js), which runs during the build process.
+This script ingests [`index-template.html`](./utils/index-template.html), and applies UI translation strings found in [`./l10n/<four-letter-dash-locale-code>/translation.json`](./l10n/locales/) to the elements that need to contain human-readable information.
 
 #### The Navbar and language switching
 
 The language dropdown selector on this site is much dumber than many that are out there.
 
-It should do two things: update its current state to whatever language you've chosen, and take you to the equivalent of the page that you're on in that locale. It will do this through static routing and a term equivalency mapping object that is created in the `build-pages.js` script.
+It does one thing only: **takes you to the homepage of the language that you select.**
 
 The navbar does not do any UI string swapping. Or, at least, it shouldn't.
 
-### Creating the glossary entries
+It would be nice, in the future, to allow it to take the reader to the equivalent term page in the language they've selected, if they're on a term page. But the above functionality was baseline, and had to be pretty hardcoded.
+
+## The glossary entries ("entry pages")
 
 Similarly to the "template" format of the homepage, each `term`'s `entry page` will be generated **on the build side of the app; nothing will be created "generatively" on the reader's side.**
 
