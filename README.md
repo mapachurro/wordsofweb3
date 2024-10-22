@@ -29,6 +29,18 @@ This repo is the backend for the `wordsofweb3.eth` glossary, from [Education DAO
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# Contributions
+
+wordsofweb3 is meant to be a place where we all, collectively, can create a `credibly neutral`, living record of _what words mean_. The hope is that if we can agree on some definitions, we can begin to agree on reality a little bit more.
+
+**Would you like to contribute**? Is a word's definition wrong? Should the term be in camel case? Have we failed to document a very important concept??
+
+CORRECTIONS ARE THE WAY WE MAKE THIS GOOD.
+
+## For the moment, please feel free to [create an issue in this repo](https://github.com/mapachurro/wordsofweb3/issues).
+
+We are working on creating an [attestation](https://docs.ver.ax/verax-documentation)-based contribution flow / frontend for the app. Stay tuned!
+
 # wordsofweb3: Architecture
 
 wordsofweb3 is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.
