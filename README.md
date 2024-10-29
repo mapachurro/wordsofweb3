@@ -80,9 +80,9 @@ This script ingests `index-template.html`, and applies UI translation strings fo
 
 The language dropdown selector on this site is much dumber than many that are out there.
 
-It should do two things: update its current state to whatever language you've chosen, and take you to the equivalent of the page that you're on in that locale. It will do this through static routing and a term equivalency mapping object that is created in the `build-pages.js` script.
+Currently, **it only does one thing: takes you to the homepage of whatever language you select.**
 
-The navbar does not do any UI string swapping. Or, at least, it shouldn't.
+Ideally, it would also switch between languages for the term page you're on.
 
 ### Creating the glossary entries
 
@@ -96,9 +96,13 @@ This .csv file is something that will be imported, from time to time, with new o
 It currently houses a large number of locales; here is a sample of its structure and content:
 
 ```CSV
-[en_US],[ar_AR],[zh-CN],[zh-TW],[nl_NL],[fr_FR],[de_DE],[el_GR],[ha-NG],[hi_IN],[hu_HU],[id_ID],[it_IT],[ja_JP],[ko_KR],[fa_IR],[ms_MY],[pcm-NG],[pl_PL],[pt_BR],[ro_RO],[ru_RU],[es-419],[tl_PH],[th_TH],[tr_TR],[uk_UA],[vi_VN]
-51% Attack,هجوم 51٪,51%攻击,51%攻擊,51%-aanval,Attaque des 51 %,51% Attacke,Επίθεση του 51%,Tsarin 51%,51% अटैक,51%-os támadás,51% Attack,Attacco del 51%,51%攻撃,51% 공격,حمله 51 درصدی,Serangan 51%,Chop oga network,Atak 51%,Ataque de 51%,Atac 51%,Атака 51%,ataque de 51 %,51% Pag-atake,การโจมตี 51%,%51 Saldırısı,Атака 51%,Tấn công 51%
-Account,حساب,账户,帳戶,account,Compte,Konto,Λογαριασμός,Asusu,Account,fiók,Akun,Account,アカウント,계정,حساب,Akaun,Akaunt,Konto,Conta,Cont,Счет,cuenta,Account,บัญชี,Hesap,Обліковий запис,Tài khoản
+[en-US],[ar_001],[zh-CN],[zh-TW],[nl-NL],[fr-FR],[de-DE],[el-GR],[ha-NG],[hi-IN],[hu-HU],[id-ID],[it-IT],[ja-JP],[ko-KR],[fa-AF],[ms-MY],[pcm-NG],[pl-PL],[pt-BR],[ro-RO],[ru-RU],[es-419],[tl-PH],[th-TH],[tr-TR],[uk-UA],[vi-VN]
+0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API
+0xplain,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch
+2FA,المصادقة الثنائية (2FA),双因素认证（2FA）,雙重要素驗證 (2FA),verificatie in twee stappen (2FA),Authentification double (2FA),Zwei-Faktor-Authentifizierung (2FA),Επαλήθευση δύο παραγόντων (2FA),Tabbatarwa ta Biyu,टू-फैक्टर ऑथेंटिकेशन (2FA),kétlépcsős hitelesítés (2FA),Autentikasi Dua Faktor (2FA),Autenticazione a due fattori (2FA),二要素認証 (2FA),"이중 인증(two-factor authentication, 2FA)",تایید هویت دو عاملی (2FA),Pengesahan Dua Faktor (2FA),Double verification for security,Uwierzytelnianie dwuskładnikowe (2FA),Autenticação de dois fatores (2FA),Autentificare în doi factori (2FA),Двухфакторная аутентификация (2ФА),autenticación de dos factores (2FA),Two-Factor Authentication (2FA),การพิสูจน์ตัวจริงสองปัจจัย (2FA),İki Faktörlü Kimlik Doğrulaması (2FA),Двофакторна аутентифікація (2FA),Xác thực hai yếu tố (2FA)
+3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs
+51% attack,هجوم 51٪,51%攻击,51%攻擊,51%-aanval,Attaque des 51 %,51% Attacke,Επίθεση του 51%,Tsarin 51%,51% अटैक,51%-os támadás,51% Attack,Attacco del 51%,51%攻撃,51% 공격,حمله 51 درصدی,Serangan 51%,Chop oga network,Atak 51%,Ataque de 51%,Atac 51%,Атака 51%,ataque de 51 %,51% Pag-atake,การโจมตี 51%,%51 Saldırısı,Атака 51%,Tấn công 51%
 ```
 
 This .csv will be processed by a script, `generate-json.js`. For each locale, this script:
@@ -152,9 +156,11 @@ This can be changed over time, but here is a sample of what it looks like now:
 ```CSV
 
 Term,Part of speech,Term Category,Phonetic,Definition,Source,Date first recorded
+0x API,noun,project or product,/ˌzɪroʊ ˈɛks ˈeɪ.pi.aɪ/,"The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users.",,
+1inch,noun,project or product,/ˈwʌn ɪntʃ/,Decentralized exchange aggregator that aims to provide traders with the best price and lowest fees on their transactions.,,
+2FA,noun,software term,"/ˈtuː ˈfæktər ɔːˈθɛntɪˌkeɪʃən/, /ˈtuː ˈɛf ˈeɪ/",Abbreviation; two-factor authentication (2FA) is an identity and access management security method that requires two forms of identification to access resources and data. 2FA gives businesses the ability to monitor and help safeguard their most vulnerable information and networks.See also 'U2F' When 2FA A,,
+3Box Labs,noun,project or product,/ˈθriː bɑks ˈlæbz/,"The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem",,
 51% attack,noun,decentralized web,/ˈfɪfti wʌn pərˈsɛnt əˈtæk/,"If more than half the computer power or mining hash rate on a network is run by a single person or a single group of people, then a 51% attack is in operation. This means that this entity has full control of the network and can negatively affect a cryptocurrency by taking over mining operations, stopping or changing transactions, and double-spending coins.",,
-account,noun,decentralized web,/əˈkaʊnt/," Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose. In the world of crypto, this is referred to as a cryptocurrency account. It gives you certain benefits, and it is a requirement in order to use just about any cryptocurrency exchange. A cryptocurrency account gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process.",,
-address,noun,decentralized web,"/ˈæd.rɛs/ ""ˈpʌblɪk ˈæd.rɛs""","Synonymous with ""public address"", ""wallet address"". Used to send and receive transactions on a blockchain network, and to identify different users; also referred to as a 'public key'. An address is an alphanumeric character string, which can also be represented as a scannable QR code. In Ethereum, the address begins with 0x. For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee",,
 
 ```
 
@@ -192,22 +198,25 @@ An example of this: we do not have paths like `/es-419/cuenta.html`; no, we have
 
 ```json
 {
-    "ar-AR": {
-        "name": "العربية",
-        "slug": "العربية",
-        "fourLetterDash": "ar-AR",
-        "fourLetterUnderscore": "ar_AR",
-        "twoLetter": "ar",
-        "threeLetter": "ara"
-    },
-    "zh-CN": {
-        "name": "中文-(简体)",
-        "slug": "中文-(简体)",
-        "fourLetterDash": "zh-CN",
-        "fourLetterUnderscore": "zh_CN",
-        "twoLetter": "zh",
-        "threeLetter": "zho"
-    },
+  "ar-001": {
+      "name": "العربية",
+      "slug": "العربية",
+      "fourLetterDash": "ar-001",
+      "fourLetterUnderscore": "ar_001",
+      "twoLetter": "ar",
+      "threeLetter": "ara",
+      "notes": "As of 2024, we have limited Arabic dialectical differentiation, so preference is to use generic code"
+  },
+  "zh-CN": {
+      "name": "中文-(简体)",
+      "slug": "中文-简体",
+      "fourLetterDash": "zh-CN",
+      "fourLetterUnderscore": "zh_CN",
+      "twoLetter": "zh",
+      "threeLetter": "zho",
+      "notes": "The alternative is to use zh-Hans and zh-Hant - which would delineate Simplified vs. Traditional without any regional association. I think for now we can stick with zh-CN and zh-TW, and perhaps expand to zh-HK if we need to."
+     
+  },
 ```
 
 ...and so on.
