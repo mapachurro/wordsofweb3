@@ -1,4 +1,4 @@
-export default function initExplore(directoryContents) {
+export default function initExplore(directoryContents, locale = 'en') {
   const exploreContainer = document.getElementById("explore-container");
 
   if (!directoryContents || directoryContents.length === 0) {
@@ -6,11 +6,13 @@ export default function initExplore(directoryContents) {
     return;
   }
 
-  const shuffledLinks = directoryContents.sort(() => Math.random() - 0.5); // Shuffle the links
+  // Sort directoryContents alphabetically based on the locale
+  const collator = new Intl.Collator(locale);
+  const sortedLinks = directoryContents.sort((a, b) => collator.compare(a.name, b.name));
 
-  shuffledLinks.forEach((link) => {
+  sortedLinks.forEach((link) => {
     const termLink = document.createElement("a");
-    termLink.href = `./${link.link}`; // Ensure the link is relative to the current locale directory
+    termLink.href = `./${link.link}`;
     termLink.textContent = link.name;
     termLink.style.display = "block";
     exploreContainer.appendChild(termLink);
