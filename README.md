@@ -88,24 +88,38 @@ Ideally, it would also switch between languages for the term page you're on.
 
 Similarly to the "template" format of the homepage, each `term`'s `entry page` will be generated **on the build side of the app; nothing will be created "generatively" on the reader's side.**
 
-There are two data inputs to these `entry pages`:
+We currently are bringing new terms into the glossary though a kind of rough pipeline, housed in [./utils/data/import](./utils/data/import), using CSV files, which are more human-readable, to manage and update the content, then process into .json formatted for the rest of the site generation pipeline.
 
-#### `ext-sync-terms.csv`:
+There are two CSV files we use in particular, `all-terms.csv`, and `english-terms.csv`. `all-terms` is the **canonical source of truth for what terms are in the glossary, and what their equivalents are across languages**.
+
+To emphasize the importance of this: **The .json files that are created from this spreadsheet use the English term as the "object key" for that term in each additional language. This allows for functionality such as establishing equivalents across languages, obviously crucial for the project. *the structure of the .json created from this spreadsheet, therefore, must be the same across all languages*, and is a common source of issues, e.g. "why are there no terms loading in X language"**
+
+`english-terms.csv` is imported because the author(s) of this glossary primarily work in English, and are updating definitions in English. 
+
+**This process, overall, should be changed to be language-agnostic.**
+
+**An alternate "term key" system which does not place English as the canonical "source of truth" would be in line with the spirit of this project. Currently, that is a "nice to have". If it becomes a "must do", that's a good problem to have, because it will mean this project is very successful.
+
+More details about these files: 
+
+#### `all-terms.csv`:
 
 This .csv file is something that will be imported, from time to time, with new or updated terms in one or more languages.
 It currently houses a large number of locales; here is a sample of its structure and content:
 
 ```CSV
-[en-US],[ar_001],[zh-CN],[zh-TW],[nl-NL],[fr-FR],[de-DE],[el-GR],[ha-NG],[hi-IN],[hu-HU],[id-ID],[it-IT],[ja-JP],[ko-KR],[fa-AF],[ms-MY],[pcm-NG],[pl-PL],[pt-BR],[ro-RO],[ru-RU],[es-419],[tl-PH],[th-TH],[tr-TR],[uk-UA],[vi-VN]
-0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API
-0xplain,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch
-2FA,المصادقة الثنائية (2FA),双因素认证（2FA）,雙重要素驗證 (2FA),verificatie in twee stappen (2FA),Authentification double (2FA),Zwei-Faktor-Authentifizierung (2FA),Επαλήθευση δύο παραγόντων (2FA),Tabbatarwa ta Biyu,टू-फैक्टर ऑथेंटिकेशन (2FA),kétlépcsős hitelesítés (2FA),Autentikasi Dua Faktor (2FA),Autenticazione a due fattori (2FA),二要素認証 (2FA),"이중 인증(two-factor authentication, 2FA)",تایید هویت دو عاملی (2FA),Pengesahan Dua Faktor (2FA),Double verification for security,Uwierzytelnianie dwuskładnikowe (2FA),Autenticação de dois fatores (2FA),Autentificare în doi factori (2FA),Двухфакторная аутентификация (2ФА),autenticación de dos factores (2FA),Two-Factor Authentication (2FA),การพิสูจน์ตัวจริงสองปัจจัย (2FA),İki Faktörlü Kimlik Doğrulaması (2FA),Двофакторна аутентифікація (2FA),Xác thực hai yếu tố (2FA)
-3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs
-51% attack,هجوم 51٪,51%攻击,51%攻擊,51%-aanval,Attaque des 51 %,51% Attacke,Επίθεση του 51%,Tsarin 51%,51% अटैक,51%-os támadás,51% Attack,Attacco del 51%,51%攻撃,51% 공격,حمله 51 درصدی,Serangan 51%,Chop oga network,Atak 51%,Ataque de 51%,Atac 51%,Атака 51%,ataque de 51 %,51% Pag-atake,การโจมตี 51%,%51 Saldırısı,Атака 51%,Tấn công 51%
+Term [en-US],Term [ar],Term [zh-CN],Term [zh-TW],Term [nl-NL],Term [fr],Term [de-DE],Term [el-GR],Term [ha-NG],Term [hi-IN],Term [hu-HU],Term [id-ID],Term [it-IT],Term [ja-JP],Term [ko-KR],Term [fa-AF],Term [ms-MY],Term [pcm],Term [pl-PL],Term [pt-BR],Term [ro-RO],Term [ru-RU],Term [es-419],Term [tl],Term [th-TH],Term [tr-TR],Term [uk-UA],Term [vi-VN],Term [en-GB]
+0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API,0x API
+1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch,1inch
+2FA,المصادقة الثنائية (2FA),双因素验证（2FA）,雙重要素驗證 (2FA),verificatie in twee stappen,Authentification double,2FA,Επαλήθευση δύο παραγόντων,Tabbatarwa ta Biyu,टू-फैक्टर ऑथेंटिकेशन,Kétlépcsős hitelesítés,2FA,Autenticazione a due fattori,2FA,2단계 인증,2FA,2FA,Double verification for security,2FA,2FA,2FA,двухфакторная аутентификация,autenticación de dos factores,2FA,การพิสูจน์ตัวจริงสองปัจจัย,İki Faktörlü Kimlik Doğrulaması,Двофакторна аутентифікація,2FA,2FA
+3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs,3Box Labs
+51% attack,هجوم 51٪,51%攻击,51%攻擊,51%-aanval,attaque des 51 %,51 % attacke,επίθεση του 51%,tsarin 51%,51% अटैक,51%-os támadás,51% attack,attacco del 51%,51%攻撃,51% 공격,حمله ۵۱٪,serangan 51%,Chop oga network wey pass 50%,atak 51%,ataque de 51%,atac 51%,атака 51%,ataque de 51 %,51% pag-atake,การโจมตี 51%,%51 saldırısı,aтака 51%,tấn công 51%,51% attack
+Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,AAVE,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave,Aave
+account,حساب,账户,帳戶,account,compte,konto,λογαριασμός,asusu,अकाउंट,fiók,akun,account,アカウント,계정,حساب,akaun,akaunt,konto,conta,cont,счет,cuenta,account,บัญชี,hesap,oбліковий запис,tài khoản,account
+
 ```
 
-This .csv will be processed by a script, `generate-json.js`. For each locale, this script:
+This .csv will be processed by a script, [generate-json.js](./utils/generate-json.js). For each locale, this script:
 
 - Iterates through `./locales/<locale-code>` directories
   - In each directory, it looks for a file, `./locales/<locale-code>/<locale-code>.json`
@@ -146,12 +160,23 @@ For example:
     },
 ```
 
+### `english-terms.csv`
+
+This file, like `all-terms`, will be imported from time to time, and will include updated English terms and their definitions.
+
+
+
 ### `app-side-glossary.csv`
 
-We need a way to export this information, and manage it, in .csv format, for less-technical people who don't want to handle .json files.
-For this reason, these collective .json files from each locale will be exportable, via a script not yet written, to `./utils/data-import/app-side-glossary.csv`, for exportation to e.g. Google Sheets for editing and updates.
+`TODO`
 
-This can be changed over time, but here is a sample of what it looks like now:
+We need a way to export this information, and manage it, in .csv format, for less-technical people who don't want to handle .json files.
+For this reason, these collective .json files from each locale will be exportable, via a script not yet written, to `./utils/data/export/app-side-glossary.csv`, for exportation to e.g. Google Sheets for editing and updates.
+
+There is a placeholder script, in [`./utils/data/export/TODO.js`](./utils/data/export/TODO.js), with more specifications.
+
+
+Here is a sample of how [the current CSV file](./utils/data/import/all-terms.csv) looks:
 
 ```CSV
 
