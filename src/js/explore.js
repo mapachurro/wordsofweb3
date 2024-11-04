@@ -1,3 +1,5 @@
+// This should create the alphabetical listing of terms shown on each language's homepage.
+
 export default function initExplore(directoryContents, locale = 'en') {
   const exploreContainer = document.getElementById("explore-container");
 
