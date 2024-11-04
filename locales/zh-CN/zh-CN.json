@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "双因素认证（2FA）",
+      "term": "双因素验证（2FA）",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -82,7 +82,7 @@
       "datefirstseen": ""
     },
     "ach-transfer": {
-      "term": "ACH transfer",
+      "term": "ACH 转账",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,7 +91,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "链上地址/公钥（钱包地址）",
+      "term": "链上地址",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "反洗钱（AML）",
+      "term": "反洗钱",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +217,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "应用链",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "赏金 / 漏洞赏金",
+      "term": "赏金",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -649,7 +649,7 @@
       "datefirstseen": ""
     },
     "cex": {
-      "term": "CEX（中心化交易所）",
+      "term": "CEX",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -685,7 +685,7 @@
       "datefirstseen": ""
     },
     "client": {
-      "term": "客户端（Ethereum 或其他兼容区块链）",
+      "term": "客户端",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -946,7 +946,7 @@
       "datefirstseen": ""
     },
     "crypto-asset": {
-      "term": "加密货币资产",
+      "term": "加密资产",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1054,7 +1054,7 @@
       "datefirstseen": ""
     },
     "dapp": {
-      "term": "dapp（去中心化应用）",
+      "term": "dapp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1162,7 +1162,7 @@
       "datefirstseen": ""
     },
     "delegated-proof-of-stake-(dpos)": {
-      "term": "DPoS",
+      "term": "权益授权证明（DPoS）",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +1180,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "以太币（面额）",
+      "term": "面额",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,7 +1225,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "developer",
+      "term": "开发者",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1432,7 +1432,7 @@
       "datefirstseen": ""
     },
     "ens": {
-      "term": "ENS（Ethereum 域名服务）",
+      "term": "ENS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "EIP",
+      "term": "以太坊改进提议（EIP）",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1594,7 +1594,7 @@
       "datefirstseen": ""
     },
     "evm": {
-      "term": "EVM（Ethereum 虚拟机）",
+      "term": "EVM",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "容错",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +2080,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "跨链通信（IBC）协议",
+      "term": "跨链通信（IBC）",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2296,7 +2296,7 @@
       "datefirstseen": ""
     },
     "kyc": {
-      "term": "KYC（实名认证）",
+      "term": "KYC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2305,7 +2305,7 @@
       "datefirstseen": ""
     },
     "kyt": {
-      "term": "KYT（交易监控）",
+      "term": "KYT",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2386,7 +2386,7 @@
       "datefirstseen": ""
     },
     "ledger-live-app": {
-      "term": "Ledger Live App",
+      "term": "Ledger Live 应用程序",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "内存池（Mempool）",
+      "term": "内存池",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2575,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "内存池",
+      "term": "mempool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2764,7 +2764,7 @@
       "datefirstseen": ""
     },
     "mfa": {
-      "term": "MFA",
+      "term": "多因素验证（MFA）",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "点对点（P2P）",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3115,7 +3115,7 @@
       "datefirstseen": ""
     },
     "parity": {
-      "term": "Parity",
+      "term": "对等性",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3205,7 +3205,7 @@
       "datefirstseen": ""
     },
     "pki": {
-      "term": "PKI",
+      "term": "公钥基础设施（PKI）",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3214,7 +3214,7 @@
       "datefirstseen": ""
     },
     "plasma": {
-      "term": "Plasma",
+      "term": "Plasma（非托管侧链）",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3241,7 +3241,7 @@
       "datefirstseen": ""
     },
     "portfolio": {
-      "term": "Portfolio",
+      "term": "投资组合",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "权益证明（PoS）",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "工作量证明（PoW）",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3304,7 +3304,7 @@
       "datefirstseen": ""
     },
     "proof-of-stake": {
-      "term": "权益证明（PoS）",
+      "term": "权益证明",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3313,7 +3313,7 @@
       "datefirstseen": ""
     },
     "proof-of-work": {
-      "term": "工作量证明（PoW）",
+      "term": "工作量证明",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3538,7 +3538,7 @@
       "datefirstseen": ""
     },
     "rpc": {
-      "term": "RPC（远程过程调用）",
+      "term": "RPC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "证券型代币发行（STO）",
+      "term": "证券型代币发行",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "签名（加密）",
+      "term": "签名",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3970,7 +3970,7 @@
       "datefirstseen": ""
     },
     "stake": {
-      "term": "stake",
+      "term": "权益",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "未加密密钥",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "解除质押",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "钱包地址",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "Web3，Web 3.0",
+      "term": "Web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4564,7 +4564,7 @@
       "datefirstseen": ""
     },
     "webhook": {
-      "term": "webhook",
+      "term": "网络钩子",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +4582,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "Wei",
+      "term": "wei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "零知识简洁非交互知识论证（zk-SNARK）",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "DDoS攻击",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "加密密钥",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "以太币",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "网络拥塞",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

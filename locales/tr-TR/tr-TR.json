@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "İki Faktörlü Kimlik Doğrulaması (2FA)",
+      "term": "İki Faktörlü Kimlik Doğrulaması",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -46,7 +46,7 @@
       "datefirstseen": ""
     },
     "51%-attack": {
-      "term": "%51 Saldırısı",
+      "term": "%51 saldırısı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -73,7 +73,7 @@
       "datefirstseen": ""
     },
     "account": {
-      "term": "Hesap",
+      "term": "hesap",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,7 +91,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "adres/\"genel adres\" (cüzdan adresi)",
+      "term": "adres",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "AML (Kara Para Aklamanın Önlenmesi)",
+      "term": "Kara Para Aklamanın Önlenmesi",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +217,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +253,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC (Uygulamaya Özel Tümleşik Devre)",
+      "term": "Uygulamaya Özel Tümleşik Devre",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -262,7 +262,7 @@
       "datefirstseen": ""
     },
     "asset-provenance": {
-      "term": "Varlık Kökeni",
+      "term": "varlık kökeni",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -469,7 +469,7 @@
       "datefirstseen": ""
     },
     "blockchain-explorer": {
-      "term": "Blokzinciri gezgini",
+      "term": "blokzinciri gezgini",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "bounty / hata ödülü",
+      "term": "ödülü",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -550,7 +550,7 @@
       "datefirstseen": ""
     },
     "bridge": {
-      "term": "Köprü",
+      "term": "köprü",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -640,7 +640,7 @@
       "datefirstseen": ""
     },
     "centralized-exchange": {
-      "term": "Merkezi borsa",
+      "term": "merkezi borsa",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,7 +739,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "soğuk cüzdan / soğuk depolama",
+      "term": "soğuk cüzdan",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +757,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "Derleme",
+      "term": "derleme",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -802,7 +802,7 @@
       "datefirstseen": ""
     },
     "consensus-client": {
-      "term": "Fikir birliği istemcisi",
+      "term": "fikir birliği istemcisi",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -811,7 +811,7 @@
       "datefirstseen": ""
     },
     "consensus-layer": {
-      "term": "Fikir birliği katmanı",
+      "term": "fikir birliği katmanı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -820,7 +820,7 @@
       "datefirstseen": ""
     },
     "consensus-mechanism": {
-      "term": "Fikir birliği mekanizması",
+      "term": "fikir birliği mekanizması",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -865,7 +865,7 @@
       "datefirstseen": ""
     },
     "contract-account": {
-      "term": "Sözleşme hesabı",
+      "term": "sözleşme hesabı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1054,7 +1054,7 @@
       "datefirstseen": ""
     },
     "dapp": {
-      "term": "merkeziyetsiz uygulama",
+      "term": "dapp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +1180,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "ether (değerler)",
+      "term": "değerler",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +1198,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "türev / türetme",
+      "term": "türev",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,7 +1225,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "Geliştirici",
+      "term": "geliştirici",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1288,7 +1288,7 @@
       "datefirstseen": ""
     },
     "digital-signature": {
-      "term": "Dijital imza",
+      "term": "dijital imza",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1387,7 +1387,7 @@
       "datefirstseen": ""
     },
     "eea": {
-      "term": "Kurumsal Ethereum İttifakı (EEA)",
+      "term": "Kurumsal Ethereum İttifakı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "Ethereum Geliştirme Teklifi (EIP)",
+      "term": "Ethereum Geliştirme Teklifi",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1612,7 +1612,7 @@
       "datefirstseen": ""
     },
     "execution-client": {
-      "term": "Yürütme istemcisi",
+      "term": "yürütme istemcisi",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1621,7 +1621,7 @@
       "datefirstseen": ""
     },
     "execution-layer": {
-      "term": "Yürütme katmanı",
+      "term": "yürütme katmanı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "hataya dayanıklı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1702,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "son, kesinlik",
+      "term": "kesinlik",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1711,7 +1711,7 @@
       "datefirstseen": ""
     },
     "finality-rate": {
-      "term": "Kesinlik Oranı",
+      "term": "kesinlik oranı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1756,7 +1756,7 @@
       "datefirstseen": ""
     },
     "firewall": {
-      "term": "Güvenlik duvarı",
+      "term": "güvenlik duvarı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1765,7 +1765,7 @@
       "datefirstseen": ""
     },
     "firmware": {
-      "term": "Donanım yazılımı",
+      "term": "donanım yazılımı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1792,7 +1792,7 @@
       "datefirstseen": ""
     },
     "fractional-ownership": {
-      "term": "Fraksiyonel Sahiplik",
+      "term": "fraksiyonel sahiplik",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1801,7 +1801,7 @@
       "datefirstseen": ""
     },
     "fraud-proof": {
-      "term": "Dolandırıcılık kanıtı",
+      "term": "dolandırıcılık kanıtı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1945,7 +1945,7 @@
       "datefirstseen": ""
     },
     "governance": {
-      "term": "Yönetişim",
+      "term": "yönetişim",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2026,7 +2026,7 @@
       "datefirstseen": ""
     },
     "hex-data": {
-      "term": "On altılı veri",
+      "term": "on altılı veri",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2062,7 +2062,7 @@
       "datefirstseen": ""
     },
     "hybrid-network": {
-      "term": "Hibrit Ağ",
+      "term": "hibrit ağ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +2080,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "Blokzincirleri Arasında İletişim (IBC) Protokolü",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2116,7 +2116,7 @@
       "datefirstseen": ""
     },
     "immutability": {
-      "term": "Ölçeklendirilebilme çözümü",
+      "term": "ölçeklendirilebilme çözümü",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2179,7 +2179,7 @@
       "datefirstseen": ""
     },
     "interoperability": {
-      "term": "Birlikte Çalışabilirlik",
+      "term": "birlikte çalışabilirlik",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2395,7 +2395,7 @@
       "datefirstseen": ""
     },
     "library": {
-      "term": "Kitaplık",
+      "term": "kitaplık",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2449,7 +2449,7 @@
       "datefirstseen": ""
     },
     "liquid-democracy": {
-      "term": "Akışkan Demokrasi (Delege Demokrasisi)",
+      "term": "akışkan demokrasi",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2458,7 +2458,7 @@
       "datefirstseen": ""
     },
     "liquidation": {
-      "term": "Likidasyon",
+      "term": "likidasyon",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2530,7 +2530,7 @@
       "datefirstseen": ""
     },
     "malware": {
-      "term": "Kötü amaçlı yazılım",
+      "term": "kötü amaçlı yazılım",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "bellek havuzu; mempool",
+      "term": "bellek havuzu",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2575,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "Bellek havuzu",
+      "term": "mempool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2755,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "Maksimal Çıkarılabilir Değer (MEV)",
+      "term": "Maksimal Çıkarılabilir Değer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2800,7 +2800,7 @@
       "datefirstseen": ""
     },
     "mint": {
-      "term": "Mint",
+      "term": "mint",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2881,7 +2881,7 @@
       "datefirstseen": ""
     },
     "nested-blockchain": {
-      "term": "Nested (İç İçe) Blokzincir",
+      "term": "nested (İç İçe) blokzincir",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2890,7 +2890,7 @@
       "datefirstseen": ""
     },
     "network": {
-      "term": "Ağ",
+      "term": "ağ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2908,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "Yakın Alan İletişimi (NFC)",
+      "term": "Yakın Alan İletişimi",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2962,7 +2962,7 @@
       "datefirstseen": ""
     },
     "non-fungible-token": {
-      "term": "Nitelikli fikri tapu",
+      "term": "nitelikli fikri tapu",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2989,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "on-ramp, off-ramp",
+      "term": "off-ramp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "eşler arası (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3124,7 +3124,7 @@
       "datefirstseen": ""
     },
     "passphrase": {
-      "term": "Parola",
+      "term": "parola",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3133,7 +3133,7 @@
       "datefirstseen": ""
     },
     "password": {
-      "term": "Şifre",
+      "term": "şifre",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3160,7 +3160,7 @@
       "datefirstseen": ""
     },
     "peer-to-peer": {
-      "term": "Eşler arası",
+      "term": "eşler arası",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +3223,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "Yetki İspatı (PoA)",
+      "term": "Yetki İspatı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "Hisse İspatı (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "İş İspatı (PoW)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3358,7 +3358,7 @@
       "datefirstseen": ""
     },
     "public-key-cryptography": {
-      "term": "Açık Anahtarlı Şifreleme",
+      "term": "açık anahtarlı şifreleme",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3502,7 +3502,7 @@
       "datefirstseen": ""
     },
     "roadmap": {
-      "term": "Yol haritası",
+      "term": "yol haritası",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3547,7 +3547,7 @@
       "datefirstseen": ""
     },
     "rug-pull": {
-      "term": "rug pull (halı çekme)",
+      "term": "halı çekme",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3619,7 +3619,7 @@
       "datefirstseen": ""
     },
     "scaling": {
-      "term": "Ölçeklendirme",
+      "term": "ölçeklendirme",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3628,7 +3628,7 @@
       "datefirstseen": ""
     },
     "scam": {
-      "term": "Dolandırıcılık",
+      "term": "dolandırıcılık",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3673,7 +3673,7 @@
       "datefirstseen": ""
     },
     "search-engine": {
-      "term": "Arama motoru",
+      "term": "arama motoru",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "Menkul Kıymet Token Arzı (STO)",
+      "term": "Menkul Kıymet Token Arzı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3727,7 +3727,7 @@
       "datefirstseen": ""
     },
     "self-custody": {
-      "term": "self-custody (emanet edilmeyen)",
+      "term": "self-custody",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3781,7 +3781,7 @@
       "datefirstseen": ""
     },
     "shard-chain": {
-      "term": "Parça zincir",
+      "term": "parça zincir",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3790,7 +3790,7 @@
       "datefirstseen": ""
     },
     "sharding": {
-      "term": "sharding (bölme)",
+      "term": "bölme",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3799,7 +3799,7 @@
       "datefirstseen": ""
     },
     "shielded-transaction": {
-      "term": "Korumalı İşlem",
+      "term": "korumalı işlem",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "İmza (Kriptografik)",
+      "term": "İmza",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4033,7 +4033,7 @@
       "datefirstseen": ""
     },
     "streaming": {
-      "term": "Streaming",
+      "term": "streaming",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4213,7 +4213,7 @@
       "datefirstseen": ""
     },
     "transaction": {
-      "term": "İşlem",
+      "term": "işlem",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +4330,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "Kilitli Toplam Değer (TVL)",
+      "term": "Kilitli Toplam Değer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4348,7 +4348,7 @@
       "datefirstseen": ""
     },
     "u2f": {
-      "term": "Evrensel 2. Faktör (U2F)",
+      "term": "Evrensel 2. Faktör",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "şifrelenmemiş anahtar",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "unstake etmek",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4492,7 +4492,7 @@
       "datefirstseen": ""
     },
     "vesting": {
-      "term": "Vesting",
+      "term": "vesting",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "cüzdan adresi",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "web3, Web 3.0",
+      "term": "web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4564,7 +4564,7 @@
       "datefirstseen": ""
     },
     "webhook": {
-      "term": "webhook",
+      "term": "web kancası",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +4582,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "Wei",
+      "term": "wei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4591,7 +4591,7 @@
       "datefirstseen": ""
     },
     "whitepaper": {
-      "term": "Teknik doküman",
+      "term": "teknik doküman",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +4618,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "Genişletilmiş Özel Anahtar (XPRIV)",
+      "term": "Genişletilmiş Özel Anahtar",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +4627,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "Genişletilmiş Genel Anahtar (XPUB)",
+      "term": "Genişletilmiş Genel Anahtar",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4663,7 +4663,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-proof": {
-      "term": "Sıfır bilgi ispatı",
+      "term": "sıfır bilgi ispatı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4672,7 +4672,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-rollup": {
-      "term": "Sıfır bilgi rollup",
+      "term": "sıfır bilgi rollup",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "zk-SNARK'lar",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "DDoS",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "şifrelenmiş anahtar",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "ether",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "ağ tıkanıklığı",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

@@ -9,15 +9,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "0xplain": {
-      "term": "0xplain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "1inch": {
       "term": "1inch",
       "phonetic": "",
@@ -28,7 +19,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "المصادقة الثنائية (2FA)",
+      "term": "2FA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -46,7 +37,7 @@
       "datefirstseen": ""
     },
     "51%-attack": {
-      "term": "هجوم 51٪",
+      "term": "51% attack",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -63,17 +54,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "about": {
-      "term": "من نحن",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "account": {
-      "term": "حساب",
+      "term": "account",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -82,7 +64,7 @@
       "datefirstseen": ""
     },
     "ach-transfer": {
-      "term": "تحويل ACH",
+      "term": "BACS transfer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,16 +73,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "العنوان / \"العنوان العام\" (عنوان المحفظة)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "advanced": {
-      "term": "متقدم",
+      "term": "address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -109,16 +82,7 @@
       "datefirstseen": ""
     },
     "aggregator": {
-      "term": "مُجمِعّ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "aggressive": {
-      "term": "مغامر",
+      "term": "aggregator",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -136,7 +100,7 @@
       "datefirstseen": ""
     },
     "air-gapping": {
-      "term": "عزل الأجهزة",
+      "term": "air-gapping",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -145,7 +109,7 @@
       "datefirstseen": ""
     },
     "airdrop": {
-      "term": "توزيع مجاني",
+      "term": "airdrop",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -171,17 +135,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "alerts": {
-      "term": "تنبيهات",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "algorithm": {
-      "term": "خوارزمية",
+      "term": "algorithm",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -190,7 +145,7 @@
       "datefirstseen": ""
     },
     "altcoin": {
-      "term": "عملة بديلة",
+      "term": "altcoin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +154,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "مكافحة غسيل الأموال",
+      "term": "AML",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +172,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -227,15 +182,6 @@
     },
     "apple-pay": {
       "term": "Apple Pay",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "approve": {
-      "term": "موافقة",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +199,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "الدائرة المتكاملة الخاصة بالتطبيق (ASIC)",
+      "term": "ASIC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -262,7 +208,7 @@
       "datefirstseen": ""
     },
     "asset-provenance": {
-      "term": "منشأ الأصل",
+      "term": "asset provenance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -271,7 +217,7 @@
       "datefirstseen": ""
     },
     "attestation": {
-      "term": "المصادقة",
+      "term": "attestation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -281,15 +227,6 @@
     },
     "aurora": {
       "term": "Aurora",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "autodetection": {
-      "term": "كشف تلقائي",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -324,24 +261,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "backup": {
-      "term": "نسخ احتياطي",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "balance": {
-      "term": "الرصيد",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "banxa": {
       "term": "Banxa",
       "phonetic": "",
@@ -352,7 +271,7 @@
       "datefirstseen": ""
     },
     "base-fee": {
-      "term": "الحد الأدنى للرسوم",
+      "term": "Base fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -361,7 +280,7 @@
       "datefirstseen": ""
     },
     "beacon-chain": {
-      "term": "سلسلة المنارة (Beacon)",
+      "term": "Beacon Chain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -387,17 +306,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "biometrics": {
-      "term": "المقاييس الحيوية",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "bitcoin": {
-      "term": "بيتكوين",
+      "term": "Bitcoin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -406,7 +316,7 @@
       "datefirstseen": ""
     },
     "block": {
-      "term": "كُتلة",
+      "term": "block",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -415,7 +325,7 @@
       "datefirstseen": ""
     },
     "block-explorer": {
-      "term": "مستكشف البلوكتشين",
+      "term": "block explorer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -424,7 +334,7 @@
       "datefirstseen": ""
     },
     "block-height": {
-      "term": "موقع الكتلة",
+      "term": "block height",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -433,7 +343,7 @@
       "datefirstseen": ""
     },
     "block-reward": {
-      "term": "مكافأة الكتلة",
+      "term": "block reward",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -442,7 +352,7 @@
       "datefirstseen": ""
     },
     "block-time": {
-      "term": "وقت الكتلة",
+      "term": "block time",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -460,7 +370,7 @@
       "datefirstseen": ""
     },
     "blockchain": {
-      "term": "البلوكتشين",
+      "term": "blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -469,7 +379,7 @@
       "datefirstseen": ""
     },
     "blockchain-explorer": {
-      "term": "مستكشف البلوكتشين",
+      "term": "blockchain explorer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -478,25 +388,7 @@
       "datefirstseen": ""
     },
     "blockchain-trilemma": {
-      "term": "المعضلة الثلاثية الأبعاد لسلاسل البلوكتشين",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blockies": {
-      "term": "كُتل مصغرة",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blue-fox": {
-      "term": "blue fox",
+      "term": "blockchain trilemma",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +415,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "مكافأة / مكافأة اكتشاف الخلل",
+      "term": "bounty",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -532,7 +424,7 @@
       "datefirstseen": ""
     },
     "brain-wallet": {
-      "term": "محفظة الدماغ",
+      "term": "brain wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -550,16 +442,7 @@
       "datefirstseen": ""
     },
     "bridge": {
-      "term": "جسر",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "browser": {
-      "term": "متصفح",
+      "term": "bridge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -569,15 +452,6 @@
     },
     "btc": {
       "term": "BTC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "bug-report": {
-      "term": "تقرير الأخطاء",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -595,7 +469,7 @@
       "datefirstseen": ""
     },
     "bytecode": {
-      "term": "شفرة البايت",
+      "term": "bytecode",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -604,7 +478,7 @@
       "datefirstseen": ""
     },
     "byzantine-fault-tolerance": {
-      "term": "التسامح مع الخطأ البيزنطي",
+      "term": "Byzantine fault tolerance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -613,16 +487,7 @@
       "datefirstseen": ""
     },
     "byzantium-fork": {
-      "term": "انقسام (فورك) Byzantium",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "cancel": {
-      "term": "إلغاء",
+      "term": "Byzantium fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -640,7 +505,7 @@
       "datefirstseen": ""
     },
     "centralized-exchange": {
-      "term": "بورصة مركزية",
+      "term": "centralised exchange",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -658,7 +523,7 @@
       "datefirstseen": ""
     },
     "chain-id": {
-      "term": "مُعرفّ السلسلة",
+      "term": "chain ID",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -675,17 +540,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "clear": {
-      "term": "مسح",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "client": {
-      "term": "عميل (الإيثيريوم أو بلوكتشين متوافق آخر)",
+      "term": "client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -694,7 +550,7 @@
       "datefirstseen": ""
     },
     "codefi": {
-      "term": "التداول والتمويل اللامركزي (CodeFi)",
+      "term": "Codefi",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -703,7 +559,7 @@
       "datefirstseen": ""
     },
     "coin": {
-      "term": "عملة",
+      "term": "coin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -730,7 +586,7 @@
       "datefirstseen": ""
     },
     "cold-storage": {
-      "term": "التخزين البارد (غير متصل بالإنترنت)",
+      "term": "cold storage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,16 +595,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "محفظة باردة / تخزين بارد",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "community-platform": {
-      "term": "منصة المجتمع",
+      "term": "cold wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +604,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "تجميع",
+      "term": "compile",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -766,16 +613,7 @@
       "datefirstseen": ""
     },
     "compound": {
-      "term": "بروتوكول Compound",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "confirm": {
-      "term": "تأكيد",
+      "term": "Compound",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -784,7 +622,7 @@
       "datefirstseen": ""
     },
     "confirmation": {
-      "term": "تأكيد",
+      "term": "confirmation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -793,7 +631,7 @@
       "datefirstseen": ""
     },
     "consensus": {
-      "term": "خوارزمية الإجماع",
+      "term": "consensus",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -802,7 +640,7 @@
       "datefirstseen": ""
     },
     "consensus-client": {
-      "term": "عميل إجماع",
+      "term": "consensus client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -811,7 +649,7 @@
       "datefirstseen": ""
     },
     "consensus-layer": {
-      "term": "طبقة الإجماع",
+      "term": "consensus layer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -820,7 +658,7 @@
       "datefirstseen": ""
     },
     "consensus-mechanism": {
-      "term": "آلية الإجماع",
+      "term": "consensus mechanism",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -838,16 +676,7 @@
       "datefirstseen": ""
     },
     "constantinople-fork": {
-      "term": "انقسام (فورك) Byzantium",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "contacts": {
-      "term": "جهات الاتصال",
+      "term": "Constantinople fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -856,7 +685,7 @@
       "datefirstseen": ""
     },
     "contract": {
-      "term": "عقد",
+      "term": "contract",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -865,16 +694,7 @@
       "datefirstseen": ""
     },
     "contract-account": {
-      "term": "حساب العقد",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "conversion": {
-      "term": "التحويل",
+      "term": "contract account",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -891,26 +711,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "copy": {
-      "term": "نسخ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "create": {
-      "term": "إنشاء",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "crypto-bounties": {
-      "term": "مكافآت التشفير",
+      "term": "crypto bounties",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -919,7 +721,7 @@
       "datefirstseen": ""
     },
     "crypto-fund": {
-      "term": "صندوق استثمار الأصول المشفرة",
+      "term": "crypto fund",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -928,7 +730,7 @@
       "datefirstseen": ""
     },
     "crypto-wallet": {
-      "term": "محفظة العملات المشفرة",
+      "term": "crypto wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -937,7 +739,7 @@
       "datefirstseen": ""
     },
     "crypto-": {
-      "term": "-مشفرة",
+      "term": "crypto-",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -946,7 +748,7 @@
       "datefirstseen": ""
     },
     "crypto-asset": {
-      "term": "أصل مشفر",
+      "term": "crypto-asset",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -955,7 +757,7 @@
       "datefirstseen": ""
     },
     "crypto-compliance": {
-      "term": "امتثال الأصول المشفرة",
+      "term": "crypto-compliance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -973,7 +775,7 @@
       "datefirstseen": ""
     },
     "cryptocurrency": {
-      "term": "عملة مشفرة",
+      "term": "cryptocurrency",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -982,7 +784,7 @@
       "datefirstseen": ""
     },
     "cryptoeconomics": {
-      "term": "اقتصاديات الأصول المشفرة",
+      "term": "cryptoeconomics",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -991,7 +793,7 @@
       "datefirstseen": ""
     },
     "cryptography": {
-      "term": "التشفير",
+      "term": "cryptography",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1009,16 +811,7 @@
       "datefirstseen": ""
     },
     "custody": {
-      "term": "الحفظ الآمن",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "custom-nonce": {
-      "term": "مُعرِف مخصص",
+      "term": "custody",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1054,7 +847,7 @@
       "datefirstseen": ""
     },
     "dapp": {
-      "term": "تطبيق لامركزي (dapp)",
+      "term": "dapp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1062,8 +855,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos-": {
-      "term": "الهجمات الموزعة لحجب الخدمة (DDoS)",
+    "ddos": {
+      "term": "DDoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1072,7 +865,7 @@
       "datefirstseen": ""
     },
     "decentralization": {
-      "term": "اللامركزية",
+      "term": "decentralisation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1081,7 +874,7 @@
       "datefirstseen": ""
     },
     "decentralized-application": {
-      "term": "تطبيق لامركزي",
+      "term": "decentralised application",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1090,7 +883,7 @@
       "datefirstseen": ""
     },
     "decentralized-autonomous-organization": {
-      "term": "منظمة مستقلة لامركزية",
+      "term": "Decentralised Autonomous Organisation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1099,7 +892,7 @@
       "datefirstseen": ""
     },
     "decentralized-exchange": {
-      "term": "بورصة لامركزية",
+      "term": "decentralised exchange",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1108,7 +901,7 @@
       "datefirstseen": ""
     },
     "decentralized-finance": {
-      "term": "التمويل اللامركزي",
+      "term": "decentralised finance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1117,16 +910,7 @@
       "datefirstseen": ""
     },
     "decentralized-web": {
-      "term": "الويب اللامركزي",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "default": {
-      "term": "افتراضية",
+      "term": "decentralised web",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1135,25 +919,7 @@
       "datefirstseen": ""
     },
     "defi": {
-      "term": "تمويل لامركزي (DeFi)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "defi-read-api": {
-      "term": "DeFi Read API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "defi-write-api": {
-      "term": "DeFi Write API",
+      "term": "DeFi",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1162,16 +928,7 @@
       "datefirstseen": ""
     },
     "delegated-proof-of-stake-(dpos)": {
-      "term": "DPoS",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "delete": {
-      "term": "حذف",
+      "term": "Delegated proof of stake (DPoS)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +937,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "إيثر",
+      "term": "denominations",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1189,7 +946,7 @@
       "datefirstseen": ""
     },
     "deposit": {
-      "term": "الإيداع",
+      "term": "deposit",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +955,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "يشتقّ / اشتقاق",
+      "term": "derive",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1207,7 +964,7 @@
       "datefirstseen": ""
     },
     "dev": {
-      "term": "مُطورّ",
+      "term": "dev",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,16 +982,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "مُطورّ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "device": {
-      "term": "جهاز",
+      "term": "developer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1243,7 +991,7 @@
       "datefirstseen": ""
     },
     "dex": {
-      "term": "بورصة لامركزية (DEX)",
+      "term": "DEX",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1252,7 +1000,7 @@
       "datefirstseen": ""
     },
     "difficulty": {
-      "term": "صعوبة التعدين",
+      "term": "difficulty",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1261,7 +1009,7 @@
       "datefirstseen": ""
     },
     "difficulty-bomb": {
-      "term": "انفجار الصعوبة",
+      "term": "difficulty bomb",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1270,7 +1018,7 @@
       "datefirstseen": ""
     },
     "digital-asset": {
-      "term": "أصل رقمي",
+      "term": "digital asset",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1279,7 +1027,7 @@
       "datefirstseen": ""
     },
     "digital-identity": {
-      "term": "هوية رقمية",
+      "term": "digital identity",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1288,7 +1036,7 @@
       "datefirstseen": ""
     },
     "digital-signature": {
-      "term": "توقيع رقمي",
+      "term": "digital signature",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1305,17 +1053,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "disable": {
-      "term": "تعطيلّ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "distributed-ledger-technology": {
-      "term": "تقنية دفتر الأستاذ الموزع",
+      "term": "Distributed Ledger Technology",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1333,25 +1072,7 @@
       "datefirstseen": ""
     },
     "double-spend": {
-      "term": "إنفاق مزدوج",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "download": {
-      "term": "تنزيلّ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "dropped": {
-      "term": "فاشلة",
+      "term": "double spend",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1360,7 +1081,7 @@
       "datefirstseen": ""
     },
     "ecosystem": {
-      "term": "النظام البيئي",
+      "term": "ecosystem",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1377,17 +1098,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "edit": {
-      "term": "تحرير",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eea": {
-      "term": "تحالف Ethereum للمؤسسات (EEA)",
+      "term": "EEA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1404,17 +1116,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "enable": {
-      "term": "تفعيل",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-keys": {
-      "term": "المفاتيح المشفرة مقابل غير المشفرة",
+    "encrypted-key": {
+      "term": "encrypted key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1423,7 +1126,7 @@
       "datefirstseen": ""
     },
     "encryption": {
-      "term": "التشفير",
+      "term": "encryption",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1432,7 +1135,7 @@
       "datefirstseen": ""
     },
     "ens": {
-      "term": "بروتوكول ENS",
+      "term": "ENS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1441,7 +1144,7 @@
       "datefirstseen": ""
     },
     "entropy": {
-      "term": "إنتروبيا",
+      "term": "entropy",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1450,7 +1153,7 @@
       "datefirstseen": ""
     },
     "epoch": {
-      "term": "حقبة",
+      "term": "epoch",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1494,15 +1197,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "error": {
-      "term": "خطأ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eth": {
       "term": "ETH",
       "phonetic": "",
@@ -1512,8 +1206,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ether-": {
-      "term": "إيثر (ETH)",
+    "ether": {
+      "term": "ether",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1234,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "مقترحات تحسين الإثيريوم (EIP)",
+      "term": "Ethereum Improvement Proposal",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1549,7 +1243,7 @@
       "datefirstseen": ""
     },
     "ethereum-mainnet": {
-      "term": "شبكة إيثريوم الرئيسية (Mainnet)",
+      "term": "Ethereum Mainnet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1558,7 +1252,7 @@
       "datefirstseen": ""
     },
     "ethereum-name-service": {
-      "term": "خدمة أسماء الإيثيريوم (ENS)",
+      "term": "Ethereum Name Service",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1567,7 +1261,7 @@
       "datefirstseen": ""
     },
     "ethereum-virtual-machine": {
-      "term": "محرك إيثريوم الافتراضي (EVM)",
+      "term": "Ethereum Virtual Machine",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1603,7 +1297,7 @@
       "datefirstseen": ""
     },
     "exchange": {
-      "term": "بورصة",
+      "term": "exchange",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1612,7 +1306,7 @@
       "datefirstseen": ""
     },
     "execution-client": {
-      "term": "عميل التنفيذ",
+      "term": "execution client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1621,43 +1315,7 @@
       "datefirstseen": ""
     },
     "execution-layer": {
-      "term": "طبقة التنفيذ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "experimental": {
-      "term": "تجريبي",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "export": {
-      "term": "تصدير",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "extension": {
-      "term": "امتداد",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "failed": {
-      "term": "فاشلة",
+      "term": "execution layer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1675,7 +1333,7 @@
       "datefirstseen": ""
     },
     "faucet": {
-      "term": "صنبور العملة الرقمية",
+      "term": "faucet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1693,7 +1351,7 @@
       "datefirstseen": ""
     },
     "fiat-currency": {
-      "term": "عملة ورقية",
+      "term": "fiat currency",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1360,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "نهائي، النهائية",
+      "term": "finality",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1711,7 +1369,7 @@
       "datefirstseen": ""
     },
     "finality-rate": {
-      "term": "معدل النهائية",
+      "term": "finality rate",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1720,7 +1378,7 @@
       "datefirstseen": ""
     },
     "financial-technology": {
-      "term": "التكنولوجيا المالية",
+      "term": "financial technology",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1729,7 +1387,7 @@
       "datefirstseen": ""
     },
     "finney": {
-      "term": "فيني",
+      "term": "finney",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1738,7 +1396,7 @@
       "datefirstseen": ""
     },
     "fintech": {
-      "term": "فنتك",
+      "term": "FinTech",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1756,7 +1414,7 @@
       "datefirstseen": ""
     },
     "firewall": {
-      "term": "جدار الحماية",
+      "term": "firewall",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1765,16 +1423,7 @@
       "datefirstseen": ""
     },
     "firmware": {
-      "term": "برنامج ثابت",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "flask": {
-      "term": "Flask",
+      "term": "firmware",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1783,7 +1432,7 @@
       "datefirstseen": ""
     },
     "fork": {
-      "term": "انقسام (فورك)",
+      "term": "fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1792,7 +1441,7 @@
       "datefirstseen": ""
     },
     "fractional-ownership": {
-      "term": "ملكية جزئية",
+      "term": "fractional ownership",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1801,7 +1450,7 @@
       "datefirstseen": ""
     },
     "fraud-proof": {
-      "term": "إثبات الاحتيال",
+      "term": "fraud proof",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1819,7 +1468,7 @@
       "datefirstseen": ""
     },
     "full-node": {
-      "term": "عُقدة كاملة",
+      "term": "full node",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1837,7 +1486,7 @@
       "datefirstseen": ""
     },
     "gas": {
-      "term": "رسوم المعاملات",
+      "term": "gas",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1846,7 +1495,7 @@
       "datefirstseen": ""
     },
     "gas-fee": {
-      "term": "رسوم معاملات الشبكة",
+      "term": "gas fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1855,7 +1504,7 @@
       "datefirstseen": ""
     },
     "gas-limit": {
-      "term": "حد رسوم معاملات الشبكة",
+      "term": "gas limit",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1864,7 +1513,7 @@
       "datefirstseen": ""
     },
     "gas-price": {
-      "term": "سعر رسوم المعاملات",
+      "term": "gas price",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1890,17 +1539,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "general": {
-      "term": "عام",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "genesis-block": {
-      "term": "كتلة التكوين",
+      "term": "genesis block",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1909,7 +1549,7 @@
       "datefirstseen": ""
     },
     "gigawei": {
-      "term": "جيجاوي (Gigawei)",
+      "term": "Gigawei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1945,7 +1585,7 @@
       "datefirstseen": ""
     },
     "governance": {
-      "term": "الحوكمة",
+      "term": "governance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1963,7 +1603,7 @@
       "datefirstseen": ""
     },
     "gwei": {
-      "term": "جوي (gwei)",
+      "term": "gwei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1972,7 +1612,7 @@
       "datefirstseen": ""
     },
     "halving": {
-      "term": "التنصيف (الهالفينج)",
+      "term": "halving",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1981,7 +1621,7 @@
       "datefirstseen": ""
     },
     "hard-fork": {
-      "term": "انقسام كُلي (هارد فورك)",
+      "term": "hard fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1990,7 +1630,7 @@
       "datefirstseen": ""
     },
     "hardware-wallet": {
-      "term": "محفظة الأجهزة",
+      "term": "hardware wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2008,7 +1648,7 @@
       "datefirstseen": ""
     },
     "hash": {
-      "term": "الهاش",
+      "term": "hash",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +1657,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "محفظة هرمية حتمية (HD)",
+      "term": "HD wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2026,16 +1666,7 @@
       "datefirstseen": ""
     },
     "hex-data": {
-      "term": "بيانات سداسية عشرية",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "hide": {
-      "term": "إخفاء ",
+      "term": "hex data",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2044,7 +1675,7 @@
       "datefirstseen": ""
     },
     "hot-storage": {
-      "term": "تخزين ساخن",
+      "term": "hot storage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2053,7 +1684,7 @@
       "datefirstseen": ""
     },
     "hot-wallet": {
-      "term": "محفظة ساخنة",
+      "term": "hot wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2062,7 +1693,7 @@
       "datefirstseen": ""
     },
     "hybrid-network": {
-      "term": "شبكة هجينة",
+      "term": "hybrid network",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2071,7 +1702,7 @@
       "datefirstseen": ""
     },
     "hyperledger": {
-      "term": "مشروع هايبرليدجر",
+      "term": "Hyperledger",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +1711,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "بروتوكول الاتصال بين شبكات البلوكتشين (IBC)",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2089,7 +1720,7 @@
       "datefirstseen": ""
     },
     "ico": {
-      "term": "عرض العملة الأولي (ICO)",
+      "term": "ICO",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2106,26 +1737,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "identicon": {
-      "term": "مُعرفّ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "immutability": {
-      "term": "عدم القابلية للتغير (الثبات)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "import": {
-      "term": "استيراد",
+      "term": "immutability",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2143,25 +1756,7 @@
       "datefirstseen": ""
     },
     "insider-trading": {
-      "term": "تداول المُطلعين",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "install": {
-      "term": "تثبيت",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "institutional": {
-      "term": "Institutional",
+      "term": "insider trading",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2170,7 +1765,7 @@
       "datefirstseen": ""
     },
     "internal-transaction": {
-      "term": "معاملة داخلية",
+      "term": "internal transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2179,7 +1774,7 @@
       "datefirstseen": ""
     },
     "interoperability": {
-      "term": "قابلية التشغيل البيني",
+      "term": "interoperability",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2188,16 +1783,7 @@
       "datefirstseen": ""
     },
     "interplanetary-file-system-(ipfs)": {
-      "term": "نظام الملفات إنتربلانتري (IPFS)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "invalid": {
-      "term": "غير صالح",
+      "term": "InterPlanetary File System (IPFS)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2206,7 +1792,7 @@
       "datefirstseen": ""
     },
     "ip-address": {
-      "term": "عنوان IP",
+      "term": "IP address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2232,17 +1818,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "jazzicons": {
-      "term": "Jazzicons",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "json-file": {
-      "term": "ملف JSON",
+      "term": "JSON file",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2251,7 +1828,7 @@
       "datefirstseen": ""
     },
     "json-rpc": {
-      "term": "بروتوكول JSON-RPC",
+      "term": "JSON-RPC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2260,7 +1837,7 @@
       "datefirstseen": ""
     },
     "keystore-file": {
-      "term": "ملف تخزين المفاتيح",
+      "term": "keystore file",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2269,7 +1846,7 @@
       "datefirstseen": ""
     },
     "know-your-customer": {
-      "term": "التحقق من هوية العميل",
+      "term": "Know Your Customer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2278,7 +1855,7 @@
       "datefirstseen": ""
     },
     "know-your-transaction": {
-      "term": "التحقق من المعاملات",
+      "term": "Know Your Transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2296,7 +1873,7 @@
       "datefirstseen": ""
     },
     "kyc": {
-      "term": "اعرف عميلك (KYC)",
+      "term": "KYC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2305,7 +1882,7 @@
       "datefirstseen": ""
     },
     "kyt": {
-      "term": "اعرف معاملتك (KYT)",
+      "term": "KYT",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2314,7 +1891,7 @@
       "datefirstseen": ""
     },
     "latency": {
-      "term": "زمن الاستجابة",
+      "term": "Latency",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2332,7 +1909,7 @@
       "datefirstseen": ""
     },
     "launchpad": {
-      "term": "منصة الإطلاق",
+      "term": "Launchpad",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2341,7 +1918,7 @@
       "datefirstseen": ""
     },
     "layer-0": {
-      "term": "الطبقة 0",
+      "term": "layer 0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2350,7 +1927,7 @@
       "datefirstseen": ""
     },
     "layer-1": {
-      "term": "الطبقة 1",
+      "term": "layer 1",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2359,7 +1936,7 @@
       "datefirstseen": ""
     },
     "layer-2": {
-      "term": "الطبقة 2",
+      "term": "layer 2",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2386,7 +1963,7 @@
       "datefirstseen": ""
     },
     "ledger-live-app": {
-      "term": "تطبيق Ledger Live",
+      "term": "Ledger Live App",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2395,7 +1972,7 @@
       "datefirstseen": ""
     },
     "library": {
-      "term": "المكتبة",
+      "term": "library",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2413,7 +1990,7 @@
       "datefirstseen": ""
     },
     "light-client": {
-      "term": "عقدة بسيطة",
+      "term": "light client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2439,17 +2016,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "link": {
-      "term": "رابط",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "liquid-democracy": {
-      "term": "الديمقراطية التفويضية",
+      "term": "liquid democracy",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2458,7 +2026,7 @@
       "datefirstseen": ""
     },
     "liquidation": {
-      "term": "تصفية",
+      "term": "liquidation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2467,7 +2035,7 @@
       "datefirstseen": ""
     },
     "liquidity": {
-      "term": "السيولة",
+      "term": "liquidity",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2476,7 +2044,7 @@
       "datefirstseen": ""
     },
     "liquidity-pool": {
-      "term": "تجمع السيولة",
+      "term": "liquidity pool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2485,25 +2053,7 @@
       "datefirstseen": ""
     },
     "liquidity-staking": {
-      "term": "ربط السيولة",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "lock": {
-      "term": "احتجاز",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "low": {
-      "term": "منخفضة",
+      "term": "liquidity staking",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2512,7 +2062,7 @@
       "datefirstseen": ""
     },
     "mainnet": {
-      "term": "شبكة رئيسية (Mainnet)",
+      "term": "Mainnet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2521,7 +2071,7 @@
       "datefirstseen": ""
     },
     "maker-protocol": {
-      "term": "بروتوكول Maker",
+      "term": "Maker Protocol",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2530,7 +2080,7 @@
       "datefirstseen": ""
     },
     "malware": {
-      "term": "برمجيات خبيثة",
+      "term": "malware",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2539,7 +2089,7 @@
       "datefirstseen": ""
     },
     "market-cap": {
-      "term": "القيمة السوقية",
+      "term": "market cap",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2557,7 +2107,7 @@
       "datefirstseen": ""
     },
     "maximum-priority-fee": {
-      "term": "رسوم الأولوية القصوى",
+      "term": "Maximum Priority Fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2116,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "تجمع المعاملات؛ mempool",
+      "term": "memory pool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2125,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "تجمع المعاملات (Mempool)",
+      "term": "mempool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2593,7 +2143,7 @@
       "datefirstseen": ""
     },
     "merge": {
-      "term": "دمج الإيثريوم (Merge)",
+      "term": "Merge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2602,7 +2152,7 @@
       "datefirstseen": ""
     },
     "merkle-patricia-trie": {
-      "term": "ميركل باتريشيا تري",
+      "term": "Merkle Patricia trie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2620,7 +2170,7 @@
       "datefirstseen": ""
     },
     "metadata": {
-      "term": "البيانات الوصفية",
+      "term": "metadata",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2630,42 +2180,6 @@
     },
     "metamask": {
       "term": "MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-activity": {
-      "term": "MetaMask Activity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-bridge": {
-      "term": "جسر MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-community-platform": {
-      "term": "منصة مجتمع MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-extension": {
-      "term": "امتداد MetaMask",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2700,33 +2214,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-sdk": {
-      "term": "MetaMask SDK",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-snaps": {
-      "term": "MetaMask Snaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-support": {
-      "term": "دعم MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-swaps": {
       "term": "MetaMask Swaps",
       "phonetic": "",
@@ -2736,17 +2223,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metametrics": {
-      "term": "MetaMetrics",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metaverse": {
-      "term": "ميتافرس",
+      "term": "metaverse",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2233,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "القيمة القصوى القابلة للاستخراج (MEV)",
+      "term": "MEV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2773,7 +2251,7 @@
       "datefirstseen": ""
     },
     "miner": {
-      "term": "المُعدِّن",
+      "term": "miner",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2782,7 +2260,7 @@
       "datefirstseen": ""
     },
     "miner-tip": {
-      "term": "إكرامية المُعدنّ",
+      "term": "miner tip",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2791,7 +2269,7 @@
       "datefirstseen": ""
     },
     "mining": {
-      "term": "التعدين",
+      "term": "mining",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2800,16 +2278,7 @@
       "datefirstseen": ""
     },
     "mint": {
-      "term": "سكّ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "mmi": {
-      "term": "MMI",
+      "term": "mint",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2818,7 +2287,7 @@
       "datefirstseen": ""
     },
     "mnemonic-phrase": {
-      "term": "عبارة التذكر",
+      "term": "mnemonic phrase",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2836,7 +2305,7 @@
       "datefirstseen": ""
     },
     "modular-blockchain": {
-      "term": "بلوكتشين قائم على نظام الوحدات",
+      "term": "modular blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2853,17 +2322,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "multi-factor-authentication": {
-      "term": "مصادقة متعددة العوامل",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "multi-sig": {
-      "term": "متعددة التوقيع",
+      "term": "multi-sig",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2872,7 +2332,7 @@
       "datefirstseen": ""
     },
     "multi-signature-wallet": {
-      "term": "محفظة متعددة التوقيع (multisig)",
+      "term": "multi-signature wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2881,7 +2341,7 @@
       "datefirstseen": ""
     },
     "nested-blockchain": {
-      "term": "بلوكتشين متداخل",
+      "term": "nested blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2890,7 +2350,7 @@
       "datefirstseen": ""
     },
     "network": {
-      "term": "شبكة",
+      "term": "network",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2898,8 +2358,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "network-pcongestion": {
-      "term": "ازدحام الشبكة",
+    "network-congestion": {
+      "term": "network congestion",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2368,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "خاصية الاتصال قريب المدى (NFC)",
+      "term": "NFC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2926,7 +2386,7 @@
       "datefirstseen": ""
     },
     "nft-aggregator": {
-      "term": "مُجمِعّ NFT",
+      "term": "NFT aggregator",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2935,7 +2395,7 @@
       "datefirstseen": ""
     },
     "nft-drop": {
-      "term": "توزيع NFT",
+      "term": "NFT drop",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2953,7 +2413,7 @@
       "datefirstseen": ""
     },
     "node": {
-      "term": "عقدة",
+      "term": "node",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2962,7 +2422,7 @@
       "datefirstseen": ""
     },
     "non-fungible-token": {
-      "term": "رمز غير قابل للاستبدال",
+      "term": "non-fungible token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2971,7 +2431,7 @@
       "datefirstseen": ""
     },
     "nonce": {
-      "term": "الرقم التعريفي",
+      "term": "nonce",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2980,7 +2440,7 @@
       "datefirstseen": ""
     },
     "off-chain": {
-      "term": "خارج البلوكتشين",
+      "term": "off-chain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2449,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "تحويل أصل رقمي إلى عملة عادية، عملة عادية إلى أصل رقمي",
+      "term": "off-ramp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2998,7 +2458,7 @@
       "datefirstseen": ""
     },
     "ommer-block": {
-      "term": "كتلة ommer",
+      "term": "ommer block",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3007,7 +2467,7 @@
       "datefirstseen": ""
     },
     "on-chain": {
-      "term": "على البلوكتشين",
+      "term": "on-chain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3016,7 +2476,7 @@
       "datefirstseen": ""
     },
     "on-ramp": {
-      "term": "شراء أصل رقمي بعملة عادية",
+      "term": "on-ramp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3061,16 +2521,7 @@
       "datefirstseen": ""
     },
     "optimistic-rollup": {
-      "term": "تجميعات Optimistic",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "optional": {
-      "term": "اختياري",
+      "term": "optimistic rollup",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3079,7 +2530,7 @@
       "datefirstseen": ""
     },
     "oracle": {
-      "term": "أوراكل",
+      "term": "Oracle",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +2539,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "نظير إلى نظير (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3115,7 +2566,7 @@
       "datefirstseen": ""
     },
     "parity": {
-      "term": "Parity",
+      "term": "parity",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3124,7 +2575,7 @@
       "datefirstseen": ""
     },
     "passphrase": {
-      "term": "عبارة المرور",
+      "term": "passphrase",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3133,7 +2584,7 @@
       "datefirstseen": ""
     },
     "password": {
-      "term": "كلمة المرور",
+      "term": "password",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3142,7 +2593,7 @@
       "datefirstseen": ""
     },
     "password-manager": {
-      "term": "مدير كلمات المرور",
+      "term": "password manager",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3160,16 +2611,7 @@
       "datefirstseen": ""
     },
     "peer-to-peer": {
-      "term": "نظير إلى نظير",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "pending": {
-      "term": "مُعلقة",
+      "term": "peer-to-peer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3178,7 +2620,7 @@
       "datefirstseen": ""
     },
     "permission": {
-      "term": "إذن",
+      "term": "Permission",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3187,7 +2629,7 @@
       "datefirstseen": ""
     },
     "permissioned-ledger": {
-      "term": "سجل بإذن",
+      "term": "permissioned ledger",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3196,7 +2638,7 @@
       "datefirstseen": ""
     },
     "phishing": {
-      "term": "التصيد الاحتيالي",
+      "term": "phishing",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +2665,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "خوارزمية إثبات السلطة (PoA)",
+      "term": "PoA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3241,7 +2683,7 @@
       "datefirstseen": ""
     },
     "portfolio": {
-      "term": "المحفظة ",
+      "term": "portfolio",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +2692,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "خوارزمية إثبات الحصة (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +2701,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "خوارزمية إثبات العمل (PoW)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3268,7 +2710,7 @@
       "datefirstseen": ""
     },
     "priority-fee": {
-      "term": "رسوم الأولوية",
+      "term": "Priority fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3277,7 +2719,7 @@
       "datefirstseen": ""
     },
     "private-blockchain": {
-      "term": "بلوكتشين خاص",
+      "term": "private blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3286,7 +2728,7 @@
       "datefirstseen": ""
     },
     "private-currency": {
-      "term": "عملة خاصة",
+      "term": "private currency",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3295,7 +2737,7 @@
       "datefirstseen": ""
     },
     "private-key": {
-      "term": "مفتاح خاص",
+      "term": "private key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3304,7 +2746,7 @@
       "datefirstseen": ""
     },
     "proof-of-stake": {
-      "term": "خوارزمية إثبات الحصة",
+      "term": "Proof of Stake",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3313,7 +2755,7 @@
       "datefirstseen": ""
     },
     "proof-of-work": {
-      "term": "خوارزمية إثبات العمل",
+      "term": "Proof of Work",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3322,7 +2764,7 @@
       "datefirstseen": ""
     },
     "protocol": {
-      "term": "بروتوكول",
+      "term": "protocol",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3331,7 +2773,7 @@
       "datefirstseen": ""
     },
     "public-address": {
-      "term": "عنوان عام",
+      "term": "public address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3340,7 +2782,7 @@
       "datefirstseen": ""
     },
     "public-blockchain": {
-      "term": "بلوكتشين عام",
+      "term": "public blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3349,7 +2791,7 @@
       "datefirstseen": ""
     },
     "public-key": {
-      "term": "مفتاح عام",
+      "term": "public key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3358,16 +2800,7 @@
       "datefirstseen": ""
     },
     "public-key-cryptography": {
-      "term": "تشفير المفتاح العام",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "public-key-infrastructure": {
-      "term": "بنية المفتاح العام",
+      "term": "public-key cryptography",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3376,7 +2809,7 @@
       "datefirstseen": ""
     },
     "qr-code": {
-      "term": "رمز الاستجابة السريعة",
+      "term": "QR code",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3402,26 +2835,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "receive": {
-      "term": "استلام",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reject": {
-      "term": "رفض",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "relayer": {
-      "term": "ناقل",
+      "term": "relayer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3430,61 +2845,7 @@
       "datefirstseen": ""
     },
     "remote-procedure-call": {
-      "term": "بروتوكول استدعاء الإجراء البعيد",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "remove": {
-      "term": "إزالة",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(noun)": {
-      "term": "طلب ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(verb)": {
-      "term": "اطلب ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reset": {
-      "term": "إعادة ضبط",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "restore": {
-      "term": "استعادة",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reveal": {
-      "term": "كشف",
+      "term": "Remote Procedure Call",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3502,7 +2863,7 @@
       "datefirstseen": ""
     },
     "roadmap": {
-      "term": "خارطة الطريق",
+      "term": "roadmap",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3520,7 +2881,7 @@
       "datefirstseen": ""
     },
     "rollups": {
-      "term": "تجميعات",
+      "term": "rollups",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3538,7 +2899,7 @@
       "datefirstseen": ""
     },
     "rpc": {
-      "term": "استدعاء الإجراء البعيد (RPC)",
+      "term": "RPC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3547,7 +2908,7 @@
       "datefirstseen": ""
     },
     "rug-pull": {
-      "term": "هروب المحتالين",
+      "term": "rug pull",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3574,7 +2935,7 @@
       "datefirstseen": ""
     },
     "sandbox": {
-      "term": "بيئة الاختبار",
+      "term": "sandbox",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3592,16 +2953,7 @@
       "datefirstseen": ""
     },
     "satoshi-nakamoto": {
-      "term": "ساتوشي ناكاموتو",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "save": {
-      "term": "حفظ",
+      "term": "Satoshi Nakamoto",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3610,7 +2962,7 @@
       "datefirstseen": ""
     },
     "scalability": {
-      "term": "قابلية التوسع",
+      "term": "scalability",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3619,7 +2971,7 @@
       "datefirstseen": ""
     },
     "scaling": {
-      "term": "التوسع",
+      "term": "scaling",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3628,16 +2980,7 @@
       "datefirstseen": ""
     },
     "scam": {
-      "term": "احتيال",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "scan": {
-      "term": "مسح ضوئي",
+      "term": "scam",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3646,7 +2989,7 @@
       "datefirstseen": ""
     },
     "scrypt": {
-      "term": "خوارزمية التعدين Scrypt",
+      "term": "Scrypt",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3663,17 +3006,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "search": {
-      "term": "بحث",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "search-engine": {
-      "term": "محرك البحث",
+      "term": "search engine",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3682,16 +3016,7 @@
       "datefirstseen": ""
     },
     "secret-recovery-phrase": {
-      "term": "عبارة الاسترداد السرية",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "security-&-privacy": {
-      "term": "الأمان والخصوصية",
+      "term": "Secret Recovery Phrase",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3700,7 +3025,7 @@
       "datefirstseen": ""
     },
     "security-token": {
-      "term": "توكِنّ ورقة مالية",
+      "term": "Security Token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3034,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "عرض توكِنّ الورقة المالية (STO)",
+      "term": "Security Token Offering",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3718,7 +3043,7 @@
       "datefirstseen": ""
     },
     "seed-phrase": {
-      "term": "العبارة الأولية",
+      "term": "seed phrase",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3727,7 +3052,7 @@
       "datefirstseen": ""
     },
     "self-custody": {
-      "term": "الحفظ الذاتي",
+      "term": "self-custody",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3736,7 +3061,7 @@
       "datefirstseen": ""
     },
     "self-executing": {
-      "term": "ذاتي التنفيذ",
+      "term": "self-executing",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3754,7 +3079,7 @@
       "datefirstseen": ""
     },
     "serenity": {
-      "term": "ترقية Serenity",
+      "term": "Serenity",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3763,16 +3088,7 @@
       "datefirstseen": ""
     },
     "serialization": {
-      "term": "عملية التسلسل",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "settings": {
-      "term": "إعدادات",
+      "term": "serialisation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3781,7 +3097,7 @@
       "datefirstseen": ""
     },
     "shard-chain": {
-      "term": "سلسلة مجزأة",
+      "term": "shard chain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3790,7 +3106,7 @@
       "datefirstseen": ""
     },
     "sharding": {
-      "term": "تجزئة الشبكة",
+      "term": "sharding",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3799,16 +3115,7 @@
       "datefirstseen": ""
     },
     "shielded-transaction": {
-      "term": "معاملة مُحصنة",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "show": {
-      "term": "إظهار",
+      "term": "shielded transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3817,25 +3124,7 @@
       "datefirstseen": ""
     },
     "sidechain": {
-      "term": "سلسلة جانبية",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign": {
-      "term": "توقيع",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign-in": {
-      "term": "تسجيل الدخول",
+      "term": "sidechain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,16 +3133,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "التوقيع (تشفير)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "skip": {
-      "term": "تخطي",
+      "term": "Signature",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3862,7 +3142,7 @@
       "datefirstseen": ""
     },
     "slashing-condition": {
-      "term": "شرط الشطب",
+      "term": "slashing condition",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3871,7 +3151,7 @@
       "datefirstseen": ""
     },
     "slippage": {
-      "term": "الانزلاق السعري",
+      "term": "slippage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3880,7 +3160,7 @@
       "datefirstseen": ""
     },
     "slot": {
-      "term": "فاصل زمني",
+      "term": "slot",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3889,34 +3169,7 @@
       "datefirstseen": ""
     },
     "smart-contract": {
-      "term": "عقد ذكي",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snap": {
-      "term": "Snap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snaps": {
-      "term": "Snaps (MetaMask Snaps)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snapshots-api": {
-      "term": "Snapshots API",
+      "term": "smart contract",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3925,7 +3178,7 @@
       "datefirstseen": ""
     },
     "soft-fork": {
-      "term": "انقسام بسيط (هارد فورك)",
+      "term": "soft fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3942,26 +3195,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "source": {
-      "term": "المصدر ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "speed-up": {
-      "term": "تسريع",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "stablecoin": {
-      "term": "عملة مستقرة",
+      "term": "stablecoin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3979,7 +3214,7 @@
       "datefirstseen": ""
     },
     "staking": {
-      "term": "الربط",
+      "term": "staking",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3988,7 +3223,7 @@
       "datefirstseen": ""
     },
     "state": {
-      "term": "حالة",
+      "term": "state",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3997,25 +3232,7 @@
       "datefirstseen": ""
     },
     "state-channels": {
-      "term": "قنوات الحالة",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "state-logs": {
-      "term": "سجلات الحالة",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "status": {
-      "term": "حالة",
+      "term": "state channels",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4033,34 +3250,7 @@
       "datefirstseen": ""
     },
     "streaming": {
-      "term": "تدفق",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "submit": {
-      "term": "تقديم",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support": {
-      "term": "الدعم",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support-center": {
-      "term": "مركز الدعم",
+      "term": "streaming",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4069,25 +3259,7 @@
       "datefirstseen": ""
     },
     "swap": {
-      "term": "تبديل",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "switch": {
-      "term": "تبديل",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "symbol": {
-      "term": "رمز",
+      "term": "swap",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4096,7 +3268,7 @@
       "datefirstseen": ""
     },
     "szabo": {
-      "term": "سزابو (szabo)",
+      "term": "szabo",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4123,7 +3295,7 @@
       "datefirstseen": ""
     },
     "testnet": {
-      "term": "شبكة الاختبار",
+      "term": "testnet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4132,7 +3304,7 @@
       "datefirstseen": ""
     },
     "testnet-kovan": {
-      "term": "شبكة اختبار Kovan",
+      "term": "Testnet Kovan",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4141,7 +3313,7 @@
       "datefirstseen": ""
     },
     "testnet-rinkeby": {
-      "term": "شبكة اختبار Rinkeby",
+      "term": "Testnet Rinkeby",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4150,25 +3322,7 @@
       "datefirstseen": ""
     },
     "testnet-ropsten": {
-      "term": "شبكة اختبار Ropsten",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "theme": {
-      "term": "المظهر",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tips": {
-      "term": "نصائح",
+      "term": "Testnet Ropsten",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4177,16 +3331,7 @@
       "datefirstseen": ""
     },
     "token": {
-      "term": "توكِنّ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "token-id": {
-      "term": "مُعرفّ التوكِنّ",
+      "term": "token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4195,7 +3340,7 @@
       "datefirstseen": ""
     },
     "token-lockup": {
-      "term": "احتجاز التوكِنّ",
+      "term": "token lockup",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4204,7 +3349,7 @@
       "datefirstseen": ""
     },
     "token-standard": {
-      "term": "معيار التوكِنّ",
+      "term": "token standard",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4213,7 +3358,7 @@
       "datefirstseen": ""
     },
     "transaction": {
-      "term": "المعاملة",
+      "term": "transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4222,7 +3367,7 @@
       "datefirstseen": ""
     },
     "transaction-block": {
-      "term": "كتلة المعاملة",
+      "term": "transaction block",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4231,16 +3376,7 @@
       "datefirstseen": ""
     },
     "transaction-fee": {
-      "term": "رسوم المعاملة",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transaction-history-api": {
-      "term": "Transaction History API",
+      "term": "transaction fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4249,7 +3385,7 @@
       "datefirstseen": ""
     },
     "transaction-id": {
-      "term": "مُعرفّ المعاملة",
+      "term": "transaction ID",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4258,7 +3394,7 @@
       "datefirstseen": ""
     },
     "transaction-pool": {
-      "term": "تجمع المعاملات",
+      "term": "transaction pool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4268,15 +3404,6 @@
     },
     "transak": {
       "term": "Transak",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transfer": {
-      "term": "تحويل",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4303,7 +3430,7 @@
       "datefirstseen": ""
     },
     "trustless": {
-      "term": "لا يتطلب ثقة",
+      "term": "trustless",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4312,16 +3439,7 @@
       "datefirstseen": ""
     },
     "turing-complete": {
-      "term": "تورنج كاملة",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tutorial": {
-      "term": "درس تعليمي",
+      "term": "Turing-complete",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +3448,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "إجمالي القيمة المحتجزة (TVL)",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4339,7 +3457,7 @@
       "datefirstseen": ""
     },
     "txid": {
-      "term": "مُعرفّ المعاملة (TXID)",
+      "term": "TXID",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4348,7 +3466,7 @@
       "datefirstseen": ""
     },
     "u2f": {
-      "term": "المعامل الثاني الشامل (U2F)",
+      "term": "U2F",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4374,26 +3492,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "unknown": {
-      "term": "مجهول",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "unlock": {
-      "term": "إلغاء القفل",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "unspent-transaction-output": {
-      "term": "ناتج المعاملات غير المُنفقة",
+      "term": "unspent transaction output",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4410,17 +3510,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "update": {
-      "term": "تحديث ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "upgrade": {
-      "term": "ترقية",
+      "term": "upgrade",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4456,7 +3547,7 @@
       "datefirstseen": ""
     },
     "validator": {
-      "term": "المُدققّ",
+      "term": "validator",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4465,7 +3556,7 @@
       "datefirstseen": ""
     },
     "validity-proof": {
-      "term": "إثبات الصلاحية",
+      "term": "validity proof",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4482,17 +3573,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "vault-decryptor": {
-      "term": "Vault Decryptor",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "vesting": {
-      "term": "استحقاق",
+      "term": "vesting",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4510,7 +3592,7 @@
       "datefirstseen": ""
     },
     "wallet": {
-      "term": "محفظة",
+      "term": "wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4537,7 +3619,7 @@
       "datefirstseen": ""
     },
     "web-3.0": {
-      "term": "الويب 3.0",
+      "term": "Web 3.0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +3628,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "ويب 3، ويب 3.0",
+      "term": "web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4555,7 +3637,7 @@
       "datefirstseen": ""
     },
     "webhid": {
-      "term": "واجهة برمجة تطبيقات WebHID",
+      "term": "WebHID",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4573,7 +3655,7 @@
       "datefirstseen": ""
     },
     "websocket": {
-      "term": "بروتوكول WebSocket",
+      "term": "WebSocket",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +3664,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "وي (Wei)",
+      "term": "wei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4591,7 +3673,7 @@
       "datefirstseen": ""
     },
     "whitepaper": {
-      "term": "الورقة التعريفية",
+      "term": "whitepaper",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4600,7 +3682,7 @@
       "datefirstseen": ""
     },
     "wrapping": {
-      "term": "تغليف التوكِنّ",
+      "term": "wrapping",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +3700,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "المفتاح الخاص الموسعّ (XPRIV)",
+      "term": "XPRIV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +3709,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "المفتاح العام الموسعّ (XPUB)",
+      "term": "XPUB",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4636,7 +3718,7 @@
       "datefirstseen": ""
     },
     "yield-farming": {
-      "term": "تحصيل العائد",
+      "term": "yield farming",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4645,7 +3727,7 @@
       "datefirstseen": ""
     },
     "yield-bearing-tokens": {
-      "term": "التوكنات حاملة العائد",
+      "term": "yield-bearing tokens",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4654,7 +3736,7 @@
       "datefirstseen": ""
     },
     "zero-address": {
-      "term": "العنوان صفر",
+      "term": "zero address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4663,7 +3745,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-proof": {
-      "term": "إثبات المعرفة الصفرية",
+      "term": "zero-knowledge proof",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4672,7 +3754,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-rollup": {
-      "term": "تجميع المعرفة الصفرية",
+      "term": "zero-knowledge rollup",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +3764,15 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "0xplain": {
+      "term": "0xplain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

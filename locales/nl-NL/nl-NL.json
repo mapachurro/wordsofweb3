@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "verificatie in twee stappen (2FA)",
+      "term": "verificatie in twee stappen",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,7 +91,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "adres/\"openbaar adres\" (wallet-adres)",
+      "term": "adres",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "witwasbestrijding (AML, anti-money laundering)",
+      "term": "witwasbestrijding",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +217,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +253,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC (application-specific integrated circuit)",
+      "term": "ASIC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -397,7 +397,7 @@
       "datefirstseen": ""
     },
     "bitcoin": {
-      "term": "bitcoin",
+      "term": "Bitcoin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "bounty/bug bounty",
+      "term": "bounty/",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,7 +739,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "koude wallet/koude opslag/cold storage",
+      "term": "koude wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +757,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "Compiling",
+      "term": "compileren",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1090,7 +1090,7 @@
       "datefirstseen": ""
     },
     "decentralized-autonomous-organization": {
-      "term": "decentrale autonome organisatie",
+      "term": "Decentrale autonome organisatie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1108,7 +1108,7 @@
       "datefirstseen": ""
     },
     "decentralized-finance": {
-      "term": "decentralized finance/DeFi",
+      "term": "decentralized finance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1162,7 +1162,7 @@
       "datefirstseen": ""
     },
     "delegated-proof-of-stake-(dpos)": {
-      "term": "DPoS",
+      "term": "DPoS (delegated proof-of-stake)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +1180,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "ether (denominaties)",
+      "term": "denominaties",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +1198,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "afleiden/afleiding",
+      "term": "afleiden",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,7 +1225,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "Ontwikkelaar",
+      "term": "ontwikkelaar",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1315,7 +1315,7 @@
       "datefirstseen": ""
     },
     "distributed-ledger-technology": {
-      "term": "distributed ledger technology",
+      "term": "Distributed Ledger Technology",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1387,7 +1387,7 @@
       "datefirstseen": ""
     },
     "eea": {
-      "term": "Enterprise Ethereum Alliance (EEA)",
+      "term": "EEA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "EIP (Ethereum Improvement Proposal)",
+      "term": "Ethereum Improvement Proposal",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "fouttolerant",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1702,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "onwijzigbaar, finaliteit",
+      "term": "finaliteit",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1738,7 +1738,7 @@
       "datefirstseen": ""
     },
     "fintech": {
-      "term": "fintech",
+      "term": "Fintech",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1909,7 +1909,7 @@
       "datefirstseen": ""
     },
     "gigawei": {
-      "term": "gigawei",
+      "term": "Gigawei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2269,7 +2269,7 @@
       "datefirstseen": ""
     },
     "know-your-customer": {
-      "term": "KYC (know your customer)",
+      "term": "Know Your Customer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2278,7 +2278,7 @@
       "datefirstseen": ""
     },
     "know-your-transaction": {
-      "term": "KYT (know your transaction)",
+      "term": "Know Your Transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2314,7 +2314,7 @@
       "datefirstseen": ""
     },
     "latency": {
-      "term": "latentie",
+      "term": "Latentie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2341,7 +2341,7 @@
       "datefirstseen": ""
     },
     "layer-0": {
-      "term": "Laag 0",
+      "term": "laag 0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2350,7 +2350,7 @@
       "datefirstseen": ""
     },
     "layer-1": {
-      "term": "Laag 1",
+      "term": "laag 1",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2359,7 +2359,7 @@
       "datefirstseen": ""
     },
     "layer-2": {
-      "term": "Laag 2",
+      "term": "laag 2",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2449,7 +2449,7 @@
       "datefirstseen": ""
     },
     "liquid-democracy": {
-      "term": "liquid democracy (gedelegeerde democratie)",
+      "term": "liquid democracy",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2557,7 +2557,7 @@
       "datefirstseen": ""
     },
     "maximum-priority-fee": {
-      "term": "maximale priority fee",
+      "term": "Maximale priority fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "memory pool; mempool",
+      "term": "memory pool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2593,7 +2593,7 @@
       "datefirstseen": ""
     },
     "merge": {
-      "term": "merge",
+      "term": "Merge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2611,7 +2611,7 @@
       "datefirstseen": ""
     },
     "mesh": {
-      "term": "mesh",
+      "term": "Mesh",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2989,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "on-ramp, off-ramp",
+      "term": "off-ramp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3079,7 +3079,7 @@
       "datefirstseen": ""
     },
     "oracle": {
-      "term": "oracle",
+      "term": "Oracle",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "peer-to-peer (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3178,7 +3178,7 @@
       "datefirstseen": ""
     },
     "permission": {
-      "term": "toestemming",
+      "term": "Toestemming",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +3223,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "proof of authority (PoA)",
+      "term": "PoA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3241,7 +3241,7 @@
       "datefirstseen": ""
     },
     "portfolio": {
-      "term": "Portfolio",
+      "term": "portfolio",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "proof of stake (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "proof of work (PoW)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3268,7 +3268,7 @@
       "datefirstseen": ""
     },
     "priority-fee": {
-      "term": "priority fee",
+      "term": "Priority fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3304,7 +3304,7 @@
       "datefirstseen": ""
     },
     "proof-of-stake": {
-      "term": "proof of stake (PoS)",
+      "term": "Proof of Stake",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3313,7 +3313,7 @@
       "datefirstseen": ""
     },
     "proof-of-work": {
-      "term": "proof of work (PoW)",
+      "term": "Proof of Work",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3430,7 +3430,7 @@
       "datefirstseen": ""
     },
     "remote-procedure-call": {
-      "term": "RPC (remote procedure call)",
+      "term": "Remote Procedure Call",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3682,7 +3682,7 @@
       "datefirstseen": ""
     },
     "secret-recovery-phrase": {
-      "term": "geheime herstelzin",
+      "term": "Geheime herstelzin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3700,7 +3700,7 @@
       "datefirstseen": ""
     },
     "security-token": {
-      "term": "beveiligingstoken",
+      "term": "Beveiligingstoken",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "STO (security token offering)",
+      "term": "Security Token Offering",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "handtekening",
+      "term": "Handtekening",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3970,7 +3970,7 @@
       "datefirstseen": ""
     },
     "stake": {
-      "term": "stake",
+      "term": "staken",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4132,7 +4132,7 @@
       "datefirstseen": ""
     },
     "testnet-kovan": {
-      "term": "testnet Kovan",
+      "term": "Testnet Kovan",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4141,7 +4141,7 @@
       "datefirstseen": ""
     },
     "testnet-rinkeby": {
-      "term": "testnet Rinkeby",
+      "term": "Testnet Rinkeby",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4150,7 +4150,7 @@
       "datefirstseen": ""
     },
     "testnet-ropsten": {
-      "term": "testnet Ropsten",
+      "term": "Testnet Ropsten",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4312,7 +4312,7 @@
       "datefirstseen": ""
     },
     "turing-complete": {
-      "term": "turingvolledig",
+      "term": "Turingvolledig",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +4330,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "TVL (total value locked)",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "sleutel zonder encryptie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "unstaken",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "walletadres",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "web3, Web 3.0",
+      "term": "web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "zk-SNARK's",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "DDoS",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "sleutel met encryptie",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "ether",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "netwerkcongestie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

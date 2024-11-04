@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "การพิสูจน์ตัวจริงสองปัจจัย (2FA)",
+      "term": "การพิสูจน์ตัวจริงสองปัจจัย",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "AML (การต่อต้านการฟอกเงิน)",
+      "term": "การต่อต้านการฟอกเงิน",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +217,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +253,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC (วงจรรวมเฉพาะแอปพลิเคชัน)",
+      "term": "วงจรรวมเฉพาะแอปพลิเคชัน",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "รางวัล / รางวัลรายงานช่องโหว่",
+      "term": "รางวัล",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -550,7 +550,7 @@
       "datefirstseen": ""
     },
     "bridge": {
-      "term": "Bridge",
+      "term": "bridge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,7 +739,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "วอลเล็ตเงินเย็น / ที่เก็บเงินระยะยาว",
+      "term": "วอลเล็ตเงินเย็น",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1054,7 +1054,7 @@
       "datefirstseen": ""
     },
     "dapp": {
-      "term": "ดีแอป",
+      "term": "dapp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +1198,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "ได้มาจาก / อนุพัทธ์",
+      "term": "ได้มาจาก",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1387,7 +1387,7 @@
       "datefirstseen": ""
     },
     "eea": {
-      "term": "กลุ่มพันธมิตร Enterprise Ethereum Alliance (EEA)",
+      "term": "EEA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "ข้อเสนอการปรับปรุง Ethereum (EIP)",
+      "term": "ข้อเสนอการปรับปรุง Ethereum",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "ทนต่อความผิดพร่อง",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +2017,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "วอลเล็ตมีลำดับชั้น (HD)",
+      "term": "วอลเล็ต HD",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +2080,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "โพรโตคอลการสื่อสารระหว่างบล็อกเชน (IBC)",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2449,7 +2449,7 @@
       "datefirstseen": ""
     },
     "liquid-democracy": {
-      "term": "ประชาธิปไตยแบบลื่นไหล (ประชาธิปไตยแบบมอบอำนาจ)",
+      "term": "ประชาธิปไตยแบบลื่นไหล",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "พูลเมมโมรี่, เมมพูล",
+      "term": "พูลเมมโมรี่",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2755,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "มูลค่าที่สกัดได้สูงสุด (MEV)",
+      "term": "มูลค่าที่สกัดได้สูงสุด",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2872,7 +2872,7 @@
       "datefirstseen": ""
     },
     "multi-signature-wallet": {
-      "term": "วอลเล็ตหลายลายเซ็น (multisig)",
+      "term": "วอลเล็ตหลายลายเซ็น",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2908,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "การสื่อสารไร้สายระยะใกล้ (NFC)",
+      "term": "การสื่อสารไร้สายระยะใกล้",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2962,7 +2962,7 @@
       "datefirstseen": ""
     },
     "non-fungible-token": {
-      "term": "โทเค็นที่ไม่สามารถทดแทนได้ ",
+      "term": "โทเค็นที่ไม่สามารถทดแทนได้",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2989,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "แลกเข้า, แลกออก",
+      "term": "แลกออก",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "เพียร์ทูเพียร์ (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +3223,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "การพิสูจน์ด้วยอำนาจ (PoA)",
+      "term": "PoA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "การพิสูจน์แบบมีส่วนได้ส่วนเสีย (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "การพิสูจน์ด้วยการทำงาน (PoW)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "การเสนอขายโทเค็นหลักทรัพย์ (STO)",
+      "term": "การเสนอขายโทเค็นหลักทรัพย์",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "ลายเซ็น (วิทยาการรหัสลับ)",
+      "term": "ลายเซ็น",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3970,7 +3970,7 @@
       "datefirstseen": ""
     },
     "stake": {
-      "term": "stake",
+      "term": "เดิมพัน",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +4330,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "มูลค่ารวมในระบบ (TVL)",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "คีย์ไม่เข้ารหัส",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "เลิกฝาก",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "ที่อยู่วอลเล็ต",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "เว็บ 3, เว็บ 3.0",
+      "term": "เว็บ 3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4564,7 +4564,7 @@
       "datefirstseen": ""
     },
     "webhook": {
-      "term": "webhook",
+      "term": "เว็บฮุก",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +4618,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "คีย์ส่วนตัวแบบขยาย (XPRIV)",
+      "term": "XPRIV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +4627,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "คีย์สาธารณะแบบขยาย (XPUB)",
+      "term": "XPUB",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "DDoS",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "คีย์เข้ารหัส",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "อีเทอร์",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "ความแออัดของเครือข่าย",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
