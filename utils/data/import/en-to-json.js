@@ -1,3 +1,7 @@
+// This script should ingest a new version of english-terms.csv, and produce a .json file from it 
+// which contains the current canonical list of English terms (must align with the list of terms in 
+// all-terms.csv), along with their e.g. pronunciation, type of term, definition, etc.
+
 import fs from 'fs';
 import path from 'path';
 import csvParser from 'csv-parser';
@@ -8,7 +12,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Paths to input and output files
-const inputFilePath = path.join(__dirname, 'en-glossary-149.csv');
+const inputFilePath = path.join(__dirname, 'english-terms.csv');
 const outputDir = path.join(__dirname, 'output_json');
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true }); // Ensure directory is created with appropriate options

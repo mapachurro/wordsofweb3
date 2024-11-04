@@ -9,7 +9,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const translationsCSV = path.join(__dirname, 'ext-sync-terms.csv'); // Translation CSV
+const translationsCSV = path.join(__dirname, 'all-terms.csv'); // Translation CSV
 const outputDir = path.join(__dirname, 'locales'); // The directory where JSON files will be saved
 
 // Function to ensure a directory exists
