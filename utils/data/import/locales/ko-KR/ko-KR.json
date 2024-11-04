@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "이중 인증(two-factor authentication, 2FA)",
+      "term": "2단계 인증",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,7 +91,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "주소/\"공개 주소\"(지갑 주소)",
+      "term": "주소",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "AML(자금세탁방지)",
+      "term": "AML",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +253,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC(주문형 반도체)",
+      "term": "ASIC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -406,7 +406,7 @@
       "datefirstseen": ""
     },
     "block": {
-      "term": "블록(명사)",
+      "term": "블록",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "바운티 / 버그바운티",
+      "term": "바운티",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -685,7 +685,7 @@
       "datefirstseen": ""
     },
     "client": {
-      "term": "클라이언트(Ethereum 또는 기타 호환 가능한 블록체인)",
+      "term": "클라이언트",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,7 +739,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "콜드 월렛 / 콜드 스토리지",
+      "term": "콜드 월렛",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -802,7 +802,7 @@
       "datefirstseen": ""
     },
     "consensus-client": {
-      "term": "컨센서스 클라이언트",
+      "term": "합의 클라이언트",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1009,7 +1009,7 @@
       "datefirstseen": ""
     },
     "custody": {
-      "term": "커스터디(명사)",
+      "term": "커스터디",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +1180,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "에테르(단위)",
+      "term": "단위",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +1198,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "파생 / 파생",
+      "term": "파생",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1387,7 +1387,7 @@
       "datefirstseen": ""
     },
     "eea": {
-      "term": "엔터프라이즈 Ethereum 얼라이언스(EEA)",
+      "term": "EEA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "이더리움 개선 제안(EIP)",
+      "term": "이더리움 개선 제안",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "장애 허용",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1702,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "최종, 완결성",
+      "term": "완결성",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2008,7 +2008,7 @@
       "datefirstseen": ""
     },
     "hash": {
-      "term": "해시(명사)",
+      "term": "해시",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +2017,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "계층 결정적(HD) 지갑",
+      "term": "HD 지갑",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +2080,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "블록체인 간 통신(IBC) 프로토콜",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2449,7 +2449,7 @@
       "datefirstseen": ""
     },
     "liquid-democracy": {
-      "term": "유동성 민주주의(위임 민주주의)",
+      "term": "유동성 민주주의",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "메모리 풀; 멤풀",
+      "term": "메모리 풀",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2593,7 +2593,7 @@
       "datefirstseen": ""
     },
     "merge": {
-      "term": "병합(명사)",
+      "term": "병합",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2755,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "최대추출가능가치(MEV)",
+      "term": "MEV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2872,7 +2872,7 @@
       "datefirstseen": ""
     },
     "multi-signature-wallet": {
-      "term": "다중서명지갑(multisig)",
+      "term": "다중서명지갑",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2908,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "근거리 무선 통신(NFC)",
+      "term": "근거리 무선 통신",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2989,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "온램프, 오프램프",
+      "term": "오프램프",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "피어 투 피어(P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3196,7 +3196,7 @@
       "datefirstseen": ""
     },
     "phishing": {
-      "term": "피싱(명사)",
+      "term": "피싱",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +3223,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "권한증명(PoA)",
+      "term": "PoA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3241,7 +3241,7 @@
       "datefirstseen": ""
     },
     "portfolio": {
-      "term": "Portfolio",
+      "term": "포트폴리오",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "지분 증명(PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "작업증명(PoW)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "증권형 토큰 공개(STO)",
+      "term": "증권형 토큰 공개",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3790,7 +3790,7 @@
       "datefirstseen": ""
     },
     "sharding": {
-      "term": "샤딩(명사)",
+      "term": "샤딩",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "서명(암호화)",
+      "term": "서명",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3970,7 +3970,7 @@
       "datefirstseen": ""
     },
     "stake": {
-      "term": "stake",
+      "term": "스테이크",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3979,7 +3979,7 @@
       "datefirstseen": ""
     },
     "staking": {
-      "term": "스테이킹(명사)",
+      "term": "스테이킹",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +4330,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "락업자산가치",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "암호화되지 않은 키",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "언스테이크",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "지갑 주소",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "웹3, 웹 3.0",
+      "term": "웹3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4564,7 +4564,7 @@
       "datefirstseen": ""
     },
     "webhook": {
-      "term": "webhook",
+      "term": "웹훅",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +4618,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "확장 개인 키(XPRIV)",
+      "term": "XPRIV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +4627,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "확장된 공개키(XPUB)",
+      "term": "XPUB",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "영지식 스나크",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "디도스",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "암호화된 키",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "에테르",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "네트워크 정체",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

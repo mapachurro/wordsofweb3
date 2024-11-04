@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "تایید هویت دو عاملی (2FA)",
+      "term": "2FA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -46,7 +46,7 @@
       "datefirstseen": ""
     },
     "51%-attack": {
-      "term": "حمله 51 درصدی",
+      "term": "حمله ۵۱٪",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,7 +91,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "آدرس /«آدرس عمومی»",
+      "term": "آدرس",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "AML (مبارزه با پولشویی)",
+      "term": "AML",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +217,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +253,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ای‌سیک(مدارهای مجتمع با کاربرد خاص)",
+      "term": "ای‌سیک",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "پاداش پیدا کردن اشکال",
+      "term": "پاداش پیدا کردن",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -685,7 +685,7 @@
       "datefirstseen": ""
     },
     "client": {
-      "term": "کلاینت (اتریوم یا سایر بلاک‌چین‌های سازگار)",
+      "term": "کلاینت",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,7 +739,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "کیف پول سرد/رذخیره‌سازی سرد",
+      "term": "کیف پول سرد",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1162,7 +1162,7 @@
       "datefirstseen": ""
     },
     "delegated-proof-of-stake-(dpos)": {
-      "term": "DPoS",
+      "term": "الگوریتم گواه اثبات سهام نیابتی(DPoS)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +1180,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "اتر (نام‌گذاری‌ها)",
+      "term": "اتر",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +1198,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "مشتق شدن/اشتقاق",
+      "term": "مشتق شدن",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1387,7 +1387,7 @@
       "datefirstseen": ""
     },
     "eea": {
-      "term": "‏اتحاد سازمانی اتریوم (EEA)",
+      "term": "EEA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "پروتکل‌های بهبود اتریوم (EIP)",
+      "term": "پیشنهاد بهبود اتریوم",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "تحمل خطا",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1702,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "قطعی، قطعیت",
+      "term": "قطعیت",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +2017,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "کیف پول قطعی سلسله مراتبی  (HD)",
+      "term": "کیف پول HD",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +2080,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "پروتکل ارتباط بین بلاکچینی (IBC)",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "استخر حافظه؛ ممپول",
+      "term": "استخر حافظه",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2575,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "استخر حافظه",
+      "term": "ممپول",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2755,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "حداکثر ارزش قابل استخراج (MEV)",
+      "term": "MEV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2872,7 +2872,7 @@
       "datefirstseen": ""
     },
     "multi-signature-wallet": {
-      "term": "کیف پول چند امضایی (multisig)",
+      "term": "کیف پول چند امضایی",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2908,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "ارتباطات در محدوده نزدیک (NFC)",
+      "term": "NFC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2989,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "مسیر ورود، مسیر خروج",
+      "term": "مسیر خروجی",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "همتا به همتا (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +3223,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "اثبات اعتبار (PoA)",
+      "term": "PoA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "اثبات سهام (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "اثبات کار (PoW)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3700,7 +3700,7 @@
       "datefirstseen": ""
     },
     "security-token": {
-      "term": "توکن اوراق بهادار ",
+      "term": "توکن اوراق بهادار",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "عرضه توکن اوراق بهادار (STO)",
+      "term": "عرضه توکن اوراق بهادار",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "امضا (رمزنگاری)",
+      "term": "امضا",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3970,7 +3970,7 @@
       "datefirstseen": ""
     },
     "stake": {
-      "term": "stake",
+      "term": "سپرده‌گذاری",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +4330,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "ارزش کل سرمایه قفل شده  (TVL)",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "کلید رمزگذاری نشده",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "خروج از استیک",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "آدرس کیف پول",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "وب 3، وب 3.0",
+      "term": "وب 3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4564,7 +4564,7 @@
       "datefirstseen": ""
     },
     "webhook": {
-      "term": "webhook",
+      "term": "وب‌هوک",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +4618,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "کلیدخصوصی توسعه یافته (XPRIV)",
+      "term": "XPRIV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +4627,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "کلیدعمومی توسعه یافته (XPUB)",
+      "term": "XPUB",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "گواه‌های اثبات دانش صفر غیرتعاملی",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "دیداس",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "کلید رمزگذاری شده",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "اتر",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "ازدحام شبکه",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

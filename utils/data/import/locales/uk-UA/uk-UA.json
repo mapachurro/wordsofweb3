@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "Двофакторна аутентифікація (2FA)",
+      "term": "Двофакторна аутентифікація",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -46,7 +46,7 @@
       "datefirstseen": ""
     },
     "51%-attack": {
-      "term": "Атака 51%",
+      "term": "aтака 51%",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -73,7 +73,7 @@
       "datefirstseen": ""
     },
     "account": {
-      "term": "Обліковий запис",
+      "term": "oбліковий запис",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,7 +91,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "адреса/«публічна адреса» (адреса гаманця)",
+      "term": "адреса",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -136,7 +136,7 @@
       "datefirstseen": ""
     },
     "air-gapping": {
-      "term": "«повітряний зазор»",
+      "term": "повітряний зазор",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "AML (Боротьба з відмиванням грошей)",
+      "term": "Боротьба з відмиванням грошей",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +217,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +253,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC (спеціалізована інтегральна схема)",
+      "term": "спеціалізована інтегральна схема",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -469,7 +469,7 @@
       "datefirstseen": ""
     },
     "blockchain-explorer": {
-      "term": "Блокчейн-оглядач",
+      "term": "блокчейн-оглядач",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "винагорода за помилку/винагорода за виявлення вразливостей",
+      "term": "винагорода",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -550,7 +550,7 @@
       "datefirstseen": ""
     },
     "bridge": {
-      "term": "Міст",
+      "term": "міст",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -640,7 +640,7 @@
       "datefirstseen": ""
     },
     "centralized-exchange": {
-      "term": "Централізована біржа",
+      "term": "централізована біржа",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -685,7 +685,7 @@
       "datefirstseen": ""
     },
     "client": {
-      "term": "клієнт (Ethereum або інший сумісний блокчейн)",
+      "term": "клієнт",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,7 +739,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "холодний гаманець/холодне сховище",
+      "term": "холодний гаманець",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +757,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "Компіляція",
+      "term": "компіляція",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -802,7 +802,7 @@
       "datefirstseen": ""
     },
     "consensus-client": {
-      "term": "Консенсус-клієнт",
+      "term": "консенсус-клієнт",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -811,7 +811,7 @@
       "datefirstseen": ""
     },
     "consensus-layer": {
-      "term": "Рівень консенсусу",
+      "term": "рівень консенсусу",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -820,7 +820,7 @@
       "datefirstseen": ""
     },
     "consensus-mechanism": {
-      "term": "Механізм консенсусу",
+      "term": "механізм консенсусу",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -865,7 +865,7 @@
       "datefirstseen": ""
     },
     "contract-account": {
-      "term": "Контрактний обліковий запис",
+      "term": "контрактний обліковий запис",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1054,7 +1054,7 @@
       "datefirstseen": ""
     },
     "dapp": {
-      "term": "децентралізований додаток",
+      "term": "dapp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +1180,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "ефір (номінали)",
+      "term": "номінали",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +1198,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "Вивести/деривація",
+      "term": "вивести",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,7 +1225,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "Розробник",
+      "term": "розробник",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1288,7 +1288,7 @@
       "datefirstseen": ""
     },
     "digital-signature": {
-      "term": "Цифровий підпис",
+      "term": "цифровий підпис",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1387,7 +1387,7 @@
       "datefirstseen": ""
     },
     "eea": {
-      "term": "Альянс корпоративного ефіру (EEA)",
+      "term": "Альянс корпоративного ефіру",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "Пропозиція щодо вдосконалення Ethereum (EIP)",
+      "term": "Пропозиція щодо вдосконалення Ethereum",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "помилковостійкий",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1702,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "остаточна, остаточність",
+      "term": "остаточність",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1711,7 +1711,7 @@
       "datefirstseen": ""
     },
     "finality-rate": {
-      "term": "Коефіцієнт остаточності",
+      "term": "коефіцієнт остаточності",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1756,7 +1756,7 @@
       "datefirstseen": ""
     },
     "firewall": {
-      "term": "Брандмауер",
+      "term": "брандмауер",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1765,7 +1765,7 @@
       "datefirstseen": ""
     },
     "firmware": {
-      "term": "Прошивка",
+      "term": "прошивка",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1792,7 +1792,7 @@
       "datefirstseen": ""
     },
     "fractional-ownership": {
-      "term": "Дробове володіння",
+      "term": "дробове володіння",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1801,7 +1801,7 @@
       "datefirstseen": ""
     },
     "fraud-proof": {
-      "term": "Доказ шахрайства",
+      "term": "доказ шахрайства",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1945,7 +1945,7 @@
       "datefirstseen": ""
     },
     "governance": {
-      "term": "Управління",
+      "term": "управління",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2026,7 +2026,7 @@
       "datefirstseen": ""
     },
     "hex-data": {
-      "term": "Шістнадцяткові дані",
+      "term": "шістнадцяткові дані",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2062,7 +2062,7 @@
       "datefirstseen": ""
     },
     "hybrid-network": {
-      "term": "Гібридна мережа",
+      "term": "гібридна мережа",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +2080,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "Протокол міжблочного зв'язку (IBC)",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2143,7 +2143,7 @@
       "datefirstseen": ""
     },
     "insider-trading": {
-      "term": "Інсайдерська торгівля",
+      "term": "інсайдерська торгівля",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2179,7 +2179,7 @@
       "datefirstseen": ""
     },
     "interoperability": {
-      "term": "Інтероперабельність",
+      "term": "інтероперабельність",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2341,7 +2341,7 @@
       "datefirstseen": ""
     },
     "layer-0": {
-      "term": "Рівень 0",
+      "term": "рівень 0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2350,7 +2350,7 @@
       "datefirstseen": ""
     },
     "layer-1": {
-      "term": "Рівень 1",
+      "term": "рівень 1",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2359,7 +2359,7 @@
       "datefirstseen": ""
     },
     "layer-2": {
-      "term": "Рівень 2",
+      "term": "рівень 2",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2395,7 +2395,7 @@
       "datefirstseen": ""
     },
     "library": {
-      "term": "Бібліотека",
+      "term": "бібліотека",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2449,7 +2449,7 @@
       "datefirstseen": ""
     },
     "liquid-democracy": {
-      "term": "Ліквідна демократія (делегативна демократія)",
+      "term": "ліквідна демократія",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2458,7 +2458,7 @@
       "datefirstseen": ""
     },
     "liquidation": {
-      "term": "Ліквідація",
+      "term": "ліквідація",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2530,7 +2530,7 @@
       "datefirstseen": ""
     },
     "malware": {
-      "term": "Шкідливе програмне забезпечення",
+      "term": "шкідливе програмне забезпечення",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "пул пам'яті; мемпул",
+      "term": "пул пам'яті",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2575,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "Мемпул",
+      "term": "мемпул",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2620,7 +2620,7 @@
       "datefirstseen": ""
     },
     "metadata": {
-      "term": "Метадані",
+      "term": "метадані",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2755,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "Максимальна вилучена цінність (MEV)",
+      "term": "Максимальна вилучена цінність",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2782,7 +2782,7 @@
       "datefirstseen": ""
     },
     "miner-tip": {
-      "term": "«чайові майнеру»",
+      "term": "чайові майнеру",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2800,7 +2800,7 @@
       "datefirstseen": ""
     },
     "mint": {
-      "term": "Мінт",
+      "term": "мінт",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2881,7 +2881,7 @@
       "datefirstseen": ""
     },
     "nested-blockchain": {
-      "term": "Вкладений блокчейн",
+      "term": "вкладений блокчейн",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2890,7 +2890,7 @@
       "datefirstseen": ""
     },
     "network": {
-      "term": "Мережа",
+      "term": "мережа",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2908,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "Комунікація ближнього поля (NFC",
+      "term": "Комунікація ближнього поля",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2962,7 +2962,7 @@
       "datefirstseen": ""
     },
     "non-fungible-token": {
-      "term": "Невзаємозамінний токен",
+      "term": "невзаємозамінний токен",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2989,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "он-ремп, оф-ремп",
+      "term": "оф-ремп",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "однорангова мережа (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3160,7 +3160,7 @@
       "datefirstseen": ""
     },
     "peer-to-peer": {
-      "term": "Однорангова мережа",
+      "term": "oднорангова мережа",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +3223,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "Підтвердження повноважень (PoA)",
+      "term": "Підтвердження повноважень",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "Доказ частки володіння (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "Доказ виконання роботи (PoW)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3358,7 +3358,7 @@
       "datefirstseen": ""
     },
     "public-key-cryptography": {
-      "term": "Криптографія з відкритим ключем",
+      "term": "криптографія з відкритим ключем",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3502,7 +3502,7 @@
       "datefirstseen": ""
     },
     "roadmap": {
-      "term": "Дорожня карта",
+      "term": "дорожня карта",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3547,7 +3547,7 @@
       "datefirstseen": ""
     },
     "rug-pull": {
-      "term": "«витягування килимка»",
+      "term": "витягування килимка",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3619,7 +3619,7 @@
       "datefirstseen": ""
     },
     "scaling": {
-      "term": "Масштабування",
+      "term": "масштабування",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3628,7 +3628,7 @@
       "datefirstseen": ""
     },
     "scam": {
-      "term": "Шахрайство",
+      "term": "шахрайство",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3673,7 +3673,7 @@
       "datefirstseen": ""
     },
     "search-engine": {
-      "term": "Пошукова система",
+      "term": "пошукова система",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "Пропозиція токенів безпеки (STO)",
+      "term": "Пропозиція токенів безпеки",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3781,7 +3781,7 @@
       "datefirstseen": ""
     },
     "shard-chain": {
-      "term": "Ланцюжок сегментів",
+      "term": "ланцюжок сегментів",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3799,7 +3799,7 @@
       "datefirstseen": ""
     },
     "shielded-transaction": {
-      "term": "Захищена транзакція",
+      "term": "захищена транзакція",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "Підпис (криптографічний)",
+      "term": "Підпис",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3970,7 +3970,7 @@
       "datefirstseen": ""
     },
     "stake": {
-      "term": "stake",
+      "term": "ставка",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4033,7 +4033,7 @@
       "datefirstseen": ""
     },
     "streaming": {
-      "term": "Потокова передача",
+      "term": "потокова передача",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4204,7 +4204,7 @@
       "datefirstseen": ""
     },
     "token-standard": {
-      "term": "Стандарт токенів",
+      "term": "стандарт токенів",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4213,7 +4213,7 @@
       "datefirstseen": ""
     },
     "transaction": {
-      "term": "Транзакція",
+      "term": "транзакція",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4303,7 +4303,7 @@
       "datefirstseen": ""
     },
     "trustless": {
-      "term": "«без доверия»",
+      "term": "без доверия",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +4330,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "Загальна заблокована вартість (TVL)",
+      "term": "Загальна заблокована вартість",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "незашифрований ключ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "розблокувати ставку",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4492,7 +4492,7 @@
       "datefirstseen": ""
     },
     "vesting": {
-      "term": "Вестинг",
+      "term": "вестинг",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "адреса гаманця",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "web3, Web 3.0",
+      "term": "web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4564,7 +4564,7 @@
       "datefirstseen": ""
     },
     "webhook": {
-      "term": "webhook",
+      "term": "вебхук",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +4582,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "Вей",
+      "term": "вей",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4591,7 +4591,7 @@
       "datefirstseen": ""
     },
     "whitepaper": {
-      "term": "Технічний документ",
+      "term": "технічний документ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4600,7 +4600,7 @@
       "datefirstseen": ""
     },
     "wrapping": {
-      "term": "Обгортання",
+      "term": "обгортання",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +4618,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "Розширений закритий ключ (XPRIV)",
+      "term": "Розширений закритий ключ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +4627,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "Розширений відкритий ключ (XPUB)",
+      "term": "Розширений відкритий ключ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4663,7 +4663,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-proof": {
-      "term": "Доведення з нульовим розголошенням",
+      "term": "доведення з нульовим розголошенням",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4672,7 +4672,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-rollup": {
-      "term": "Роллап з нульовим розголошенням",
+      "term": "роллап з нульовим розголошенням",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "DDoS",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "зашифрований ключ",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "ефір",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "перевантаження мережі",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

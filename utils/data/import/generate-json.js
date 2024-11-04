@@ -20,9 +20,9 @@ function ensureDirectoryExistence(dirPath) {
   }
 }
 
-// Function to clean header names (removes square brackets)
+// Function to clean header names (removes 'Term' and square brackets)
 function cleanHeader(header) {
-  return header.replace(/[\[\]]/g, '');
+  return header.replace(/^Term\s*/, '').replace(/[\[\]]/g, '').trim();
 }
 
 // Function to get the correct header for the English terms

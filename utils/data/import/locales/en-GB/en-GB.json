@@ -9,15 +9,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "0xplain": {
-      "term": "0xplain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "1inch": {
       "term": "1inch",
       "phonetic": "",
@@ -28,7 +19,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "двухфакторная аутентификация",
+      "term": "2FA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -46,7 +37,7 @@
       "datefirstseen": ""
     },
     "51%-attack": {
-      "term": "атака 51%",
+      "term": "51% attack",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -63,17 +54,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "about": {
-      "term": "О MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "account": {
-      "term": "счет",
+      "term": "account",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -82,7 +64,7 @@
       "datefirstseen": ""
     },
     "ach-transfer": {
-      "term": "ACH-перевод",
+      "term": "BACS transfer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,16 +73,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "адрес",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "advanced": {
-      "term": "Дополнительно",
+      "term": "address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -109,16 +82,7 @@
       "datefirstseen": ""
     },
     "aggregator": {
-      "term": "агрегатор",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "aggressive": {
-      "term": "Агрессивный",
+      "term": "aggregator",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -136,7 +100,7 @@
       "datefirstseen": ""
     },
     "air-gapping": {
-      "term": "физическая изоляция",
+      "term": "air-gapping",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -145,7 +109,7 @@
       "datefirstseen": ""
     },
     "airdrop": {
-      "term": "аирдропнуть",
+      "term": "airdrop",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -171,17 +135,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "alerts": {
-      "term": "Оповещения",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "algorithm": {
-      "term": "алгоритм",
+      "term": "algorithm",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -190,7 +145,7 @@
       "datefirstseen": ""
     },
     "altcoin": {
-      "term": "альткоин",
+      "term": "altcoin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +154,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "БОД",
+      "term": "AML",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -234,15 +189,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "approve": {
-      "term": "Одобрить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "arbitrum": {
       "term": "Arbitrum",
       "phonetic": "",
@@ -253,7 +199,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "специальная интегральная схема",
+      "term": "ASIC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -262,7 +208,7 @@
       "datefirstseen": ""
     },
     "asset-provenance": {
-      "term": "происхождение активов",
+      "term": "asset provenance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -271,7 +217,7 @@
       "datefirstseen": ""
     },
     "attestation": {
-      "term": "аттестация",
+      "term": "attestation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -281,15 +227,6 @@
     },
     "aurora": {
       "term": "Aurora",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "autodetection": {
-      "term": "Автоопределение",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -324,24 +261,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "backup": {
-      "term": "Создать резервную копию",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "balance": {
-      "term": "Баланс",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "banxa": {
       "term": "Banxa",
       "phonetic": "",
@@ -352,7 +271,7 @@
       "datefirstseen": ""
     },
     "base-fee": {
-      "term": "Базовая комиссия",
+      "term": "Base fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -361,7 +280,7 @@
       "datefirstseen": ""
     },
     "beacon-chain": {
-      "term": "Бикончейн",
+      "term": "Beacon Chain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -387,17 +306,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "biometrics": {
-      "term": "Биометрия",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "bitcoin": {
-      "term": "Биткойн",
+      "term": "Bitcoin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -406,7 +316,7 @@
       "datefirstseen": ""
     },
     "block": {
-      "term": "блок",
+      "term": "block",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -415,7 +325,7 @@
       "datefirstseen": ""
     },
     "block-explorer": {
-      "term": "обозреватель блоков",
+      "term": "block explorer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -424,7 +334,7 @@
       "datefirstseen": ""
     },
     "block-height": {
-      "term": "высота блока",
+      "term": "block height",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -433,7 +343,7 @@
       "datefirstseen": ""
     },
     "block-reward": {
-      "term": "вознаграждение за блок",
+      "term": "block reward",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -442,7 +352,7 @@
       "datefirstseen": ""
     },
     "block-time": {
-      "term": "время блока",
+      "term": "block time",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -460,7 +370,7 @@
       "datefirstseen": ""
     },
     "blockchain": {
-      "term": "блокчейн",
+      "term": "blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -469,7 +379,7 @@
       "datefirstseen": ""
     },
     "blockchain-explorer": {
-      "term": "обзреватель блокчейна",
+      "term": "blockchain explorer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -478,25 +388,7 @@
       "datefirstseen": ""
     },
     "blockchain-trilemma": {
-      "term": "трилемма блокчейна",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blockies": {
-      "term": "Blockies",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blue-fox": {
-      "term": "blue fox",
+      "term": "blockchain trilemma",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +415,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "вознаграждение",
+      "term": "bounty",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -532,7 +424,7 @@
       "datefirstseen": ""
     },
     "brain-wallet": {
-      "term": "брейн-кошелек",
+      "term": "brain wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -550,16 +442,7 @@
       "datefirstseen": ""
     },
     "bridge": {
-      "term": "мост",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "browser": {
-      "term": "Браузер",
+      "term": "bridge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -569,15 +452,6 @@
     },
     "btc": {
       "term": "BTC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "bug-report": {
-      "term": "Отчет об ошибке",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -595,7 +469,7 @@
       "datefirstseen": ""
     },
     "bytecode": {
-      "term": "байт-код",
+      "term": "bytecode",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -604,7 +478,7 @@
       "datefirstseen": ""
     },
     "byzantine-fault-tolerance": {
-      "term": "Задача византийских генералов",
+      "term": "Byzantine fault tolerance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -613,16 +487,7 @@
       "datefirstseen": ""
     },
     "byzantium-fork": {
-      "term": "Византийский форк",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "cancel": {
-      "term": "Отмена",
+      "term": "Byzantium fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -640,7 +505,7 @@
       "datefirstseen": ""
     },
     "centralized-exchange": {
-      "term": "централизованная биржа",
+      "term": "centralised exchange",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -658,7 +523,7 @@
       "datefirstseen": ""
     },
     "chain-id": {
-      "term": "ID блокчейна",
+      "term": "chain ID",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -675,17 +540,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "clear": {
-      "term": "Очистить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "client": {
-      "term": "клиент",
+      "term": "client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -703,7 +559,7 @@
       "datefirstseen": ""
     },
     "coin": {
-      "term": "монета",
+      "term": "coin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -730,7 +586,7 @@
       "datefirstseen": ""
     },
     "cold-storage": {
-      "term": "холодное хранилище",
+      "term": "cold storage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,16 +595,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "холодный кошелек",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "community-platform": {
-      "term": "Платформа сообщества",
+      "term": "cold wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +604,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "компиляция",
+      "term": "compile",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -774,17 +621,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "confirm": {
-      "term": "Подтвердить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "confirmation": {
-      "term": "подтверждение",
+      "term": "confirmation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -793,7 +631,7 @@
       "datefirstseen": ""
     },
     "consensus": {
-      "term": "консенсус",
+      "term": "consensus",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -802,7 +640,7 @@
       "datefirstseen": ""
     },
     "consensus-client": {
-      "term": "клиент консенсуса",
+      "term": "consensus client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -811,7 +649,7 @@
       "datefirstseen": ""
     },
     "consensus-layer": {
-      "term": "уровень консенсуса",
+      "term": "consensus layer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -820,7 +658,7 @@
       "datefirstseen": ""
     },
     "consensus-mechanism": {
-      "term": "механизм консенсуса",
+      "term": "consensus mechanism",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -838,16 +676,7 @@
       "datefirstseen": ""
     },
     "constantinople-fork": {
-      "term": "Константинопольский форк",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "contacts": {
-      "term": "Контакты",
+      "term": "Constantinople fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -856,7 +685,7 @@
       "datefirstseen": ""
     },
     "contract": {
-      "term": "контракт",
+      "term": "contract",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -865,16 +694,7 @@
       "datefirstseen": ""
     },
     "contract-account": {
-      "term": "контрактный счет",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "conversion": {
-      "term": "Обмен",
+      "term": "contract account",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -891,26 +711,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "copy": {
-      "term": "Копировать ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "create": {
-      "term": "Создать",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "crypto-bounties": {
-      "term": "крипто-баунти",
+      "term": "crypto bounties",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -919,7 +721,7 @@
       "datefirstseen": ""
     },
     "crypto-fund": {
-      "term": "криптофонд",
+      "term": "crypto fund",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -928,7 +730,7 @@
       "datefirstseen": ""
     },
     "crypto-wallet": {
-      "term": "криптокошелек",
+      "term": "crypto wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -937,7 +739,7 @@
       "datefirstseen": ""
     },
     "crypto-": {
-      "term": "крипто",
+      "term": "crypto-",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -946,7 +748,7 @@
       "datefirstseen": ""
     },
     "crypto-asset": {
-      "term": "криптоактив",
+      "term": "crypto-asset",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -955,7 +757,7 @@
       "datefirstseen": ""
     },
     "crypto-compliance": {
-      "term": "крипто-комплаенс",
+      "term": "crypto-compliance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -973,7 +775,7 @@
       "datefirstseen": ""
     },
     "cryptocurrency": {
-      "term": "криптовалюта",
+      "term": "cryptocurrency",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -982,7 +784,7 @@
       "datefirstseen": ""
     },
     "cryptoeconomics": {
-      "term": "криптоэкономика",
+      "term": "cryptoeconomics",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -991,7 +793,7 @@
       "datefirstseen": ""
     },
     "cryptography": {
-      "term": "криптография",
+      "term": "cryptography",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1009,16 +811,7 @@
       "datefirstseen": ""
     },
     "custody": {
-      "term": "депозитарное хранение",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "custom-nonce": {
-      "term": "Пользовательский одноразовый номер",
+      "term": "custody",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1062,8 +855,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos-": {
-      "term": "Распределенная атака типа «отказ в обслуживании» (DDoS)",
+    "ddos": {
+      "term": "DDoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1072,7 +865,7 @@
       "datefirstseen": ""
     },
     "decentralization": {
-      "term": "децентрализация",
+      "term": "decentralisation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1081,7 +874,7 @@
       "datefirstseen": ""
     },
     "decentralized-application": {
-      "term": "децентрализованное приложение",
+      "term": "decentralised application",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1090,7 +883,7 @@
       "datefirstseen": ""
     },
     "decentralized-autonomous-organization": {
-      "term": "Децентрализованная автономная организация",
+      "term": "Decentralised Autonomous Organisation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1099,7 +892,7 @@
       "datefirstseen": ""
     },
     "decentralized-exchange": {
-      "term": "децентрализованная биржа",
+      "term": "decentralised exchange",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1108,7 +901,7 @@
       "datefirstseen": ""
     },
     "decentralized-finance": {
-      "term": "децентрализованные финансы",
+      "term": "decentralised finance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1117,16 +910,7 @@
       "datefirstseen": ""
     },
     "decentralized-web": {
-      "term": "децентрализованная сеть",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "default": {
-      "term": "По умолчанию",
+      "term": "decentralised web",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1143,35 +927,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "defi-read-api": {
-      "term": "DeFi Read API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "defi-write-api": {
-      "term": "DeFi Write API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "delegated-proof-of-stake-(dpos)": {
-      "term": "DPoS",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "delete": {
-      "term": "Удалить",
+      "term": "Delegated proof of stake (DPoS)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +937,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "номиналы",
+      "term": "denominations",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1189,7 +946,7 @@
       "datefirstseen": ""
     },
     "deposit": {
-      "term": "депозит",
+      "term": "deposit",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +955,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "сделать вывод / вывод/извлекать/выводить/производное от",
+      "term": "derive",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1207,7 +964,7 @@
       "datefirstseen": ""
     },
     "dev": {
-      "term": "разраб",
+      "term": "dev",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1216,7 +973,7 @@
       "datefirstseen": ""
     },
     "devcon": {
-      "term": "Конференция разработчиков",
+      "term": "Devcon",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,16 +982,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "разработчик",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "device": {
-      "term": "Устройство",
+      "term": "developer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1252,7 +1000,7 @@
       "datefirstseen": ""
     },
     "difficulty": {
-      "term": "сложность",
+      "term": "difficulty",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1261,7 +1009,7 @@
       "datefirstseen": ""
     },
     "difficulty-bomb": {
-      "term": "бомба сложности",
+      "term": "difficulty bomb",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1270,7 +1018,7 @@
       "datefirstseen": ""
     },
     "digital-asset": {
-      "term": "цифровой актив",
+      "term": "digital asset",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1279,7 +1027,7 @@
       "datefirstseen": ""
     },
     "digital-identity": {
-      "term": "цифровая личность",
+      "term": "digital identity",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1288,7 +1036,7 @@
       "datefirstseen": ""
     },
     "digital-signature": {
-      "term": "цифровая подпись",
+      "term": "digital signature",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1305,17 +1053,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "disable": {
-      "term": "Отключить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "distributed-ledger-technology": {
-      "term": "Технология распределенных реестров",
+      "term": "Distributed Ledger Technology",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1333,25 +1072,7 @@
       "datefirstseen": ""
     },
     "double-spend": {
-      "term": "двойное расходование",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "download": {
-      "term": "Скачать",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "dropped": {
-      "term": "Отменено",
+      "term": "double spend",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1360,7 +1081,7 @@
       "datefirstseen": ""
     },
     "ecosystem": {
-      "term": "экосистема",
+      "term": "ecosystem",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1369,16 +1090,7 @@
       "datefirstseen": ""
     },
     "edge": {
-      "term": "Граничные (Edge, if браузер)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "edit": {
-      "term": "Изменить",
+      "term": "Edge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1387,7 +1099,7 @@
       "datefirstseen": ""
     },
     "eea": {
-      "term": "Альянс разработчиков Ethereum",
+      "term": "EEA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1404,17 +1116,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "enable": {
-      "term": "Включить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-keys": {
-      "term": "зашифрованные и незашифрованные ключи",
+    "encrypted-key": {
+      "term": "encrypted key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1423,7 +1126,7 @@
       "datefirstseen": ""
     },
     "encryption": {
-      "term": "шифрование",
+      "term": "encryption",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1441,7 +1144,7 @@
       "datefirstseen": ""
     },
     "entropy": {
-      "term": "энтропия",
+      "term": "entropy",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1450,7 +1153,7 @@
       "datefirstseen": ""
     },
     "epoch": {
-      "term": "эпоха",
+      "term": "epoch",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1494,15 +1197,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "error": {
-      "term": "Ошибка",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eth": {
       "term": "ETH",
       "phonetic": "",
@@ -1512,8 +1206,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ether-": {
-      "term": "эфир (ETH)",
+    "ether": {
+      "term": "ether",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1234,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "Предложение по улучшению Ethereum",
+      "term": "Ethereum Improvement Proposal",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1549,7 +1243,7 @@
       "datefirstseen": ""
     },
     "ethereum-mainnet": {
-      "term": "Мейн-нет Ethereum",
+      "term": "Ethereum Mainnet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1558,7 +1252,7 @@
       "datefirstseen": ""
     },
     "ethereum-name-service": {
-      "term": "Служба имен Ethereum",
+      "term": "Ethereum Name Service",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1567,7 +1261,7 @@
       "datefirstseen": ""
     },
     "ethereum-virtual-machine": {
-      "term": "Виртуальная машина Ethereum",
+      "term": "Ethereum Virtual Machine",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1603,7 +1297,7 @@
       "datefirstseen": ""
     },
     "exchange": {
-      "term": "биржа",
+      "term": "exchange",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1612,7 +1306,7 @@
       "datefirstseen": ""
     },
     "execution-client": {
-      "term": "Клиент-исполнитель",
+      "term": "execution client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1621,43 +1315,7 @@
       "datefirstseen": ""
     },
     "execution-layer": {
-      "term": "Слой исполнения",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "experimental": {
-      "term": "Экспериментальные",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "export": {
-      "term": "Экспорт",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "extension": {
-      "term": "Расширение",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "failed": {
-      "term": "Неудачный/ая/ое",
+      "term": "execution layer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1675,7 +1333,7 @@
       "datefirstseen": ""
     },
     "faucet": {
-      "term": "кран",
+      "term": "faucet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1342,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "устойчивый к сбоям",
+      "term": "fault-tolerant",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1693,7 +1351,7 @@
       "datefirstseen": ""
     },
     "fiat-currency": {
-      "term": "фиатная валюта",
+      "term": "fiat currency",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1360,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "завершение, завершенность",
+      "term": "finality",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1711,7 +1369,7 @@
       "datefirstseen": ""
     },
     "finality-rate": {
-      "term": "коэффициент завершенности",
+      "term": "finality rate",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1720,7 +1378,7 @@
       "datefirstseen": ""
     },
     "financial-technology": {
-      "term": "финансовые технологии",
+      "term": "financial technology",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1738,7 +1396,7 @@
       "datefirstseen": ""
     },
     "fintech": {
-      "term": "Финтех",
+      "term": "FinTech",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1756,7 +1414,7 @@
       "datefirstseen": ""
     },
     "firewall": {
-      "term": "брандмауэр",
+      "term": "firewall",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1765,16 +1423,7 @@
       "datefirstseen": ""
     },
     "firmware": {
-      "term": "прошивка",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "flask": {
-      "term": "Flask",
+      "term": "firmware",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1783,7 +1432,7 @@
       "datefirstseen": ""
     },
     "fork": {
-      "term": "форк",
+      "term": "fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1792,7 +1441,7 @@
       "datefirstseen": ""
     },
     "fractional-ownership": {
-      "term": "долевое владение",
+      "term": "fractional ownership",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1801,7 +1450,7 @@
       "datefirstseen": ""
     },
     "fraud-proof": {
-      "term": "доказательство мошенничества",
+      "term": "fraud proof",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1819,7 +1468,7 @@
       "datefirstseen": ""
     },
     "full-node": {
-      "term": "полный узел",
+      "term": "full node",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1837,7 +1486,7 @@
       "datefirstseen": ""
     },
     "gas": {
-      "term": "газ",
+      "term": "gas",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1846,7 +1495,7 @@
       "datefirstseen": ""
     },
     "gas-fee": {
-      "term": "плата за газ",
+      "term": "gas fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1855,7 +1504,7 @@
       "datefirstseen": ""
     },
     "gas-limit": {
-      "term": "лимит газа",
+      "term": "gas limit",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1864,7 +1513,7 @@
       "datefirstseen": ""
     },
     "gas-price": {
-      "term": "цена газа",
+      "term": "gas price",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1890,17 +1539,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "general": {
-      "term": "Общие",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "genesis-block": {
-      "term": "нулевой блок",
+      "term": "genesis block",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1909,7 +1549,7 @@
       "datefirstseen": ""
     },
     "gigawei": {
-      "term": "Гигавей",
+      "term": "Gigawei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1945,7 +1585,7 @@
       "datefirstseen": ""
     },
     "governance": {
-      "term": "управление",
+      "term": "governance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1963,7 +1603,7 @@
       "datefirstseen": ""
     },
     "gwei": {
-      "term": "Гвей",
+      "term": "gwei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1972,7 +1612,7 @@
       "datefirstseen": ""
     },
     "halving": {
-      "term": "халвинг",
+      "term": "halving",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1981,7 +1621,7 @@
       "datefirstseen": ""
     },
     "hard-fork": {
-      "term": "хардфорк",
+      "term": "hard fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1990,7 +1630,7 @@
       "datefirstseen": ""
     },
     "hardware-wallet": {
-      "term": "аппаратный кошелек",
+      "term": "hardware wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2008,7 +1648,7 @@
       "datefirstseen": ""
     },
     "hash": {
-      "term": "хэш",
+      "term": "hash",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +1657,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "ИД-кошелек",
+      "term": "HD wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2026,16 +1666,7 @@
       "datefirstseen": ""
     },
     "hex-data": {
-      "term": "Шестнадцатеричные данные",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "hide": {
-      "term": "Скрыть",
+      "term": "hex data",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2044,7 +1675,7 @@
       "datefirstseen": ""
     },
     "hot-storage": {
-      "term": "горячее хранилище",
+      "term": "hot storage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2053,7 +1684,7 @@
       "datefirstseen": ""
     },
     "hot-wallet": {
-      "term": "горячий кошелек",
+      "term": "hot wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2062,7 +1693,7 @@
       "datefirstseen": ""
     },
     "hybrid-network": {
-      "term": "гибридная сеть",
+      "term": "hybrid network",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2071,7 +1702,7 @@
       "datefirstseen": ""
     },
     "hyperledger": {
-      "term": "Гиперледжер",
+      "term": "Hyperledger",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2106,26 +1737,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "identicon": {
-      "term": "Идентикон",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "immutability": {
-      "term": "неизменность",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "import": {
-      "term": "Импорт",
+      "term": "immutability",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2143,25 +1756,7 @@
       "datefirstseen": ""
     },
     "insider-trading": {
-      "term": "инсайдерская торговля",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "install": {
-      "term": "Установить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "institutional": {
-      "term": "Institutional",
+      "term": "insider trading",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2170,7 +1765,7 @@
       "datefirstseen": ""
     },
     "internal-transaction": {
-      "term": "внутренняя транзакция",
+      "term": "internal transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2179,7 +1774,7 @@
       "datefirstseen": ""
     },
     "interoperability": {
-      "term": "совместимость",
+      "term": "interoperability",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2196,17 +1791,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "invalid": {
-      "term": "Недействительный/ая/ое",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "ip-address": {
-      "term": "IP-адрес",
+      "term": "IP address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2232,17 +1818,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "jazzicons": {
-      "term": "Jazzicons",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "json-file": {
-      "term": "Файл JSON",
+      "term": "JSON file",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2260,7 +1837,7 @@
       "datefirstseen": ""
     },
     "keystore-file": {
-      "term": "файл хранилища ключей",
+      "term": "keystore file",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2269,7 +1846,7 @@
       "datefirstseen": ""
     },
     "know-your-customer": {
-      "term": "«Знай своего клиента»",
+      "term": "Know Your Customer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2278,7 +1855,7 @@
       "datefirstseen": ""
     },
     "know-your-transaction": {
-      "term": "«Знай свою транзакцию»",
+      "term": "Know Your Transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2296,7 +1873,7 @@
       "datefirstseen": ""
     },
     "kyc": {
-      "term": "ЗСК",
+      "term": "KYC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2305,7 +1882,7 @@
       "datefirstseen": ""
     },
     "kyt": {
-      "term": "ЗСТ",
+      "term": "KYT",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2314,7 +1891,7 @@
       "datefirstseen": ""
     },
     "latency": {
-      "term": "Задержка",
+      "term": "Latency",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2332,7 +1909,7 @@
       "datefirstseen": ""
     },
     "launchpad": {
-      "term": "Лаунчпад",
+      "term": "Launchpad",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2341,7 +1918,7 @@
       "datefirstseen": ""
     },
     "layer-0": {
-      "term": "слой 0",
+      "term": "layer 0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2350,7 +1927,7 @@
       "datefirstseen": ""
     },
     "layer-1": {
-      "term": "слой 1",
+      "term": "layer 1",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2359,7 +1936,7 @@
       "datefirstseen": ""
     },
     "layer-2": {
-      "term": "слой 2",
+      "term": "layer 2",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2386,7 +1963,7 @@
       "datefirstseen": ""
     },
     "ledger-live-app": {
-      "term": "Приложение Ledger Live",
+      "term": "Ledger Live App",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2395,7 +1972,7 @@
       "datefirstseen": ""
     },
     "library": {
-      "term": "Библиотека",
+      "term": "library",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2413,7 +1990,7 @@
       "datefirstseen": ""
     },
     "light-client": {
-      "term": "легкий клиент",
+      "term": "light client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2439,17 +2016,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "link": {
-      "term": "Ссылка",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "liquid-democracy": {
-      "term": "ликвидная демократия",
+      "term": "liquid democracy",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2458,7 +2026,7 @@
       "datefirstseen": ""
     },
     "liquidation": {
-      "term": "ликвидность",
+      "term": "liquidation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2467,7 +2035,7 @@
       "datefirstseen": ""
     },
     "liquidity": {
-      "term": "ликвидность",
+      "term": "liquidity",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2476,7 +2044,7 @@
       "datefirstseen": ""
     },
     "liquidity-pool": {
-      "term": "пул ликвидности",
+      "term": "liquidity pool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2485,25 +2053,7 @@
       "datefirstseen": ""
     },
     "liquidity-staking": {
-      "term": "стейкинг ликвидности",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "lock": {
-      "term": "Заблокировать",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "low": {
-      "term": "Низкий",
+      "term": "liquidity staking",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2512,7 +2062,7 @@
       "datefirstseen": ""
     },
     "mainnet": {
-      "term": "Мейн-нет",
+      "term": "Mainnet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2521,7 +2071,7 @@
       "datefirstseen": ""
     },
     "maker-protocol": {
-      "term": "Протокол Maker",
+      "term": "Maker Protocol",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2530,7 +2080,7 @@
       "datefirstseen": ""
     },
     "malware": {
-      "term": "Вредоносное программное обеспечение",
+      "term": "malware",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2539,7 +2089,7 @@
       "datefirstseen": ""
     },
     "market-cap": {
-      "term": "рыночная капитализация",
+      "term": "market cap",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2557,7 +2107,7 @@
       "datefirstseen": ""
     },
     "maximum-priority-fee": {
-      "term": "Максимальная плата за приоритет",
+      "term": "Maximum Priority Fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2116,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "пул памяти",
+      "term": "memory pool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2125,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "мемпул",
+      "term": "mempool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2593,7 +2143,7 @@
       "datefirstseen": ""
     },
     "merge": {
-      "term": "Слияние",
+      "term": "Merge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2602,7 +2152,7 @@
       "datefirstseen": ""
     },
     "merkle-patricia-trie": {
-      "term": "Дерево Меркла",
+      "term": "Merkle Patricia trie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2620,7 +2170,7 @@
       "datefirstseen": ""
     },
     "metadata": {
-      "term": "метаданные",
+      "term": "metadata",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2630,42 +2180,6 @@
     },
     "metamask": {
       "term": "MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-activity": {
-      "term": "MetaMask Activity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-bridge": {
-      "term": "Мост MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-community-platform": {
-      "term": "Платформа сообщества MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-extension": {
-      "term": "Расширение MetaMask",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2700,33 +2214,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-sdk": {
-      "term": "MetaMask SDK",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-snaps": {
-      "term": "MetaMask Snaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-support": {
-      "term": "Поддержка MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-swaps": {
       "term": "MetaMask Swaps",
       "phonetic": "",
@@ -2736,17 +2223,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metametrics": {
-      "term": "MetaMetrics",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metaverse": {
-      "term": "метавселенная",
+      "term": "metaverse",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2233,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "максимальная извлекаемая ценность",
+      "term": "MEV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2764,7 +2242,7 @@
       "datefirstseen": ""
     },
     "mfa": {
-      "term": "МФА",
+      "term": "MFA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2773,7 +2251,7 @@
       "datefirstseen": ""
     },
     "miner": {
-      "term": "майнер",
+      "term": "miner",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2782,7 +2260,7 @@
       "datefirstseen": ""
     },
     "miner-tip": {
-      "term": "«Чаевые» майнеру",
+      "term": "miner tip",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2791,7 +2269,7 @@
       "datefirstseen": ""
     },
     "mining": {
-      "term": "майнинг",
+      "term": "mining",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2800,16 +2278,7 @@
       "datefirstseen": ""
     },
     "mint": {
-      "term": "выполнить минтинг",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "mmi": {
-      "term": "MMI",
+      "term": "mint",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2818,7 +2287,7 @@
       "datefirstseen": ""
     },
     "mnemonic-phrase": {
-      "term": "мнемоническая фраза",
+      "term": "mnemonic phrase",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2836,7 +2305,7 @@
       "datefirstseen": ""
     },
     "modular-blockchain": {
-      "term": "модульный блокчейн",
+      "term": "modular blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2846,15 +2315,6 @@
     },
     "moonpay": {
       "term": "MoonPay",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "multi-factor-authentication": {
-      "term": "Многофакторная аутентификация",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2872,7 +2332,7 @@
       "datefirstseen": ""
     },
     "multi-signature-wallet": {
-      "term": "кошелек с мультиподписью",
+      "term": "multi-signature wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2881,7 +2341,7 @@
       "datefirstseen": ""
     },
     "nested-blockchain": {
-      "term": "вложенный блокчейн",
+      "term": "nested blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2890,7 +2350,7 @@
       "datefirstseen": ""
     },
     "network": {
-      "term": "сеть",
+      "term": "network",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2898,8 +2358,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "network-pcongestion": {
-      "term": "Перегрузка сети",
+    "network-congestion": {
+      "term": "network congestion",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2368,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "Технология ближней бесконтактной связи",
+      "term": "NFC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2926,7 +2386,7 @@
       "datefirstseen": ""
     },
     "nft-aggregator": {
-      "term": "NFT-агрегатор",
+      "term": "NFT aggregator",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2935,7 +2395,7 @@
       "datefirstseen": ""
     },
     "nft-drop": {
-      "term": "NFT-дроп",
+      "term": "NFT drop",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2953,7 +2413,7 @@
       "datefirstseen": ""
     },
     "node": {
-      "term": "узел",
+      "term": "node",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2962,7 +2422,7 @@
       "datefirstseen": ""
     },
     "non-fungible-token": {
-      "term": "невзаимозаменяемый токен",
+      "term": "non-fungible token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2971,7 +2431,7 @@
       "datefirstseen": ""
     },
     "nonce": {
-      "term": "одноразовый код",
+      "term": "nonce",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2980,7 +2440,7 @@
       "datefirstseen": ""
     },
     "off-chain": {
-      "term": "оффчейн",
+      "term": "off-chain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2449,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "офф-рэмп",
+      "term": "off-ramp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2998,7 +2458,7 @@
       "datefirstseen": ""
     },
     "ommer-block": {
-      "term": "блок оммер",
+      "term": "ommer block",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3007,7 +2467,7 @@
       "datefirstseen": ""
     },
     "on-chain": {
-      "term": "ончейн",
+      "term": "on-chain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3016,7 +2476,7 @@
       "datefirstseen": ""
     },
     "on-ramp": {
-      "term": "он-рэмп",
+      "term": "on-ramp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3061,16 +2521,7 @@
       "datefirstseen": ""
     },
     "optimistic-rollup": {
-      "term": "оптимистичный роллап",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "optional": {
-      "term": "Необязательные",
+      "term": "optimistic rollup",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3106,7 +2557,7 @@
       "datefirstseen": ""
     },
     "paraswap": {
-      "term": "Paraswap",
+      "term": "ParaSwap",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3115,7 +2566,7 @@
       "datefirstseen": ""
     },
     "parity": {
-      "term": "паритет",
+      "term": "parity",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3124,7 +2575,7 @@
       "datefirstseen": ""
     },
     "passphrase": {
-      "term": "Парольная фраза",
+      "term": "passphrase",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3133,7 +2584,7 @@
       "datefirstseen": ""
     },
     "password": {
-      "term": "Пароль",
+      "term": "password",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3142,7 +2593,7 @@
       "datefirstseen": ""
     },
     "password-manager": {
-      "term": "менджер паролей",
+      "term": "password manager",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3160,16 +2611,7 @@
       "datefirstseen": ""
     },
     "peer-to-peer": {
-      "term": "пиринговый",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "pending": {
-      "term": "Ожидающий/ая",
+      "term": "peer-to-peer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3178,7 +2620,7 @@
       "datefirstseen": ""
     },
     "permission": {
-      "term": "Разрешение",
+      "term": "Permission",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3187,7 +2629,7 @@
       "datefirstseen": ""
     },
     "permissioned-ledger": {
-      "term": "разрешенный реестр",
+      "term": "permissioned ledger",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3196,7 +2638,7 @@
       "datefirstseen": ""
     },
     "phishing": {
-      "term": "фишинг",
+      "term": "phishing",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3205,7 +2647,7 @@
       "datefirstseen": ""
     },
     "pki": {
-      "term": "инфраструктура открытых ключей",
+      "term": "PKI",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +2665,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "доказательство полномочий",
+      "term": "PoA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3268,7 +2710,7 @@
       "datefirstseen": ""
     },
     "priority-fee": {
-      "term": "Плата за приоритет",
+      "term": "Priority fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3277,7 +2719,7 @@
       "datefirstseen": ""
     },
     "private-blockchain": {
-      "term": "закрытый блокчейн",
+      "term": "private blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3286,7 +2728,7 @@
       "datefirstseen": ""
     },
     "private-currency": {
-      "term": "частная валюта",
+      "term": "private currency",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3295,7 +2737,7 @@
       "datefirstseen": ""
     },
     "private-key": {
-      "term": "закрытый ключ",
+      "term": "private key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3304,7 +2746,7 @@
       "datefirstseen": ""
     },
     "proof-of-stake": {
-      "term": "Доказательство доли владения",
+      "term": "Proof of Stake",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3313,7 +2755,7 @@
       "datefirstseen": ""
     },
     "proof-of-work": {
-      "term": "Доказательство выполнения работы",
+      "term": "Proof of Work",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3322,7 +2764,7 @@
       "datefirstseen": ""
     },
     "protocol": {
-      "term": "протокол",
+      "term": "protocol",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3331,7 +2773,7 @@
       "datefirstseen": ""
     },
     "public-address": {
-      "term": "публичный адрес",
+      "term": "public address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3340,7 +2782,7 @@
       "datefirstseen": ""
     },
     "public-blockchain": {
-      "term": "публичный блокчейн",
+      "term": "public blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3349,7 +2791,7 @@
       "datefirstseen": ""
     },
     "public-key": {
-      "term": "открытый ключ",
+      "term": "public key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3358,16 +2800,7 @@
       "datefirstseen": ""
     },
     "public-key-cryptography": {
-      "term": "криптография с открытым ключом",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "public-key-infrastructure": {
-      "term": "Инфраструктура открытых ключей",
+      "term": "public-key cryptography",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3376,7 +2809,7 @@
       "datefirstseen": ""
     },
     "qr-code": {
-      "term": "QR-код",
+      "term": "QR code",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3402,26 +2835,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "receive": {
-      "term": "Получить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reject": {
-      "term": "Отклонить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "relayer": {
-      "term": "ретранслятор",
+      "term": "relayer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3430,61 +2845,7 @@
       "datefirstseen": ""
     },
     "remote-procedure-call": {
-      "term": "Удаленный вызов процедур",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "remove": {
-      "term": "Удалить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(noun)": {
-      "term": "Запрос",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(verb)": {
-      "term": "Запросить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reset": {
-      "term": "Сброс",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "restore": {
-      "term": "Восстановить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reveal": {
-      "term": "Показать",
+      "term": "Remote Procedure Call",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3502,7 +2863,7 @@
       "datefirstseen": ""
     },
     "roadmap": {
-      "term": "план-график",
+      "term": "roadmap",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3520,7 +2881,7 @@
       "datefirstseen": ""
     },
     "rollups": {
-      "term": "роллапы",
+      "term": "rollups",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3547,7 +2908,7 @@
       "datefirstseen": ""
     },
     "rug-pull": {
-      "term": "раг-пулл",
+      "term": "rug pull",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3574,7 +2935,7 @@
       "datefirstseen": ""
     },
     "sandbox": {
-      "term": "«песочница»",
+      "term": "sandbox",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3592,16 +2953,7 @@
       "datefirstseen": ""
     },
     "satoshi-nakamoto": {
-      "term": "Сатоши Накамото",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "save": {
-      "term": "Сохранить",
+      "term": "Satoshi Nakamoto",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3610,7 +2962,7 @@
       "datefirstseen": ""
     },
     "scalability": {
-      "term": "масштабируемость",
+      "term": "scalability",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3619,7 +2971,7 @@
       "datefirstseen": ""
     },
     "scaling": {
-      "term": "масштабирование",
+      "term": "scaling",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3628,16 +2980,7 @@
       "datefirstseen": ""
     },
     "scam": {
-      "term": "мошенничество",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "scan": {
-      "term": "Сканировать",
+      "term": "scam",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3663,17 +3006,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "search": {
-      "term": "Поиск",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "search-engine": {
-      "term": "поисковая система",
+      "term": "search engine",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3682,16 +3016,7 @@
       "datefirstseen": ""
     },
     "secret-recovery-phrase": {
-      "term": "Секретная фраза для восстановления",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "security-&-privacy": {
-      "term": "Безопасность и конфиденциальность",
+      "term": "Secret Recovery Phrase",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3700,7 +3025,7 @@
       "datefirstseen": ""
     },
     "security-token": {
-      "term": "Токен безопасности",
+      "term": "Security Token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3034,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "Предложение токенов безопасности (STO)",
+      "term": "Security Token Offering",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3718,7 +3043,7 @@
       "datefirstseen": ""
     },
     "seed-phrase": {
-      "term": "сид-фраза",
+      "term": "seed phrase",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3727,7 +3052,7 @@
       "datefirstseen": ""
     },
     "self-custody": {
-      "term": "самодепозитарий",
+      "term": "self-custody",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3736,7 +3061,7 @@
       "datefirstseen": ""
     },
     "self-executing": {
-      "term": "самоисполняющийся",
+      "term": "self-executing",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3763,16 +3088,7 @@
       "datefirstseen": ""
     },
     "serialization": {
-      "term": "сериализация",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "settings": {
-      "term": "Настройки",
+      "term": "serialisation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3781,7 +3097,7 @@
       "datefirstseen": ""
     },
     "shard-chain": {
-      "term": "шардчейн",
+      "term": "shard chain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3790,7 +3106,7 @@
       "datefirstseen": ""
     },
     "sharding": {
-      "term": "шардинг",
+      "term": "sharding",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3799,16 +3115,7 @@
       "datefirstseen": ""
     },
     "shielded-transaction": {
-      "term": "защищенная транзакция",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "show": {
-      "term": "Показать",
+      "term": "shielded transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3817,25 +3124,7 @@
       "datefirstseen": ""
     },
     "sidechain": {
-      "term": "сайдчейн",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign": {
-      "term": "Подписать ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign-in": {
-      "term": "Войти",
+      "term": "sidechain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,16 +3133,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "Подпись",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "skip": {
-      "term": "Пропустить ",
+      "term": "Signature",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3862,7 +3142,7 @@
       "datefirstseen": ""
     },
     "slashing-condition": {
-      "term": "условие слэшинга",
+      "term": "slashing condition",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3871,7 +3151,7 @@
       "datefirstseen": ""
     },
     "slippage": {
-      "term": "проскальзывание",
+      "term": "slippage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3880,7 +3160,7 @@
       "datefirstseen": ""
     },
     "slot": {
-      "term": "слот",
+      "term": "slot",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3889,34 +3169,7 @@
       "datefirstseen": ""
     },
     "smart-contract": {
-      "term": "смарт-контракт",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snap": {
-      "term": "Snap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snaps": {
-      "term": "Snaps (MetaMask Snaps)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snapshots-api": {
-      "term": "Snapshots API",
+      "term": "smart contract",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3925,7 +3178,7 @@
       "datefirstseen": ""
     },
     "soft-fork": {
-      "term": "софтфорк",
+      "term": "soft fork",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3942,26 +3195,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "source": {
-      "term": "Источник",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "speed-up": {
-      "term": "Ускорить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "stablecoin": {
-      "term": "стейблкоин",
+      "term": "stablecoin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3970,7 +3205,7 @@
       "datefirstseen": ""
     },
     "stake": {
-      "term": "стейкинг",
+      "term": "stake",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3979,7 +3214,7 @@
       "datefirstseen": ""
     },
     "staking": {
-      "term": "стейкинг",
+      "term": "staking",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3988,7 +3223,7 @@
       "datefirstseen": ""
     },
     "state": {
-      "term": "стейт",
+      "term": "state",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3997,25 +3232,7 @@
       "datefirstseen": ""
     },
     "state-channels": {
-      "term": "Каналы состояния",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "state-logs": {
-      "term": "Журналы состояния",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "status": {
-      "term": "Статус",
+      "term": "state channels",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4033,34 +3250,7 @@
       "datefirstseen": ""
     },
     "streaming": {
-      "term": "стриминг",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "submit": {
-      "term": "Отправить ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support": {
-      "term": "Поддержка",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support-center": {
-      "term": "Центр поддержки",
+      "term": "streaming",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4069,25 +3259,7 @@
       "datefirstseen": ""
     },
     "swap": {
-      "term": "выполнять своп",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "switch": {
-      "term": "Сменить",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "symbol": {
-      "term": "Символ",
+      "term": "swap",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4096,7 +3268,7 @@
       "datefirstseen": ""
     },
     "szabo": {
-      "term": "сабо",
+      "term": "szabo",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4123,7 +3295,7 @@
       "datefirstseen": ""
     },
     "testnet": {
-      "term": "тестнет",
+      "term": "testnet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4132,7 +3304,7 @@
       "datefirstseen": ""
     },
     "testnet-kovan": {
-      "term": "Тестнет Kovan",
+      "term": "Testnet Kovan",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4141,7 +3313,7 @@
       "datefirstseen": ""
     },
     "testnet-rinkeby": {
-      "term": "Тестнет Rinkeby",
+      "term": "Testnet Rinkeby",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4150,25 +3322,7 @@
       "datefirstseen": ""
     },
     "testnet-ropsten": {
-      "term": "Тестнет Ropsten",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "theme": {
-      "term": "Тема",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tips": {
-      "term": "Советы",
+      "term": "Testnet Ropsten",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4177,16 +3331,7 @@
       "datefirstseen": ""
     },
     "token": {
-      "term": "токен",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "token-id": {
-      "term": "ID токена",
+      "term": "token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4195,7 +3340,7 @@
       "datefirstseen": ""
     },
     "token-lockup": {
-      "term": "блокировка токена",
+      "term": "token lockup",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4204,7 +3349,7 @@
       "datefirstseen": ""
     },
     "token-standard": {
-      "term": "cтандарт токена",
+      "term": "token standard",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4213,7 +3358,7 @@
       "datefirstseen": ""
     },
     "transaction": {
-      "term": "транзакция",
+      "term": "transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4222,7 +3367,7 @@
       "datefirstseen": ""
     },
     "transaction-block": {
-      "term": "блок транзакции",
+      "term": "transaction block",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4231,16 +3376,7 @@
       "datefirstseen": ""
     },
     "transaction-fee": {
-      "term": "комиссия за транзакцию",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transaction-history-api": {
-      "term": "Transaction History API",
+      "term": "transaction fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4249,7 +3385,7 @@
       "datefirstseen": ""
     },
     "transaction-id": {
-      "term": "ID транзакции",
+      "term": "transaction ID",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4258,7 +3394,7 @@
       "datefirstseen": ""
     },
     "transaction-pool": {
-      "term": "пул транзакций",
+      "term": "transaction pool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4268,15 +3404,6 @@
     },
     "transak": {
       "term": "Transak",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transfer": {
-      "term": "Перевести",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4303,7 +3430,7 @@
       "datefirstseen": ""
     },
     "trustless": {
-      "term": "трастлесс",
+      "term": "trustless",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4312,16 +3439,7 @@
       "datefirstseen": ""
     },
     "turing-complete": {
-      "term": "Полный по Тьюрингу",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tutorial": {
-      "term": "Руководство",
+      "term": "Turing-complete",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +3448,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "общая заблокированная стоимость",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +3475,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "незашифрованный ключ",
+      "term": "unencrypted key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4374,26 +3492,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "unknown": {
-      "term": "Неизвестно",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "unlock": {
-      "term": "Разблокировать ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "unspent-transaction-output": {
-      "term": "вывод неизрасходованных транзакций",
+      "term": "unspent transaction output",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,16 +3502,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "отменить стейкинг",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "update": {
-      "term": "Обновить",
+      "term": "unstake",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4420,7 +3511,7 @@
       "datefirstseen": ""
     },
     "upgrade": {
-      "term": "апгрейд",
+      "term": "upgrade",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4456,7 +3547,7 @@
       "datefirstseen": ""
     },
     "validator": {
-      "term": "валидатор",
+      "term": "validator",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4465,7 +3556,7 @@
       "datefirstseen": ""
     },
     "validity-proof": {
-      "term": "доказательство действительности",
+      "term": "validity proof",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4482,17 +3573,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "vault-decryptor": {
-      "term": "Vault Decryptor",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "vesting": {
-      "term": "вестинг",
+      "term": "vesting",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4510,7 +3592,7 @@
       "datefirstseen": ""
     },
     "wallet": {
-      "term": "кошелек",
+      "term": "wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +3601,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "адрес кошелька",
+      "term": "wallet address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4564,7 +3646,7 @@
       "datefirstseen": ""
     },
     "webhook": {
-      "term": "вебхук",
+      "term": "webhook",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +3664,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "вей",
+      "term": "wei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4591,7 +3673,7 @@
       "datefirstseen": ""
     },
     "whitepaper": {
-      "term": "белая книга",
+      "term": "whitepaper",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4600,7 +3682,7 @@
       "datefirstseen": ""
     },
     "wrapping": {
-      "term": "обертывание",
+      "term": "wrapping",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4636,7 +3718,7 @@
       "datefirstseen": ""
     },
     "yield-farming": {
-      "term": "фарминг доходности",
+      "term": "yield farming",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4645,7 +3727,7 @@
       "datefirstseen": ""
     },
     "yield-bearing-tokens": {
-      "term": "доходные токены",
+      "term": "yield-bearing tokens",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4654,7 +3736,7 @@
       "datefirstseen": ""
     },
     "zero-address": {
-      "term": "нулевой адрес",
+      "term": "zero address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4663,7 +3745,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-proof": {
-      "term": "доказательство с нулевым разглашением",
+      "term": "zero-knowledge proof",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4672,7 +3754,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-rollup": {
-      "term": "роллап с нулевым разглашением",
+      "term": "zero-knowledge rollup",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4681,7 +3763,7 @@
       "datefirstseen": ""
     },
     "zk-snarks": {
-      "term": "Протоколы zk-SNARK",
+      "term": "zk-SNARKs",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4689,35 +3771,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos": {
-      "term": "DDoS",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-key": {
-      "term": "зашифрованный ключ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "ether": {
-      "term": "эфир (ETH)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "network-congestion": {
-      "term": "перегрузка сети",
+    "0xplain": {
+      "term": "0xplain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

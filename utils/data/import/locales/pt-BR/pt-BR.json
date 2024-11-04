@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "Autenticação de dois fatores (2FA)",
+      "term": "2FA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -46,7 +46,7 @@
       "datefirstseen": ""
     },
     "51%-attack": {
-      "term": "Ataque de 51%",
+      "term": "ataque de 51%",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -73,7 +73,7 @@
       "datefirstseen": ""
     },
     "account": {
-      "term": "Conta",
+      "term": "conta",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,7 +91,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "endereço/\"endereço público\" (endereço da carteira)",
+      "term": "endereço",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "PLD (prevenção à lavagem de dinheiro)",
+      "term": "PLD",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +217,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +253,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC (circuito integrado de aplicação específica)",
+      "term": "ASIC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -469,7 +469,7 @@
       "datefirstseen": ""
     },
     "blockchain-explorer": {
-      "term": "Explorador de blockchain",
+      "term": "explorador de blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "recompensa / recompensa por bugs",
+      "term": "recompensa",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -550,7 +550,7 @@
       "datefirstseen": ""
     },
     "bridge": {
-      "term": "Ponte",
+      "term": "ponte",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -640,7 +640,7 @@
       "datefirstseen": ""
     },
     "centralized-exchange": {
-      "term": "Corretora centralizada",
+      "term": "corretora centralizada",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -685,7 +685,7 @@
       "datefirstseen": ""
     },
     "client": {
-      "term": "cliente (Ethereum ou outra blockchain compatível)",
+      "term": "cliente",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,7 +739,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "cold wallet / cold storage",
+      "term": "cold wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +757,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "Compilação",
+      "term": "compilar",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -802,7 +802,7 @@
       "datefirstseen": ""
     },
     "consensus-client": {
-      "term": "Cliente de consenso",
+      "term": "cliente de consenso",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -811,7 +811,7 @@
       "datefirstseen": ""
     },
     "consensus-layer": {
-      "term": "Camada de consenso",
+      "term": "camada de consenso",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -820,7 +820,7 @@
       "datefirstseen": ""
     },
     "consensus-mechanism": {
-      "term": "Mecanismo de consenso",
+      "term": "mecanismo de consenso",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -865,7 +865,7 @@
       "datefirstseen": ""
     },
     "contract-account": {
-      "term": "Conta do contrato",
+      "term": "conta do contrato",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1162,7 +1162,7 @@
       "datefirstseen": ""
     },
     "delegated-proof-of-stake-(dpos)": {
-      "term": "DPoS",
+      "term": "Prova de participação delegada (DPoS)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +1180,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "ether (denominações)",
+      "term": "denominações",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +1198,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "derivar / derivação",
+      "term": "derivação",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,7 +1225,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "Desenvolvedor",
+      "term": "desenvolvedor",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1288,7 +1288,7 @@
       "datefirstseen": ""
     },
     "digital-signature": {
-      "term": "Assinatura digital",
+      "term": "assinatura digital",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1387,7 +1387,7 @@
       "datefirstseen": ""
     },
     "eea": {
-      "term": "Enterprise Ethereum Alliance (EEA)",
+      "term": "EEA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "Proposta de melhoria da Ethereum (EIP)",
+      "term": "Proposta de melhoria da Ethereum",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1612,7 +1612,7 @@
       "datefirstseen": ""
     },
     "execution-client": {
-      "term": "Cliente de execução",
+      "term": "cliente de execução",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1621,7 +1621,7 @@
       "datefirstseen": ""
     },
     "execution-layer": {
-      "term": "Camada de execução",
+      "term": "camada de execução",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "tolerante a falhas",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1702,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "final, finalização",
+      "term": "finalização",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1711,7 +1711,7 @@
       "datefirstseen": ""
     },
     "finality-rate": {
-      "term": "Taxa de finalização",
+      "term": "taxa de finalização",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1756,7 +1756,7 @@
       "datefirstseen": ""
     },
     "firewall": {
-      "term": "Firewall",
+      "term": "firewall",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1765,7 +1765,7 @@
       "datefirstseen": ""
     },
     "firmware": {
-      "term": "Firmware",
+      "term": "firmware",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1792,7 +1792,7 @@
       "datefirstseen": ""
     },
     "fractional-ownership": {
-      "term": "Propriedade fracionada",
+      "term": "propriedade fracionada",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1801,7 +1801,7 @@
       "datefirstseen": ""
     },
     "fraud-proof": {
-      "term": "Prova de fraude",
+      "term": "prova de fraude",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1945,7 +1945,7 @@
       "datefirstseen": ""
     },
     "governance": {
-      "term": "Governança",
+      "term": "governança",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +2017,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "Carteira hierárquica determinística (HD)",
+      "term": "carteira HD",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2062,7 +2062,7 @@
       "datefirstseen": ""
     },
     "hybrid-network": {
-      "term": "Rede híbrida",
+      "term": "rede híbrida",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +2080,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "Protocolo de comunicação interblockchain (IBC)",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2143,7 +2143,7 @@
       "datefirstseen": ""
     },
     "insider-trading": {
-      "term": "Negociação privilegiada",
+      "term": "negociação privilegiada",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2341,7 +2341,7 @@
       "datefirstseen": ""
     },
     "layer-0": {
-      "term": "Camada 0",
+      "term": "camada 0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2350,7 +2350,7 @@
       "datefirstseen": ""
     },
     "layer-1": {
-      "term": "Camada 1",
+      "term": "camada 1",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2359,7 +2359,7 @@
       "datefirstseen": ""
     },
     "layer-2": {
-      "term": "Camada 2",
+      "term": "camada 2",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2449,7 +2449,7 @@
       "datefirstseen": ""
     },
     "liquid-democracy": {
-      "term": "Democracia líquida (democracia delegativa)",
+      "term": "democracia líquida",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2458,7 +2458,7 @@
       "datefirstseen": ""
     },
     "liquidation": {
-      "term": "Liquidação",
+      "term": "liquidação",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2530,7 +2530,7 @@
       "datefirstseen": ""
     },
     "malware": {
-      "term": "Malware",
+      "term": "malware",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "pool de memória; mempool",
+      "term": "pool de memória",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2575,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "Mempool",
+      "term": "mempool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2620,7 +2620,7 @@
       "datefirstseen": ""
     },
     "metadata": {
-      "term": "Metadados",
+      "term": "metadados",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2755,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "Valor máximo extraível (MEV)",
+      "term": "MEV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2800,7 +2800,7 @@
       "datefirstseen": ""
     },
     "mint": {
-      "term": "Cunhagem",
+      "term": "cunhagem",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2872,7 +2872,7 @@
       "datefirstseen": ""
     },
     "multi-signature-wallet": {
-      "term": "carteira multiassinatura (multisig)",
+      "term": "carteira multiassinatura",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2881,7 +2881,7 @@
       "datefirstseen": ""
     },
     "nested-blockchain": {
-      "term": "Blockchain aninhada",
+      "term": "blockchain aninhada",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2890,7 +2890,7 @@
       "datefirstseen": ""
     },
     "network": {
-      "term": "Rede",
+      "term": "rede",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2908,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "Comunicação por campo de proximidade (NFC)",
+      "term": "NFC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2962,7 +2962,7 @@
       "datefirstseen": ""
     },
     "non-fungible-token": {
-      "term": "Token não fungível",
+      "term": "token não fungível",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2989,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "on-ramp, off-ramp",
+      "term": "off-ramp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "ponto a ponto (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3160,7 +3160,7 @@
       "datefirstseen": ""
     },
     "peer-to-peer": {
-      "term": "Ponto a ponto",
+      "term": "ponto a ponto",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +3223,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "Prova de autoridade (PoA)",
+      "term": "PoA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3241,7 +3241,7 @@
       "datefirstseen": ""
     },
     "portfolio": {
-      "term": "Portfolio",
+      "term": "portfolio",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "Prova de participação (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "Prova de trabalho (PoW)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3358,7 +3358,7 @@
       "datefirstseen": ""
     },
     "public-key-cryptography": {
-      "term": "Criptografia de chave pública",
+      "term": "criptografia de chave pública",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3502,7 +3502,7 @@
       "datefirstseen": ""
     },
     "roadmap": {
-      "term": "Roteiro",
+      "term": "roteiro",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3619,7 +3619,7 @@
       "datefirstseen": ""
     },
     "scaling": {
-      "term": "Dimensionamento",
+      "term": "dimensionamento",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3628,7 +3628,7 @@
       "datefirstseen": ""
     },
     "scam": {
-      "term": "Golpe",
+      "term": "golpe",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3673,7 +3673,7 @@
       "datefirstseen": ""
     },
     "search-engine": {
-      "term": "Motor de busca",
+      "term": "motor de busca",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "Oferta de token de segurança (STO)",
+      "term": "Oferta de token de segurança",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3781,7 +3781,7 @@
       "datefirstseen": ""
     },
     "shard-chain": {
-      "term": "Cadeia de fragmentos",
+      "term": "cadeia de fragmentos",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3799,7 +3799,7 @@
       "datefirstseen": ""
     },
     "shielded-transaction": {
-      "term": "Transação blindada",
+      "term": "transação blindada",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "Assinatura (criptográfica)",
+      "term": "Assinatura",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4033,7 +4033,7 @@
       "datefirstseen": ""
     },
     "streaming": {
-      "term": "Fluxo",
+      "term": "fluxo",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4204,7 +4204,7 @@
       "datefirstseen": ""
     },
     "token-standard": {
-      "term": "Padrão de token",
+      "term": "padrão de token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4213,7 +4213,7 @@
       "datefirstseen": ""
     },
     "transaction": {
-      "term": "Transação",
+      "term": "transação",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +4330,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "Valor total bloqueado (TVL)",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "chave não criptografada",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "retirar de staking",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4492,7 +4492,7 @@
       "datefirstseen": ""
     },
     "vesting": {
-      "term": "Vesting",
+      "term": "vesting",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "endereço da carteira",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "web3, Web 3.0",
+      "term": "web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +4582,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "Wei",
+      "term": "wei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4591,7 +4591,7 @@
       "datefirstseen": ""
     },
     "whitepaper": {
-      "term": "Whitepaper",
+      "term": "whitepaper",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4600,7 +4600,7 @@
       "datefirstseen": ""
     },
     "wrapping": {
-      "term": "Encapsulamento",
+      "term": "encapsulamento",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +4618,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "Chave privada estendida (XPRIV)",
+      "term": "XPRIV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +4627,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "Chave pública estendida (XPUB)",
+      "term": "XPUB",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4663,7 +4663,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-proof": {
-      "term": "Prova de conhecimento zero",
+      "term": "prova de conhecimento zero",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4672,7 +4672,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-rollup": {
-      "term": "Rollup de conhecimento zero",
+      "term": "rollup de conhecimento zero",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "DDoS",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "chave criptografada",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "ether",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "congestionamento de rede",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

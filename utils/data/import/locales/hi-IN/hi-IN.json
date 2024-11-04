@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "टू-फैक्टर ऑथेंटिकेशन (2FA)",
+      "term": "टू-फैक्टर ऑथेंटिकेशन",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -73,7 +73,7 @@
       "datefirstseen": ""
     },
     "account": {
-      "term": "Account",
+      "term": "अकाउंट",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,7 +91,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "एड्रेस/\"पब्लिक एड्रेस\" (वॉलेट एड्रेस)",
+      "term": "एड्रेस",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "AML (एंटी-मनी लॉन्ड्रिंग)",
+      "term": "AML",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +217,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +253,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC (एप्लीकेशन स्पेसिफिक इंटीग्रेटेड सर्किट)",
+      "term": "ASIC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -406,7 +406,7 @@
       "datefirstseen": ""
     },
     "block": {
-      "term": "ब्लॉक (नाउन)",
+      "term": "ब्लॉक",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "बाउंटी / बग बाउंटी",
+      "term": "बाउंटी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -640,7 +640,7 @@
       "datefirstseen": ""
     },
     "centralized-exchange": {
-      "term": "Centralized exchange",
+      "term": "सेंट्रलाइज्ड एक्सचेंज",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -685,7 +685,7 @@
       "datefirstseen": ""
     },
     "client": {
-      "term": "क्लाइंट (एथेरियम या दूसरा कम्पेटिबिल ब्लॉकचेन)",
+      "term": "क्लाइंट",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,7 +739,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "कोल्ड वॉलेट / कोल्ड स्टोरेज",
+      "term": "कोल्ड वॉलेट",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +757,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "कम्पाइलिंग",
+      "term": "कम्पाइल",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1009,7 +1009,7 @@
       "datefirstseen": ""
     },
     "custody": {
-      "term": "कस्टडी (नाउन)",
+      "term": "कस्टडी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1081,7 +1081,7 @@
       "datefirstseen": ""
     },
     "decentralized-application": {
-      "term": "decentralized application",
+      "term": "डीसेंट्रलाइज्ड एप्लीकेशन",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1099,7 +1099,7 @@
       "datefirstseen": ""
     },
     "decentralized-exchange": {
-      "term": "decentralized exchange",
+      "term": "डीसेंट्रलाइज्ड एक्सचेंज",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1108,7 +1108,7 @@
       "datefirstseen": ""
     },
     "decentralized-finance": {
-      "term": "decentralized finance",
+      "term": "डीसेंट्रलाइज्ड फाइनेंस",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1162,7 +1162,7 @@
       "datefirstseen": ""
     },
     "delegated-proof-of-stake-(dpos)": {
-      "term": "DPoS",
+      "term": "डेलिगेटेड प्रूफ ऑफ़ स्टेक (DPoS)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +1180,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "ईथर (ether) (डीनॉमिनेशन्स)",
+      "term": "डीनॉमिनेशन्स",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +1198,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "डीराइव / डेरिवेशन",
+      "term": "डीराइव",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1207,7 +1207,7 @@
       "datefirstseen": ""
     },
     "dev": {
-      "term": "dev",
+      "term": "डेव",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,7 +1225,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "Developer",
+      "term": "डेवलपर",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1315,7 +1315,7 @@
       "datefirstseen": ""
     },
     "distributed-ledger-technology": {
-      "term": "Distributed Ledger Technology",
+      "term": "डिस्ट्रिब्यूटेड लेजर टेक्नोलॉजी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1387,7 +1387,7 @@
       "datefirstseen": ""
     },
     "eea": {
-      "term": "एंटरप्राइज़ एथेरियम एलायंस (EEA)",
+      "term": "EEA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "एथेरियम इम्प्रूवमेंट प्रपोज़ल (EIP)",
+      "term": "एथेरियम इम्प्रूवमेंट प्रपोज़ल",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1567,7 +1567,7 @@
       "datefirstseen": ""
     },
     "ethereum-virtual-machine": {
-      "term": "Ethereum Virtual Machine",
+      "term": "एथेरियम वर्चुअल मशीन",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1675,7 +1675,7 @@
       "datefirstseen": ""
     },
     "faucet": {
-      "term": "फॉसेट (faucet)",
+      "term": "फॉसेट",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "ग़लती को सहन करने वाला",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1702,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "फाइनल, फाइनलिटी",
+      "term": "फाइनलिटी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1720,7 +1720,7 @@
       "datefirstseen": ""
     },
     "financial-technology": {
-      "term": "financial technology",
+      "term": "फाइनेंसियल टेक्नोलॉजी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1756,7 +1756,7 @@
       "datefirstseen": ""
     },
     "firewall": {
-      "term": "Firefox",
+      "term": "फायरवॉल",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1792,7 +1792,7 @@
       "datefirstseen": ""
     },
     "fractional-ownership": {
-      "term": "फ्रेक्शनल",
+      "term": "फ्रेक्शनल ओनरशिप",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1945,7 +1945,7 @@
       "datefirstseen": ""
     },
     "governance": {
-      "term": "Governance",
+      "term": "गवर्नेस",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1990,7 +1990,7 @@
       "datefirstseen": ""
     },
     "hardware-wallet": {
-      "term": "hardware wallet",
+      "term": "हार्डवेयर वॉलेट",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2008,7 +2008,7 @@
       "datefirstseen": ""
     },
     "hash": {
-      "term": "हैश (नाउन)",
+      "term": "हैश",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +2017,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "हायरार्कीकल डिटरमिनिस्टिक (HD) वॉलेट",
+      "term": "HD वॉलेट",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +2080,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "इंटर-ब्लॉकचेन कम्युनिकेशन (IBC) प्रोटोकॉल",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2143,7 +2143,7 @@
       "datefirstseen": ""
     },
     "insider-trading": {
-      "term": "Insider Trading",
+      "term": "इनसाइडर ट्रेडिंग",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2179,7 +2179,7 @@
       "datefirstseen": ""
     },
     "interoperability": {
-      "term": "Interoperability",
+      "term": "इंटरऑपरेबिल्टी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2269,7 +2269,7 @@
       "datefirstseen": ""
     },
     "know-your-customer": {
-      "term": "Know Your Customer",
+      "term": "अपने ग्राहक को जानें",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2278,7 +2278,7 @@
       "datefirstseen": ""
     },
     "know-your-transaction": {
-      "term": "Know Your Transaction",
+      "term": "अपने ट्रांसेक्शन को जानें",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2449,7 +2449,7 @@
       "datefirstseen": ""
     },
     "liquid-democracy": {
-      "term": "लिक्विड डेमोक्रेसी (डेलीगेटिव डेमोक्रेसी)",
+      "term": "लिक्विड डेमोक्रेसी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2458,7 +2458,7 @@
       "datefirstseen": ""
     },
     "liquidation": {
-      "term": "Liquidation",
+      "term": "लिक्विडेशन",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "मेमोरी पूल; mempool",
+      "term": "मेमोरी पूल",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2575,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "Mempool",
+      "term": "mempool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2593,7 +2593,7 @@
       "datefirstseen": ""
     },
     "merge": {
-      "term": "मर्ज (Merge) (नाउन)",
+      "term": "मर्ज",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2602,7 +2602,7 @@
       "datefirstseen": ""
     },
     "merkle-patricia-trie": {
-      "term": "मर्कल पेट्रीसिया ट्राई (Merkle Patricia trie)",
+      "term": "मर्कल पेट्रीसिया ट्राई",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2755,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "मैक्सिमम एक्सट्रैक्टेबल वैल्यू (MEV)",
+      "term": "MEV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2872,7 +2872,7 @@
       "datefirstseen": ""
     },
     "multi-signature-wallet": {
-      "term": "multi-signature wallet (multisig)",
+      "term": "मल्टी-सिग्नेचर वॉलेट",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2908,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "नियर-फील्ड कम्युनिकेशन (NFC)",
+      "term": "NFC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2971,7 +2971,7 @@
       "datefirstseen": ""
     },
     "nonce": {
-      "term": "nonce",
+      "term": "नोन्स",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2989,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "ऑन-रैंप, ऑफ-रैंप",
+      "term": "ऑफ-रैंप",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "पियर-टू-पियर (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3142,7 +3142,7 @@
       "datefirstseen": ""
     },
     "password-manager": {
-      "term": "password manager",
+      "term": "पासवर्ड मैनेजर",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3160,7 +3160,7 @@
       "datefirstseen": ""
     },
     "peer-to-peer": {
-      "term": "Peer-to-peer",
+      "term": "पियर-टू-पियर",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3196,7 +3196,7 @@
       "datefirstseen": ""
     },
     "phishing": {
-      "term": "फ़िशिंग (नाउन)",
+      "term": "फ़िशिंग",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +3223,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "प्रूफ ऑफ अथॉरिटी (PoA)",
+      "term": "PoA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3241,7 +3241,7 @@
       "datefirstseen": ""
     },
     "portfolio": {
-      "term": "Portfolio",
+      "term": "पोर्टफोलियो",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "प्रूफ ऑफ स्टेक (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "प्रूफ ऑफ वर्क (PoW)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3358,7 +3358,7 @@
       "datefirstseen": ""
     },
     "public-key-cryptography": {
-      "term": "Public-Key Cryptography",
+      "term": "पब्लिक-की क्रिप्टोग्राफी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3700,7 +3700,7 @@
       "datefirstseen": ""
     },
     "security-token": {
-      "term": "Security Token",
+      "term": "सिक्यूरिटी टोकन",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "सिक्यूरिटी टोकन ऑफरिंग (STO)",
+      "term": "सिक्यूरिटी टोकन ऑफरिंग",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3727,7 +3727,7 @@
       "datefirstseen": ""
     },
     "self-custody": {
-      "term": "सेल्फ-कस्टडी (नाउन)",
+      "term": "सेल्फ-कस्टडी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3781,7 +3781,7 @@
       "datefirstseen": ""
     },
     "shard-chain": {
-      "term": "शार्ड (Shard) चेन",
+      "term": "शार्ड चेन",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3790,7 +3790,7 @@
       "datefirstseen": ""
     },
     "sharding": {
-      "term": "शार्डिंग (sharding) (नाउन)",
+      "term": "शार्डिंग",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3799,7 +3799,7 @@
       "datefirstseen": ""
     },
     "shielded-transaction": {
-      "term": "Shielded Transaction",
+      "term": "शील्डेड ट्रांसेक्शन",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "सिग्नेचर (क्रिप्टोग्राफ़िक)",
+      "term": "सिग्नेचर",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3970,7 +3970,7 @@
       "datefirstseen": ""
     },
     "stake": {
-      "term": "stake",
+      "term": "स्टेकिं",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3979,7 +3979,7 @@
       "datefirstseen": ""
     },
     "staking": {
-      "term": "स्टेकिंग (नाउन)",
+      "term": "स्टेकिंग",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4069,7 +4069,7 @@
       "datefirstseen": ""
     },
     "swap": {
-      "term": "स्वैप ",
+      "term": "स्वैप",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4249,7 +4249,7 @@
       "datefirstseen": ""
     },
     "transaction-id": {
-      "term": "Transaction ID",
+      "term": "ट्रांसेक्शन आईडी",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4258,7 +4258,7 @@
       "datefirstseen": ""
     },
     "transaction-pool": {
-      "term": "transaction pool",
+      "term": "ट्रांसेक्शन पूल",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4303,7 +4303,7 @@
       "datefirstseen": ""
     },
     "trustless": {
-      "term": "ट्रस्टलैस (trustless)",
+      "term": "ट्रस्टलैस",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +4330,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "टोटल वैल्यू लॉक्ड (TVL)",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "अनएनक्रिप्टेड की",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4393,7 +4393,7 @@
       "datefirstseen": ""
     },
     "unspent-transaction-output": {
-      "term": "unspent transaction output",
+      "term": "अनस्पेंट ट्रांसेक्शन आउटपुट",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "अनस्टेक",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "वॉलेट एड्रेस",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "web3, Web 3.0",
+      "term": "web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +4582,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "Wei",
+      "term": "wei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +4618,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "एक्सटेंडेड प्राइवेट की (XPRIV)",
+      "term": "XPRIV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +4627,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "एक्सटेंडेड पब्लिक की (XPUB)",
+      "term": "XPUB",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "डिनायल ऑफ सर्विस (DDoS)",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "एन्क्रिप्टेड की",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "ether",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "नेटवर्क कंजेस्शन",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

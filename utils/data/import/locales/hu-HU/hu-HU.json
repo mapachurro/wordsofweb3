@@ -28,7 +28,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "kétlépcsős hitelesítés (2FA)",
+      "term": "Kétlépcsős hitelesítés",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,7 +91,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "cím/„nyilvános cím” (pénztárca címe)",
+      "term": "cím",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -199,7 +199,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "AML (pénzmosás elleni küzdelem)",
+      "term": "AML",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +217,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +253,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC (alkalmazásspecifikus integrált áramkör)",
+      "term": "Alkalmazásspecifikus integrált áramkör",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +523,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "bounty/bug bounty",
+      "term": "bounty",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -550,7 +550,7 @@
       "datefirstseen": ""
     },
     "bridge": {
-      "term": "Bridge",
+      "term": "bridge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -685,7 +685,7 @@
       "datefirstseen": ""
     },
     "client": {
-      "term": "kliens (Ethereum vagy más kompatibilis blokklánc)",
+      "term": "kliens",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,7 +739,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "hardveres pénztárca",
+      "term": "hideg tárca",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +757,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "fordítás",
+      "term": "összeállít",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1090,7 +1090,7 @@
       "datefirstseen": ""
     },
     "decentralized-autonomous-organization": {
-      "term": "decentralizált autonóm szervezet",
+      "term": "Decentralizált autonóm szervezet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +1180,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "ether",
+      "term": "valutaegységek",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,7 +1225,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "Fejlesztő",
+      "term": "fejlesztő",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1315,7 +1315,7 @@
       "datefirstseen": ""
     },
     "distributed-ledger-technology": {
-      "term": "elosztott főkönyvi technológia (DLT)",
+      "term": "elosztott főkönyvi technológia",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1540,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "Ethereum javítási protokollok (EIP)",
+      "term": "Ethereum javítási javaslat",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1684,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "hibatűrő",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1702,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "végleges, véglegesség",
+      "term": "véglegesség",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1801,7 +1801,7 @@
       "datefirstseen": ""
     },
     "fraud-proof": {
-      "term": "csalás elleni bizonyíték",
+      "term": "csalásbiztosság",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1945,7 +1945,7 @@
       "datefirstseen": ""
     },
     "governance": {
-      "term": "kormányzás",
+      "term": "irányítás",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +2017,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "hierarchikus determinisztikus (HD) pénztárca",
+      "term": "HD pénztárca",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +2080,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "blokkláncok közötti kommunikációs (IBC) protokoll",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2269,7 +2269,7 @@
       "datefirstseen": ""
     },
     "know-your-customer": {
-      "term": "Ismerd a vásárlód (KYC)",
+      "term": "Ismerd a vásárlód",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2278,7 +2278,7 @@
       "datefirstseen": ""
     },
     "know-your-transaction": {
-      "term": "Ismerd a tranzakciód (KYT)",
+      "term": "Ismerd a tranzakciód",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2449,7 +2449,7 @@
       "datefirstseen": ""
     },
     "liquid-democracy": {
-      "term": "likvid demokrácia (delegatív demokrácia)",
+      "term": "likvid demokrácia",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2458,7 +2458,7 @@
       "datefirstseen": ""
     },
     "liquidation": {
-      "term": "felszámolás",
+      "term": "likvidáció",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2566,7 +2566,7 @@
       "datefirstseen": ""
     },
     "memory-pool": {
-      "term": "memóriatár; mempool",
+      "term": "memóriatár",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2575,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "Mempool",
+      "term": "mempool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2620,7 +2620,7 @@
       "datefirstseen": ""
     },
     "metadata": {
-      "term": "Metaadatok",
+      "term": "metaadat",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2755,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "maximális kinyerhető érték (MKE)",
+      "term": "MKE (maximális kinyerhető érték)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2764,7 +2764,7 @@
       "datefirstseen": ""
     },
     "mfa": {
-      "term": "MFA",
+      "term": "többlépcsős hitelesítés",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2872,7 +2872,7 @@
       "datefirstseen": ""
     },
     "multi-signature-wallet": {
-      "term": "több aláírású pénztárca (multisig)",
+      "term": "több aláírású tárca",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2908,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "Near-Field Communication (NFC)",
+      "term": "NFC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2989,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "on-ramp, off-ramp",
+      "term": "off-ramp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3088,7 +3088,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "ponttól-pontig (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +3223,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "jogosultság igazolása (JI)",
+      "term": "jogosultság igazolása",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3241,7 +3241,7 @@
       "datefirstseen": ""
     },
     "portfolio": {
-      "term": "Portfolio",
+      "term": "portfólió",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3250,7 +3250,7 @@
       "datefirstseen": ""
     },
     "pos": {
-      "term": "Tét igazolása\n (TI)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,7 +3259,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "Munka igazolása\n(MI)",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3268,7 +3268,7 @@
       "datefirstseen": ""
     },
     "priority-fee": {
-      "term": "elsőbbségi díj",
+      "term": "Elsőbbségi díj",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3430,7 +3430,7 @@
       "datefirstseen": ""
     },
     "remote-procedure-call": {
-      "term": "távoli eljáráshívás (RPC)",
+      "term": "távoli eljáráshívás",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3502,7 +3502,7 @@
       "datefirstseen": ""
     },
     "roadmap": {
-      "term": "terv",
+      "term": "menetrend",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3682,7 +3682,7 @@
       "datefirstseen": ""
     },
     "secret-recovery-phrase": {
-      "term": "titkos helyreállítási kifejezés",
+      "term": "Titkos helyreállítási kifejezés",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3700,7 +3700,7 @@
       "datefirstseen": ""
     },
     "security-token": {
-      "term": "biztonsági zseton",
+      "term": "Biztonsági zseton",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +3709,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "biztonsági zseton ajánlat (BZA)",
+      "term": "Értékpepír token kibocsátás",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3727,7 +3727,7 @@
       "datefirstseen": ""
     },
     "self-custody": {
-      "term": "öngondnokság",
+      "term": "önálló felügyelet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3781,7 +3781,7 @@
       "datefirstseen": ""
     },
     "shard-chain": {
-      "term": "szilánk lánc",
+      "term": "shard chain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3790,7 +3790,7 @@
       "datefirstseen": ""
     },
     "sharding": {
-      "term": "méretezés",
+      "term": "szilánkolás",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3817,7 +3817,7 @@
       "datefirstseen": ""
     },
     "sidechain": {
-      "term": "oldallánc",
+      "term": "Oldallánc",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3844,7 +3844,7 @@
       "datefirstseen": ""
     },
     "signature": {
-      "term": "aláírás (kriptográfiai)",
+      "term": "Aláírás",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4204,7 +4204,7 @@
       "datefirstseen": ""
     },
     "token-standard": {
-      "term": "zseton szabvány",
+      "term": "token szabvány",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4330,7 +4330,7 @@
       "datefirstseen": ""
     },
     "tvl": {
-      "term": "teljes zárolt érték (TVL)",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +4357,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "nem titkosított kulcs",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,7 +4402,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
+      "term": "kivonás",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +4519,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "tárca címe",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +4546,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "web3, Web 3.0",
+      "term": "web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +4582,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "Wei",
+      "term": "wei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4591,7 +4591,7 @@
       "datefirstseen": ""
     },
     "whitepaper": {
-      "term": "fehér papír",
+      "term": "fehér könyv",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4600,7 +4600,7 @@
       "datefirstseen": ""
     },
     "wrapping": {
-      "term": "becsomagolni",
+      "term": "becsomagolás",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +4618,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "kiterjesztett privát kulcs (XPRIV)",
+      "term": "XPRIV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +4627,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "kiterjesztett nyilvános kulcs (XPUB)",
+      "term": "SPUB",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4663,7 +4663,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-proof": {
-      "term": "zero-knowledge proof (nullaismeretű bizonyítás)",
+      "term": "zéróismeretes bizonyítás",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4672,7 +4672,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-rollup": {
-      "term": "zero-knowledge rollup (nullaismeretű összevont tranzakció)",
+      "term": "zéróismeretes rollup",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +4682,42 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ddos": {
+      "term": "elosztott szolgáltatásmegtagadási (DDoS)",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "encrypted-key": {
+      "term": "titkosított kulcs",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "ether": {
+      "term": "ether",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "network-congestion": {
+      "term": "hálózati torlódás",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
