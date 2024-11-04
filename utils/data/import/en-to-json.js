@@ -22,14 +22,25 @@ const locale = 'en'; // Adjust the locale as needed
 // Initialize an empty object to store terms
 const terms = {};
 
+// Function to clean header names (removes 'Term' and square brackets)
+function cleanHeader(header) {
+  return header.replace(/^Term\s*/, '').replace(/[\[\]]/g, '').trim();
+}
+
 fs.createReadStream(inputFilePath)
   .pipe(csvParser())
+  .on('headers', (headers) => {
+    // Clean headers for consistent access
+    headers.forEach((header, index) => {
+      headers[index] = cleanHeader(header);
+    });
+  })
   .on('data', (row) => {
     const termData = {
-      term: row['Term'] || '',
+      term: row['en'] || '',  // Updated to match the cleaned header
       partOfSpeech: row['Part of speech'] || '',
       category: row['Term Category'] || '',
-      phonetic: row['Phonetic'] || '',
+      phonetic: row['Pronunciation (US English)'] || '', // Updated to match the column name
       definition: row['Definition'] || '',
       source: row['Source'] || '',
       dateFirstRecorded: row['Date first recorded'] || '',
