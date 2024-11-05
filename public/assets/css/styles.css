@@ -25,6 +25,19 @@
   display: block !important; /* Ensure it's visible */
 }
 
+/* Set the body background color to purple */
+body {
+  background-color: #6a1b9a; /* Replace with your exact purple color */
+}
+
+/* Ensure cards remain white with a slight shadow */
+.card {
+  background-color: #ffffff; /* White background for cards */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow for a lifted effect */
+  border-radius: 8px; /* Optional rounded corners */
+}
+
+
 @media (max-width: 767px) {
   /* Ensure the dropdown stays visible on smaller screens */
   .language-selector {
