@@ -5,7 +5,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈfɪfti wʌn pərˈsɛnt əˈtæk/",
-      "definition": "An attack, often discussed in purely theoretical terms, performed against a distributed ledger or blockchain network. /n The mechanism of the attack consists of gaining control of at least half -- more than 50% -- of the 'nodes' or 'peers' that participate in the network's consensus mechanism, i.e., sync the current state of the ledger. By gaining control of 51% of the network, the attacker could, in theory, maliciously rewrite the ledger for their own purposes. /n Solving for this attack vector is one of the key design decisions in the Bitcoin protocol, as well as Ethereum, and others. In the case of Bitcoin, this was solved through the Proof of Work consensus mechanism, wherein the difficulty involved in mining new blocks effectively prevents any one actor from gaining this sort of control.",
+      "definition": "An attack, often discussed in purely theoretical terms, performed against a distributed ledger or blockchain network. /n The mechanism of the attack consists of gaining control of at least half -- more than 50% -- of the 'nodes' or 'peers' that participate in the network's consensus mechanism, i.e., sync the current state of the ledger. By gaining control of 51% of the network, the attacker could, in theory, maliciously rewrite the ledger for their own purposes.",
+      "extended":"Solving for this attack vector is one of the key design decisions in the Bitcoin protocol, as well as Ethereum, and others. In the case of Bitcoin, this was solved through the Proof of Work consensus mechanism, wherein the difficulty involved in mining new blocks effectively prevents any one actor from gaining this sort of control.",
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": ""
     },
@@ -14,7 +15,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/əˈkaʊnt/",
-      "definition": "An account, in web1 and web2 terms, refers to some sort of identity on some sort of digital platform. It is usually tied to an authentication method, e.g., username and password, which is granted, managed, and secured by the platform or service in question. /n By contrast, a web3 or crypto account consists of what is known as a public-private key pair; the public half is generally safe to be shared publicly, and in the case of Ethereum, is further processed to create what is known as the 'public address' of the account, always beginning with '0x'. The private half, meanwhile, gives total control over the account; *total*. /n These public-private key pairs can be generated one at a time, or they can be *derived* from what is known as a **seed phrase** or **secret recovery phrase**; for more on this, see HD wallet.",
+      "definition": "An account, in web1 and web2 terms, refers to some sort of identity on some sort of digital platform. It is usually tied to an authentication method, e.g., username and password, which is granted, managed, and secured by the platform or service in question. /n By contrast, a web3 or crypto account consists of what is known as a public-private key pair; the public half is generally safe to be shared publicly, and in the case of Ethereum, is further processed to create what is known as the 'public address' of the account, always beginning with '0x'. The private half, meanwhile, gives total control over the account; *total*.",
+      "extended": "These public-private key pairs can be generated one at a time, or they can be *derived* from what is known as a **seed phrase** or **secret recovery phrase**; for more on this, see HD wallet.",
       "termSource": "Many",
       "dateFirstRecorded": ""
     },
@@ -23,7 +25,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈæd.rɛs/ \"ˈpʌblɪk ˈæd.rɛs\"",
-      "definition": "On a distributed ledger or public blockchain network, an 'address', or 'public address', is an identifier that can be used to variously locate, identify, send or receive tokens to and from, different entities. For example, on some networks, particularly EVM-style, every account will have an address, to which tokens could be sent. Smart contracts on those networks also have addresses, so that other contracts or protocols can interact with them. In Ethereum, the address begins with 0x; For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee",
+      "definition": "On a distributed ledger or public blockchain network, an 'address', or 'public address', is an identifier that can be used to variously locate, identify, send or receive tokens to and from, different entities.",
+      "extended":"For example, on some networks, particularly EVM-style, every account will have an address, to which tokens could be sent. Smart contracts on those networks also have addresses, so that other contracts or protocols can interact with them. In Ethereum, the address begins with 0x; For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee",
       "definitionSource": "James Beck, Education DAO - mapachurro",
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": ""
@@ -33,7 +36,7 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈæɡrɪˌɡeɪtər/",
-      "definition": "A platform or protocol that combines quasi-real-time information regarding the availability, liquidity, price, etc., of tokens, pools, and other decentralized finance (DeFi) instruments from multiple decentralized exchanges (DEXs), or other sources, to provide users with the best prices and the most efficient execution for their trades or other actions.",
+      "definition": "A platform or protocol that combines real-time or quasi-real-time information regarding the availability, liquidity, price, etc., of tokens, pools, and other decentralized finance (DeFi) instruments from multiple decentralized exchanges (DEXs), or other sources, ideally to provide the best prices and the most efficient execution for their trades or other actions.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -42,7 +45,8 @@
       "partOfSpeech": "verb",
       "termCategory": "",
       "phonetic": "/ˈɛrˌɡæpɪŋ/",
-      "definition": "A method for securing computers or digital devices, in which the device does not connect to the internet or any other open networks, either through a hardwired connection or WiFi. Hence, there is a 'gap made of air' between that device and any other. Many hardware wallets use air-gapping as a security mechanism to keep users' private keys, or Secret Recovery Phrase offline, and thus safer from any kind of attack. Other, one-way communication methods are sometimes employed in such devices, e.g., QR codes.",
+      "definition": "A method for securing computers or digital devices, in which the device does not connect to the internet or any other open networks, either through a hardwired connection or WiFi. Hence, there is a 'gap made of air' between that device and any other.",
+      "extended": "Many hardware wallets use air-gapping as a security mechanism to keep users' private keys, or Secret Recovery Phrase offline, and thus safer from any kind of attack. Other, one-way communication methods are sometimes employed in such devices, e.g., QR codes.",
       "definitionSource": "Education DAO - mapachurro",
       "termSource": "",
       "dateFirstRecorded": ""
@@ -52,7 +56,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈɛrˌdrɑp/",
-      "definition": "A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads. The timing, recipient sourcing and inclusion methods, tokenomics and, if applicable, potential market value of tokens received through an airdrop are the subject of extensive debate and discussion.",
+      "definition": "A token distribution method in which cryptocurrency or tokens are sent to a predeterimened set of wallet addresses.",
+      "extended": "Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads. The timing, recipient sourcing and inclusion methods, tokenomics and, if applicable, potential market value of tokens received through an airdrop are the subject of extensive debate and discussion.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -61,7 +66,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈɔltˌkɔɪn/",
-      "definition": "As Bitcoin was the first cryptocurrency, the term 'altcoin' was created to refer to 'any cryptocurrency other than Bitcoin'. The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.",
+      "definition": "As Bitcoin was the first cryptocurrency, the term 'altcoin' was created to refer to 'any cryptocurrency other than Bitcoin'.",
+      "extended": "The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.",
       "definitionSource": "James Beck, Education DAO - mapachurro",
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": ""
@@ -71,7 +77,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈæpˌtʃeɪn/",
-      "definition": "A blockchain network custom-made and optimized for a specific application's needs. An appchain is generally not a full-blown blockchain, but offers an optimized execution environment for the application, while still relying on an underlying blockchain for consensus. See also: 'blockchain trilemma', 'modular blockchain', 'Layer 2', 'Layer 3'.",
+      "definition": "A blockchain network custom-made and optimized for a specific application's needs.",
+      "extended": "An appchain generally offers an optimized execution environment for the application. Rather than being a 'monolithic' blockchain with its own executioon and consensus mechanisms, it may e.g. still rely on an underlying blockchain for consensus. See also: 'blockchain trilemma', 'modular blockchain', 'Layer 2', 'Layer 3'.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -80,7 +87,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈæsɛt ˈprɑvənəns/",
-      "definition": "Asset provenance refers to the origin, history, and ownership of a particular asset. In the crypto context, 'asset provenance' refers to the ability to trace the ownership and transfer of a specific cryptocurrency or token from its creation or minting to its current holder.",
+      "definition": "Asset provenance refers to the origin, history, and ownership of a particular asset.",
+      "extended": "In the crypto context, 'asset provenance' refers to the ability to trace the ownership and transfer of a specific cryptocurrency or token from its creation or minting to its current holder.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -89,7 +97,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˌætɪˈsteɪʃən/",
-      "definition": "Attestation in crypto refers to the process of verifying the authenticity or validity of a piece of information or a transaction on a blockchain network. Attestation is an important aspect of blockchain technology, as it helps to ensure the integrity and security of the network. In general, attestation involves a trusted third-party, or attester, verifying the authenticity of a transaction or piece of information. This can include verifying the identity of users on the network, verifying the accuracy of data, or validating the authenticity of a digital signature. One example of attestation in crypto is the use of digital signatures to authenticate transactions on a blockchain network. Digital signatures use public key cryptography to verify the identity of the sender and ensure that the transaction has not been tampered with. Another example of attestation in crypto is the use of Proof of Stake (PoS) consensus mechanisms, which rely on validators to attest to the validity of transactions on the network. Validators are responsible for verifying transactions and adding new blocks to the blockchain, and they are rewarded with cryptocurrency for their efforts. For more info, see Attestation in Ethereum.",
+      "definition": "The process of verifying the authenticity or validity of a piece of information, or a transaction, on a distributed ledger.",
+      "extended": "While that may sound vague, that's because attestations are used in a broad range of contexts, and have both been crucial to the development of key blockchain network protocols -- such as in Proof of Stake (PoS) mechanisms, in which validators *attest* to the validity of the transactions they're recording in blocks and syncing through the consensus protocol -- or in more recent developments, wherein protocols like the Ethereum Attestation Service allow for the creation of custom attestation 'schemata', publicly accessible on a network. Individual 'attestations' can then be written according to the fields and structures defined in each individual schema, stored on-chain by users executing a call to the schema and signing it with a public key.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -98,7 +107,7 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈbeɪs fiː/",
-      "definition": "Every block has a reserve price known as the 'base fee'. It is the minimum gas fee a user must pay to include a transaction in the next block.",
+      "definition": "In each block in a blockchain network, the minimum gas fee a user must pay to include a transaction in the next block.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -107,7 +116,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/blɑk/",
-      "definition": "If we think of a blockchain as consisting of a ledger that is being constantly synced between any number of different nodes (indeed, 'distributed ledger technology' is another phrase used to describe it), imagine that after a certain number of transactions have been added to the ledger and consensus has been reached among the nodes that the transactions are valid, then they are cryptographically locked into a 'block' and officially recorded; this 'block' forms the basis for the next one; in this way, they are all linked together in a chain, hence--blockchain.",
+      "definition": "A discrete, unique set of transactions sent on a public distributed ledger network, immutably recorded in a certain order.",
+      "extended":"Imagine a ledger that is being constantly synced between any number of exact copies of itself. People keep sending requests to add new entries to the ledger; these requests are transactions. When there are enough transactions ready, they get put into a specific order, and the *nodes*, each of which is keeping a copy of that ledger, reach consensus that the transactions are valid. Then, the transactions are cryptographically locked, in that order, into a 'block' and added forever to the ledger. This 'block' forms the starting point for the next one; in this way, they are all linked together in a chain, hence--blockchain.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
