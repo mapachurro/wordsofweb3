@@ -121,16 +121,6 @@
       "termSource": "",
       "dateFirstRecorded": ""
     },
-    "block-explorer": {
-      "term": "block explorer",
-      "partOfSpeech": "noun",
-      "termCategory": "",
-      "phonetic": "/blɑk ɪkˈsplɔrər/",
-      "definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way–like a phone book, or an atlas.",
-      "extended": "While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
-      "termSource": "",
-      "dateFirstRecorded": ""
-    },
     "block-height": {
       "term": "block height",
       "partOfSpeech": "noun",
@@ -177,7 +167,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈblɑkˌtʃeɪn ɪkˈsplɔrər/",
-      "definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be 'readable by anyone', finding the specific information you're interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
+      "definition": "A blockchain explorer, also known as a block explorer, is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way–like a phone book, or an atlas.",
+      "extended": "While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -186,7 +177,7 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈblɑkˌtʃeɪn traɪˈlɛmə/",
-      "definition": "Tradeoffs facing those building public blockchain networks vis-a-vis three elements: decentralization, security, and scalability (or speed). These three elements are either necessary or desireable in public distributed networks, and often, designing a system that optimizes for one compromises on another.",
+      "definition": "The name given to the tradeoffs involved in three aspects of public blockchain network design: decentralization, security, and scalability (or speed). These three elements are either necessary or desireable in public distributed networks, and often, designing a system that optimizes for one compromises on another.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -195,16 +186,19 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/breɪn ˈwɔlɪt/",
-      "definition": "A blockchain account generated from a seed phrase or password or passphrase of your choosing. Humans are not capable of generating enough entropy, or randomness, and therefore the wallets derived from these phrases are insecure; brain wallets can be brute forced by super fast computers. For this reason, brain wallet are insecure and should not be used. See also 'Seed phrase / Secret Recovery Phrase'.",
-      "termSource": "",
-      "dateFirstRecorded": ""
+      "definition": "A blockchain account generated from a seed phrase or password or passphrase made up by a human, as opposed to using a source of randomness to create it.",
+      "extended": "Humans are not capable of generating enough entropy, or randomness, and therefore the wallets derived from these phrases are insecure; brain wallets can be brute forced by super fast computers. For this reason, brain wallet are insecure and should not be used. See also 'seed phrase'', 'Secret Recovery Phrase'.",
+      "definitionSource": "MetaMask - kumavis, Education DAO - mapachurro",
+      "termSource": "MetaMask Help Center",
+      "dateFirstRecorded": "2018"
     },
     "bridge": {
       "term": "bridge",
-      "partOfSpeech": "noun",
+      "partOfSpeech": "noun, verb",
       "termCategory": "",
       "phonetic": "/brɪdʒ/",
-      "definition": "A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: “I bridged my ETH from Ethereum mainnet to Arbitrum.” Not all bridges are created equal, and you should be informed about what you’re doing before you use one. \nField Guide to bridges \n\nSee also MetaMask Bridge",
+      "definition": "A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: 'I bridged my ETH from Ethereum mainnet to Arbitrum'.",
+      "extended": "It would be fair to say both that the term 'bridge' is generally accurate, and that it does a lot of heavy lifting. The way that bridges are created, and maintained, varies from one to another, but often involve some sort of 'paired smart contracts', one on each network. These contracts would, e.g., lock, or burn, tokens on one chain, and either mint or somehow disburse an equivalent token, and amount of them, on the destination chain.", 
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -213,8 +207,9 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈbɪdl/",
-      "definition": "Ostensibly coined (see what we did there) by Gitcoin's Kevin Owocki. It reflects the Ethereum-focused mindset of not just investing in a cryptocurrency as a store of value, but rather investing in it as an ecosystem and a platform for public goods and software; it complements, in this sense, the now-infamous HODL.",
-      "termSource": "",
+      "definition": "Although coined (see what we did there) by the twitter hivemind, this term was popularized by Gitcoin's Kevin Owocki; it reflects the Ethereum-focused mindset of not just investing in a cryptocurrency as a store of value, but rather investing in it as an ecosystem and a platform for public goods and software; it complements, in this sense, the now-infamous HODL.",
+      "definitionSource": "Education DAO - mapachurro",
+      "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": ""
     },
     "byzantium-fork": {
@@ -222,7 +217,7 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/bɪˈzæn.ti.əm fɔːrk/",
-      "definition": "A 'hard fork' in the Ethereum network that occurred in October of 2017. For detailled information, see here; see also 'hard fork'.",
+      "definition": "A 'hard fork' in the Ethereum network that occurred in October of 2017. See also 'hard fork'.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
