@@ -5,7 +5,7 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈfɪfti wʌn pərˈsɛnt əˈtæk/",
-      "definition": "An attack, often discussed in purely theoretical terms, performed against a distributed ledger or blockchain network. /n The mechanism of the attack consists of gaining control of at least half -- more than 50% -- of the 'nodes' or 'peers' that participate in the network's consensus mechanism, i.e., sync the current state of the ledger. By gaining control of 51% of the network, the attacker could, in theory, maliciously rewrite the ledger for their own purposes.",
+      "definition": "An attack, often discussed in purely theoretical terms, performed against a distributed ledger or blockchain network. /n The mechanism of the attack consists of gaining control of at least half – more than 50% – of the 'nodes' or 'peers' that participate in the network's consensus mechanism, i.e., sync the current state of the ledger. By gaining control of 51% of the network, the attacker could, in theory, maliciously rewrite the ledger for their own purposes.",
       "extended":"Solving for this attack vector is one of the key design decisions in the Bitcoin protocol, as well as Ethereum, and others. In the case of Bitcoin, this was solved through the Proof of Work consensus mechanism, wherein the difficulty involved in mining new blocks effectively prevents any one actor from gaining this sort of control.",
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": ""
@@ -98,7 +98,7 @@
       "termCategory": "",
       "phonetic": "/ˌætɪˈsteɪʃən/",
       "definition": "The process of verifying the authenticity or validity of a piece of information, or a transaction, on a distributed ledger.",
-      "extended": "While that may sound vague, that's because attestations are used in a broad range of contexts, and have both been crucial to the development of key blockchain network protocols -- such as in Proof of Stake (PoS) mechanisms, in which validators *attest* to the validity of the transactions they're recording in blocks and syncing through the consensus protocol -- or in more recent developments, wherein protocols like the Ethereum Attestation Service allow for the creation of custom attestation 'schemata', publicly accessible on a network. Individual 'attestations' can then be written according to the fields and structures defined in each individual schema, stored on-chain by users executing a call to the schema and signing it with a public key.",
+      "extended": "While that may sound vague, that's because attestations are used in a broad range of contexts, and have both been crucial to the development of key blockchain network protocols – such as in Proof of Stake (PoS) mechanisms, in which validators *attest* to the validity of the transactions they're recording in blocks and syncing through the consensus protocol – or in more recent developments, wherein protocols like the Ethereum Attestation Service allow for the creation of custom attestation 'schemata', publicly accessible on a network. Individual 'attestations' can then be written according to the fields and structures defined in each individual schema, stored on-chain by users executing a call to the schema and signing it with a public key.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -117,7 +117,7 @@
       "termCategory": "",
       "phonetic": "/blɑk/",
       "definition": "A discrete, unique set of transactions sent on a public distributed ledger network, immutably recorded in a certain order.",
-      "extended":"Imagine a ledger that is being constantly synced between any number of exact copies of itself. People keep sending requests to add new entries to the ledger; these requests are transactions. When there are enough transactions ready, they get put into a specific order, and the *nodes*, each of which is keeping a copy of that ledger, reach consensus that the transactions are valid. Then, the transactions are cryptographically locked, in that order, into a 'block' and added forever to the ledger. This 'block' forms the starting point for the next one; in this way, they are all linked together in a chain, hence--blockchain.",
+      "extended":"Imagine a ledger that is being constantly synced between any number of exact copies of itself. People keep sending requests to add new entries to the ledger; these requests are transactions. When there are enough transactions ready, they get put into a specific order, and the *nodes*, each of which is keeping a copy of that ledger, reach consensus that the transactions are valid. Then, the transactions are cryptographically locked, in that order, into a 'block' and added forever to the ledger. This 'block' forms the starting point for the next one; in this way, they are all linked together in a chain, hence–blockchain.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -126,7 +126,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/blɑk ɪkˈsplɔrər/",
-      "definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
+      "definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way–like a phone book, or an atlas.",
+      "extended": "While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -135,7 +136,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/blɑk haɪt/",
-      "definition": "The number of blocks connected together in the blockchain. For example, Height 0 would be the very first block, which is also called the Genesis Block.",
+      "definition": "The number of blocks connected together in a blockchain.", 
+      "extended": "For example, Height 0 would be the very first block, which is also called the Genesis Block.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -144,7 +146,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/blɑk rɪˈwɔrd/",
-      "definition": "The reward given to a miner or validator after it has successfully hashed a transaction block. Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.",
+      "definition": "The reward given to a miner or validator after it has successfully built a block of transactions and added them to the chain.",
+      "extended":"Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -153,7 +156,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/blɑk taɪm/",
-      "definition": "When we talk about 'block time', we're referring to how long it takes for a block of transactions (see 'block') to be confirmed by the network, either by miners under PoW or by validators under PoS. See also 'Proof of Work', 'Proof of Stake'.",
+      "definition": "The amount of time it takes for a block of transactions (see also: block) to be confirmed by the network.",
+      "extended": "See also 'Proof of Work', 'Proof of Stake'.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -162,7 +166,9 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈblɑkˌtʃeɪn/",
-      "definition": "A digital ledger comprised of unchangeable, digitally recorded data in packages called blocks. Each block is ‘chained’ to the next block using a cryptographic signature. Ethereum is a public blockchain, open to the world; its digital ledger is distributed, or synced, between many nodes; these nodes arrive at consensus regarding whether a transaction is valid before encrypting it, along with a number of other valid transactions, into a block. For more on blockchain technology, see here. See also 'block'.",
+      "definition": "A model used for structuring data in a database. Unlike other types of database structures, a blockchain inherently includes a record of the order and chronology of the data stored.",
+      "extended": "What is commonly referred to as a 'blockchain' might be more precisely called 'a public blockchain network', or a 'distributed ledger network'. While they get called 'blockchains' or 'chains', this is essentially a sort of metonymic usage. A public blockchain network consists, usually, of several different parts: 1. The blockchain or ledger itself. Think of this as the 'hard drive' of the network. 2. The consensus mechanism, and the consensus layer; this keeps all the copies of the ledger in sync, and adds new transactions or entries to it. 3. An execution layer: depending on the network in question, this layer or environment may vary from a very few functions built into the same software as the consensus client, to a very complex, Turing-complete, full-on Virtual Machine environment requiring those who run it to consider hardware requirements. There are, additionally, 'downstream' aspects of any one of these blockchain networks, including wallets, private-public key derivation logic, which programming languages can be used in interacting with it, etc. etc.",
+      "definitionSource": "Education DAO - mapachurro",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -171,7 +177,7 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈblɑkˌtʃeɪn ɪkˈsplɔrər/",
-      "definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be 'readable by anyone', finding the specific information you're interested in may require indexing data off the blockchain--that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
+      "definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be 'readable by anyone', finding the specific information you're interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -432,7 +438,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/krɪpˈtɒɡrəfi/",
-      "definition": "In its broadest sense, cryptography is the art of 'hidden writing' -- using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.",
+      "definition": "In its broadest sense, cryptography is the art of 'hidden writing' – using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -567,7 +573,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˈdɪfɪkəlti bɒm/",
-      "definition": "The difficulty bomb, along with the Beacon Chain and others, was a key element of Ethereum's upgrade to Ethereum 2.0 and a Proof of Stake (PoS) consensus mechanism. As the name indicates, the difficulty bomb was a software mechanism that increased block verification difficulty, making it more expensive and difficult--eventually, prohibitively so--to mine a new block. Through economic incentive, and later, the raw limitations of computing power, this forced the shift to PoS consensus. See also 'Proof of Stake', 'the Merge'.",
+      "definition": "The difficulty bomb, along with the Beacon Chain and others, was a key element of Ethereum's upgrade to Ethereum 2.0 and a Proof of Stake (PoS) consensus mechanism. As the name indicates, the difficulty bomb was a software mechanism that increased block verification difficulty, making it more expensive and difficult–eventually, prohibitively so–to mine a new block. Through economic incentive, and later, the raw limitations of computing power, this forced the shift to PoS consensus. See also 'Proof of Stake', 'the Merge'.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -1026,7 +1032,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˈhaɪpərˌlɛdʒər/",
-      "definition": "Hyperledger is an ecosystem of open-system tools, libraries, and products designed to enable and support enterprise-grade blockchain technology. In general, the products focus on creating solutions for permissioned blockchains--that is, non-public blockchains, with alternative consensus mechanisms other than Proof of Work (PoW) or Proof of Stake (PoS). That said, there are use cases where such institutions would want to integrate with public blockchains, and for that reason Hyperledger Besu and Hyperledger Burrow are actively developed projects, the former being a Java-based Ethereum client, the latter being a smart contract platform which supports EVM bytecode.",
+      "definition": "Hyperledger is an ecosystem of open-system tools, libraries, and products designed to enable and support enterprise-grade blockchain technology. In general, the products focus on creating solutions for permissioned blockchains–that is, non-public blockchains, with alternative consensus mechanisms other than Proof of Work (PoW) or Proof of Stake (PoS). That said, there are use cases where such institutions would want to integrate with public blockchains, and for that reason Hyperledger Besu and Hyperledger Burrow are actively developed projects, the former being a Java-based Ethereum client, the latter being a smart contract platform which supports EVM bytecode.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -1314,7 +1320,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ɛn ɛf ˈtiː ˌæɡrɪˈɡeɪtər/",
-      "definition": "In the initial wave of interest in buying and selling NFTs, a number of NFT marketplaces--websites where you can buy and sell NFTs--were created. As the market matured, aggregators appeared, which offer the user the ability to view available stock and price, buy and sell across marketplaces from a single unified application. Similar to familiar web2 shopping portals, these have come to be known as NFT Marketplace Aggregators, or just NFT Aggregators.",
+      "definition": "In the initial wave of interest in buying and selling NFTs, a number of NFT marketplaces–websites where you can buy and sell NFTs–were created. As the market matured, aggregators appeared, which offer the user the ability to view available stock and price, buy and sell across marketplaces from a single unified application. Similar to familiar web2 shopping portals, these have come to be known as NFT Marketplace Aggregators, or just NFT Aggregators.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -1953,7 +1959,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/trænˈzækʃən puːl/",
-      "definition": "When a user submits a transaction to the Ethereum network--or many other networks based on Ethereum--the transaction goes into what's know as a 'transaction pool', or 'txpool' for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are 'picked up' and included in the next block, and there is currently a lot of research surrounding how this decision gets made (see 'MEV'). In Bitcoin, the transaction pool was referred to as the 'memory pool', or 'mempool', and often these terms are used interchangeably.",
+      "definition": "When a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what's know as a 'transaction pool', or 'txpool' for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are 'picked up' and included in the next block, and there is currently a lot of research surrounding how this decision gets made (see 'MEV'). In Bitcoin, the transaction pool was referred to as the 'memory pool', or 'mempool', and often these terms are used interchangeably.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -3420,7 +3426,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/bɪˈzæn.tiːn fɔːlt ˈtɒlərəns/",
-      "definition": "A Byzantine fault, or failure, is one of the most difficult failures to deal with in computer systems; this is because it takes into account the possibility that the information used to determine the current state of the system may--or may not--be reliable. While applicable in many realms of technology, this becomes of particular interest in public blockchain systems: how do we ensure that we can agree on the current state of the network when there is an incentive, often a significant financial incentive, to subvert the state of the network for one's own profit? On a more basic level, if we're coordinating a network running around the world on all kinds of different hardware and software, there are all kinds or problems that can occur that hinder the network's ability to reach consensus on its current state. Therefore, a network that has been designed and implemented to be resistant to these sorts of failures, either due to malicious intent or technical failure, is said to be Byzantine Fault Tolerant.",
+      "definition": "A Byzantine fault, or failure, is one of the most difficult failures to deal with in computer systems; this is because it takes into account the possibility that the information used to determine the current state of the system may–or may not–be reliable. While applicable in many realms of technology, this becomes of particular interest in public blockchain systems: how do we ensure that we can agree on the current state of the network when there is an incentive, often a significant financial incentive, to subvert the state of the network for one's own profit? On a more basic level, if we're coordinating a network running around the world on all kinds of different hardware and software, there are all kinds or problems that can occur that hinder the network's ability to reach consensus on its current state. Therefore, a network that has been designed and implemented to be resistant to these sorts of failures, either due to malicious intent or technical failure, is said to be Byzantine Fault Tolerant.",
       "source": "",
       "dateFirstRecorded": ""
     },
