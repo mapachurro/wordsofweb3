@@ -226,7 +226,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˌsɛntrəˈlaɪzd ɪkˈstʃeɪndʒ/, /ˈsiːˈɛks/",
-      "definition": "A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.\nCentralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.\nHowever, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.",
+      "definition": "A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.",
+      "extended": "Centralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.\nHowever, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -244,7 +245,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/tʃeɪn ˈaɪˈdiː/",
-      "definition": "A chain ID is a unique identifier that represents a blockchain network. We use it to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network.\nEthereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses. Peer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID.",
+      "definition": "A chain ID is a unique identifier that represents a blockchain network, used to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network.",
+      "extended": "Ethereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses. Peer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID.",
       "termSource": "",
       "dateFirstRecorded": ""
     },
@@ -271,7 +273,8 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/koʊld ˈstɔrɪdʒ/",
-      "definition": "cold wallet/cold storage: An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub:\nHardware Wallet Hub",
+      "definition": "A phrasing borrowed from traditional data security; specifically in crypto, 'keeping assets in cold storage' refers to keeping the private keys that control them in a way that is never connected to the internet. This can refer to technological solutions like hardware wallets, as well as more low-tech methods, like writing down an SRP and keeping it in a safe.",
+      "extended": "See also: airgapping",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -280,7 +283,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/koʊld ˈwɔlɪt/ /koʊld ˈstɔrɪdʒ/",
-      "definition": "An offline wallet that is never connected to the internet. These are often referred to as \"airgapped\" or \"cold storage\" wallets; the usage of temperature as a metaphor is to indicate both the ease with which the assets held in accounts by the wallet can be used on a network, as well as an indicator of risk. The idea here is that a \"hot\" wallet, connected to the Internet, is \"ready to use on chain\", and also has a higher risk of being compromised by bad actors. Cold storage wallets, therefore, offer much greater protection for crypto-held assets and tokens.",
+      "definition": "An offline wallet that is never connected to the internet. These are often referred to as 'airgapped' or 'cold storage' wallets; the usage of temperature as a metaphor is to indicate both the ease with which the assets held in accounts by the wallet can be used on a network, as well as an indicator of risk. The idea here is that a 'hot' wallet, connected to the Internet, is 'ready to use on chain', and also has a higher risk of being compromised by bad actors. Cold storage wallets, therefore, offer much greater protection for crypto-held assets and tokens.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -289,7 +292,8 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˌkɒnfərˈmeɪʃən/",
-      "definition": "A confirmation happens when a network has verified a blockchain transaction. Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.",
+      "definition": "A confirmation happens when a network has verified a blockchain transaction, using whatever consensus mechanism it has in place.",
+      "extended": "Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -298,7 +302,8 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/kənˈsɛnsəs/",
-      "definition": "The process used by a group of peers, or nodes, on a blockchain network to agree on the validity of transactions submitted to the network. The consensus layer is responsible for validating and verifying transactions and blocks, and for coordinating communication between nodes to achieve consensus. In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain and how the network reaches agreement on the current state of the ledger. There are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.",
+      "definition": "The process used by a group of peers, or nodes, on a blockchain network to agree on the validity of transactions submitted to the network. This process is responsible for validating and verifying transactions and blocks, and for coordinating communication between nodes to achieve consensus.",
+      "extended": "In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain, and how the network reaches agreement on the current state of the ledger. There are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -307,7 +312,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/kənˈsɛnsəs ˈklaɪənt/",
-      "definition": "A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger. See also: \"consensus mechanism\".",
+      "definition": "A consensus client is software program, part of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger. See also: 'consensus mechanism', 'client'.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -334,7 +339,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˌkɒnstænˈtɪnəpl fɔːrk/",
-      "definition": "One of the 'hard forks' made to the Ethereum network, in February 2019. For more detailed information, see here; see also 'hard fork'.",
+      "definition": "One of the 'hard forks' made to the Ethereum network, in February 2019. See also 'hard fork'.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -352,7 +357,8 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˈkɒntrækt əˈkaʊnt/",
-      "definition": "An account containing code that executes whenever it receives a transaction from another account (EOA or contract).",
+      "definition": "Generally, a contract account refers to the account that is associated with a smart contract; specifically, the public address at which the contract's methods can be called.",
+      "extended":"The interplay between accounts and contracts, as public blockchain technology has advanced, has resulted in a particularly dense semantic web. When a smart contract is deployed, the Externally Owned Account, or EOA (controlled by a human), which is used to pay the gas fees required to deploy the contract -- that is, write it to the blockchain and make it available in the first place -- is referred to as the 'contract deploying account'. The resulting smart contract itself has an account as well -- the public address which can be used to 'call', or access its methods -- that's the one we're calling, here, a 'contract account'. But don't worry, it gets significantly worse; at a certain point, new techniques began to be used, to 'abstract away' the difficulties involved in EOAs; this move towards 'account abstraction' resulted in the creation of end user-accessible, shall we say, accounts which are created and controlled by... Smart contracts (which, remember, have their own accounts). There was much soul-searching and hand-wringing in trying to figure out what to call these things; often, they are referred to as... *Smart Contract Accounts*, capitalized; that's SCA, for short.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -361,7 +367,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˈkrɪptoʊ ˈbaʊntiz/",
-      "definition": "Crypto bounties are an important rewards mechanism that blockchain projects utilize in order to secure the successful accomplishments of certain tasks required by the network. Initially, bounties were intended as a marketing tool to attract users to participate in performing validation services for blockchain projects. Today, crypto bounties have developed significantly beyond the purpose of a simple marketing tool. crypto bounties",
+      "definition": "As the entire decentralized web and crypto ecosystems rely heavily on funding mechanisms like venture capital, and a lot of the software being built is open source, there has traditionally been a large market for 'bounty-based' work, often paid in crypto.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -1261,7 +1267,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˈmʌltiˌsɪɡ/",
-      "definition": "multi-signature wallet (multisig)\nA crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction. In the crypto industry, \"multi-sig\" is used commonly as a shortened version of the full phrase \"multi-signature wallet.\"",
+      "definition": "multi-signature wallet (multisig)\nA crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction. In the crypto industry, 'multi-sig' is used commonly as a shortened version of the full phrase 'multi-signature wallet.'",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -1729,7 +1735,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˈsɪɡnətʃər/, /ˌkrɪptəˈɡræfɪk/",
-      "definition": "In the context of public blockchain networks, a \"signature\" is generally a cryptographic signature, generated by a public-private key pair. See 'Digital signature'",
+      "definition": "In the context of public blockchain networks, a 'signature' is generally a cryptographic signature, generated by a public-private key pair. See 'Digital signature'",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -1981,7 +1987,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˈtɛksɪd/",
-      "definition": "Initialism; Transaction ID. Usually a long \"hash\" string of characters identifying a particular blockchain transaction, e.g. on a blockchain explorer.",
+      "definition": "Initialism; Transaction ID. Usually a long 'hash' string of characters identifying a particular blockchain transaction, e.g. on a blockchain explorer.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -2053,7 +2059,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˈwɒlɪt əˈdrɛs/",
-      "definition": "Wallet address is a misnomer because wallets do not have addresses. This is a common misconception. Instead, a wallet can hold multiple accounts. Your individual accounts have public addresses that can be used to transact. (see \"account address\"). Although commonly used, \"wallet address\" does not exist as a concept.",
+      "definition": "Wallet address is a misnomer because wallets do not have addresses. This is a common misconception. Instead, a wallet can hold multiple accounts. Your individual accounts have public addresses that can be used to transact. (see 'account address'). Although commonly used, 'wallet address' does not exist as a concept.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -2296,7 +2302,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/kənˈsɛnsɪs/",
-      "definition": "Short for Consensus Systems, fka ConsenSys. Launched alongside the founding of the Ethereum network by Joseph Lubin, Consensys was a sort of incubator, seeking to discover, nurture, and develop software, tooling, and use cases for programmable public blockchain networks. Consensys Mesh continues to serve in this broader \"incubator\" role, while Consensys Software Inc. is a for-profit company, maintaining and producing the MetaMask wallet, the Infura and DeFura blockchain data access protocols, the Linea zkEVM Layer 2 network, and the Diligence smart contract auditing service, amongst many other products.",
+      "definition": "Short for Consensus Systems, fka ConsenSys. Launched alongside the founding of the Ethereum network by Joseph Lubin, Consensys was a sort of incubator, seeking to discover, nurture, and develop software, tooling, and use cases for programmable public blockchain networks. Consensys Mesh continues to serve in this broader 'incubator' role, while Consensys Software Inc. is a for-profit company, maintaining and producing the MetaMask wallet, the Infura and DeFura blockchain data access protocols, the Linea zkEVM Layer 2 network, and the Diligence smart contract auditing service, amongst many other products.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -3358,7 +3364,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/oʊ ɛkˈspleɪn/",
-      "definition": "0xplain (a take on the Ethereum public addres \"0x...\" format, is a set of API tools created internally at Consensys to provide in-app feedback and support for activity in a user's wallet.",
+      "definition": "0xplain (a take on the Ethereum public addres '0x...' format, is a set of API tools created internally at Consensys to provide in-app feedback and support for activity in a user's wallet.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -3403,7 +3409,7 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˈbaʊnti/ /bʌɡ ˈbaʊnti/",
-      "definition": "A reward offered for exposing vulnerabilities and issues in computer code. For this reason, often referred to as a \"bug bounty\".",
+      "definition": "A reward offered for exposing vulnerabilities and issues in computer code. For this reason, often referred to as a 'bug bounty'.",
       "source": "",
       "dateFirstRecorded": ""
     },
