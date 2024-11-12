@@ -439,7 +439,8 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/krɪpˈtɒɡrəfi/",
-      "definition": "In its broadest sense, cryptography is the art of 'hidden writing' – using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.",
+      "definition": "In its broadest sense, cryptography is the art of 'hidden writing' – using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks.",
+      "description": "Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -484,7 +485,8 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/ˌdiːsɛntrəlaɪzd ɔːˈtɒnəməs ˌɔrɡənaɪˈzeɪʃən/, /daʊ/",
-      "definition": "A Digital Decentralized Autonomous Organization (DAO, pronounced like the Chinese concept) is a powerful and very flexible organizational structure built on a blockchain. Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.",
+      "definition": "A Decentralized Autonomous Organization (DAO, pronounced like the Chinese concept) is a powerful and very flexible organizational structure built on a blockchain.",      
+      "extended": "Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.",
       "source": "",
       "dateFirstRecorded": ""
     },
@@ -493,7 +495,8 @@
       "partOfSpeech": "noun",
       "category": "",
       "phonetic": "/diːˈsɛntrəˌlaɪzd ɪksˈtʃeɪndʒ/",
-      "definition": "A decentralized exchange (DEX) is a platform for exchanging cryptocurrencies based on functionality programmed on the blockchain (i.e., in smart contracts). If cryptocurrency is web3’s monetary system, its financial system is DeFi. This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools. The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.",
+      "definition": "A decentralized exchange (DEX) is a platform for exchanging cryptocurrencies based on functionality programmed on the blockchain (i.e., in smart contracts). If cryptocurrency is web3’s monetary system, its financial system is DeFi.",
+      "extended": "This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools. The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.",
       "source": "",
       "dateFirstRecorded": ""
     },
