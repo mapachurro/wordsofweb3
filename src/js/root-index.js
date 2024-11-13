@@ -1,7 +1,7 @@
 import { initializeLanguageCodes, getAllLocalesInfo } from "./l10n.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
-  await initializeLanguageCodes(); // Make sure language codes are loaded
+  await initializeLanguageCodes(true); // Make sure language codes are loaded
 
   const userLocale = navigator.language || navigator.languages[0];
   const languageMap = getAllLocalesInfo(); // Get the full map of locale information

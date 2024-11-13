@@ -8,7 +8,7 @@ let isNode =
   process.versions != null &&
   process.versions.node != null;
 
-export async function initializeLanguageCodes() {
+export async function initializeLanguageCodes(fromRoot = false) {
   if (languageCodes) {
     return; // Already loaded
   }
@@ -27,7 +27,8 @@ export async function initializeLanguageCodes() {
 
     languageCodes = JSON.parse(fs.readFileSync(languageCodesPath, "utf-8"));
   } else {
-    const response = await fetch("./l10n/language-codes.json");
+    const path = fromRoot ? "./l10n/language-codes.json" : "../l10n/language-codes.json"
+    const response = await fetch(path);
     if (!response.ok) {
       throw new Error("Failed to load language codes");
     }
