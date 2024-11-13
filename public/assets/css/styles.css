@@ -1,9 +1,10 @@
 .navbar {
-  padding: 1rem;
-  background-color: #333; /* Dark background as you intended */
+  padding: 0.5rem 1rem; /* Adjusted padding to maintain a consistent height */
+  background-color: #333; /* Dark background */
   color: #fff;
   align-items: center;
   justify-content: space-between;
+  display: flex;
 }
 
 .logo {
@@ -19,19 +20,30 @@
   height: 40px;
 }
 
-/* Set the language selector to be full-width on smaller screens */
+/* Language selector default styling */
 .language-selector {
   max-width: 150px;
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  padding: 8px;
+  padding: 6px; /* Reduced padding for better alignment */
   font-size: 1rem;
   background-color: #4B0082;
   color: white;
   border: none;
   border-radius: 4px;
-  display: block; /* Ensure it's always visible */
+  display: block;
+}
+
+/* Responsive adjustments for the language selector */
+@media (max-width: 768px) {
+  .language-selector {
+    position: fixed !important;
+    top: 15px;
+    right: 15px;
+    z-index: 1050; /* Ensure it stays above other elements */
+    width: auto;
+    font-size: 0.9rem;
+    padding: 5px; /* Adjust padding for smaller screens */
+    display: block !important;
+  }
 }
 
 /* Set the body background color to purple */
@@ -49,8 +61,7 @@ body {
 #results-container {
   margin-top: 1rem;
   padding: 1rem;
-  padding-top: 10px;
-  background-color: #f8f9fa; /* Light background to separate results from the main background */
+  background-color: #f8f9fa; /* Light background */
   border-radius: 8px;
 }
 
@@ -62,20 +73,3 @@ body {
 #results-container li {
   margin: 0.5rem 0;
 }
-
-@media (max-width: 768px) {
-  .language-selector {
-    position: fixed;
-    top: 15px;
-    right: 15px;
-    z-index: 1050; /* Above navbar items */
-    width: auto;
-    font-size: 0.9rem;
-  }
-}
-  /* Additional padding to prevent overlap with fixed elements */
-  .navbar, .header, .search-container {
-    padding-top: 50px;
-  }
-
-
