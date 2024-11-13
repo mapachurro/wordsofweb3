@@ -1,0 +1,2074 @@
+[
+  {
+    "name": "0.-réteg",
+    "link": "0.-réteg.html"
+  },
+  {
+    "name": "0x-api",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  },
+  {
+    "name": "1.-réteg",
+    "link": "1.-réteg.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "2.-réteg",
+    "link": "2.-réteg.html"
+  },
+  {
+    "name": "3box-labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "51-os-támadás",
+    "link": "51-os-támadás.html"
+  },
+  {
+    "name": "aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "ach-átutalás",
+    "link": "ach-átutalás.html"
+  },
+  {
+    "name": "adathalászat",
+    "link": "adathalászat.html"
+  },
+  {
+    "name": "aggregátor",
+    "link": "aggregátor.html"
+  },
+  {
+    "name": "agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "agresszív",
+    "link": "agresszív.html"
+  },
+  {
+    "name": "air-gapping-(teljes-leválasztás-az-internetről)",
+    "link": "air-gapping-(teljes-leválasztás-az-internetről).html"
+  },
+  {
+    "name": "airdrop",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "airgap-vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "airswap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "alacsony",
+    "link": "alacsony.html"
+  },
+  {
+    "name": "alapdíj",
+    "link": "alapdíj.html"
+  },
+  {
+    "name": "alapértelmezett",
+    "link": "alapértelmezett.html"
+  },
+  {
+    "name": "algoritmus",
+    "link": "algoritmus.html"
+  },
+  {
+    "name": "alkalmazásspecifikus-integrált-áramkör",
+    "link": "alkalmazásspecifikus-integrált-áramkör.html"
+  },
+  {
+    "name": "altcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "aláírás",
+    "link": "aláírás.html"
+  },
+  {
+    "name": "aml",
+    "link": "aml.html"
+  },
+  {
+    "name": "api",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "apple-pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "automatikus-felismerés",
+    "link": "automatikus-felismerés.html"
+  },
+  {
+    "name": "avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "avax",
+    "link": "avax.html"
+  },
+  {
+    "name": "axie-infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "beacon-lánc",
+    "link": "beacon-lánc.html"
+  },
+  {
+    "name": "becsomagolás",
+    "link": "becsomagolás.html"
+  },
+  {
+    "name": "bejelentkezés",
+    "link": "bejelentkezés.html"
+  },
+  {
+    "name": "belső-tranzakció",
+    "link": "belső-tranzakció.html"
+  },
+  {
+    "name": "bennfentes-kereskedelem",
+    "link": "bennfentes-kereskedelem.html"
+  },
+  {
+    "name": "beolvasni",
+    "link": "beolvasni.html"
+  },
+  {
+    "name": "besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "beágyazott-blokklánc",
+    "link": "beágyazott-blokklánc.html"
+  },
+  {
+    "name": "beállítások",
+    "link": "beállítások.html"
+  },
+  {
+    "name": "binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "biometrikus-adatok",
+    "link": "biometrikus-adatok.html"
+  },
+  {
+    "name": "bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "biztonság-és-adatvédelem",
+    "link": "biztonság-és-adatvédelem.html"
+  },
+  {
+    "name": "biztonsági-mentés",
+    "link": "biztonsági-mentés.html"
+  },
+  {
+    "name": "biztonsági-zseton",
+    "link": "biztonsági-zseton.html"
+  },
+  {
+    "name": "bizánci-hibatűrés",
+    "link": "bizánci-hibatűrés.html"
+  },
+  {
+    "name": "blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "blockies",
+    "link": "blockies.html"
+  },
+  {
+    "name": "blokk-felfedező",
+    "link": "blokk-felfedező.html"
+  },
+  {
+    "name": "blokk-lánc",
+    "link": "blokk-lánc.html"
+  },
+  {
+    "name": "blokk-magasság",
+    "link": "blokk-magasság.html"
+  },
+  {
+    "name": "blokk",
+    "link": "blokk.html"
+  },
+  {
+    "name": "blokkidő",
+    "link": "blokkidő.html"
+  },
+  {
+    "name": "blokkjutalom",
+    "link": "blokkjutalom.html"
+  },
+  {
+    "name": "blokklánc-felfedező",
+    "link": "blokklánc-felfedező.html"
+  },
+  {
+    "name": "blokklánc-trilemma",
+    "link": "blokklánc-trilemma.html"
+  },
+  {
+    "name": "blue-fox",
+    "link": "blue-fox.html"
+  },
+  {
+    "name": "bnb-chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "bnb",
+    "link": "bnb.html"
+  },
+  {
+    "name": "boltozat-dekódoló",
+    "link": "boltozat-dekódoló.html"
+  },
+  {
+    "name": "bounty",
+    "link": "bounty.html"
+  },
+  {
+    "name": "brain-wallet",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "bridge",
+    "link": "bridge.html"
+  },
+  {
+    "name": "btc",
+    "link": "btc.html"
+  },
+  {
+    "name": "buidl",
+    "link": "buidl.html"
+  },
+  {
+    "name": "bytecode",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "byzantium-elágazás",
+    "link": "byzantium-elágazás.html"
+  },
+  {
+    "name": "bányász-tipp",
+    "link": "bányász-tipp.html"
+  },
+  {
+    "name": "bányász",
+    "link": "bányász.html"
+  },
+  {
+    "name": "bányászás",
+    "link": "bányászás.html"
+  },
+  {
+    "name": "böngésző",
+    "link": "böngésző.html"
+  },
+  {
+    "name": "böngészőbővítmény",
+    "link": "böngészőbővítmény.html"
+  },
+  {
+    "name": "celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "centralizált-tőzsde",
+    "link": "centralizált-tőzsde.html"
+  },
+  {
+    "name": "cex",
+    "link": "cex.html"
+  },
+  {
+    "name": "chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "coinbase-pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "coingecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "coolwallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "cryptocompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "csalásbiztosság",
+    "link": "csalásbiztosság.html"
+  },
+  {
+    "name": "csap",
+    "link": "csap.html"
+  },
+  {
+    "name": "cserél",
+    "link": "cserél.html"
+  },
+  {
+    "name": "csomópont",
+    "link": "csomópont.html"
+  },
+  {
+    "name": "csúszás",
+    "link": "csúszás.html"
+  },
+  {
+    "name": "curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "cím",
+    "link": "cím.html"
+  },
+  {
+    "name": "d'cent",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "dai",
+    "link": "dai.html"
+  },
+  {
+    "name": "dao",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "decentralizált-alkalmazás",
+    "link": "decentralizált-alkalmazás.html"
+  },
+  {
+    "name": "decentralizált-autonóm-szervezet",
+    "link": "decentralizált-autonóm-szervezet.html"
+  },
+  {
+    "name": "decentralizált-finanszírozás",
+    "link": "decentralizált-finanszírozás.html"
+  },
+  {
+    "name": "decentralizált-tőzsde",
+    "link": "decentralizált-tőzsde.html"
+  },
+  {
+    "name": "decentralizált-web",
+    "link": "decentralizált-web.html"
+  },
+  {
+    "name": "decentralizálás",
+    "link": "decentralizálás.html"
+  },
+  {
+    "name": "defi-read-api",
+    "link": "defi-read-api.html"
+  },
+  {
+    "name": "defi-write-api",
+    "link": "defi-write-api.html"
+  },
+  {
+    "name": "defi",
+    "link": "defi.html"
+  },
+  {
+    "name": "dev",
+    "link": "dev.html"
+  },
+  {
+    "name": "devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "dex",
+    "link": "dex.html"
+  },
+  {
+    "name": "digitális-aláírás",
+    "link": "digitális-aláírás.html"
+  },
+  {
+    "name": "digitális-eszköz",
+    "link": "digitális-eszköz.html"
+  },
+  {
+    "name": "digitális-identitás",
+    "link": "digitális-identitás.html"
+  },
+  {
+    "name": "diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "dlt",
+    "link": "dlt.html"
+  },
+  {
+    "name": "dpos",
+    "link": "dpos.html"
+  },
+  {
+    "name": "dupla-költés",
+    "link": "dupla-költés.html"
+  },
+  {
+    "name": "edge",
+    "link": "edge.html"
+  },
+  {
+    "name": "egyedi-nonce",
+    "link": "egyedi-nonce.html"
+  },
+  {
+    "name": "egyenleg",
+    "link": "egyenleg.html"
+  },
+  {
+    "name": "egyesítés",
+    "link": "egyesítés.html"
+  },
+  {
+    "name": "eip-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "elosztott-főkönyvi-technológia",
+    "link": "elosztott-főkönyvi-technológia.html"
+  },
+  {
+    "name": "elosztott-szolgáltatásmegtagadási-(ddos)-támadás",
+    "link": "elosztott-szolgáltatásmegtagadási-(ddos)-támadás.html"
+  },
+  {
+    "name": "elosztott-szolgáltatásmegtagadási-(ddos)",
+    "link": "elosztott-szolgáltatásmegtagadási-(ddos).html"
+  },
+  {
+    "name": "elrejtés",
+    "link": "elrejtés.html"
+  },
+  {
+    "name": "elsőbbségi-díj",
+    "link": "elsőbbségi-díj.html"
+  },
+  {
+    "name": "eltávolítás",
+    "link": "eltávolítás.html"
+  },
+  {
+    "name": "elutasítás",
+    "link": "elutasítás.html"
+  },
+  {
+    "name": "elágazás",
+    "link": "elágazás.html"
+  },
+  {
+    "name": "engedély",
+    "link": "engedély.html"
+  },
+  {
+    "name": "engedélyezett-főkönyv",
+    "link": "engedélyezett-főkönyv.html"
+  },
+  {
+    "name": "engedélyezés",
+    "link": "engedélyezés.html"
+  },
+  {
+    "name": "ens",
+    "link": "ens.html"
+  },
+  {
+    "name": "enterprise-ethereum-alliance-(eea)",
+    "link": "enterprise-ethereum-alliance-(eea).html"
+  },
+  {
+    "name": "entrópia",
+    "link": "entrópia.html"
+  },
+  {
+    "name": "erc-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "erc-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "erc-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "erc",
+    "link": "erc.html"
+  },
+  {
+    "name": "eszköz-eredete",
+    "link": "eszköz-eredete.html"
+  },
+  {
+    "name": "eszköz",
+    "link": "eszköz.html"
+  },
+  {
+    "name": "eth",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "ethereum-2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "ethereum-javítási-javaslat",
+    "link": "ethereum-javítási-javaslat.html"
+  },
+  {
+    "name": "ethereum-mainnet",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "ethereum-névszolgáltatás",
+    "link": "ethereum-névszolgáltatás.html"
+  },
+  {
+    "name": "ethereum-virtuális-gép",
+    "link": "ethereum-virtuális-gép.html"
+  },
+  {
+    "name": "ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "eur",
+    "link": "eur.html"
+  },
+  {
+    "name": "evm",
+    "link": "evm.html"
+  },
+  {
+    "name": "exportálás",
+    "link": "exportálás.html"
+  },
+  {
+    "name": "fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "fehér-könyv",
+    "link": "fehér-könyv.html"
+  },
+  {
+    "name": "fejlesztő",
+    "link": "fejlesztő.html"
+  },
+  {
+    "name": "feleződés",
+    "link": "feleződés.html"
+  },
+  {
+    "name": "felfedés",
+    "link": "felfedés.html"
+  },
+  {
+    "name": "felgyorsítani",
+    "link": "felgyorsítani.html"
+  },
+  {
+    "name": "felhasználatlan-tranzakció-kimenet",
+    "link": "felhasználatlan-tranzakció-kimenet.html"
+  },
+  {
+    "name": "fenyegető-állapot",
+    "link": "fenyegető-állapot.html"
+  },
+  {
+    "name": "fiat-valuta",
+    "link": "fiat-valuta.html"
+  },
+  {
+    "name": "figyelmeztetések",
+    "link": "figyelmeztetések.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "fintech",
+    "link": "fintech.html"
+  },
+  {
+    "name": "firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "firmware",
+    "link": "firmware.html"
+  },
+  {
+    "name": "fiók",
+    "link": "fiók.html"
+  },
+  {
+    "name": "flask",
+    "link": "flask.html"
+  },
+  {
+    "name": "fogadás",
+    "link": "fogadás.html"
+  },
+  {
+    "name": "forrás",
+    "link": "forrás.html"
+  },
+  {
+    "name": "frissíteni",
+    "link": "frissíteni.html"
+  },
+  {
+    "name": "ftm",
+    "link": "ftm.html"
+  },
+  {
+    "name": "függőben-lévő",
+    "link": "függőben-lévő.html"
+  },
+  {
+    "name": "ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gbp",
+    "link": "gbp.html"
+  },
+  {
+    "name": "genesis-blokk",
+    "link": "genesis-blokk.html"
+  },
+  {
+    "name": "gigawei",
+    "link": "gigawei.html"
+  },
+  {
+    "name": "gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "github",
+    "link": "github.html"
+  },
+  {
+    "name": "goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "gsn",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "gáz-limit",
+    "link": "gáz-limit.html"
+  },
+  {
+    "name": "gáz-ár",
+    "link": "gáz-ár.html"
+  },
+  {
+    "name": "gáz",
+    "link": "gáz.html"
+  },
+  {
+    "name": "gázdíj",
+    "link": "gázdíj.html"
+  },
+  {
+    "name": "haladó",
+    "link": "haladó.html"
+  },
+  {
+    "name": "hard-fork",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "hardver-pénztárca",
+    "link": "hardver-pénztárca.html"
+  },
+  {
+    "name": "harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "hash",
+    "link": "hash.html"
+  },
+  {
+    "name": "hd-pénztárca",
+    "link": "hd-pénztárca.html"
+  },
+  {
+    "name": "hexadecimális-adatok",
+    "link": "hexadecimális-adatok.html"
+  },
+  {
+    "name": "hiba",
+    "link": "hiba.html"
+  },
+  {
+    "name": "hibajelentés",
+    "link": "hibajelentés.html"
+  },
+  {
+    "name": "hibatűrő",
+    "link": "hibatűrő.html"
+  },
+  {
+    "name": "hibrid-hálózat",
+    "link": "hibrid-hálózat.html"
+  },
+  {
+    "name": "hideg-tárca",
+    "link": "hideg-tárca.html"
+  },
+  {
+    "name": "hideg-tárolás",
+    "link": "hideg-tárolás.html"
+  },
+  {
+    "name": "hivatkozás",
+    "link": "hivatkozás.html"
+  },
+  {
+    "name": "hozamgazdálkodás",
+    "link": "hozamgazdálkodás.html"
+  },
+  {
+    "name": "hozamot-hordozó-tokenek",
+    "link": "hozamot-hordozó-tokenek.html"
+  },
+  {
+    "name": "hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "háló",
+    "link": "háló.html"
+  },
+  {
+    "name": "hálózat",
+    "link": "hálózat.html"
+  },
+  {
+    "name": "hálózati-torlódás",
+    "link": "hálózati-torlódás.html"
+  },
+  {
+    "name": "ibc",
+    "link": "ibc.html"
+  },
+  {
+    "name": "ico",
+    "link": "ico.html"
+  },
+  {
+    "name": "id",
+    "link": "id.html"
+  },
+  {
+    "name": "identicon",
+    "link": "identicon.html"
+  },
+  {
+    "name": "importálás",
+    "link": "importálás.html"
+  },
+  {
+    "name": "infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "interoperabilitás",
+    "link": "interoperabilitás.html"
+  },
+  {
+    "name": "interplanetary-file-system-(ipfs)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "intézményi",
+    "link": "intézményi.html"
+  },
+  {
+    "name": "ip-cím",
+    "link": "ip-cím.html"
+  },
+  {
+    "name": "ipfs",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "ipo",
+    "link": "ipo.html"
+  },
+  {
+    "name": "irányítás",
+    "link": "irányítás.html"
+  },
+  {
+    "name": "ismerd-a-tranzakciód",
+    "link": "ismerd-a-tranzakciód.html"
+  },
+  {
+    "name": "ismerd-a-vásárlód",
+    "link": "ismerd-a-vásárlód.html"
+  },
+  {
+    "name": "ismeretlen",
+    "link": "ismeretlen.html"
+  },
+  {
+    "name": "jazzicons",
+    "link": "jazzicons.html"
+  },
+  {
+    "name": "jelszó",
+    "link": "jelszó.html"
+  },
+  {
+    "name": "jelszókezelő",
+    "link": "jelszókezelő.html"
+  },
+  {
+    "name": "jogosultság-igazolása",
+    "link": "jogosultság-igazolása.html"
+  },
+  {
+    "name": "json-fájl",
+    "link": "json-fájl.html"
+  },
+  {
+    "name": "json-rpc",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "jóváhagyás",
+    "link": "jóváhagyás.html"
+  },
+  {
+    "name": "keresés",
+    "link": "keresés.html"
+  },
+  {
+    "name": "keresőmotor",
+    "link": "keresőmotor.html"
+  },
+  {
+    "name": "kihagyás",
+    "link": "kihagyás.html"
+  },
+  {
+    "name": "kinyitni",
+    "link": "kinyitni.html"
+  },
+  {
+    "name": "kivonás",
+    "link": "kivonás.html"
+  },
+  {
+    "name": "kliens",
+    "link": "kliens.html"
+  },
+  {
+    "name": "konstantinápolyi-elágazás",
+    "link": "konstantinápolyi-elágazás.html"
+  },
+  {
+    "name": "konszenzus-mechanizmusa",
+    "link": "konszenzus-mechanizmusa.html"
+  },
+  {
+    "name": "konszenzus",
+    "link": "konszenzus.html"
+  },
+  {
+    "name": "konszenzusos-kliens",
+    "link": "konszenzusos-kliens.html"
+  },
+  {
+    "name": "konszenzusos-réteg",
+    "link": "konszenzusos-réteg.html"
+  },
+  {
+    "name": "korszak",
+    "link": "korszak.html"
+  },
+  {
+    "name": "kovan-teszthálózat",
+    "link": "kovan-teszthálózat.html"
+  },
+  {
+    "name": "kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "kripto-",
+    "link": "kripto-.html"
+  },
+  {
+    "name": "kripto-alap",
+    "link": "kripto-alap.html"
+  },
+  {
+    "name": "kripto-engedékenység",
+    "link": "kripto-engedékenység.html"
+  },
+  {
+    "name": "kripto-tárca",
+    "link": "kripto-tárca.html"
+  },
+  {
+    "name": "kriptoeszköz",
+    "link": "kriptoeszköz.html"
+  },
+  {
+    "name": "kriptográfia",
+    "link": "kriptográfia.html"
+  },
+  {
+    "name": "kriptojutalmak",
+    "link": "kriptojutalmak.html"
+  },
+  {
+    "name": "kriptovaluta",
+    "link": "kriptovaluta.html"
+  },
+  {
+    "name": "kriptoökonómia",
+    "link": "kriptoökonómia.html"
+  },
+  {
+    "name": "kulcstároló-fájl",
+    "link": "kulcstároló-fájl.html"
+  },
+  {
+    "name": "kyc",
+    "link": "kyc.html"
+  },
+  {
+    "name": "kyt",
+    "link": "kyt.html"
+  },
+  {
+    "name": "kérelem",
+    "link": "kérelem.html"
+  },
+  {
+    "name": "kérelmezni",
+    "link": "kérelmezni.html"
+  },
+  {
+    "name": "késleltetés",
+    "link": "késleltetés.html"
+  },
+  {
+    "name": "kétlépcsős-hitelesítés",
+    "link": "kétlépcsős-hitelesítés.html"
+  },
+  {
+    "name": "kísérleti",
+    "link": "kísérleti.html"
+  },
+  {
+    "name": "könnyű-kliens",
+    "link": "könnyű-kliens.html"
+  },
+  {
+    "name": "könyvtár",
+    "link": "könyvtár.html"
+  },
+  {
+    "name": "közösségi-platform",
+    "link": "közösségi-platform.html"
+  },
+  {
+    "name": "küldés",
+    "link": "küldés.html"
+  },
+  {
+    "name": "lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "launchpad",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "ledger-live-app",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "ledger-live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "letiltás",
+    "link": "letiltás.html"
+  },
+  {
+    "name": "letét",
+    "link": "letét.html"
+  },
+  {
+    "name": "letöltés",
+    "link": "letöltés.html"
+  },
+  {
+    "name": "lezárni",
+    "link": "lezárni.html"
+  },
+  {
+    "name": "lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "lightning-network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "likvid-demokrácia",
+    "link": "likvid-demokrácia.html"
+  },
+  {
+    "name": "likviditás",
+    "link": "likviditás.html"
+  },
+  {
+    "name": "likviditási-pool",
+    "link": "likviditási-pool.html"
+  },
+  {
+    "name": "likviditási-részesedés",
+    "link": "likviditási-részesedés.html"
+  },
+  {
+    "name": "likvidáció",
+    "link": "likvidáció.html"
+  },
+  {
+    "name": "linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "láncazonosító",
+    "link": "láncazonosító.html"
+  },
+  {
+    "name": "láncon-belül",
+    "link": "láncon-belül.html"
+  },
+  {
+    "name": "láncon-kívüli",
+    "link": "láncon-kívüli.html"
+  },
+  {
+    "name": "létrehozás",
+    "link": "létrehozás.html"
+  },
+  {
+    "name": "magkifejezés",
+    "link": "magkifejezés.html"
+  },
+  {
+    "name": "magánvaluta",
+    "link": "magánvaluta.html"
+  },
+  {
+    "name": "mainnet",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "maker-protokoll",
+    "link": "maker-protokoll.html"
+  },
+  {
+    "name": "matic",
+    "link": "matic.html"
+  },
+  {
+    "name": "maximális-elsőbbségi-díj",
+    "link": "maximális-elsőbbségi-díj.html"
+  },
+  {
+    "name": "megerősítés",
+    "link": "megerősítés.html"
+  },
+  {
+    "name": "megjelenítés",
+    "link": "megjelenítés.html"
+  },
+  {
+    "name": "megszakadt",
+    "link": "megszakadt.html"
+  },
+  {
+    "name": "megváltoztathatatlanság",
+    "link": "megváltoztathatatlanság.html"
+  },
+  {
+    "name": "meleg-tárolás",
+    "link": "meleg-tárolás.html"
+  },
+  {
+    "name": "melegtárca",
+    "link": "melegtárca.html"
+  },
+  {
+    "name": "mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "memóriatár",
+    "link": "memóriatár.html"
+  },
+  {
+    "name": "menetrend",
+    "link": "menetrend.html"
+  },
+  {
+    "name": "mentés",
+    "link": "mentés.html"
+  },
+  {
+    "name": "mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "merkle-patricia-trie",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "metaadat",
+    "link": "metaadat.html"
+  },
+  {
+    "name": "metamask-activity",
+    "link": "metamask-activity.html"
+  },
+  {
+    "name": "metamask-bridge",
+    "link": "metamask-bridge.html"
+  },
+  {
+    "name": "metamask-extension",
+    "link": "metamask-extension.html"
+  },
+  {
+    "name": "metamask-flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "metamask-institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "metamask-közösségi-platform",
+    "link": "metamask-közösségi-platform.html"
+  },
+  {
+    "name": "metamask-learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "metamask-sdk",
+    "link": "metamask-sdk.html"
+  },
+  {
+    "name": "metamask-snaps",
+    "link": "metamask-snaps.html"
+  },
+  {
+    "name": "metamask-swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metamask-támogatás",
+    "link": "metamask-támogatás.html"
+  },
+  {
+    "name": "metamask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "metametrics",
+    "link": "metametrics.html"
+  },
+  {
+    "name": "metaverzum",
+    "link": "metaverzum.html"
+  },
+  {
+    "name": "mke-(maximális-kinyerhető-érték)",
+    "link": "mke-(maximális-kinyerhető-érték).html"
+  },
+  {
+    "name": "mmi",
+    "link": "mmi.html"
+  },
+  {
+    "name": "mnemonikus-szókapcsolat",
+    "link": "mnemonikus-szókapcsolat.html"
+  },
+  {
+    "name": "mobikwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "moduláris-blokklánc",
+    "link": "moduláris-blokklánc.html"
+  },
+  {
+    "name": "moonpay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "másolás",
+    "link": "másolás.html"
+  },
+  {
+    "name": "méretezhetőség",
+    "link": "méretezhetőség.html"
+  },
+  {
+    "name": "méretezés",
+    "link": "méretezés.html"
+  },
+  {
+    "name": "nehézség",
+    "link": "nehézség.html"
+  },
+  {
+    "name": "nehézségi-bomba",
+    "link": "nehézségi-bomba.html"
+  },
+  {
+    "name": "nem-helyettesíthető-token",
+    "link": "nem-helyettesíthető-token.html"
+  },
+  {
+    "name": "nem-titkosított-kulcs",
+    "link": "nem-titkosított-kulcs.html"
+  },
+  {
+    "name": "nfc",
+    "link": "nfc.html"
+  },
+  {
+    "name": "nft-aggregátor",
+    "link": "nft-aggregátor.html"
+  },
+  {
+    "name": "nft-csepp",
+    "link": "nft-csepp.html"
+  },
+  {
+    "name": "nft",
+    "link": "nft.html"
+  },
+  {
+    "name": "ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "nonce",
+    "link": "nonce.html"
+  },
+  {
+    "name": "nulla-cím",
+    "link": "nulla-cím.html"
+  },
+  {
+    "name": "nyilvános-blokklánc",
+    "link": "nyilvános-blokklánc.html"
+  },
+  {
+    "name": "nyilvános-cím",
+    "link": "nyilvános-cím.html"
+  },
+  {
+    "name": "nyilvános-kulcs",
+    "link": "nyilvános-kulcs.html"
+  },
+  {
+    "name": "nyilvános-kulcsú-infrastruktúra",
+    "link": "nyilvános-kulcsú-infrastruktúra.html"
+  },
+  {
+    "name": "nyilvános-kulcsú-kriptográfia",
+    "link": "nyilvános-kulcsú-kriptográfia.html"
+  },
+  {
+    "name": "névjegyek",
+    "link": "névjegyek.html"
+  },
+  {
+    "name": "off-ramp",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "okos-szerződés",
+    "link": "okos-szerződés.html"
+  },
+  {
+    "name": "okosszerződés",
+    "link": "okosszerződés.html"
+  },
+  {
+    "name": "oktatóanyag",
+    "link": "oktatóanyag.html"
+  },
+  {
+    "name": "oldallánc",
+    "link": "oldallánc.html"
+  },
+  {
+    "name": "ommer-blokk",
+    "link": "ommer-blokk.html"
+  },
+  {
+    "name": "on-ramp",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "one",
+    "link": "one.html"
+  },
+  {
+    "name": "opcionális",
+    "link": "opcionális.html"
+  },
+  {
+    "name": "opensea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "optimista-összesítés",
+    "link": "optimista-összesítés.html"
+  },
+  {
+    "name": "oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "p2p",
+    "link": "p2p.html"
+  },
+  {
+    "name": "palm",
+    "link": "palm.html"
+  },
+  {
+    "name": "paraswap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "paritás",
+    "link": "paritás.html"
+  },
+  {
+    "name": "paypal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "pki",
+    "link": "pki.html"
+  },
+  {
+    "name": "plazma",
+    "link": "plazma.html"
+  },
+  {
+    "name": "polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "ponttól-pontig",
+    "link": "ponttól-pontig.html"
+  },
+  {
+    "name": "portfólió",
+    "link": "portfólió.html"
+  },
+  {
+    "name": "pos",
+    "link": "pos.html"
+  },
+  {
+    "name": "pow",
+    "link": "pow.html"
+  },
+  {
+    "name": "privát-blokklánc",
+    "link": "privát-blokklánc.html"
+  },
+  {
+    "name": "privát-kulcs",
+    "link": "privát-kulcs.html"
+  },
+  {
+    "name": "proof-of-stake",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "proof-of-work",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "protokoll",
+    "link": "protokoll.html"
+  },
+  {
+    "name": "pénztárca",
+    "link": "pénztárca.html"
+  },
+  {
+    "name": "pénzverés",
+    "link": "pénzverés.html"
+  },
+  {
+    "name": "pénzügyi-technológia",
+    "link": "pénzügyi-technológia.html"
+  },
+  {
+    "name": "qr-kód",
+    "link": "qr-kód.html"
+  },
+  {
+    "name": "quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "rinkeby-teszthálózat",
+    "link": "rinkeby-teszthálózat.html"
+  },
+  {
+    "name": "rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "rocket-pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "rollupok",
+    "link": "rollupok.html"
+  },
+  {
+    "name": "ropsten-teszthálózat",
+    "link": "ropsten-teszthálózat.html"
+  },
+  {
+    "name": "ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "rosszindulatú",
+    "link": "rosszindulatú.html"
+  },
+  {
+    "name": "rpc",
+    "link": "rpc.html"
+  },
+  {
+    "name": "rug-pull",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "rés",
+    "link": "rés.html"
+  },
+  {
+    "name": "rólunk",
+    "link": "rólunk.html"
+  },
+  {
+    "name": "safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "samsung-pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "sandbox-(homokozó)",
+    "link": "sandbox-(homokozó).html"
+  },
+  {
+    "name": "sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "satoshi-nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "sdk",
+    "link": "sdk.html"
+  },
+  {
+    "name": "sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "shard-chain",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "sikertelen",
+    "link": "sikertelen.html"
+  },
+  {
+    "name": "snap",
+    "link": "snap.html"
+  },
+  {
+    "name": "snaps-(metamask-snaps)",
+    "link": "snaps-(metamask-snaps).html"
+  },
+  {
+    "name": "snapshots-api",
+    "link": "snapshots-api.html"
+  },
+  {
+    "name": "soft-fork",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "sorozatosítás",
+    "link": "sorozatosítás.html"
+  },
+  {
+    "name": "spub",
+    "link": "spub.html"
+  },
+  {
+    "name": "stabil-érme",
+    "link": "stabil-érme.html"
+  },
+  {
+    "name": "stake",
+    "link": "stake.html"
+  },
+  {
+    "name": "staking",
+    "link": "staking.html"
+  },
+  {
+    "name": "sto",
+    "link": "sto.html"
+  },
+  {
+    "name": "streaming",
+    "link": "streaming.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "szerkesztés",
+    "link": "szerkesztés.html"
+  },
+  {
+    "name": "szerződéses-számla",
+    "link": "szerződéses-számla.html"
+  },
+  {
+    "name": "szilánkolás",
+    "link": "szilánkolás.html"
+  },
+  {
+    "name": "szimbólum",
+    "link": "szimbólum.html"
+  },
+  {
+    "name": "származásszármaztatás",
+    "link": "származásszármaztatás.html"
+  },
+  {
+    "name": "tanúsítvány",
+    "link": "tanúsítvány.html"
+  },
+  {
+    "name": "teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "telepítés",
+    "link": "telepítés.html"
+  },
+  {
+    "name": "teljes-csomópont",
+    "link": "teljes-csomópont.html"
+  },
+  {
+    "name": "testnet",
+    "link": "testnet.html"
+  },
+  {
+    "name": "tippek",
+    "link": "tippek.html"
+  },
+  {
+    "name": "titkos-helyreállítási-kifejezés",
+    "link": "titkos-helyreállítási-kifejezés.html"
+  },
+  {
+    "name": "titkosított-kulcs",
+    "link": "titkosított-kulcs.html"
+  },
+  {
+    "name": "titkosított-vs.-titkosítatlan-kulcsok",
+    "link": "titkosított-vs.-titkosítatlan-kulcsok.html"
+  },
+  {
+    "name": "titkosítás",
+    "link": "titkosítás.html"
+  },
+  {
+    "name": "token-azonosító",
+    "link": "token-azonosító.html"
+  },
+  {
+    "name": "token-szabvány",
+    "link": "token-szabvány.html"
+  },
+  {
+    "name": "token-zárolás",
+    "link": "token-zárolás.html"
+  },
+  {
+    "name": "token",
+    "link": "token.html"
+  },
+  {
+    "name": "transaction-history-api",
+    "link": "transaction-history-api.html"
+  },
+  {
+    "name": "transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "tranzakció-azonosító",
+    "link": "tranzakció-azonosító.html"
+  },
+  {
+    "name": "tranzakció",
+    "link": "tranzakció.html"
+  },
+  {
+    "name": "tranzakciós-blokk",
+    "link": "tranzakciós-blokk.html"
+  },
+  {
+    "name": "tranzakciós-díj",
+    "link": "tranzakciós-díj.html"
+  },
+  {
+    "name": "tranzakciós-készlet",
+    "link": "tranzakciós-készlet.html"
+  },
+  {
+    "name": "trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "trustless",
+    "link": "trustless.html"
+  },
+  {
+    "name": "turing-teljes",
+    "link": "turing-teljes.html"
+  },
+  {
+    "name": "tvl",
+    "link": "tvl.html"
+  },
+  {
+    "name": "txid",
+    "link": "txid.html"
+  },
+  {
+    "name": "támogatás",
+    "link": "támogatás.html"
+  },
+  {
+    "name": "támogatóközpont",
+    "link": "támogatóközpont.html"
+  },
+  {
+    "name": "tárca-címe",
+    "link": "tárca-címe.html"
+  },
+  {
+    "name": "tárolás",
+    "link": "tárolás.html"
+  },
+  {
+    "name": "távoli-eljáráshívás",
+    "link": "távoli-eljáráshívás.html"
+  },
+  {
+    "name": "téma",
+    "link": "téma.html"
+  },
+  {
+    "name": "több-aláírású-tárca",
+    "link": "több-aláírású-tárca.html"
+  },
+  {
+    "name": "több-aláírású",
+    "link": "több-aláírású.html"
+  },
+  {
+    "name": "többlépcsős-hitelesítés",
+    "link": "többlépcsős-hitelesítés.html"
+  },
+  {
+    "name": "többtényezős-hitelesítés",
+    "link": "többtényezős-hitelesítés.html"
+  },
+  {
+    "name": "töltőállomás-hálózat",
+    "link": "töltőállomás-hálózat.html"
+  },
+  {
+    "name": "töredéktulajdon",
+    "link": "töredéktulajdon.html"
+  },
+  {
+    "name": "törlés",
+    "link": "törlés.html"
+  },
+  {
+    "name": "tőkepiac",
+    "link": "tőkepiac.html"
+  },
+  {
+    "name": "tőzsde",
+    "link": "tőzsde.html"
+  },
+  {
+    "name": "tűzfal",
+    "link": "tűzfal.html"
+  },
+  {
+    "name": "u2f",
+    "link": "u2f.html"
+  },
+  {
+    "name": "unswap",
+    "link": "unswap.html"
+  },
+  {
+    "name": "url",
+    "link": "url.html"
+  },
+  {
+    "name": "usd",
+    "link": "usd.html"
+  },
+  {
+    "name": "utxo",
+    "link": "utxo.html"
+  },
+  {
+    "name": "validium",
+    "link": "validium.html"
+  },
+  {
+    "name": "valutaegységek",
+    "link": "valutaegységek.html"
+  },
+  {
+    "name": "vesting",
+    "link": "vesting.html"
+  },
+  {
+    "name": "villagedao",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "visszavonás",
+    "link": "visszavonás.html"
+  },
+  {
+    "name": "visszaállítani",
+    "link": "visszaállítani.html"
+  },
+  {
+    "name": "visszaállítás",
+    "link": "visszaállítás.html"
+  },
+  {
+    "name": "váltani",
+    "link": "váltani.html"
+  },
+  {
+    "name": "védett-tranzakció",
+    "link": "védett-tranzakció.html"
+  },
+  {
+    "name": "véglegesség",
+    "link": "véglegesség.html"
+  },
+  {
+    "name": "véglegességi-arány",
+    "link": "véglegességi-arány.html"
+  },
+  {
+    "name": "végrehajtási-kliens",
+    "link": "végrehajtási-kliens.html"
+  },
+  {
+    "name": "végrehajtási-réteg",
+    "link": "végrehajtási-réteg.html"
+  },
+  {
+    "name": "walletconnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "web-3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "webhid",
+    "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
+  },
+  {
+    "name": "websocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "xpriv",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "zk-snarks",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "zéróismeretes-bizonyítás",
+    "link": "zéróismeretes-bizonyítás.html"
+  },
+  {
+    "name": "zéróismeretes-rollup",
+    "link": "zéróismeretes-rollup.html"
+  },
+  {
+    "name": "állapot",
+    "link": "állapot.html"
+  },
+  {
+    "name": "állapoti-csatornák",
+    "link": "állapoti-csatornák.html"
+  },
+  {
+    "name": "állapotnaplók",
+    "link": "állapotnaplók.html"
+  },
+  {
+    "name": "általános",
+    "link": "általános.html"
+  },
+  {
+    "name": "átverés",
+    "link": "átverés.html"
+  },
+  {
+    "name": "átvinni",
+    "link": "átvinni.html"
+  },
+  {
+    "name": "átváltás",
+    "link": "átváltás.html"
+  },
+  {
+    "name": "érme",
+    "link": "érme.html"
+  },
+  {
+    "name": "értékpepír-token-kibocsátás",
+    "link": "értékpepír-token-kibocsátás.html"
+  },
+  {
+    "name": "érvényességi-igazolás",
+    "link": "érvényességi-igazolás.html"
+  },
+  {
+    "name": "érvényesítő",
+    "link": "érvényesítő.html"
+  },
+  {
+    "name": "érvénytelen",
+    "link": "érvénytelen.html"
+  },
+  {
+    "name": "éter-(eth)",
+    "link": "éter-(eth).html"
+  },
+  {
+    "name": "ökoszisztéma",
+    "link": "ökoszisztéma.html"
+  },
+  {
+    "name": "önvégrehajtó",
+    "link": "önvégrehajtó.html"
+  },
+  {
+    "name": "önálló-felügyelet",
+    "link": "önálló-felügyelet.html"
+  },
+  {
+    "name": "összekötő",
+    "link": "összekötő.html"
+  },
+  {
+    "name": "összeállít",
+    "link": "összeállít.html"
+  }
+]

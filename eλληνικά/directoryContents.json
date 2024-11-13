@@ -1,0 +1,2066 @@
+[
+  {
+    "name": "0x-api",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "3box-labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "airgap-vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "airswap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "alerts-(ειδοποιήσεις)",
+    "link": "alerts-(ειδοποιήσεις).html"
+  },
+  {
+    "name": "altcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "api",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "apple-pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "approve-(έγκριση)",
+    "link": "approve-(έγκριση).html"
+  },
+  {
+    "name": "arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "asic",
+    "link": "asic.html"
+  },
+  {
+    "name": "aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "autodetection-(αυτόματος-εντοπισμός)",
+    "link": "autodetection-(αυτόματος-εντοπισμός).html"
+  },
+  {
+    "name": "avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "avax",
+    "link": "avax.html"
+  },
+  {
+    "name": "axie-infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "balance-(υπόλοιπο)",
+    "link": "balance-(υπόλοιπο).html"
+  },
+  {
+    "name": "banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "blockies",
+    "link": "blockies.html"
+  },
+  {
+    "name": "blue-fox",
+    "link": "blue-fox.html"
+  },
+  {
+    "name": "bnb-chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "bnb",
+    "link": "bnb.html"
+  },
+  {
+    "name": "brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "btc",
+    "link": "btc.html"
+  },
+  {
+    "name": "buidl",
+    "link": "buidl.html"
+  },
+  {
+    "name": "cancel-(ακύρωση)",
+    "link": "cancel-(ακύρωση).html"
+  },
+  {
+    "name": "celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "cex",
+    "link": "cex.html"
+  },
+  {
+    "name": "chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "clear-(απαλοιφή)",
+    "link": "clear-(απαλοιφή).html"
+  },
+  {
+    "name": "codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "coinbase-pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "coingecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "confirm-(επιβεβαίωση)",
+    "link": "confirm-(επιβεβαίωση).html"
+  },
+  {
+    "name": "consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "contacts-(επαφές)",
+    "link": "contacts-(επαφές).html"
+  },
+  {
+    "name": "conversion-(μετατροπή)",
+    "link": "conversion-(μετατροπή).html"
+  },
+  {
+    "name": "coolwallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "copy-(αντιγραφή)",
+    "link": "copy-(αντιγραφή).html"
+  },
+  {
+    "name": "create-(δημιουργία)",
+    "link": "create-(δημιουργία).html"
+  },
+  {
+    "name": "cryptocompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "custom-nonce-(προσαρμογή-αριθμολεξήματος)",
+    "link": "custom-nonce-(προσαρμογή-αριθμολεξήματος).html"
+  },
+  {
+    "name": "d'cent",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "dai",
+    "link": "dai.html"
+  },
+  {
+    "name": "dao",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "defi-(αποκεντρωμένη-χρηματοοικονομική)",
+    "link": "defi-(αποκεντρωμένη-χρηματοοικονομική).html"
+  },
+  {
+    "name": "defi-read-api",
+    "link": "defi-read-api.html"
+  },
+  {
+    "name": "defi-write-api",
+    "link": "defi-write-api.html"
+  },
+  {
+    "name": "delete-(διαγραφή)",
+    "link": "delete-(διαγραφή).html"
+  },
+  {
+    "name": "devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "device-(συσκευή)",
+    "link": "device-(συσκευή).html"
+  },
+  {
+    "name": "dex",
+    "link": "dex.html"
+  },
+  {
+    "name": "diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "disable-(απενεργοποίηση)",
+    "link": "disable-(απενεργοποίηση).html"
+  },
+  {
+    "name": "dlt",
+    "link": "dlt.html"
+  },
+  {
+    "name": "download-(λήψη)",
+    "link": "download-(λήψη).html"
+  },
+  {
+    "name": "dpos",
+    "link": "dpos.html"
+  },
+  {
+    "name": "dropped-(απορρίφθηκαν)",
+    "link": "dropped-(απορρίφθηκαν).html"
+  },
+  {
+    "name": "edge",
+    "link": "edge.html"
+  },
+  {
+    "name": "edit-(επεξεργασία)",
+    "link": "edit-(επεξεργασία).html"
+  },
+  {
+    "name": "eea",
+    "link": "eea.html"
+  },
+  {
+    "name": "eip-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "enable-(ενεργοποίηση)",
+    "link": "enable-(ενεργοποίηση).html"
+  },
+  {
+    "name": "ens",
+    "link": "ens.html"
+  },
+  {
+    "name": "erc-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "erc-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "erc-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "erc",
+    "link": "erc.html"
+  },
+  {
+    "name": "error-(σφάλμα)",
+    "link": "error-(σφάλμα).html"
+  },
+  {
+    "name": "eth",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether-(eth)",
+    "link": "ether-(eth).html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "ethereum-2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "ethereum-improvement-proposal-(eip)",
+    "link": "ethereum-improvement-proposal-(eip).html"
+  },
+  {
+    "name": "ethereum-mainnet",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "eur",
+    "link": "eur.html"
+  },
+  {
+    "name": "evm",
+    "link": "evm.html"
+  },
+  {
+    "name": "experimental-(πειραματικός)",
+    "link": "experimental-(πειραματικός).html"
+  },
+  {
+    "name": "export-(εξαγωγή)",
+    "link": "export-(εξαγωγή).html"
+  },
+  {
+    "name": "eπίθεση-άρνησης-εξυπηρέτησης-(ddos)",
+    "link": "eπίθεση-άρνησης-εξυπηρέτησης-(ddos).html"
+  },
+  {
+    "name": "failed-(αποτυχία)",
+    "link": "failed-(αποτυχία).html"
+  },
+  {
+    "name": "fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "faucet",
+    "link": "faucet.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "flask",
+    "link": "flask.html"
+  },
+  {
+    "name": "ftm",
+    "link": "ftm.html"
+  },
+  {
+    "name": "ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gas-station-network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "gbp",
+    "link": "gbp.html"
+  },
+  {
+    "name": "general-(γενικά)",
+    "link": "general-(γενικά).html"
+  },
+  {
+    "name": "gigawei",
+    "link": "gigawei.html"
+  },
+  {
+    "name": "gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "github",
+    "link": "github.html"
+  },
+  {
+    "name": "goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "gsn",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "hide-(απόκρυψη)",
+    "link": "hide-(απόκρυψη).html"
+  },
+  {
+    "name": "hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "id-συμβολικού-νομίσματος",
+    "link": "id-συμβολικού-νομίσματος.html"
+  },
+  {
+    "name": "id-συναλλαγής",
+    "link": "id-συναλλαγής.html"
+  },
+  {
+    "name": "id",
+    "link": "id.html"
+  },
+  {
+    "name": "identicon-",
+    "link": "identicon-.html"
+  },
+  {
+    "name": "import-(εισαγωγή)",
+    "link": "import-(εισαγωγή).html"
+  },
+  {
+    "name": "infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "install-(εγκατάσταση)",
+    "link": "install-(εγκατάσταση).html"
+  },
+  {
+    "name": "invalid-(μη-έγκυρο)",
+    "link": "invalid-(μη-έγκυρο).html"
+  },
+  {
+    "name": "ipfs",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "ipo",
+    "link": "ipo.html"
+  },
+  {
+    "name": "jazzicons",
+    "link": "jazzicons.html"
+  },
+  {
+    "name": "json-rpc",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "kyc",
+    "link": "kyc.html"
+  },
+  {
+    "name": "kyt",
+    "link": "kyt.html"
+  },
+  {
+    "name": "lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "ledger-live-app",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "ledger-live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "lightning-network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "link-(σύνδεσμος)",
+    "link": "link-(σύνδεσμος).html"
+  },
+  {
+    "name": "lock-(κλείδωμα)",
+    "link": "lock-(κλείδωμα).html"
+  },
+  {
+    "name": "mainnet",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "matic",
+    "link": "matic.html"
+  },
+  {
+    "name": "mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "merkle-patricia-trie",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "metamask-activity",
+    "link": "metamask-activity.html"
+  },
+  {
+    "name": "metamask-flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "metamask-institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "metamask-learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "metamask-sdk",
+    "link": "metamask-sdk.html"
+  },
+  {
+    "name": "metamask-snaps",
+    "link": "metamask-snaps.html"
+  },
+  {
+    "name": "metamask-support-(υποστήριξη-metamask)",
+    "link": "metamask-support-(υποστήριξη-metamask).html"
+  },
+  {
+    "name": "metamask-swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metamask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "metametrics",
+    "link": "metametrics.html"
+  },
+  {
+    "name": "metaverse",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "mfa",
+    "link": "mfa.html"
+  },
+  {
+    "name": "mmi",
+    "link": "mmi.html"
+  },
+  {
+    "name": "mobikwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "moonpay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "nft",
+    "link": "nft.html"
+  },
+  {
+    "name": "ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "ommer-block",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "one",
+    "link": "one.html"
+  },
+  {
+    "name": "opensea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "optional-(προαιρετικά)",
+    "link": "optional-(προαιρετικά).html"
+  },
+  {
+    "name": "oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "oδικός-χάρτης",
+    "link": "oδικός-χάρτης.html"
+  },
+  {
+    "name": "p2p",
+    "link": "p2p.html"
+  },
+  {
+    "name": "palm",
+    "link": "palm.html"
+  },
+  {
+    "name": "paraswap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "paypal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "pki",
+    "link": "pki.html"
+  },
+  {
+    "name": "polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "pos",
+    "link": "pos.html"
+  },
+  {
+    "name": "pow",
+    "link": "pow.html"
+  },
+  {
+    "name": "quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "reject-(απόρριψη)",
+    "link": "reject-(απόρριψη).html"
+  },
+  {
+    "name": "remove-(αφαίρεση)",
+    "link": "remove-(αφαίρεση).html"
+  },
+  {
+    "name": "request-(αίτημα)",
+    "link": "request-(αίτημα).html"
+  },
+  {
+    "name": "request-(ζητήστε)",
+    "link": "request-(ζητήστε).html"
+  },
+  {
+    "name": "reset-(επαναφορά)",
+    "link": "reset-(επαναφορά).html"
+  },
+  {
+    "name": "reveal-(αποκάλυψη)",
+    "link": "reveal-(αποκάλυψη).html"
+  },
+  {
+    "name": "rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "rocket-pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "rollup-μηδενικής-γνώσης",
+    "link": "rollup-μηδενικής-γνώσης.html"
+  },
+  {
+    "name": "ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "rpc",
+    "link": "rpc.html"
+  },
+  {
+    "name": "safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "samsung-pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "satoshi-nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "save-(αποθήκευση)",
+    "link": "save-(αποθήκευση).html"
+  },
+  {
+    "name": "scan-(σάρωση)",
+    "link": "scan-(σάρωση).html"
+  },
+  {
+    "name": "sdk",
+    "link": "sdk.html"
+  },
+  {
+    "name": "search-(αναζήτηση)",
+    "link": "search-(αναζήτηση).html"
+  },
+  {
+    "name": "sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "settings-(ρυθμίσεις)",
+    "link": "settings-(ρυθμίσεις).html"
+  },
+  {
+    "name": "show-(εμφάνιση)",
+    "link": "show-(εμφάνιση).html"
+  },
+  {
+    "name": "sign-(είσοδος)-",
+    "link": "sign-(είσοδος)-.html"
+  },
+  {
+    "name": "sign-in-(σύνδεση)",
+    "link": "sign-in-(σύνδεση).html"
+  },
+  {
+    "name": "skip-(παράβλεψη)",
+    "link": "skip-(παράβλεψη).html"
+  },
+  {
+    "name": "snap",
+    "link": "snap.html"
+  },
+  {
+    "name": "snaps-(metamask-snaps)",
+    "link": "snaps-(metamask-snaps).html"
+  },
+  {
+    "name": "snapshots-api",
+    "link": "snapshots-api.html"
+  },
+  {
+    "name": "solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "source-(πηγή)",
+    "link": "source-(πηγή).html"
+  },
+  {
+    "name": "speed-up-(επιτάχυνση)",
+    "link": "speed-up-(επιτάχυνση).html"
+  },
+  {
+    "name": "stablecoin",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "state-logs",
+    "link": "state-logs.html"
+  },
+  {
+    "name": "status-(κατάσταση)",
+    "link": "status-(κατάσταση).html"
+  },
+  {
+    "name": "sto",
+    "link": "sto.html"
+  },
+  {
+    "name": "submit-(υποβολή)",
+    "link": "submit-(υποβολή).html"
+  },
+  {
+    "name": "support-(υποστήριξη)",
+    "link": "support-(υποστήριξη).html"
+  },
+  {
+    "name": "support-center-(κέντρο-υποστήριξης)",
+    "link": "support-center-(κέντρο-υποστήριξης).html"
+  },
+  {
+    "name": "symbol-(σύμβολο)",
+    "link": "symbol-(σύμβολο).html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "testnet-kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "testnet-rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "testnet-ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "theme-(θέμα)",
+    "link": "theme-(θέμα).html"
+  },
+  {
+    "name": "transaction-history-api",
+    "link": "transaction-history-api.html"
+  },
+  {
+    "name": "transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "transfer-(μεταφορά)",
+    "link": "transfer-(μεταφορά).html"
+  },
+  {
+    "name": "trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "turing-complete-(τούρινγκ-υπολογιστικά-καθολικό)",
+    "link": "turing-complete-(τούρινγκ-υπολογιστικά-καθολικό).html"
+  },
+  {
+    "name": "txid",
+    "link": "txid.html"
+  },
+  {
+    "name": "u2f",
+    "link": "u2f.html"
+  },
+  {
+    "name": "uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "unknown-(άγνωστο)",
+    "link": "unknown-(άγνωστο).html"
+  },
+  {
+    "name": "unlock-(ξεκλείδωμα)",
+    "link": "unlock-(ξεκλείδωμα).html"
+  },
+  {
+    "name": "update-(ενημέρωση)",
+    "link": "update-(ενημέρωση).html"
+  },
+  {
+    "name": "url",
+    "link": "url.html"
+  },
+  {
+    "name": "usd",
+    "link": "usd.html"
+  },
+  {
+    "name": "utxo",
+    "link": "utxo.html"
+  },
+  {
+    "name": "villagedao",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "walletconnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "web-3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "webhid",
+    "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
+  },
+  {
+    "name": "websocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "zk-snarks-(μη-διαδραστικές-αποδείξεις-μηδενικής-γνώσης)",
+    "link": "zk-snarks-(μη-διαδραστικές-αποδείξεις-μηδενικής-γνώσης).html"
+  },
+  {
+    "name": "άδεια",
+    "link": "άδεια.html"
+  },
+  {
+    "name": "άρνησης-εξυπηρέτησης-(ddos)",
+    "link": "άρνησης-εξυπηρέτησης-(ddos).html"
+  },
+  {
+    "name": "έλεγχος-ταυτότητας-πολλών-παραγόντων",
+    "link": "έλεγχος-ταυτότητας-πολλών-παραγόντων.html"
+  },
+  {
+    "name": "έξυπνη-σύμβαση",
+    "link": "έξυπνη-σύμβαση.html"
+  },
+  {
+    "name": "αδιάθετη-έξοδος-συναλλαγής",
+    "link": "αδιάθετη-έξοδος-συναλλαγής.html"
+  },
+  {
+    "name": "αισιόδοξη-αναπροσαρμογή",
+    "link": "αισιόδοξη-αναπροσαρμογή.html"
+  },
+  {
+    "name": "ακύρωση-πονταρίσματος",
+    "link": "ακύρωση-πονταρίσματος.html"
+  },
+  {
+    "name": "αλγόρυθμος",
+    "link": "αλγόρυθμος.html"
+  },
+  {
+    "name": "αλλάζω",
+    "link": "αλλάζω.html"
+  },
+  {
+    "name": "αλλαγή-κλίμακας",
+    "link": "αλλαγή-κλίμακας.html"
+  },
+  {
+    "name": "αλυσίδα-θραυσμάτων",
+    "link": "αλυσίδα-θραυσμάτων.html"
+  },
+  {
+    "name": "αλυσίδα-κατανεμημένης-εγγραφής",
+    "link": "αλυσίδα-κατανεμημένης-εγγραφής.html"
+  },
+  {
+    "name": "αλυσίδες-μπλοκ-δυο-επιπέδων",
+    "link": "αλυσίδες-μπλοκ-δυο-επιπέδων.html"
+  },
+  {
+    "name": "αμεταβλητότητα",
+    "link": "αμεταβλητότητα.html"
+  },
+  {
+    "name": "αμφίδρομα-κανάλια-επικοινωνίας",
+    "link": "αμφίδρομα-κανάλια-επικοινωνίας.html"
+  },
+  {
+    "name": "αναβάθμιση-λογισμικού",
+    "link": "αναβάθμιση-λογισμικού.html"
+  },
+  {
+    "name": "αναβάθμιση",
+    "link": "αναβάθμιση.html"
+  },
+  {
+    "name": "αναγνωριστικό-αλυσίδας",
+    "link": "αναγνωριστικό-αλυσίδας.html"
+  },
+  {
+    "name": "αναξιοπιστία",
+    "link": "αναξιοπιστία.html"
+  },
+  {
+    "name": "αναφορά-σφάλματος",
+    "link": "αναφορά-σφάλματος.html"
+  },
+  {
+    "name": "ανοχή-βυζαντινής-βλάβης",
+    "link": "ανοχή-βυζαντινής-βλάβης.html"
+  },
+  {
+    "name": "ανοχή-σε-σφάλματα",
+    "link": "ανοχή-σε-σφάλματα.html"
+  },
+  {
+    "name": "ανταλλάσσω",
+    "link": "ανταλλάσσω.html"
+  },
+  {
+    "name": "ανταλλαγή",
+    "link": "ανταλλαγή.html"
+  },
+  {
+    "name": "ανταμοιβή-ομάδας-καταχωρίσεων",
+    "link": "ανταμοιβή-ομάδας-καταχωρίσεων.html"
+  },
+  {
+    "name": "αντιστοίχιση",
+    "link": "αντιστοίχιση.html"
+  },
+  {
+    "name": "αξία-συναλλαγών",
+    "link": "αξία-συναλλαγών.html"
+  },
+  {
+    "name": "απάτη",
+    "link": "απάτη.html"
+  },
+  {
+    "name": "αποδέκτης",
+    "link": "αποδέκτης.html"
+  },
+  {
+    "name": "αποκέντρωση",
+    "link": "αποκέντρωση.html"
+  },
+  {
+    "name": "αποκεντρωμένη-ανταλλαγή",
+    "link": "αποκεντρωμένη-ανταλλαγή.html"
+  },
+  {
+    "name": "αποκεντρωμένη-εφαρμογή",
+    "link": "αποκεντρωμένη-εφαρμογή.html"
+  },
+  {
+    "name": "αποκεντρωμένη-χρηματοοικονομική",
+    "link": "αποκεντρωμένη-χρηματοοικονομική.html"
+  },
+  {
+    "name": "αποκεντρωμένος-αυτόνομος-οργανισμός",
+    "link": "αποκεντρωμένος-αυτόνομος-οργανισμός.html"
+  },
+  {
+    "name": "αποκεντρωμένος-ιστός",
+    "link": "αποκεντρωμένος-ιστός.html"
+  },
+  {
+    "name": "απομονωμένο-υπολογιστικό-περιβάλλον",
+    "link": "απομονωμένο-υπολογιστικό-περιβάλλον.html"
+  },
+  {
+    "name": "απόδειξη-αρχής-(poa)",
+    "link": "απόδειξη-αρχής-(poa).html"
+  },
+  {
+    "name": "απόδειξη-εγκυρότητας",
+    "link": "απόδειξη-εγκυρότητας.html"
+  },
+  {
+    "name": "απόδειξη-εργασίας",
+    "link": "απόδειξη-εργασίας.html"
+  },
+  {
+    "name": "απόδειξη-μηδενικής-γνώσης",
+    "link": "απόδειξη-μηδενικής-γνώσης.html"
+  },
+  {
+    "name": "απόδειξης-συμμετοχής",
+    "link": "απόδειξης-συμμετοχής.html"
+  },
+  {
+    "name": "απόκλιση",
+    "link": "απόκλιση.html"
+  },
+  {
+    "name": "αριθμολέξημα",
+    "link": "αριθμολέξημα.html"
+  },
+  {
+    "name": "αρχείο-json",
+    "link": "αρχείο-json.html"
+  },
+  {
+    "name": "αρχείο-αποθήκευσης-κλειδιών",
+    "link": "αρχείο-αποθήκευσης-κλειδιών.html"
+  },
+  {
+    "name": "αρχική-προσφορά-νομισμάτων-(ico)",
+    "link": "αρχική-προσφορά-νομισμάτων-(ico).html"
+  },
+  {
+    "name": "αρχική-φράση",
+    "link": "αρχική-φράση.html"
+  },
+  {
+    "name": "ασφάλεια-και-προστασία-προσωπικών-δεδομένων",
+    "link": "ασφάλεια-και-προστασία-προσωπικών-δεδομένων.html"
+  },
+  {
+    "name": "αυτοδικαίως-εκτέλεση",
+    "link": "αυτοδικαίως-εκτέλεση.html"
+  },
+  {
+    "name": "αυτοεπιμέλεια",
+    "link": "αυτοεπιμέλεια.html"
+  },
+  {
+    "name": "βασική-αμοιβή",
+    "link": "βασική-αμοιβή.html"
+  },
+  {
+    "name": "βιβλιοθήκη",
+    "link": "βιβλιοθήκη.html"
+  },
+  {
+    "name": "βιομετρικά-δεδομένα",
+    "link": "βιομετρικά-δεδομένα.html"
+  },
+  {
+    "name": "βόμβα-δυσκολίας",
+    "link": "βόμβα-δυσκολίας.html"
+  },
+  {
+    "name": "γέφυρα-metamask",
+    "link": "γέφυρα-metamask.html"
+  },
+  {
+    "name": "γέφυρα",
+    "link": "γέφυρα.html"
+  },
+  {
+    "name": "για-προχωρημένους",
+    "link": "για-προχωρημένους.html"
+  },
+  {
+    "name": "γνωρίστε-τον-πελάτη-σας",
+    "link": "γνωρίστε-τον-πελάτη-σας.html"
+  },
+  {
+    "name": "δίκτυο-δοκιμών",
+    "link": "δίκτυο-δοκιμών.html"
+  },
+  {
+    "name": "δίκτυο",
+    "link": "δίκτυο.html"
+  },
+  {
+    "name": "δεδομένα-εκτός-αλυσίδας",
+    "link": "δεδομένα-εκτός-αλυσίδας.html"
+  },
+  {
+    "name": "δεκαεξαδικά-δεδομένα",
+    "link": "δεκαεξαδικά-δεδομένα.html"
+  },
+  {
+    "name": "δεξαμενή-ρευστότητας",
+    "link": "δεξαμενή-ρευστότητας.html"
+  },
+  {
+    "name": "δημιουργία-αντιγράφων-ασφαλείας",
+    "link": "δημιουργία-αντιγράφων-ασφαλείας.html"
+  },
+  {
+    "name": "δημόσια-αλυσίδα-block",
+    "link": "δημόσια-αλυσίδα-block.html"
+  },
+  {
+    "name": "δημόσια-διεύθυνση",
+    "link": "δημόσια-διεύθυνση.html"
+  },
+  {
+    "name": "δημόσιο-κλειδί",
+    "link": "δημόσιο-κλειδί.html"
+  },
+  {
+    "name": "διάκενο-αέρα",
+    "link": "διάκενο-αέρα.html"
+  },
+  {
+    "name": "διακριτικό-ασφαλείας",
+    "link": "διακριτικό-ασφαλείας.html"
+  },
+  {
+    "name": "διακυβέρνηση",
+    "link": "διακυβέρνηση.html"
+  },
+  {
+    "name": "διαλειτουργικότητα",
+    "link": "διαλειτουργικότητα.html"
+  },
+  {
+    "name": "διαπλανητικό-σύστημα-αρχείων-(ipfs)",
+    "link": "διαπλανητικό-σύστημα-αρχείων-(ipfs).html"
+  },
+  {
+    "name": "διαχείριση-κωδικών-πρόσβασης",
+    "link": "διαχείριση-κωδικών-πρόσβασης.html"
+  },
+  {
+    "name": "διεύθυνση-ip",
+    "link": "διεύθυνση-ip.html"
+  },
+  {
+    "name": "διεύθυνση-πορτοφολιού",
+    "link": "διεύθυνση-πορτοφολιού.html"
+  },
+  {
+    "name": "διεύθυνση",
+    "link": "διεύθυνση.html"
+  },
+  {
+    "name": "διπλά-έξοδα",
+    "link": "διπλά-έξοδα.html"
+  },
+  {
+    "name": "δυσκολία",
+    "link": "δυσκολία.html"
+  },
+  {
+    "name": "εγκριτής",
+    "link": "εγκριτής.html"
+  },
+  {
+    "name": "εικονική-μηχανή-ethereum",
+    "link": "εικονική-μηχανή-ethereum.html"
+  },
+  {
+    "name": "εκτεταμένο-δημόσιο-κλειδί-(xpub)",
+    "link": "εκτεταμένο-δημόσιο-κλειδί-(xpub).html"
+  },
+  {
+    "name": "εκτεταμένο-ιδιωτικό-κλειδί-(xpriv)",
+    "link": "εκτεταμένο-ιδιωτικό-κλειδί-(xpriv).html"
+  },
+  {
+    "name": "εκτός-αλυσίδας",
+    "link": "εκτός-αλυσίδας.html"
+  },
+  {
+    "name": "εκτός-εφαρμογών",
+    "link": "εκτός-εφαρμογών.html"
+  },
+  {
+    "name": "ενημέρωση-byzantium",
+    "link": "ενημέρωση-byzantium.html"
+  },
+  {
+    "name": "ενημέρωση-constantinople",
+    "link": "ενημέρωση-constantinople.html"
+  },
+  {
+    "name": "ενημέρωση",
+    "link": "ενημέρωση.html"
+  },
+  {
+    "name": "εντροπία",
+    "link": "εντροπία.html"
+  },
+  {
+    "name": "εντός-αλυσίδας",
+    "link": "εντός-αλυσίδας.html"
+  },
+  {
+    "name": "εντός-εφαρμογών",
+    "link": "εντός-εφαρμογών.html"
+  },
+  {
+    "name": "εξερευνητής-αλυσίδας-κατανεμημένης-εγγραφής",
+    "link": "εξερευνητής-αλυσίδας-κατανεμημένης-εγγραφής.html"
+  },
+  {
+    "name": "εξερευνητής-ομάδας-καταχωρίσεων",
+    "link": "εξερευνητής-ομάδας-καταχωρίσεων.html"
+  },
+  {
+    "name": "εξόρυξη-ρευστότητας",
+    "link": "εξόρυξη-ρευστότητας.html"
+  },
+  {
+    "name": "εξόρυξη",
+    "link": "εξόρυξη.html"
+  },
+  {
+    "name": "επέκταση-metamask",
+    "link": "επέκταση-metamask.html"
+  },
+  {
+    "name": "επέκταση",
+    "link": "επέκταση.html"
+  },
+  {
+    "name": "επίθεση-του-51",
+    "link": "επίθεση-του-51.html"
+  },
+  {
+    "name": "επίπεδο-0",
+    "link": "επίπεδο-0.html"
+  },
+  {
+    "name": "επίπεδο-1",
+    "link": "επίπεδο-1.html"
+  },
+  {
+    "name": "επίπεδο-2",
+    "link": "επίπεδο-2.html"
+  },
+  {
+    "name": "επίπεδο-εκτέλεσης",
+    "link": "επίπεδο-εκτέλεσης.html"
+  },
+  {
+    "name": "επίπεδο-συναίνεσης",
+    "link": "επίπεδο-συναίνεσης.html"
+  },
+  {
+    "name": "επαλήθευση-δύο-παραγόντων",
+    "link": "επαλήθευση-δύο-παραγόντων.html"
+  },
+  {
+    "name": "επαναφορά",
+    "link": "επαναφορά.html"
+  },
+  {
+    "name": "επεκτασιμότηταδυνατότητα-κλιμάκωσης",
+    "link": "επεκτασιμότηταδυνατότητα-κλιμάκωσης.html"
+  },
+  {
+    "name": "επιβεβαίωση",
+    "link": "επιβεβαίωση.html"
+  },
+  {
+    "name": "επιβράβευση",
+    "link": "επιβράβευση.html"
+  },
+  {
+    "name": "επιβραβεύσεις-κρυπτονoμίσματος",
+    "link": "επιβραβεύσεις-κρυπτονoμίσματος.html"
+  },
+  {
+    "name": "επικοινωνία-κοντινού-πεδίου-(nfc)",
+    "link": "επικοινωνία-κοντινού-πεδίου-(nfc).html"
+  },
+  {
+    "name": "επικοινωνία",
+    "link": "επικοινωνία.html"
+  },
+  {
+    "name": "επιχειρηματικά-κεφάλαια",
+    "link": "επιχειρηματικά-κεφάλαια.html"
+  },
+  {
+    "name": "εσωτερική-πληροφόρηση",
+    "link": "εσωτερική-πληροφόρηση.html"
+  },
+  {
+    "name": "εσωτερική-συναλλαγή",
+    "link": "εσωτερική-συναλλαγή.html"
+  },
+  {
+    "name": "εύκολο-πρόγραμμα",
+    "link": "εύκολο-πρόγραμμα.html"
+  },
+  {
+    "name": "ηλεκτρονικό-ψάρεμα",
+    "link": "ηλεκτρονικό-ψάρεμα.html"
+  },
+  {
+    "name": "θερμή-αποθήκευση",
+    "link": "θερμή-αποθήκευση.html"
+  },
+  {
+    "name": "θερμό-πορτοφόλι",
+    "link": "θερμό-πορτοφόλι.html"
+  },
+  {
+    "name": "θωράκιση-κατά-της-απάτης.",
+    "link": "θωράκιση-κατά-της-απάτης..html"
+  },
+  {
+    "name": "ιδιωτική-αλυσίδα-block",
+    "link": "ιδιωτική-αλυσίδα-block.html"
+  },
+  {
+    "name": "ιδιωτικό-κλειδί",
+    "link": "ιδιωτικό-κλειδί.html"
+  },
+  {
+    "name": "ιδιωτικό-νόμισμα",
+    "link": "ιδιωτικό-νόμισμα.html"
+  },
+  {
+    "name": "ιεραρχικά-ντετερμινιστικά-πορτοφόλια-(hd)",
+    "link": "ιεραρχικά-ντετερμινιστικά-πορτοφόλια-(hd).html"
+  },
+  {
+    "name": "ισοτιμία",
+    "link": "ισοτιμία.html"
+  },
+  {
+    "name": "καθυστέρηση",
+    "link": "καθυστέρηση.html"
+  },
+  {
+    "name": "κακόβουλο-λογισμικό",
+    "link": "κακόβουλο-λογισμικό.html"
+  },
+  {
+    "name": "κατάθεση",
+    "link": "κατάθεση.html"
+  },
+  {
+    "name": "κατακερματισμός",
+    "link": "κατακερματισμός.html"
+  },
+  {
+    "name": "καταπολέμηση-της-νομιμοποίησης-εσόδων-από-παράνομες-δραστηριότητες",
+    "link": "καταπολέμηση-της-νομιμοποίησης-εσόδων-από-παράνομες-δραστηριότητες.html"
+  },
+  {
+    "name": "κενή-μονάδα-αποκρυπτογράφησης",
+    "link": "κενή-μονάδα-αποκρυπτογράφησης.html"
+  },
+  {
+    "name": "κεντρικό-xρηματιστήριο",
+    "link": "κεντρικό-xρηματιστήριο.html"
+  },
+  {
+    "name": "κλήση-απομακρυσμένης-διαδικασίας",
+    "link": "κλήση-απομακρυσμένης-διαδικασίας.html"
+  },
+  {
+    "name": "κλασματική-ιδιοκτησία",
+    "link": "κλασματική-ιδιοκτησία.html"
+  },
+  {
+    "name": "κλείδωμα-συμβολικών-νομισμάτων",
+    "link": "κλείδωμα-συμβολικών-νομισμάτων.html"
+  },
+  {
+    "name": "κλειδωμένη-συνολική-τιμή-(tvl)",
+    "link": "κλειδωμένη-συνολική-τιμή-(tvl).html"
+  },
+  {
+    "name": "κονή-συναίνεση-(ομοφωνία)",
+    "link": "κονή-συναίνεση-(ομοφωνία).html"
+  },
+  {
+    "name": "κρυπτο-",
+    "link": "κρυπτο-.html"
+  },
+  {
+    "name": "κρυπτο-συμμόρφωση",
+    "link": "κρυπτο-συμμόρφωση.html"
+  },
+  {
+    "name": "κρυπτογράφηση-δημοσίου-κλειδιού",
+    "link": "κρυπτογράφηση-δημοσίου-κλειδιού.html"
+  },
+  {
+    "name": "κρυπτογράφηση",
+    "link": "κρυπτογράφηση.html"
+  },
+  {
+    "name": "κρυπτογραφημένα-έναντι-μη-κρυπτογραφημένων-κλειδιών",
+    "link": "κρυπτογραφημένα-έναντι-μη-κρυπτογραφημένων-κλειδιών.html"
+  },
+  {
+    "name": "κρυπτογραφημένα-κλειδί",
+    "link": "κρυπτογραφημένα-κλειδί.html"
+  },
+  {
+    "name": "κρυπτονόμισμα",
+    "link": "κρυπτονόμισμα.html"
+  },
+  {
+    "name": "κρυπτοοικονομία",
+    "link": "κρυπτοοικονομία.html"
+  },
+  {
+    "name": "κρυπτοπεριουσιακά-στοιχεία",
+    "link": "κρυπτοπεριουσιακά-στοιχεία.html"
+  },
+  {
+    "name": "κωδικός-qr",
+    "link": "κωδικός-qr.html"
+  },
+  {
+    "name": "κωδικός-πρόσβασης",
+    "link": "κωδικός-πρόσβασης.html"
+  },
+  {
+    "name": "κόμβος",
+    "link": "κόμβος.html"
+  },
+  {
+    "name": "κύρια-αλυσίδα",
+    "link": "κύρια-αλυσίδα.html"
+  },
+  {
+    "name": "λήψη",
+    "link": "λήψη.html"
+  },
+  {
+    "name": "λίστα-εκκρεμών-συναλλαγών",
+    "link": "λίστα-εκκρεμών-συναλλαγών.html"
+  },
+  {
+    "name": "λευκή-βίβλος-(μεταφορικά)",
+    "link": "λευκή-βίβλος-(μεταφορικά).html"
+  },
+  {
+    "name": "λογαριασμός",
+    "link": "λογαριασμός.html"
+  },
+  {
+    "name": "λογισμικό-εξόρυξης-κρυπτονομισμάτων",
+    "link": "λογισμικό-εξόρυξης-κρυπτονομισμάτων.html"
+  },
+  {
+    "name": "μάθετε-τη-συναλλαγή-σας",
+    "link": "μάθετε-τη-συναλλαγή-σας.html"
+  },
+  {
+    "name": "μέγιστη-εξαγώγιμη-αξία-(mev)",
+    "link": "μέγιστη-εξαγώγιμη-αξία-(mev).html"
+  },
+  {
+    "name": "μέγιστη-χρέωση-προτεραιότητας",
+    "link": "μέγιστη-χρέωση-προτεραιότητας.html"
+  },
+  {
+    "name": "μαθήματα",
+    "link": "μαθήματα.html"
+  },
+  {
+    "name": "μείωση-nft",
+    "link": "μείωση-nft.html"
+  },
+  {
+    "name": "μείωση-κατά-το-ήμισυ",
+    "link": "μείωση-κατά-το-ήμισυ.html"
+  },
+  {
+    "name": "μεταγλώττιση",
+    "link": "μεταγλώττιση.html"
+  },
+  {
+    "name": "μεταδεδομένα",
+    "link": "μεταδεδομένα.html"
+  },
+  {
+    "name": "μεταξύ-ομοτίμων",
+    "link": "μεταξύ-ομοτίμων.html"
+  },
+  {
+    "name": "μεταφορά-αυτοματοποιημένου-γραφείου-συμψηφισμού",
+    "link": "μεταφορά-αυτοματοποιημένου-γραφείου-συμψηφισμού.html"
+  },
+  {
+    "name": "μη-εναλλάξιμα-κρυπτοπαραστατικά",
+    "link": "μη-εναλλάξιμα-κρυπτοπαραστατικά.html"
+  },
+  {
+    "name": "μη-κρυπτογραφημένο-κλειδί",
+    "link": "μη-κρυπτογραφημένο-κλειδί.html"
+  },
+  {
+    "name": "μηδενική-διεύθυνση",
+    "link": "μηδενική-διεύθυνση.html"
+  },
+  {
+    "name": "μηχανή-αναζήτησης",
+    "link": "μηχανή-αναζήτησης.html"
+  },
+  {
+    "name": "μηχανισμός-δημιουργίας-κρυπτονομισμάτων",
+    "link": "μηχανισμός-δημιουργίας-κρυπτονομισμάτων.html"
+  },
+  {
+    "name": "μηχανισμός-συναίνεσης",
+    "link": "μηχανισμός-συναίνεσης.html"
+  },
+  {
+    "name": "μνημονική-φράση",
+    "link": "μνημονική-φράση.html"
+  },
+  {
+    "name": "μπλοκ-genesis",
+    "link": "μπλοκ-genesis.html"
+  },
+  {
+    "name": "μπλοκ-συναλλαγών",
+    "link": "μπλοκ-συναλλαγών.html"
+  },
+  {
+    "name": "μυστική-φράση-ανάκτησης",
+    "link": "μυστική-φράση-ανάκτησης.html"
+  },
+  {
+    "name": "νόμισμα",
+    "link": "νόμισμα.html"
+  },
+  {
+    "name": "οικοσύστημα",
+    "link": "οικοσύστημα.html"
+  },
+  {
+    "name": "ομάδα-καταχωρίσεων",
+    "link": "ομάδα-καταχωρίσεων.html"
+  },
+  {
+    "name": "ομάδα-συναλλαγών",
+    "link": "ομάδα-συναλλαγών.html"
+  },
+  {
+    "name": "ονομασίες",
+    "link": "ονομασίες.html"
+  },
+  {
+    "name": "παραγωγή",
+    "link": "παραγωγή.html"
+  },
+  {
+    "name": "παραστατικό-χρήμα",
+    "link": "παραστατικό-χρήμα.html"
+  },
+  {
+    "name": "πελάτης-εκτέλεσης",
+    "link": "πελάτης-εκτέλεσης.html"
+  },
+  {
+    "name": "πελάτης-συναίνεσης",
+    "link": "πελάτης-συναίνεσης.html"
+  },
+  {
+    "name": "πελάτης",
+    "link": "πελάτης.html"
+  },
+  {
+    "name": "περιορισμός-πώλησης",
+    "link": "περιορισμός-πώλησης.html"
+  },
+  {
+    "name": "πλάσμα",
+    "link": "πλάσμα.html"
+  },
+  {
+    "name": "πλήρης-κόμβος",
+    "link": "πλήρης-κόμβος.html"
+  },
+  {
+    "name": "πλατφόρμα-εκκίνησης",
+    "link": "πλατφόρμα-εκκίνησης.html"
+  },
+  {
+    "name": "πλατφόρμα-κοινότητας-metamask",
+    "link": "πλατφόρμα-κοινότητας-metamask.html"
+  },
+  {
+    "name": "πλατφόρμα-κοινότητας",
+    "link": "πλατφόρμα-κοινότητας.html"
+  },
+  {
+    "name": "πλευρική-αλυσίδα",
+    "link": "πλευρική-αλυσίδα.html"
+  },
+  {
+    "name": "πολλαπλών-υπογραφών",
+    "link": "πολλαπλών-υπογραφών.html"
+  },
+  {
+    "name": "πολύπλοκη-αναβάθμιση-λογισμικού",
+    "link": "πολύπλοκη-αναβάθμιση-λογισμικού.html"
+  },
+  {
+    "name": "ποντάρισμα",
+    "link": "ποντάρισμα.html"
+  },
+  {
+    "name": "πορτοφόλι-κρυπτονομίσματος",
+    "link": "πορτοφόλι-κρυπτονομίσματος.html"
+  },
+  {
+    "name": "πορτοφόλι-με-φράσεις-πρόσβασης",
+    "link": "πορτοφόλι-με-φράσεις-πρόσβασης.html"
+  },
+  {
+    "name": "πορτοφόλι-πολλαπλών-υπογραφών-(multisig)",
+    "link": "πορτοφόλι-πολλαπλών-υπογραφών-(multisig).html"
+  },
+  {
+    "name": "πορτοφόλι-υλικού",
+    "link": "πορτοφόλι-υλικού.html"
+  },
+  {
+    "name": "πορτοφόλι",
+    "link": "πορτοφόλι.html"
+  },
+  {
+    "name": "προέλευση-περιουσιακών-στοιχείων",
+    "link": "προέλευση-περιουσιακών-στοιχείων.html"
+  },
+  {
+    "name": "προγραμματιστής",
+    "link": "προγραμματιστής.html"
+  },
+  {
+    "name": "προεπιλογή",
+    "link": "προεπιλογή.html"
+  },
+  {
+    "name": "προμήθεια-συναλλαγής",
+    "link": "προμήθεια-συναλλαγής.html"
+  },
+  {
+    "name": "προστατευμένη-συναλλαγή",
+    "link": "προστατευμένη-συναλλαγή.html"
+  },
+  {
+    "name": "προσφορά-διακριτικών-ασφαλείας",
+    "link": "προσφορά-διακριτικών-ασφαλείας.html"
+  },
+  {
+    "name": "πρωτοκόλλου-επικοινωνίας-μεταξύ-των-blockchain-(ibc)",
+    "link": "πρωτοκόλλου-επικοινωνίας-μεταξύ-των-blockchain-(ibc).html"
+  },
+  {
+    "name": "πρωτόκολλο-προγραμματιστή",
+    "link": "πρωτόκολλο-προγραμματιστή.html"
+  },
+  {
+    "name": "πρωτόκολλο",
+    "link": "πρωτόκολλο.html"
+  },
+  {
+    "name": "πρόγραμμα-περιήγησης",
+    "link": "πρόγραμμα-περιήγησης.html"
+  },
+  {
+    "name": "πρόσβαση-σε-συγκεκριμένους-μόνο-χρήστες",
+    "link": "πρόσβαση-σε-συγκεκριμένους-μόνο-χρήστες.html"
+  },
+  {
+    "name": "ρέουσα-δημοκρατία",
+    "link": "ρέουσα-δημοκρατία.html"
+  },
+  {
+    "name": "ρευστοποίηση",
+    "link": "ρευστοποίηση.html"
+  },
+  {
+    "name": "ρευστότητα-μεριδίου",
+    "link": "ρευστότητα-μεριδίου.html"
+  },
+  {
+    "name": "ρευστότητα",
+    "link": "ρευστότητα.html"
+  },
+  {
+    "name": "ροή",
+    "link": "ροή.html"
+  },
+  {
+    "name": "σε-εκκρεμότητα",
+    "link": "σε-εκκρεμότητα.html"
+  },
+  {
+    "name": "σειριοποίηση",
+    "link": "σειριοποίηση.html"
+  },
+  {
+    "name": "συγκέντρωση-nft",
+    "link": "συγκέντρωση-nft.html"
+  },
+  {
+    "name": "συγχώνευση",
+    "link": "συγχώνευση.html"
+  },
+  {
+    "name": "συμβατικό-ποσό",
+    "link": "συμβατικό-ποσό.html"
+  },
+  {
+    "name": "συμβολικά-νομίσματα-με-απόδοση",
+    "link": "συμβολικά-νομίσματα-με-απόδοση.html"
+  },
+  {
+    "name": "συμβολικά-νομίσματα",
+    "link": "συμβολικά-νομίσματα.html"
+  },
+  {
+    "name": "συμβουλές",
+    "link": "συμβουλές.html"
+  },
+  {
+    "name": "συμβόλαιο",
+    "link": "συμβόλαιο.html"
+  },
+  {
+    "name": "συμμετοχή",
+    "link": "συμμετοχή.html"
+  },
+  {
+    "name": "συμφόρηση-δικτύου",
+    "link": "συμφόρηση-δικτύου.html"
+  },
+  {
+    "name": "συνάρτηση-παραγωγής-κλειδιού",
+    "link": "συνάρτηση-παραγωγής-κλειδιού.html"
+  },
+  {
+    "name": "συναλλαγή",
+    "link": "συναλλαγή.html"
+  },
+  {
+    "name": "συνθήκη-slashing",
+    "link": "συνθήκη-slashing.html"
+  },
+  {
+    "name": "συσσωρευτής",
+    "link": "συσσωρευτής.html"
+  },
+  {
+    "name": "συστημικός",
+    "link": "συστημικός.html"
+  },
+  {
+    "name": "σχετικά-με",
+    "link": "σχετικά-με.html"
+  },
+  {
+    "name": "σύνολο-εντολών",
+    "link": "σύνολο-εντολών.html"
+  },
+  {
+    "name": "τέλη-συναλλαγών",
+    "link": "τέλη-συναλλαγών.html"
+  },
+  {
+    "name": "τέλος-προτεραιότητας",
+    "link": "τέλος-προτεραιότητας.html"
+  },
+  {
+    "name": "τακτική-airdrop",
+    "link": "τακτική-airdrop.html"
+  },
+  {
+    "name": "τείχος-προστασίας",
+    "link": "τείχος-προστασίας.html"
+  },
+  {
+    "name": "τελειωτικός-διακανονισμός-με-βεβαιότητα",
+    "link": "τελειωτικός-διακανονισμός-με-βεβαιότητα.html"
+  },
+  {
+    "name": "τεχνολογία-κατανεμημένου-καθολικού",
+    "link": "τεχνολογία-κατανεμημένου-καθολικού.html"
+  },
+  {
+    "name": "τμηματοποιημένη-αλυσίδα",
+    "link": "τμηματοποιημένη-αλυσίδα.html"
+  },
+  {
+    "name": "τρίλημα-αλυσίδας-κατανεμημένης-εγγραφής",
+    "link": "τρίλημα-αλυσίδας-κατανεμημένης-εγγραφής.html"
+  },
+  {
+    "name": "τυπικό-συμβολικό-νόμισμα",
+    "link": "τυπικό-συμβολικό-νόμισμα.html"
+  },
+  {
+    "name": "υβριδικό-δίκτυο",
+    "link": "υβριδικό-δίκτυο.html"
+  },
+  {
+    "name": "υλικολογισμικό",
+    "link": "υλικολογισμικό.html"
+  },
+  {
+    "name": "υπογραφή",
+    "link": "υπογραφή.html"
+  },
+  {
+    "name": "υποδομή-δημόσιου-κλειδιού",
+    "link": "υποδομή-δημόσιου-κλειδιού.html"
+  },
+  {
+    "name": "υψηλότερη-αγοραστική-τιμή",
+    "link": "υψηλότερη-αγοραστική-τιμή.html"
+  },
+  {
+    "name": "φιλοδώρημα-miner",
+    "link": "φιλοδώρημα-miner.html"
+  },
+  {
+    "name": "φράση-πρόσβασης",
+    "link": "φράση-πρόσβασης.html"
+  },
+  {
+    "name": "φύλαξη",
+    "link": "φύλαξη.html"
+  },
+  {
+    "name": "χαμηλότερη-τιμή",
+    "link": "χαμηλότερη-τιμή.html"
+  },
+  {
+    "name": "χαρτοφυλάκιο",
+    "link": "χαρτοφυλάκιο.html"
+  },
+  {
+    "name": "χρέωση-βεβαιότητας",
+    "link": "χρέωση-βεβαιότητας.html"
+  },
+  {
+    "name": "χρηματοδότηση-κρυπτονομίσματος",
+    "link": "χρηματοδότηση-κρυπτονομίσματος.html"
+  },
+  {
+    "name": "χρηματοοικονομική-τεχνολογία",
+    "link": "χρηματοοικονομική-τεχνολογία.html"
+  },
+  {
+    "name": "χρονική-σήμανση",
+    "link": "χρονική-σήμανση.html"
+  },
+  {
+    "name": "χρονικό-διάστημα",
+    "link": "χρονικό-διάστημα.html"
+  },
+  {
+    "name": "χρόνος-ομάδας-καταχωρίσεων",
+    "link": "χρόνος-ομάδας-καταχωρίσεων.html"
+  },
+  {
+    "name": "ψηφιακά-διαθέσιμα-στοιχεία",
+    "link": "ψηφιακά-διαθέσιμα-στοιχεία.html"
+  },
+  {
+    "name": "ψηφιακή-ταυτότητα",
+    "link": "ψηφιακή-ταυτότητα.html"
+  },
+  {
+    "name": "ψηφιακή-υπογραφή",
+    "link": "ψηφιακή-υπογραφή.html"
+  },
+  {
+    "name": "ψυχρή-αποθήκευση",
+    "link": "ψυχρή-αποθήκευση.html"
+  },
+  {
+    "name": "ψυχρό-πορτοφόλι",
+    "link": "ψυχρό-πορτοφόλι.html"
+  },
+  {
+    "name": "όνομα-υπηρεσίας-του-ethereum",
+    "link": "όνομα-υπηρεσίας-του-ethereum.html"
+  },
+  {
+    "name": "όριο-συναλλαγών",
+    "link": "όριο-συναλλαγών.html"
+  },
+  {
+    "name": "ύψος-ομάδας-καταχωρίσεων",
+    "link": "ύψος-ομάδας-καταχωρίσεων.html"
+  }
+]
