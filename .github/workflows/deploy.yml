@@ -1,0 +1,34 @@
+name: Deploy to GH Pages
+
+on:
+  push:
+    branches:
+      - main # Replace with your branch name if different
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout the repository
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # Step 2: Set up Node.js
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 21
+
+    # Step 3: Install dependencies and build the project
+    - name: Install dependencies and build
+      run: |
+        npm ci
+        npm run build
+
+    # Step 4: Deploy to GitHub Pages
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build # Replace with your build directory (e.g., dist or build)
