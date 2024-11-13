@@ -2,6 +2,8 @@
 
 This repo is the backend for [the `wordsofweb3.eth` glossary](https://wordsofweb3.eth.limo), from [Education DAO](https://educationdao.xyz/).
 
+If the canonical URL isn't working, at `wordsofweb3.eth.limo`, try loading this IPNS hash: [https://ipfs.io/ipns/k51qzi5uqu5dik032y8x6pgcprlg8t42dy521tnnqiomgxauyt3u2z6j5x60r1/english-us/index.html](https://ipfs.io/ipns/k51qzi5uqu5dik032y8x6pgcprlg8t42dy521tnnqiomgxauyt3u2z6j5x60r1/english-us/index.html)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
