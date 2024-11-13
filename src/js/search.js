@@ -1,7 +1,7 @@
 export default function initSearch(directoryContents) {
   const searchButton = document.getElementById("search-button");
   const searchInput = document.getElementById("search-input");
-  const resultsContainer = document.getElementById("search-results");
+  const resultsContainer = document.getElementById("results-container");
 
   if (!searchButton || !searchInput || !resultsContainer) {
     console.error("Search button, input, or results container not found.");
