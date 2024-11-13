@@ -46,6 +46,23 @@ body {
   border-radius: 8px;
 }
 
+#results-container {
+  margin-top: 1rem;
+  padding: 1rem;
+  padding-top: 10px;
+  background-color: #f8f9fa; /* Light background to separate results from the main background */
+  border-radius: 8px;
+}
+
+#results-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#results-container li {
+  margin: 0.5rem 0;
+}
+
 @media (max-width: 990px) {
   /* Adjustments for narrower screens */
   .language-selector {

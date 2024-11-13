@@ -12,28 +12,20 @@ export default function initSearch(directoryContents) {
     const query = searchInput.value.trim().toLowerCase();
     console.log("Search initiated for query:", query);
     if (!query) {
+      resultsContainer.style.display = "none"; // Hide results if no query
       return;
     }
     fetchSearchResults(query);
   });
 
   function fetchSearchResults(query) {
-    resultsContainer.innerHTML = ""; // Clear previous results
-    console.log("clear previous search results")
-
     const results = searchIndex(directoryContents, query);
     displayResults(results);
-    console.log("search results: ", results)
+    console.log("search results: ", results);
   }
 
   function searchIndex(index, query) {
-    const results = [];
-    for (const item of index) {
-      if (item.name.toLowerCase().includes(query)) {
-        results.push(item);
-      }
-    }
-    return results;
+    return index.filter(item => item.name.toLowerCase().includes(query));
   }
 
   function displayResults(results) {
@@ -41,18 +33,19 @@ export default function initSearch(directoryContents) {
 
     if (results.length === 0) {
       resultsContainer.innerHTML = "<p>No results found</p>";
-      console.log("no results found")
+      console.log("no results found");
+      resultsContainer.style.display = "block"; // Show results container for "No results" message
       return;
     }
 
     const list = document.createElement("ul");
-    results.forEach((result) => {
+    results.forEach(result => {
       const listItem = document.createElement("li");
-      console.log ("listing results: ", result)
       const resultUrl = `./${result.link}`;
       listItem.innerHTML = `<a href="${resultUrl}">${result.name}</a>`;
       list.appendChild(listItem);
     });
     resultsContainer.appendChild(list);
+    resultsContainer.style.display = "block"; // Show results container with results
   }
 }
