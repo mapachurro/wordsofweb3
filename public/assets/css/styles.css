@@ -63,20 +63,19 @@ body {
   margin: 0.5rem 0;
 }
 
-@media (max-width: 990px) {
-  /* Adjustments for narrower screens */
+@media (max-width: 768px) {
   .language-selector {
-    max-width: none;
-    width: 100%;
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    z-index: 1050; /* Above navbar items */
+    width: auto;
     font-size: 0.9rem;
-    position: fixed; /* Ensure it's visible and not hidden by other elements */
-    top: 10px;
-    right: 10px;
-    z-index: 10; /* Ensure it appears on top of other elements */
   }
-
+}
   /* Additional padding to prevent overlap with fixed elements */
   .navbar, .header, .search-container {
     padding-top: 50px;
   }
-}
+
+
