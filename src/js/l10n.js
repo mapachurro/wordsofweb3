@@ -20,10 +20,11 @@ export async function initializeLanguageCodes() {
 
     const __filename = fileURLToPath(import.meta.url);
     const __dirname = path.dirname(__filename);
-    const languageCodesPath = path.join(
-      __dirname,
-      "../../l10n/language-codes.json",
-    );
+    // const languageCodesPath = path.join(
+    //   __dirname,
+    //   "../../l10n/language-codes.json",
+    // );
+    const languageCodesPath = './l10n/language-codes.json';
 
     languageCodes = JSON.parse(fs.readFileSync(languageCodesPath, "utf-8"));
   } else {
