@@ -326,6 +326,23 @@ The current implementation leverages the directoryContents.json files, which are
 
 In this way, the reader will be presented with the most relevant searches first.
 
+# Front end, imagery, colors, and overall `vibes`
+
+## Hex codes for Education DAO palette, in order from left to right in this screenshot:
+
+![color-palette](./backend-images/palette.png)
+
+- #a49ceb
+- #1c1c1c
+- #5c5481 
+- #484366
+- #54547c 
+- #5c5c8c
+- #343446
+- #3c344c
+- #2e2c3d
+- #2c2934
+
 # Build
 
 There is a distinction made in this repo between the JS files in `./src/js`, and `./utils`:

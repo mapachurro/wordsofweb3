@@ -1,6 +1,6 @@
 // This should create the alphabetical listing of terms shown on each language's homepage.
 
-export default function initExplore(directoryContents, locale = 'en') {
+export default function initExplore(directoryContents, locale = "en") {
   const exploreContainer = document.getElementById("explore-container");
 
   if (!directoryContents || directoryContents.length === 0) {
@@ -13,18 +13,21 @@ export default function initExplore(directoryContents, locale = 'en') {
     arabic: /^[\u0600-\u06FF]/,
     cjk: /^[\u4E00-\u9FFF\u3400-\u4DBF\uF900-\uFAFF]/, // Chinese, Japanese, and Korean
     devanagari: /^[\u0900-\u097F]/, // Hindi
-    latin: /^[A-Za-z]/, // Latin alphabet for English and other Latin-script languages
-    // Additional scripts can be added here if needed
+    greek: /^[\u0370-\u03FF]/, // Greek
+    cyrillic: /^[\u0400-\u04FF]/, // Cyrillic
+    latin: /^[A-Za-z]/, // Latin alphabet
+    // Add more patterns as needed
   };
 
   const collator = new Intl.Collator(locale);
 
+  // Sort directory contents
   const sortedLinks = directoryContents.sort((a, b) => {
     const aScript = getScript(a.name);
     const bScript = getScript(b.name);
 
-    // Sort by script order first (Arabic > CJK > Devanagari > Latin)
-    const scriptOrder = ['arabic', 'cjk', 'devanagari', 'latin'];
+    // Sort by script order first
+    const scriptOrder = ["arabic", "cjk", "devanagari", "greek", "cyrillic", "latin"];
     const aScriptIndex = scriptOrder.indexOf(aScript);
     const bScriptIndex = scriptOrder.indexOf(bScript);
 
@@ -36,11 +39,12 @@ export default function initExplore(directoryContents, locale = 'en') {
     return collator.compare(a.name, b.name);
   });
 
+  // Create term links and apply responsive classes
   sortedLinks.forEach((link) => {
     const termLink = document.createElement("a");
     termLink.href = `./${link.link}`;
     termLink.textContent = link.name;
-    termLink.style.display = "block";
+    termLink.className = "term-link col-12 col-md-4"; // Responsive classes
     exploreContainer.appendChild(termLink);
   });
 
@@ -51,6 +55,6 @@ export default function initExplore(directoryContents, locale = 'en') {
         return script;
       }
     }
-    return 'latin'; // Default to Latin if no other script matches
+    return "latin"; // Default to Latin if no other script matches
   }
 }
