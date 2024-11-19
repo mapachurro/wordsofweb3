@@ -5,7 +5,7 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈfɪfti wʌn pərˈsɛnt əˈtæk/",
-      "definition": "An attack, often discussed in purely theoretical terms, performed against a distributed ledger or blockchain network. /n The mechanism of the attack consists of gaining control of at least half – more than 50% – of the 'nodes' or 'peers' that participate in the network's consensus mechanism, i.e., sync the current state of the ledger. By gaining control of 51% of the network, the attacker could, in theory, maliciously rewrite the ledger for their own purposes.",
+      "definition": "An attack, often discussed in purely theoretical terms, performed against a distributed ledger or blockchain network.   The mechanism of the attack consists of gaining control of at least half – more than 50% – of the 'nodes' or 'peers' that participate in the network's consensus mechanism, i.e., sync the current state of the ledger. By gaining control of 51% of the network, the attacker could, in theory, maliciously rewrite the ledger for their own purposes.",
       "extended":"Solving for this attack vector is one of the key design decisions in the Bitcoin protocol, as well as Ethereum, and others. In the case of Bitcoin, this was solved through the Proof of Work consensus mechanism, wherein the difficulty involved in mining new blocks effectively prevents any one actor from gaining this sort of control.",
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": ""
@@ -15,7 +15,7 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/əˈkaʊnt/",
-      "definition": "An account, in web1 and web2 terms, refers to some sort of identity on some sort of digital platform. It is usually tied to an authentication method, e.g., username and password, which is granted, managed, and secured by the platform or service in question. /n By contrast, a web3 or crypto account consists of what is known as a public-private key pair; the public half is generally safe to be shared publicly, and in the case of Ethereum, is further processed to create what is known as the 'public address' of the account, always beginning with '0x'. The private half, meanwhile, gives total control over the account; *total*.",
+      "definition": "An account, in web1 and web2 terms, refers to some sort of identity on some sort of digital platform. It is usually tied to an authentication method, e.g., username and password, which is granted, managed, and secured by the platform or service in question.   By contrast, a web3 or crypto account consists of what is known as a public-private key pair; the public half is generally safe to be shared publicly, and in the case of Ethereum, is further processed to create what is known as the 'public address' of the account, always beginning with '0x'. The private half, meanwhile, gives total control over the account; *total*.",
       "extended": "These public-private key pairs can be generated one at a time, or they can be *derived* from what is known as a **seed phrase** or **secret recovery phrase**; for more on this, see HD wallet.",
       "termSource": "Many",
       "dateFirstRecorded": ""
