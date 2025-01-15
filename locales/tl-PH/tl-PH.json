@@ -9,15 +9,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "0xplain": {
-      "term": "0xplain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "1inch": {
       "term": "1inch",
       "phonetic": "",
@@ -28,7 +19,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "Two-Factor Authentication (2FA)",
+      "term": "2FA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -46,7 +37,7 @@
       "datefirstseen": ""
     },
     "51%-attack": {
-      "term": "51% Pag-atake",
+      "term": "51% pag-atake",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -63,17 +54,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "about": {
-      "term": "Tungkol",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "account": {
-      "term": "Account",
+      "term": "account",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,16 +73,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "address/\"pampublikong address\" (address ng wallet)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "advanced": {
-      "term": "Advanced",
+      "term": "address",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -110,15 +83,6 @@
     },
     "aggregator": {
       "term": "aggregator",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "aggressive": {
-      "term": "Agresibo",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -171,15 +135,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "alerts": {
-      "term": "Mga Alerto",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "algorithm": {
       "term": "algoritmo",
       "phonetic": "",
@@ -199,7 +154,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "AML (Anti-Money Laundering)",
+      "term": "AML",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +172,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -227,15 +182,6 @@
     },
     "apple-pay": {
       "term": "Apple Pay",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "approve": {
-      "term": "Aprubahan",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +199,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC (Application Specific Integrated Circuit)",
+      "term": "ASIC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -288,15 +234,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "autodetection": {
-      "term": "Awtomatikong pagtuklas",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "avalanche": {
       "term": "Avalanche",
       "phonetic": "",
@@ -324,35 +261,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "backup": {
-      "term": "Backup",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "balance": {
-      "term": "Balanse",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "banxa": {
       "term": "Banxa",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "base-fee": {
-      "term": "Batayang bayad",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -387,15 +297,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "biometrics": {
-      "term": "Biometrics",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "bitcoin": {
       "term": "Bitcoin",
       "phonetic": "",
@@ -406,7 +307,7 @@
       "datefirstseen": ""
     },
     "block": {
-      "term": "block (pangngalan)",
+      "term": "block",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -469,7 +370,7 @@
       "datefirstseen": ""
     },
     "blockchain-explorer": {
-      "term": "Blockchain explorer",
+      "term": "blockchain explorer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -479,24 +380,6 @@
     },
     "blockchain-trilemma": {
       "term": "blockchain trilemma",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blockies": {
-      "term": "Blockies",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blue-fox": {
-      "term": "blue fox",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +406,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "bounty / bug bounty",
+      "term": "bounty",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -550,16 +433,7 @@
       "datefirstseen": ""
     },
     "bridge": {
-      "term": "Bridge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "browser": {
-      "term": "Browser",
+      "term": "bridge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -569,24 +443,6 @@
     },
     "btc": {
       "term": "BTC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "bug-report": {
-      "term": "Ulat ng Bug",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "buidl": {
-      "term": "BUIDL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -621,15 +477,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "cancel": {
-      "term": "Kanselahin",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "celo": {
       "term": "Celo",
       "phonetic": "",
@@ -640,7 +487,7 @@
       "datefirstseen": ""
     },
     "centralized-exchange": {
-      "term": "Centralized exchange",
+      "term": "centralized exchange",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -675,17 +522,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "clear": {
-      "term": "I-clear",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "client": {
-      "term": "kliyente (Ethereum o iba pang katugmang blockchain)",
+      "term": "kliyente",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,16 +577,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "cold wallet / cold storage",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "community-platform": {
-      "term": "Platform ng Komunidad",
+      "term": "cold wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +586,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "Pinagsasama-sama",
+      "term": "pagsama-samahin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -767,15 +596,6 @@
     },
     "compound": {
       "term": "Compound",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "confirm": {
-      "term": "Kumpirmahin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -802,7 +622,7 @@
       "datefirstseen": ""
     },
     "consensus-client": {
-      "term": "Consensus client",
+      "term": "consensus client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -811,7 +631,7 @@
       "datefirstseen": ""
     },
     "consensus-layer": {
-      "term": "Layer ng kasunduan",
+      "term": "layer ng consensus",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -820,7 +640,7 @@
       "datefirstseen": ""
     },
     "consensus-mechanism": {
-      "term": "Mekanismo ng kasunduan",
+      "term": "mekanismo ng consensus",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -846,15 +666,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "contacts": {
-      "term": "Mga Kontak",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "contract": {
       "term": "kontrata",
       "phonetic": "",
@@ -865,16 +676,7 @@
       "datefirstseen": ""
     },
     "contract-account": {
-      "term": "Account ng kontrata",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "conversion": {
-      "term": "Palitan",
+      "term": "account ng kontrata",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -884,24 +686,6 @@
     },
     "coolwallet": {
       "term": "CoolWallet",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "copy": {
-      "term": "Kopyahin",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "create": {
-      "term": "Gumawa",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1009,16 +793,7 @@
       "datefirstseen": ""
     },
     "custody": {
-      "term": "kustodiya (pangngalan)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "custom-nonce": {
-      "term": "I-custom ang nonce",
+      "term": "kustodiya",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1062,8 +837,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos-": {
-      "term": "Distributed Denial of Service (DDoS) na Pag-atake",
+    "ddos": {
+      "term": "DDoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1125,15 +900,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "default": {
-      "term": "Default",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "defi": {
       "term": "DeFi",
       "phonetic": "",
@@ -1143,35 +909,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "defi-read-api": {
-      "term": "DeFi Read API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "defi-write-api": {
-      "term": "DeFi Write API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "delegated-proof-of-stake-(dpos)": {
-      "term": "DPoS",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "delete": {
-      "term": "Tanggalin",
+      "term": "Delegated proof of stake (DPoS)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1180,7 +919,7 @@
       "datefirstseen": ""
     },
     "denominations": {
-      "term": "ether (mga denominasyon)",
+      "term": "mga denominasyon",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,16 +964,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "Developer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "device": {
-      "term": "Device",
+      "term": "developer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1288,7 +1018,7 @@
       "datefirstseen": ""
     },
     "digital-signature": {
-      "term": "Digital na lagda",
+      "term": "digital na lagda",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1298,15 +1028,6 @@
     },
     "diligence": {
       "term": "Diligence",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "disable": {
-      "term": "Huwag paganahin",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1341,24 +1062,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "download": {
-      "term": "I-download",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "dropped": {
-      "term": "Nahulog",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "ecosystem": {
       "term": "ekosistema",
       "phonetic": "",
@@ -1368,26 +1071,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "edge": {
-      "term": "Edge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "edit": {
-      "term": "I-edit",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eea": {
-      "term": "Enterprise Ethereum Alliance (EEA)",
+      "term": "EEA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1404,17 +1089,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "enable": {
-      "term": "Paganahin",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-keys": {
-      "term": "naka-encrypt kumpara sa mga hindi naka-encrypt na key",
+    "encrypted-key": {
+      "term": "mga naka-encrypt na key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1494,15 +1170,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "error": {
-      "term": "Error",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eth": {
       "term": "ETH",
       "phonetic": "",
@@ -1512,8 +1179,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ether-": {
-      "term": "ether (ETH)",
+    "ether": {
+      "term": "ether",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1207,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "Ethereum Improvement Proposal (EIP)",
+      "term": "Ethereum Improvement Proposal",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1612,7 +1279,7 @@
       "datefirstseen": ""
     },
     "execution-client": {
-      "term": "Kliyente sa pagpapatupad",
+      "term": "kliyente sa pagpapatupad",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1621,43 +1288,7 @@
       "datefirstseen": ""
     },
     "execution-layer": {
-      "term": "Layer ng pagpapatupad",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "experimental": {
-      "term": "Eksperimental",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "export": {
-      "term": "I-export",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "extension": {
-      "term": "Extension",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "failed": {
-      "term": "Nabigo",
+      "term": "layer ng pagpapatupad",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1711,7 +1342,7 @@
       "datefirstseen": ""
     },
     "finality-rate": {
-      "term": "Rate ng Pangwakas",
+      "term": "rate ng pangwakas",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1737,15 +1368,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "fintech": {
-      "term": "FinTech",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "firefox": {
       "term": "Firefox",
       "phonetic": "",
@@ -1756,7 +1378,7 @@
       "datefirstseen": ""
     },
     "firewall": {
-      "term": "Firewall",
+      "term": "firewall",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1765,16 +1387,7 @@
       "datefirstseen": ""
     },
     "firmware": {
-      "term": "Firmware",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "flask": {
-      "term": "Flask",
+      "term": "firmware",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1792,7 +1405,7 @@
       "datefirstseen": ""
     },
     "fractional-ownership": {
-      "term": "Fractional na Pagmamay-ari",
+      "term": "fractional na pagmamay-ari",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1801,7 +1414,7 @@
       "datefirstseen": ""
     },
     "fraud-proof": {
-      "term": "Katibayan ng panloloko",
+      "term": "patunay ng panloloko",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1890,26 +1503,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "general": {
-      "term": "Pangkalahatan",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "genesis-block": {
       "term": "genesis block",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "gigawei": {
-      "term": "Gigawei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1945,7 +1540,7 @@
       "datefirstseen": ""
     },
     "governance": {
-      "term": "Pamamahala",
+      "term": "pamamahala",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2008,7 +1603,7 @@
       "datefirstseen": ""
     },
     "hash": {
-      "term": "hash (pangngalan)",
+      "term": "hash",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +1612,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "Hierarchical Deterministic (HD) na wallet",
+      "term": "HD wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2027,15 +1622,6 @@
     },
     "hex-data": {
       "term": "Hex na data",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "hide": {
-      "term": "Itago",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2062,7 +1648,7 @@
       "datefirstseen": ""
     },
     "hybrid-network": {
-      "term": "Hybrid Network",
+      "term": "hybrid network",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +1666,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "Protocol ng Inter-Blockchain Communication (IBC)",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2106,26 +1692,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "identicon": {
-      "term": "Identicon ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "immutability": {
       "term": "kawalan ng pagbabago",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "import": {
-      "term": "Mag-import",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2143,25 +1711,7 @@
       "datefirstseen": ""
     },
     "insider-trading": {
-      "term": "Insider Trading",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "install": {
-      "term": "Mag-install",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "institutional": {
-      "term": "Institutional",
+      "term": "insider trading",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2179,7 +1729,7 @@
       "datefirstseen": ""
     },
     "interoperability": {
-      "term": "Interoperability",
+      "term": "interoperability",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2189,15 +1739,6 @@
     },
     "interplanetary-file-system-(ipfs)": {
       "term": "InterPlanetary File System (IPFS)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "invalid": {
-      "term": "Di-wasto",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2225,15 +1766,6 @@
     },
     "ipo": {
       "term": "IPO",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "jazzicons": {
-      "term": "Jazzicons",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2313,15 +1845,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "latency": {
-      "term": "Latency",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "lattice1": {
       "term": "Lattice1",
       "phonetic": "",
@@ -2340,17 +1863,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "layer-0": {
-      "term": "Layer 0",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "layer-1": {
-      "term": "Layer 1",
+      "term": "layer 1",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2359,7 +1873,7 @@
       "datefirstseen": ""
     },
     "layer-2": {
-      "term": "Layer 2",
+      "term": "layer 2",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2439,26 +1953,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "link": {
-      "term": "Link",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "liquid-democracy": {
-      "term": "Liquid Democracy (Delegatibong Demokrasya)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "liquidation": {
-      "term": "Liquidation",
+      "term": "liquidation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2493,26 +1989,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "lock": {
-      "term": "I-lock",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "low": {
-      "term": "Mababa",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "mainnet": {
-      "term": "Mainnet",
+      "term": "mainnet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2530,7 +2008,7 @@
       "datefirstseen": ""
     },
     "malware": {
-      "term": "Malware",
+      "term": "malware",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2556,17 +2034,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "maximum-priority-fee": {
-      "term": "Pinakamataas na Bayad sa Priyoridad",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "memory-pool": {
-      "term": "memory pool; mempool",
+      "term": "memory pool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2593,7 +2062,7 @@
       "datefirstseen": ""
     },
     "merge": {
-      "term": "Merge (pangngalan)",
+      "term": "Merge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2620,7 +2089,7 @@
       "datefirstseen": ""
     },
     "metadata": {
-      "term": "Metadata",
+      "term": "metadata",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2630,42 +2099,6 @@
     },
     "metamask": {
       "term": "MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-activity": {
-      "term": "MetaMask Activity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-bridge": {
-      "term": "MetaMask Bridge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-community-platform": {
-      "term": "Platform ng Komunidad ng MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-extension": {
-      "term": "Extension ng MetaMask",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2700,44 +2133,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-sdk": {
-      "term": "MetaMask SDK",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-snaps": {
-      "term": "MetaMask Snaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-support": {
-      "term": "Suporta sa MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-swaps": {
       "term": "MetaMask Swaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metametrics": {
-      "term": "MetaMetrics",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2755,7 +2152,7 @@
       "datefirstseen": ""
     },
     "mev": {
-      "term": "Maximal Extractable Value (MEV)",
+      "term": "MEV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2800,16 +2197,7 @@
       "datefirstseen": ""
     },
     "mint": {
-      "term": "Mint",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "mmi": {
-      "term": "MMI",
+      "term": "mint",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2853,15 +2241,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "multi-factor-authentication": {
-      "term": "Multifactor na Pagpapatunay",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "multi-sig": {
       "term": "multi-sig",
       "phonetic": "",
@@ -2872,7 +2251,7 @@
       "datefirstseen": ""
     },
     "multi-signature-wallet": {
-      "term": "multi-signature na wallet (multisig)",
+      "term": "multi-signature na wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2881,7 +2260,7 @@
       "datefirstseen": ""
     },
     "nested-blockchain": {
-      "term": "Nested na Blockchain",
+      "term": "nested na blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2890,7 +2269,7 @@
       "datefirstseen": ""
     },
     "network": {
-      "term": "Network",
+      "term": "network",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2898,8 +2277,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "network-pcongestion": {
-      "term": "Pagsisikip ng Network",
+    "network-congestion": {
+      "term": "pagsisikip ng network",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2908,7 +2287,7 @@
       "datefirstseen": ""
     },
     "nfc": {
-      "term": "Near-Field Communication (NFC)",
+      "term": "NFC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2962,7 +2341,7 @@
       "datefirstseen": ""
     },
     "non-fungible-token": {
-      "term": "Non-fungible token",
+      "term": "non-fungible token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2368,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "nasa rampa, wala sa rampa",
+      "term": "wala sa rampa",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3069,15 +2448,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "optional": {
-      "term": "Opsyonal",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "oracle": {
       "term": "Orakulo",
       "phonetic": "",
@@ -3088,7 +2458,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "peer-to-peer (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3124,7 +2494,7 @@
       "datefirstseen": ""
     },
     "passphrase": {
-      "term": "Passphrase",
+      "term": "passphrase",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3133,7 +2503,7 @@
       "datefirstseen": ""
     },
     "password": {
-      "term": "Password",
+      "term": "password",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3160,25 +2530,7 @@
       "datefirstseen": ""
     },
     "peer-to-peer": {
-      "term": "Peer-to-peer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "pending": {
-      "term": "Nakabinbin",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "permission": {
-      "term": "Pahintulot",
+      "term": "peer-to-peer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3196,7 +2548,7 @@
       "datefirstseen": ""
     },
     "phishing": {
-      "term": "phishing (pangngalan)",
+      "term": "phishing",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3223,7 +2575,7 @@
       "datefirstseen": ""
     },
     "poa": {
-      "term": "Proof of Authority (PoA)",
+      "term": "PoA",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3240,17 +2592,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "portfolio": {
-      "term": "Portfolio",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "pos": {
-      "term": "Proof of Stake (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,16 +2602,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "Proof of Work (PoW)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "priority-fee": {
-      "term": "Bayad sa priyoridad",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3358,16 +2692,7 @@
       "datefirstseen": ""
     },
     "public-key-cryptography": {
-      "term": "Pampublikong-Key na Kriptograpiya",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "public-key-infrastructure": {
-      "term": "Pampublikong-Key na Imprastraktura",
+      "term": "pampublikong key na kriptograpiya",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3402,24 +2727,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "receive": {
-      "term": "Tumanggap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reject": {
-      "term": "Tanggihan",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "relayer": {
       "term": "tagapaghatid",
       "phonetic": "",
@@ -3438,60 +2745,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "remove": {
-      "term": "Alisin",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(noun)": {
-      "term": "Kahilingan (pangngalan)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(verb)": {
-      "term": "Humiling (pandiwa)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reset": {
-      "term": "I-reset",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "restore": {
-      "term": "Ibalik",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reveal": {
-      "term": "Ibunyag",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "rinkeby": {
       "term": "Rinkeby",
       "phonetic": "",
@@ -3502,7 +2755,7 @@
       "datefirstseen": ""
     },
     "roadmap": {
-      "term": "Roadmap",
+      "term": "roadmap",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3600,15 +2853,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "save": {
-      "term": "I-save",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "scalability": {
       "term": "scalability",
       "phonetic": "",
@@ -3619,7 +2863,7 @@
       "datefirstseen": ""
     },
     "scaling": {
-      "term": "Scaling",
+      "term": "scaling",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3628,16 +2872,7 @@
       "datefirstseen": ""
     },
     "scam": {
-      "term": "Panloloko",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "scan": {
-      "term": "Mag-scan",
+      "term": "panloloko",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3663,17 +2898,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "search": {
-      "term": "Maghanap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "search-engine": {
-      "term": "Search engine",
+      "term": "search engine",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3683,15 +2909,6 @@
     },
     "secret-recovery-phrase": {
       "term": "Lihim na Parirala sa Pagbawi",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "security-&-privacy": {
-      "term": "Seguridad at Pagkapribado",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +2926,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "Security Token Offering (STO)",
+      "term": "Security Token Offering",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3727,7 +2944,7 @@
       "datefirstseen": ""
     },
     "self-custody": {
-      "term": "sariling kustodiya (pangngalan)",
+      "term": "sariling kustodiya",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3771,17 +2988,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "settings": {
-      "term": "Mga setting",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "shard-chain": {
-      "term": "Chain ng pagpipira-piraso",
+      "term": "chain ng pagpipira-piraso",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3790,7 +2998,7 @@
       "datefirstseen": ""
     },
     "sharding": {
-      "term": "pagpipira-piraso (pangngalan)",
+      "term": "pagpipira-piraso",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3799,16 +3007,7 @@
       "datefirstseen": ""
     },
     "shielded-transaction": {
-      "term": "Shielded na Transaksyon",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "show": {
-      "term": "Ipakita",
+      "term": "shielded na transaksyon",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3818,42 +3017,6 @@
     },
     "sidechain": {
       "term": "sidechain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign": {
-      "term": "Pumirma",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign-in": {
-      "term": "Mag-sign-in",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "signature": {
-      "term": "Lagda (Kriptograpiya)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "skip": {
-      "term": "Laktawan",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3897,33 +3060,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "snap": {
-      "term": "Snap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snaps": {
-      "term": "Snaps (MetaMask Snaps)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snapshots-api": {
-      "term": "Snapshots API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "soft-fork": {
       "term": "soft fork",
       "phonetic": "",
@@ -3942,24 +3078,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "source": {
-      "term": "Pinagmulan (pangngalan)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "speed-up": {
-      "term": "Pabilisan",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "stablecoin": {
       "term": "stablecoin",
       "phonetic": "",
@@ -3970,7 +3088,7 @@
       "datefirstseen": ""
     },
     "stake": {
-      "term": "stake",
+      "term": "pagkakataya",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3979,7 +3097,7 @@
       "datefirstseen": ""
     },
     "staking": {
-      "term": "pagtataya (pangngalan)",
+      "term": "pagtataya",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4005,24 +3123,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "state-logs": {
-      "term": "Mga tala ng estado",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "status": {
-      "term": "Katayuan",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "sto": {
       "term": "STO",
       "phonetic": "",
@@ -4033,34 +3133,7 @@
       "datefirstseen": ""
     },
     "streaming": {
-      "term": "Streaming",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "submit": {
-      "term": "Magsumite",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support": {
-      "term": "Suporta",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support-center": {
-      "term": "Sentro ng Suporta",
+      "term": "streaming",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4070,24 +3143,6 @@
     },
     "swap": {
       "term": "i-swap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "switch": {
-      "term": "Lumipat (pandiwa)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "symbol": {
-      "term": "Simbolo",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4158,35 +3213,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "theme": {
-      "term": "Tema",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tips": {
-      "term": "Mga tip",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "token": {
       "term": "token",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "token-id": {
-      "term": "ID ng Token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4204,7 +3232,7 @@
       "datefirstseen": ""
     },
     "token-standard": {
-      "term": "Pamantayan ng token",
+      "term": "pamantayan ng token",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4213,7 +3241,7 @@
       "datefirstseen": ""
     },
     "transaction": {
-      "term": "Transaksyon",
+      "term": "transaksyon",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4232,15 +3260,6 @@
     },
     "transaction-fee": {
       "term": "bayad sa transaksyon",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transaction-history-api": {
-      "term": "Transaction History API",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4268,15 +3287,6 @@
     },
     "transak": {
       "term": "Transak",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transfer": {
-      "term": "Maglipat (pandiwa)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4320,17 +3330,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "tutorial": {
-      "term": "Pagtuturo",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "tvl": {
-      "term": "Total Value Locked (TVL)",
+      "term": "TVL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4357,7 +3358,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "hindi naka-encrypt na key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4367,24 +3368,6 @@
     },
     "uniswap": {
       "term": "Uniswap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "unknown": {
-      "term": "Hindi kilala",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "unlock": {
-      "term": "I-unlock",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,16 +3385,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "update": {
-      "term": "I-update (pandiwa)",
+      "term": "tanggalin sa pagkakataya",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4473,26 +3447,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "validium": {
-      "term": "Validium",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "vault-decryptor": {
-      "term": "Vault Decryptor",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "vesting": {
-      "term": "Vesting",
+      "term": "vesting",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +3475,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "address ng wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +3502,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "web3, Web 3.0",
+      "term": "web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +3538,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "Wei",
+      "term": "wei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4591,7 +3547,7 @@
       "datefirstseen": ""
     },
     "whitepaper": {
-      "term": "Whitepaper",
+      "term": "whitepaper",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4600,7 +3556,7 @@
       "datefirstseen": ""
     },
     "wrapping": {
-      "term": "Wrapping",
+      "term": "wrapping",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +3574,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "Extended Private Key (XPRIV)",
+      "term": "XPRIV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +3583,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "Extended Public Key (XPUB)",
+      "term": "XPUB",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4663,7 +3619,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-proof": {
-      "term": "Patunay na walang kaalaman",
+      "term": "patunay na hindi magbibigay ng kaalaman",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4672,7 +3628,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-rollup": {
-      "term": "Rollup na walang kaalaman",
+      "term": "rollup na hindi magbibigay ng kaalaman",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +3638,15 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "0xplain": {
+      "term": "0xplain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

@@ -9,15 +9,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "0xplain": {
-      "term": "0xplain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "1inch": {
       "term": "1inch",
       "phonetic": "",
@@ -63,15 +54,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "about": {
-      "term": "Over",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "account": {
       "term": "account",
       "phonetic": "",
@@ -99,26 +81,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "advanced": {
-      "term": "geavanceerd",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "aggregator": {
       "term": "aggregator",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "aggressive": {
-      "term": "agressief",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -164,15 +128,6 @@
     },
     "airswap": {
       "term": "AirSwap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "alerts": {
-      "term": "waarschuwingen",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -234,15 +189,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "approve": {
-      "term": "goedkeuren",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "arbitrum": {
       "term": "Arbitrum",
       "phonetic": "",
@@ -288,15 +234,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "autodetection": {
-      "term": "automatische detectie",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "avalanche": {
       "term": "Avalanche",
       "phonetic": "",
@@ -324,35 +261,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "backup": {
-      "term": "back-up",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "balance": {
-      "term": "saldo",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "banxa": {
       "term": "Banxa",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "base-fee": {
-      "term": "Base fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -380,15 +290,6 @@
     },
     "binance": {
       "term": "Binance",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "biometrics": {
-      "term": "biometrie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -486,24 +387,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "blockies": {
-      "term": "blockies",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blue-fox": {
-      "term": "blue fox",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "bnb": {
       "term": "BNB",
       "phonetic": "",
@@ -523,7 +406,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "bounty",
+      "term": "bounty/",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -558,35 +441,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "browser": {
-      "term": "browser",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "btc": {
       "term": "BTC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "bug-report": {
-      "term": "foutenrapport",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "buidl": {
-      "term": "BUIDL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -614,15 +470,6 @@
     },
     "byzantium-fork": {
       "term": "Byzantium fork",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "cancel": {
-      "term": "annuleren",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -675,15 +522,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "clear": {
-      "term": "wissen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "client": {
       "term": "client",
       "phonetic": "",
@@ -703,7 +541,7 @@
       "datefirstseen": ""
     },
     "coin": {
-      "term": "coin-cryptomunt",
+      "term": "coin/cryptomunt",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -730,7 +568,7 @@
       "datefirstseen": ""
     },
     "cold-storage": {
-      "term": "koude opslag-cold storage",
+      "term": "koude opslag/cold storage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -740,15 +578,6 @@
     },
     "cold-wallet": {
       "term": "koude wallet",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "community-platform": {
-      "term": "communityplatform",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -767,15 +596,6 @@
     },
     "compound": {
       "term": "Compound",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "confirm": {
-      "term": "bevestigen",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -846,15 +666,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "contacts": {
-      "term": "contacten",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "contract": {
       "term": "contract",
       "phonetic": "",
@@ -873,35 +684,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "conversion": {
-      "term": "conversie",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "coolwallet": {
       "term": "CoolWallet",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "copy": {
-      "term": "kopiëren",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "create": {
-      "term": "aanmaken",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -973,7 +757,7 @@
       "datefirstseen": ""
     },
     "cryptocurrency": {
-      "term": "cryptocurrency-cryptomunt",
+      "term": "cryptocurrency/cryptomunt",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1009,16 +793,7 @@
       "datefirstseen": ""
     },
     "custody": {
-      "term": "custody-bewaring-beheer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "custom-nonce": {
-      "term": "custom nonce",
+      "term": "custody/bewaring/beheer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1062,8 +837,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos-": {
-      "term": "DDOS-aanval (distributed denial of service)",
+    "ddos": {
+      "term": "DDoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1125,15 +900,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "default": {
-      "term": "standaard",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "defi": {
       "term": "DeFi",
       "phonetic": "",
@@ -1143,35 +909,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "defi-read-api": {
-      "term": "DeFi Read API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "defi-write-api": {
-      "term": "DeFi Write API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "delegated-proof-of-stake-(dpos)": {
       "term": "DPoS (delegated proof-of-stake)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "delete": {
-      "term": "verwijderen",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1233,15 +972,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "device": {
-      "term": "apparaat",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "dex": {
       "term": "DEX",
       "phonetic": "",
@@ -1252,7 +982,7 @@
       "datefirstseen": ""
     },
     "difficulty": {
-      "term": "difficulty-moeilijkheid",
+      "term": "difficulty/moeilijkheid",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1305,15 +1035,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "disable": {
-      "term": "uitschakelen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "distributed-ledger-technology": {
       "term": "Distributed Ledger Technology",
       "phonetic": "",
@@ -1341,44 +1062,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "download": {
-      "term": "downloaden",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "dropped": {
-      "term": "gedropt",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "ecosystem": {
       "term": "ecosysteem",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "edge": {
-      "term": "Edge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "edit": {
-      "term": "bewerken",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1404,17 +1089,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "enable": {
-      "term": "inschakelen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-keys": {
-      "term": "sleutels met of zonder encryptie",
+    "encrypted-key": {
+      "term": "sleutel met encryptie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1423,7 +1099,7 @@
       "datefirstseen": ""
     },
     "encryption": {
-      "term": "encryptie-versleuteling",
+      "term": "encryptie/versleuteling",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1494,15 +1170,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "error": {
-      "term": "fout",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eth": {
       "term": "ETH",
       "phonetic": "",
@@ -1512,8 +1179,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ether-": {
-      "term": "ether (ETH)",
+    "ether": {
+      "term": "ether",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1603,7 +1270,7 @@
       "datefirstseen": ""
     },
     "exchange": {
-      "term": "exchange -cryptobeurs",
+      "term": "exchange/cryptobeurs",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1622,42 +1289,6 @@
     },
     "execution-layer": {
       "term": "uitvoeringslaag",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "experimental": {
-      "term": "experimenteel",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "export": {
-      "term": "exporteren",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "extension": {
-      "term": "extensie",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "failed": {
-      "term": "mislukt",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1693,7 +1324,7 @@
       "datefirstseen": ""
     },
     "fiat-currency": {
-      "term": "fiatgeld -fiduciair geld",
+      "term": "fiatgeld/fiduciair geld",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1737,15 +1368,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "fintech": {
-      "term": "Fintech",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "firefox": {
       "term": "Firefox",
       "phonetic": "",
@@ -1766,15 +1388,6 @@
     },
     "firmware": {
       "term": "firmware",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "flask": {
-      "term": "Flask",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1846,7 +1459,7 @@
       "datefirstseen": ""
     },
     "gas-fee": {
-      "term": "transactiekosten -gas fee",
+      "term": "transactiekosten/gas fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1855,7 +1468,7 @@
       "datefirstseen": ""
     },
     "gas-limit": {
-      "term": "maximale transactiekosten-gas limit",
+      "term": "maximale transactiekosten/gas limit",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1890,26 +1503,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "general": {
-      "term": "algemeen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "genesis-block": {
       "term": "genesisblok",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "gigawei": {
-      "term": "Gigawei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2034,17 +1629,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "hide": {
-      "term": "verbergen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "hot-storage": {
-      "term": "warme opslag-hot storage",
+      "term": "warme opslag/hot storage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2053,7 +1639,7 @@
       "datefirstseen": ""
     },
     "hot-wallet": {
-      "term": "warme wallet-warme opslag-hot wallet",
+      "term": "warme wallet/warme opslag/hot wallet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2106,26 +1692,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "identicon": {
-      "term": "identicon ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "immutability": {
       "term": "onveranderlijkheid",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "import": {
-      "term": "importeren",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2144,24 +1712,6 @@
     },
     "insider-trading": {
       "term": "handel met voorkennis",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "install": {
-      "term": "installeren",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "institutional": {
-      "term": "Institutional",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2196,15 +1746,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "invalid": {
-      "term": "ongeldig",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "ip-address": {
       "term": "IP-adres",
       "phonetic": "",
@@ -2225,15 +1766,6 @@
     },
     "ipo": {
       "term": "IPO",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "jazzicons": {
-      "term": "jazzicons",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2313,15 +1845,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "latency": {
-      "term": "Latentie",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "lattice1": {
       "term": "Lattice1",
       "phonetic": "",
@@ -2333,15 +1856,6 @@
     },
     "launchpad": {
       "term": "Launchpad",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "layer-0": {
-      "term": "laag 0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2439,24 +1953,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "link": {
-      "term": "link",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "liquid-democracy": {
-      "term": "liquid democracy",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "liquidation": {
       "term": "liquidatie",
       "phonetic": "",
@@ -2486,24 +1982,6 @@
     },
     "liquidity-staking": {
       "term": "liquiditeit staken",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "lock": {
-      "term": "vergrendelen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "low": {
-      "term": "laag",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2549,15 +2027,6 @@
     },
     "matic": {
       "term": "MATIC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "maximum-priority-fee": {
-      "term": "Maximale priority fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2637,42 +2106,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-activity": {
-      "term": "MetaMask Activity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-bridge": {
-      "term": "MetaMask Bridge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-community-platform": {
-      "term": "MetaMask communityplatform",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-extension": {
-      "term": "MetaMask extensie",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-flask": {
       "term": "MetaMask Flask",
       "phonetic": "",
@@ -2700,44 +2133,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-sdk": {
-      "term": "MetaMask SDK",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-snaps": {
-      "term": "MetaMask Snaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-support": {
-      "term": "MetaMask Support",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-swaps": {
       "term": "MetaMask Swaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metametrics": {
-      "term": "MetaMetrics",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2808,15 +2205,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "mmi": {
-      "term": "MMI",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "mnemonic-phrase": {
       "term": "mnemonic phrase",
       "phonetic": "",
@@ -2846,15 +2234,6 @@
     },
     "moonpay": {
       "term": "MoonPay",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "multi-factor-authentication": {
-      "term": "meervoudige verificatie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2898,7 +2277,7 @@
       "source": "",
       "datefirstseen": ""
     },
-    "network-pcongestion": {
+    "network-congestion": {
       "term": "netwerkcongestie",
       "phonetic": "",
       "partOfSpeech": "",
@@ -3069,15 +2448,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "optional": {
-      "term": "optioneel",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "oracle": {
       "term": "Oracle",
       "phonetic": "",
@@ -3168,24 +2538,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "pending": {
-      "term": "in behandeling",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "permission": {
-      "term": "Toestemming",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "permissioned-ledger": {
       "term": "permissioned ledger",
       "phonetic": "",
@@ -3240,15 +2592,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "portfolio": {
-      "term": "portfolio",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "pos": {
       "term": "PoS",
       "phonetic": "",
@@ -3260,15 +2603,6 @@
     },
     "pow": {
       "term": "PoW",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "priority-fee": {
-      "term": "Priority fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3340,7 +2674,7 @@
       "datefirstseen": ""
     },
     "public-blockchain": {
-      "term": "openbare blockchain-public blockchain",
+      "term": "openbare blockchain/public blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3349,7 +2683,7 @@
       "datefirstseen": ""
     },
     "public-key": {
-      "term": "publieke sleutel-public key",
+      "term": "publieke sleutel/public key",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3358,16 +2692,7 @@
       "datefirstseen": ""
     },
     "public-key-cryptography": {
-      "term": "asymmetrische cryptografie-publieke-sleutelcryptografie",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "public-key-infrastructure": {
-      "term": "publieke-sleutelinfrastructuur",
+      "term": "asymmetrische cryptografie/publieke-sleutelcryptografie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3402,24 +2727,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "receive": {
-      "term": "Ontvangen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reject": {
-      "term": "weigeren",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "relayer": {
       "term": "relayer",
       "phonetic": "",
@@ -3431,60 +2738,6 @@
     },
     "remote-procedure-call": {
       "term": "Remote Procedure Call",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "remove": {
-      "term": "verwijderen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(noun)": {
-      "term": "aanvraag",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(verb)": {
-      "term": "aanvragen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reset": {
-      "term": "resetten",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "restore": {
-      "term": "herstellen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reveal": {
-      "term": "onthullen",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3600,15 +2853,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "save": {
-      "term": "opslaan",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "scalability": {
       "term": "schaalbaarheid",
       "phonetic": "",
@@ -3628,16 +2872,7 @@
       "datefirstseen": ""
     },
     "scam": {
-      "term": "scam-oplichting",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "scan": {
-      "term": "scannen",
+      "term": "scam/oplichting",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3663,15 +2898,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "search": {
-      "term": "zoeken",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "search-engine": {
       "term": "zoekmachine",
       "phonetic": "",
@@ -3683,15 +2909,6 @@
     },
     "secret-recovery-phrase": {
       "term": "Geheime herstelzin",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "security-&-privacy": {
-      "term": "beveiliging en privacy",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3727,7 +2944,7 @@
       "datefirstseen": ""
     },
     "self-custody": {
-      "term": "self-custody-zelfbewaring-eigen beheer",
+      "term": "self-custody/zelfbewaring/eigen beheer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3771,15 +2988,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "settings": {
-      "term": "instellingen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "shard-chain": {
       "term": "shard chain",
       "phonetic": "",
@@ -3807,53 +3015,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "show": {
-      "term": "tonen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "sidechain": {
       "term": "sidechain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign": {
-      "term": "tekenen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign-in": {
-      "term": "aanmelden",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "signature": {
-      "term": "Handtekening",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "skip": {
-      "term": "overslaan",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3897,33 +3060,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "snap": {
-      "term": "Snap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snaps": {
-      "term": "Snaps (MetaMask Snaps)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snapshots-api": {
-      "term": "Snapshots API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "soft-fork": {
       "term": "soft fork",
       "phonetic": "",
@@ -3935,24 +3071,6 @@
     },
     "solidity": {
       "term": "Solidity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "source": {
-      "term": "bron",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "speed-up": {
-      "term": "versnellen",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4005,24 +3123,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "state-logs": {
-      "term": "statuslogboeken",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "status": {
-      "term": "status",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "sto": {
       "term": "STO",
       "phonetic": "",
@@ -4041,53 +3141,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "submit": {
-      "term": "indienen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support": {
-      "term": "Support",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support-center": {
-      "term": "helpcentrum",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "swap": {
       "term": "swappen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "switch": {
-      "term": "wisselen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "symbol": {
-      "term": "symbool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4158,35 +3213,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "theme": {
-      "term": "thema",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tips": {
-      "term": "tips",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "token": {
       "term": "token",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "token-id": {
-      "term": "token-ID",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4239,15 +3267,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "transaction-history-api": {
-      "term": "Transaction History API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "transaction-id": {
       "term": "transactie-ID",
       "phonetic": "",
@@ -4268,15 +3287,6 @@
     },
     "transak": {
       "term": "Transak",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transfer": {
-      "term": "overdragen",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4313,15 +3323,6 @@
     },
     "turing-complete": {
       "term": "Turingvolledig",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tutorial": {
-      "term": "tutorial",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4374,24 +3375,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "unknown": {
-      "term": "onbekend",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "unlock": {
-      "term": "ontgrendelen",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "unspent-transaction-output": {
       "term": "unspent transaction output",
       "phonetic": "",
@@ -4403,15 +3386,6 @@
     },
     "unstake": {
       "term": "unstaken",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "update": {
-      "term": "bijwerken",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4473,26 +3447,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "validium": {
-      "term": "Validium",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "vault-decryptor": {
-      "term": "Vault Decryptor",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "vesting": {
-      "term": "vesting-wacht-",
+      "term": "vesting/wacht-",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4689,35 +3645,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos": {
-      "term": "DDoS",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-key": {
-      "term": "sleutel met encryptie",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "ether": {
-      "term": "ether",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "network-congestion": {
-      "term": "netwerkcongestie",
+    "0xplain": {
+      "term": "0xplain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

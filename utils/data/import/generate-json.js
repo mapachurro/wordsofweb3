@@ -1,5 +1,6 @@
 // This script is intended to create the .json files located at /locales/<locale-code>/<locale-code>.json.
 // They are the structured skeleton of the data that will go in each individual entry page.
+
 import fs from 'fs';
 import path from 'path';
 import csvParser from 'csv-parser';

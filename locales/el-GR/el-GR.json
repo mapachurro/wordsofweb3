@@ -9,15 +9,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "0xplain": {
-      "term": "0xplain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "1inch": {
       "term": "1inch",
       "phonetic": "",
@@ -63,15 +54,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "about": {
-      "term": "Σχετικά με",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "account": {
       "term": "λογαριασμός",
       "phonetic": "",
@@ -99,26 +81,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "advanced": {
-      "term": "Για προχωρημένους",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "aggregator": {
       "term": "συσσωρευτής",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "aggressive": {
-      "term": "Υψηλότερη αγοραστική τιμή",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -164,15 +128,6 @@
     },
     "airswap": {
       "term": "AirSwap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "alerts": {
-      "term": "Alerts (Ειδοποιήσεις)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -234,15 +189,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "approve": {
-      "term": "Approve (Έγκριση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "arbitrum": {
       "term": "Arbitrum",
       "phonetic": "",
@@ -288,15 +234,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "autodetection": {
-      "term": "Autodetection (Αυτόματος εντοπισμός)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "avalanche": {
       "term": "Avalanche",
       "phonetic": "",
@@ -324,35 +261,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "backup": {
-      "term": "Δημιουργία αντιγράφων ασφαλείας",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "balance": {
-      "term": "Balance (Υπόλοιπο)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "banxa": {
       "term": "Banxa",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "base-fee": {
-      "term": "Βασική αμοιβή",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -380,15 +290,6 @@
     },
     "binance": {
       "term": "Binance",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "biometrics": {
-      "term": "Βιομετρικά δεδομένα",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -486,24 +387,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "blockies": {
-      "term": "Blockies",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blue-fox": {
-      "term": "blue fox",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "bnb": {
       "term": "BNB",
       "phonetic": "",
@@ -558,35 +441,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "browser": {
-      "term": "Πρόγραμμα περιήγησης",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "btc": {
       "term": "BTC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "bug-report": {
-      "term": "Αναφορά σφάλματος",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "buidl": {
-      "term": "BUIDL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -614,15 +470,6 @@
     },
     "byzantium-fork": {
       "term": "ενημέρωση Byzantium",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "cancel": {
-      "term": "Cancel (Ακύρωση)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -668,15 +515,6 @@
     },
     "chrome": {
       "term": "Chrome",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "clear": {
-      "term": "Clear (Απαλοιφή)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -747,15 +585,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "community-platform": {
-      "term": "Πλατφόρμα Κοινότητας",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "compile": {
       "term": "μεταγλώττιση",
       "phonetic": "",
@@ -767,15 +596,6 @@
     },
     "compound": {
       "term": "Compound",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "confirm": {
-      "term": "Confirm (Επιβεβαίωση)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -846,15 +666,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "contacts": {
-      "term": "Contacts (Επαφές)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "contract": {
       "term": "συμβόλαιο",
       "phonetic": "",
@@ -873,35 +684,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "conversion": {
-      "term": "Conversion (Μετατροπή)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "coolwallet": {
       "term": "CoolWallet",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "copy": {
-      "term": "Copy (Αντιγραφή)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "create": {
-      "term": "Create (Δημιουργία)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1017,15 +801,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "custom-nonce": {
-      "term": "Custom nonce (Προσαρμογή αριθμολεξήματος)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "d'cent": {
       "term": "D'CENT",
       "phonetic": "",
@@ -1062,8 +837,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos-": {
-      "term": "Eπίθεση άρνησης εξυπηρέτησης (DDoS)",
+    "ddos": {
+      "term": "Άρνησης εξυπηρέτησης (DDoS)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1125,15 +900,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "default": {
-      "term": "Προεπιλογή",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "defi": {
       "term": "DeFi (αποκεντρωμένη χρηματοοικονομική)",
       "phonetic": "",
@@ -1143,35 +909,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "defi-read-api": {
-      "term": "DeFi Read API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "defi-write-api": {
-      "term": "DeFi Write API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "delegated-proof-of-stake-(dpos)": {
       "term": "DPoS",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "delete": {
-      "term": "Delete (Διαγραφή)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1226,15 +965,6 @@
     },
     "developer": {
       "term": "προγραμματιστής",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "device": {
-      "term": "Device (Συσκευή)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1305,15 +1035,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "disable": {
-      "term": "Disable (Απενεργοποίηση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "distributed-ledger-technology": {
       "term": "Τεχνολογία Κατανεμημένου Καθολικού",
       "phonetic": "",
@@ -1341,44 +1062,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "download": {
-      "term": "Download (Λήψη)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "dropped": {
-      "term": "Dropped (Απορρίφθηκαν)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "ecosystem": {
       "term": "οικοσύστημα",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "edge": {
-      "term": "Edge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "edit": {
-      "term": "Edit (Επεξεργασία)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1404,17 +1089,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "enable": {
-      "term": "Enable (Ενεργοποίηση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-keys": {
-      "term": "κρυπτογραφημένα έναντι μη κρυπτογραφημένων κλειδιών",
+    "encrypted-key": {
+      "term": "κρυπτογραφημένα κλειδί",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1494,15 +1170,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "error": {
-      "term": "Error (Σφάλμα)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eth": {
       "term": "ETH",
       "phonetic": "",
@@ -1512,8 +1179,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ether-": {
-      "term": "ether (ETH)",
+    "ether": {
+      "term": "ether",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1629,42 +1296,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "experimental": {
-      "term": "Experimental (Πειραματικός)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "export": {
-      "term": "Export (Εξαγωγή)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "extension": {
-      "term": "Επέκταση",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "failed": {
-      "term": "Failed (Αποτυχία)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "fantom": {
       "term": "Fantom",
       "phonetic": "",
@@ -1737,15 +1368,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "fintech": {
-      "term": "χρηματοοικονομική τεχνολογία",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "firefox": {
       "term": "Firefox",
       "phonetic": "",
@@ -1766,15 +1388,6 @@
     },
     "firmware": {
       "term": "υλικολογισμικό",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "flask": {
-      "term": "Flask",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1890,26 +1503,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "general": {
-      "term": "General (Γενικά)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "genesis-block": {
       "term": "μπλοκ genesis",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "gigawei": {
-      "term": "Gigawei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2034,15 +1629,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "hide": {
-      "term": "Hide (Απόκρυψη)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "hot-storage": {
       "term": "θερμή αποθήκευση",
       "phonetic": "",
@@ -2106,26 +1692,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "identicon": {
-      "term": "Identicon ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "immutability": {
       "term": "αμεταβλητότητα",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "import": {
-      "term": "Import (Εισαγωγή)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2144,24 +1712,6 @@
     },
     "insider-trading": {
       "term": "Εσωτερική πληροφόρηση",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "install": {
-      "term": "Install (Εγκατάσταση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "institutional": {
-      "term": "Συστημικός",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2196,15 +1746,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "invalid": {
-      "term": "Invalid (Μη έγκυρο)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "ip-address": {
       "term": "Διεύθυνση IP",
       "phonetic": "",
@@ -2225,15 +1766,6 @@
     },
     "ipo": {
       "term": "IPO",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "jazzicons": {
-      "term": "Jazzicons",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2313,15 +1845,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "latency": {
-      "term": "Καθυστέρηση",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "lattice1": {
       "term": "Lattice1",
       "phonetic": "",
@@ -2333,15 +1856,6 @@
     },
     "launchpad": {
       "term": "Πλατφόρμα εκκίνησης",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "layer-0": {
-      "term": "επίπεδο 0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2439,24 +1953,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "link": {
-      "term": "Link (Σύνδεσμος)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "liquid-democracy": {
-      "term": "Ρέουσα Δημοκρατία",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "liquidation": {
       "term": "Ρευστοποίηση",
       "phonetic": "",
@@ -2493,26 +1989,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "lock": {
-      "term": "Lock (Κλείδωμα)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "low": {
-      "term": "Χαμηλότερη τιμή",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "mainnet": {
-      "term": "Mainnet",
+      "term": "mainnet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2549,15 +2027,6 @@
     },
     "matic": {
       "term": "MATIC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "maximum-priority-fee": {
-      "term": "Μέγιστη χρέωση προτεραιότητας",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2637,42 +2106,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-activity": {
-      "term": "MetaMask Activity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-bridge": {
-      "term": "Γέφυρα MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-community-platform": {
-      "term": "Πλατφόρμα Κοινότητας MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-extension": {
-      "term": "Επέκταση MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-flask": {
       "term": "MetaMask Flask",
       "phonetic": "",
@@ -2700,44 +2133,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-sdk": {
-      "term": "MetaMask SDK",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-snaps": {
-      "term": "MetaMask Snaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-support": {
-      "term": "MetaMask Support (Υποστήριξη MetaMask)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-swaps": {
       "term": "MetaMask Swaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metametrics": {
-      "term": "MetaMetrics",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2808,15 +2205,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "mmi": {
-      "term": "MMI",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "mnemonic-phrase": {
       "term": "μνημονική φράση",
       "phonetic": "",
@@ -2846,15 +2234,6 @@
     },
     "moonpay": {
       "term": "MoonPay",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "multi-factor-authentication": {
-      "term": "Έλεγχος ταυτότητας πολλών παραγόντων",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2898,8 +2277,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "network-pcongestion": {
-      "term": "Συμφόρηση δικτύου",
+    "network-congestion": {
+      "term": "συμφόρηση δικτύου",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3069,15 +2448,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "optional": {
-      "term": "Optional (Προαιρετικά)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "oracle": {
       "term": "Oracle",
       "phonetic": "",
@@ -3168,24 +2538,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "pending": {
-      "term": "Σε εκκρεμότητα",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "permission": {
-      "term": "Άδεια",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "permissioned-ledger": {
       "term": "πρόσβαση σε συγκεκριμένους μόνο χρήστες",
       "phonetic": "",
@@ -3240,15 +2592,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "portfolio": {
-      "term": "χαρτοφυλάκιο",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "pos": {
       "term": "PoS",
       "phonetic": "",
@@ -3260,15 +2603,6 @@
     },
     "pow": {
       "term": "PoW",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "priority-fee": {
-      "term": "Τέλος προτεραιότητας",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3366,15 +2700,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "public-key-infrastructure": {
-      "term": "Υποδομή δημόσιου κλειδιού",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "qr-code": {
       "term": "κωδικός QR",
       "phonetic": "",
@@ -3402,24 +2727,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "receive": {
-      "term": "Λήψη",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reject": {
-      "term": "Reject (Απόρριψη)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "relayer": {
       "term": "αποδέκτης",
       "phonetic": "",
@@ -3431,60 +2738,6 @@
     },
     "remote-procedure-call": {
       "term": "Κλήση απομακρυσμένης διαδικασίας",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "remove": {
-      "term": "Remove (Αφαίρεση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(noun)": {
-      "term": "Request (Αίτημα)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(verb)": {
-      "term": "Request (Ζητήστε)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reset": {
-      "term": "Reset (Επαναφορά)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "restore": {
-      "term": "Επαναφορά",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reveal": {
-      "term": "Reveal (Αποκάλυψη)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3600,15 +2853,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "save": {
-      "term": "Save (Αποθήκευση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "scalability": {
       "term": "επεκτασιμότητα/δυνατότητα κλιμάκωσης",
       "phonetic": "",
@@ -3636,15 +2880,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "scan": {
-      "term": "Scan (Σάρωση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "scrypt": {
       "term": "Συνάρτηση παραγωγής κλειδιού",
       "phonetic": "",
@@ -3663,15 +2898,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "search": {
-      "term": "Search (Αναζήτηση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "search-engine": {
       "term": "Μηχανή αναζήτησης",
       "phonetic": "",
@@ -3683,15 +2909,6 @@
     },
     "secret-recovery-phrase": {
       "term": "Μυστική φράση ανάκτησης",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "security-&-privacy": {
-      "term": "Ασφάλεια και προστασία προσωπικών δεδομένων",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3771,15 +2988,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "settings": {
-      "term": "Settings (Ρυθμίσεις)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "shard-chain": {
       "term": "Αλυσίδα Θραυσμάτων",
       "phonetic": "",
@@ -3807,53 +3015,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "show": {
-      "term": "Show (Εμφάνιση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "sidechain": {
       "term": "πλευρική αλυσίδα",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign": {
-      "term": "Sign (Είσοδος) ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign-in": {
-      "term": "Sign-in (Σύνδεση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "signature": {
-      "term": "Υπογραφή",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "skip": {
-      "term": "Skip (Παράβλεψη)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3897,33 +3060,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "snap": {
-      "term": "Snap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snaps": {
-      "term": "Snaps (MetaMask Snaps)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snapshots-api": {
-      "term": "Snapshots API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "soft-fork": {
       "term": "αναβάθμιση λογισμικού",
       "phonetic": "",
@@ -3935,24 +3071,6 @@
     },
     "solidity": {
       "term": "Solidity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "source": {
-      "term": "Source (Πηγή)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "speed-up": {
-      "term": "Speed-up (Επιτάχυνση)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4005,24 +3123,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "state-logs": {
-      "term": "State logs",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "status": {
-      "term": "Status (Κατάσταση)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "sto": {
       "term": "STO",
       "phonetic": "",
@@ -4041,53 +3141,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "submit": {
-      "term": "Submit (Υποβολή)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support": {
-      "term": "Support (Υποστήριξη)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support-center": {
-      "term": "Support Center (Κέντρο υποστήριξης)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "swap": {
       "term": "ανταλλάσσω",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "switch": {
-      "term": "Αλλάζω",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "symbol": {
-      "term": "Symbol (Σύμβολο)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4158,35 +3213,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "theme": {
-      "term": "Theme (Θέμα)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tips": {
-      "term": "Συμβουλές",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "token": {
       "term": "συμβολικά νομίσματα",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "token-id": {
-      "term": "ID συμβολικού νομίσματος",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4239,15 +3267,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "transaction-history-api": {
-      "term": "Transaction History API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "transaction-id": {
       "term": "ID συναλλαγής",
       "phonetic": "",
@@ -4268,15 +3287,6 @@
     },
     "transak": {
       "term": "Transak",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transfer": {
-      "term": "Transfer (Μεταφορά)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4313,15 +3323,6 @@
     },
     "turing-complete": {
       "term": "Turing-complete (Τούρινγκ υπολογιστικά καθολικό)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tutorial": {
-      "term": "Μαθήματα",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4374,24 +3375,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "unknown": {
-      "term": "Unknown (Άγνωστο)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "unlock": {
-      "term": "Unlock (Ξεκλείδωμα)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "unspent-transaction-output": {
       "term": "αδιάθετη έξοδος συναλλαγής",
       "phonetic": "",
@@ -4403,15 +3386,6 @@
     },
     "unstake": {
       "term": "ακύρωση πονταρίσματος",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "update": {
-      "term": "Update (Ενημέρωση)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4466,24 +3440,6 @@
     },
     "validity-proof": {
       "term": "απόδειξη εγκυρότητας",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "validium": {
-      "term": "δεδομένα εκτός αλυσίδας",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "vault-decryptor": {
-      "term": "Κενή μονάδα αποκρυπτογράφησης",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4689,35 +3645,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos": {
-      "term": "Άρνησης εξυπηρέτησης (DDoS)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-key": {
-      "term": "κρυπτογραφημένα κλειδί",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "ether": {
-      "term": "ether",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "network-congestion": {
-      "term": "συμφόρηση δικτύου",
+    "0xplain": {
+      "term": "0xplain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
