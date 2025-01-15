@@ -9,15 +9,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "0xplain": {
-      "term": "0xplain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "1inch": {
       "term": "1inch",
       "phonetic": "",
@@ -63,15 +54,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "about": {
-      "term": "เกี่ยวกับ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "account": {
       "term": "บัญชี",
       "phonetic": "",
@@ -99,26 +81,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "advanced": {
-      "term": "ขั้นสูง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "aggregator": {
       "term": "ผู้รวบรวม",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "aggressive": {
-      "term": "ทุ่มสุดตัว",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -164,15 +128,6 @@
     },
     "airswap": {
       "term": "AirSwap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "alerts": {
-      "term": "การเตือน",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -234,15 +189,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "approve": {
-      "term": "อนุมัติ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "arbitrum": {
       "term": "Arbitrum",
       "phonetic": "",
@@ -288,15 +234,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "autodetection": {
-      "term": "การตรวจจับอัตโนมัติ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "avalanche": {
       "term": "Avalanche",
       "phonetic": "",
@@ -324,35 +261,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "backup": {
-      "term": "สำรองข้อมูล",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "balance": {
-      "term": "ยอดคงเหลือ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "banxa": {
       "term": "Banxa",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "base-fee": {
-      "term": "ค่าแก๊สพื้นฐาน",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -380,15 +290,6 @@
     },
     "binance": {
       "term": "Binance",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "biometrics": {
-      "term": "ชีวมิติ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -486,24 +387,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "blockies": {
-      "term": "บล็อกกี้",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blue-fox": {
-      "term": "blue fox",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "bnb": {
       "term": "BNB",
       "phonetic": "",
@@ -558,35 +441,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "browser": {
-      "term": "เบราว์เซอร์",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "btc": {
       "term": "BTC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "bug-report": {
-      "term": "รายงานข้อบกพร่อง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "buidl": {
-      "term": "BUIDL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -614,15 +470,6 @@
     },
     "byzantium-fork": {
       "term": "การแยกบิแซนเทียม",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "cancel": {
-      "term": "ยกเลิก",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -668,15 +515,6 @@
     },
     "chrome": {
       "term": "Chrome",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "clear": {
-      "term": "ล้าง",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -747,15 +585,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "community-platform": {
-      "term": "แพลตฟอร์มชุมชน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "compile": {
       "term": "การคอมไพล์",
       "phonetic": "",
@@ -767,15 +596,6 @@
     },
     "compound": {
       "term": "Compound",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "confirm": {
-      "term": "ยืนยัน",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -846,15 +666,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "contacts": {
-      "term": "สัญญา",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "contract": {
       "term": "สัญญา",
       "phonetic": "",
@@ -873,35 +684,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "conversion": {
-      "term": "แลกเปลี่ยน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "coolwallet": {
       "term": "CoolWallet",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "copy": {
-      "term": "คัดลอก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "create": {
-      "term": "สร้าง",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1017,15 +801,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "custom-nonce": {
-      "term": "นอนซ์กำหนดเอง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "d'cent": {
       "term": "D'CENT",
       "phonetic": "",
@@ -1062,8 +837,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos-": {
-      "term": "การโจมตีแบบปฏิเสธการให้บริการแบบกระจาย (DDoS)",
+    "ddos": {
+      "term": "DDoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1125,15 +900,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "default": {
-      "term": "ค่าเริ่มต้น",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "defi": {
       "term": "DeFi",
       "phonetic": "",
@@ -1143,35 +909,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "defi-read-api": {
-      "term": "DeFi Read API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "defi-write-api": {
-      "term": "DeFi Write API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "delegated-proof-of-stake-(dpos)": {
       "term": "DPoS",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "delete": {
-      "term": "ลบ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1226,15 +965,6 @@
     },
     "developer": {
       "term": "นักพัฒนา",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "device": {
-      "term": "อุปกรณ์",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1305,15 +1035,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "disable": {
-      "term": "ปิดใช้งาน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "distributed-ledger-technology": {
       "term": "เทคโนโลยีการจดบัญชีแบบกระจาย",
       "phonetic": "",
@@ -1341,44 +1062,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "download": {
-      "term": "ดาวน์โหลด",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "dropped": {
-      "term": "ถูกยกเลิก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "ecosystem": {
       "term": "ระบบนิเวศ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "edge": {
-      "term": "Edge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "edit": {
-      "term": "แก้ไข",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1404,17 +1089,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "enable": {
-      "term": "เปิดใช้งาน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-keys": {
-      "term": "คีย์เข้ารหัส / คีย์ไม่เข้ารหัส",
+    "encrypted-key": {
+      "term": "คีย์เข้ารหัส",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1494,15 +1170,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "error": {
-      "term": "ข้อผิดพลาด",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eth": {
       "term": "ETH",
       "phonetic": "",
@@ -1512,8 +1179,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ether-": {
-      "term": "อีเทอร์ (ETH)",
+    "ether": {
+      "term": "อีเทอร์",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1629,42 +1296,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "experimental": {
-      "term": "ทดลอง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "export": {
-      "term": "ส่งออก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "extension": {
-      "term": "ส่วนขยาย",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "failed": {
-      "term": "ล้มเหลว",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "fantom": {
       "term": "Fantom",
       "phonetic": "",
@@ -1737,15 +1368,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "fintech": {
-      "term": "ฟินเทค",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "firefox": {
       "term": "Firefox",
       "phonetic": "",
@@ -1766,15 +1388,6 @@
     },
     "firmware": {
       "term": "เฟิร์มแวร์",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "flask": {
-      "term": "Flask",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1890,26 +1503,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "general": {
-      "term": "ทั่วไป",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "genesis-block": {
       "term": "บล็อกแรก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "gigawei": {
-      "term": "กิกะเวย์",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2034,15 +1629,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "hide": {
-      "term": "ซ่อน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "hot-storage": {
       "term": "ที่เก็บเงินระยะสั้น",
       "phonetic": "",
@@ -2106,26 +1692,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "identicon": {
-      "term": "ไอเดนทิคอน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "immutability": {
       "term": "เปลี่ยนแปลงไม่ได้",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "import": {
-      "term": "นำเข้า",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2144,24 +1712,6 @@
     },
     "insider-trading": {
       "term": "การใช้ข้อมูลภายใน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "install": {
-      "term": "ติดตั้ง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "institutional": {
-      "term": "Institutional",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2196,15 +1746,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "invalid": {
-      "term": "ไม่ถูกต้อง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "ip-address": {
       "term": "เลขที่อยู่ IP",
       "phonetic": "",
@@ -2225,15 +1766,6 @@
     },
     "ipo": {
       "term": "IPO",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "jazzicons": {
-      "term": "แจสซี่คอน",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2313,15 +1845,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "latency": {
-      "term": "ความหน่วง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "lattice1": {
       "term": "Lattice1",
       "phonetic": "",
@@ -2333,15 +1856,6 @@
     },
     "launchpad": {
       "term": "Launchpad",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "layer-0": {
-      "term": "เลเยอร์ 0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2439,24 +1953,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "link": {
-      "term": "ลิงก์",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "liquid-democracy": {
-      "term": "ประชาธิปไตยแบบลื่นไหล",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "liquidation": {
       "term": "การชำระบัญชี",
       "phonetic": "",
@@ -2486,24 +1982,6 @@
     },
     "liquidity-staking": {
       "term": "ฝากสภาพคล่อง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "lock": {
-      "term": "ล็อก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "low": {
-      "term": "ต่ำ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2549,15 +2027,6 @@
     },
     "matic": {
       "term": "MATIC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "maximum-priority-fee": {
-      "term": "ค่าแซงคิวสูงสุด",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2637,42 +2106,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-activity": {
-      "term": "MetaMask Activity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-bridge": {
-      "term": "MetaMask Bridge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-community-platform": {
-      "term": "แพลตฟอร์มชุมชน MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-extension": {
-      "term": "ส่วนขยาย MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-flask": {
       "term": "MetaMask Flask",
       "phonetic": "",
@@ -2700,44 +2133,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-sdk": {
-      "term": "MetaMask SDK",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-snaps": {
-      "term": "MetaMask Snaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-support": {
-      "term": "ฝ่ายสนับสนุน MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-swaps": {
       "term": "MetaMask Swaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metametrics": {
-      "term": "MetaMetrics",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2808,15 +2205,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "mmi": {
-      "term": "MMI",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "mnemonic-phrase": {
       "term": "วลีช่วยจำ",
       "phonetic": "",
@@ -2846,15 +2234,6 @@
     },
     "moonpay": {
       "term": "MoonPay",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "multi-factor-authentication": {
-      "term": "การพิสูจน์ตัวจริงหลายปัจจัย",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2898,7 +2277,7 @@
       "source": "",
       "datefirstseen": ""
     },
-    "network-pcongestion": {
+    "network-congestion": {
       "term": "ความแออัดของเครือข่าย",
       "phonetic": "",
       "partOfSpeech": "",
@@ -3069,15 +2448,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "optional": {
-      "term": "ไม่บังคับ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "oracle": {
       "term": "ออราเคิล",
       "phonetic": "",
@@ -3168,24 +2538,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "pending": {
-      "term": "รอดำเนินการ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "permission": {
-      "term": "การอนุญาต",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "permissioned-ledger": {
       "term": "บัญชีที่อนุญาตแล้ว",
       "phonetic": "",
@@ -3240,15 +2592,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "portfolio": {
-      "term": "พอร์ตเงิน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "pos": {
       "term": "PoS",
       "phonetic": "",
@@ -3260,15 +2603,6 @@
     },
     "pow": {
       "term": "PoW",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "priority-fee": {
-      "term": "ค่าแซงคิว",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3366,15 +2700,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "public-key-infrastructure": {
-      "term": "โครงสร้างพื้นฐานคีย์สาธารณะ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "qr-code": {
       "term": "รหัส QR",
       "phonetic": "",
@@ -3402,24 +2727,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "receive": {
-      "term": "รับ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reject": {
-      "term": "ปฏิเสธ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "relayer": {
       "term": "รีเลเยอร์",
       "phonetic": "",
@@ -3431,60 +2738,6 @@
     },
     "remote-procedure-call": {
       "term": "การเรียกโปรแกรมย่อยระยะไกล",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "remove": {
-      "term": "ลบ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(noun)": {
-      "term": "คำขอ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(verb)": {
-      "term": "ขอ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reset": {
-      "term": "รีเซ็ต",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "restore": {
-      "term": "กู้คืน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reveal": {
-      "term": "เปิดเผย",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3600,15 +2853,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "save": {
-      "term": "บันทึก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "scalability": {
       "term": "ความสามารถในการปรับขนาด",
       "phonetic": "",
@@ -3636,15 +2880,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "scan": {
-      "term": "สแกน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "scrypt": {
       "term": "สคริปต์",
       "phonetic": "",
@@ -3663,15 +2898,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "search": {
-      "term": "ค้นหา",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "search-engine": {
       "term": "โปรแกรมค้นหา",
       "phonetic": "",
@@ -3683,15 +2909,6 @@
     },
     "secret-recovery-phrase": {
       "term": "วลีกู้คืนรหัส",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "security-&-privacy": {
-      "term": "ความปลอดภัยและความเป็นส่วนตัว",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3771,15 +2988,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "settings": {
-      "term": "การตั้งค่า",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "shard-chain": {
       "term": "ชาร์ดเชน",
       "phonetic": "",
@@ -3807,53 +3015,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "show": {
-      "term": "แสดง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "sidechain": {
       "term": "เชนข้างเคียง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign": {
-      "term": "ลงนาม",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign-in": {
-      "term": "เข้าสู่ระบบ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "signature": {
-      "term": "ลายเซ็น",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "skip": {
-      "term": "ข้าม",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3897,33 +3060,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "snap": {
-      "term": "Snap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snaps": {
-      "term": "Snaps (MetaMask Snaps)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snapshots-api": {
-      "term": "Snapshots API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "soft-fork": {
       "term": "การแยกอสมบูรณ์",
       "phonetic": "",
@@ -3935,24 +3071,6 @@
     },
     "solidity": {
       "term": "Solidity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "source": {
-      "term": "ที่มา",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "speed-up": {
-      "term": "เร่งความเร็ว",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4005,24 +3123,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "state-logs": {
-      "term": "รายการบันทึกสถานะ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "status": {
-      "term": "สถานะ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "sto": {
       "term": "STO",
       "phonetic": "",
@@ -4041,53 +3141,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "submit": {
-      "term": "ส่งออก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support": {
-      "term": "ฝ่ายสนับสนุน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support-center": {
-      "term": "ศูนย์การสนับสนุน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "swap": {
       "term": "แลกเปลี่ยน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "switch": {
-      "term": "เปลี่ยน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "symbol": {
-      "term": "สัญลักษณ์",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4158,35 +3213,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "theme": {
-      "term": "ธีม",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tips": {
-      "term": "เคล็ดลับ",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "token": {
       "term": "โทเค็น",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "token-id": {
-      "term": "ID โทเค็น",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4239,15 +3267,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "transaction-history-api": {
-      "term": "Transaction History API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "transaction-id": {
       "term": "ID ธุรกรรม",
       "phonetic": "",
@@ -4268,15 +3287,6 @@
     },
     "transak": {
       "term": "Transak",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transfer": {
-      "term": "โอน",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4313,15 +3323,6 @@
     },
     "turing-complete": {
       "term": "สมบูรณ์ตามแบบทัวริง",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tutorial": {
-      "term": "บทแนะนำ",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4374,24 +3375,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "unknown": {
-      "term": "ไม่รู้จัก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "unlock": {
-      "term": "ปลดล็อก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "unspent-transaction-output": {
       "term": "เอาต์พุตธุรกรรมที่ยังไม่ใช้จ่าย",
       "phonetic": "",
@@ -4403,15 +3386,6 @@
     },
     "unstake": {
       "term": "เลิกฝาก",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "update": {
-      "term": "อัปเดต",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4466,24 +3440,6 @@
     },
     "validity-proof": {
       "term": "หลักฐานยืนยัน",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "validium": {
-      "term": "Validium",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "vault-decryptor": {
-      "term": "Vault Decryptor",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4689,35 +3645,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos": {
-      "term": "DDoS",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-key": {
-      "term": "คีย์เข้ารหัส",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "ether": {
-      "term": "อีเทอร์",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "network-congestion": {
-      "term": "ความแออัดของเครือข่าย",
+    "0xplain": {
+      "term": "0xplain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

@@ -270,15 +270,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "base-fee": {
-      "term": "Base fee",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "beacon-chain": {
       "term": "Beacon Chain",
       "phonetic": "",
@@ -452,15 +443,6 @@
     },
     "btc": {
       "term": "BTC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "buidl": {
-      "term": "BUIDL",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1089,15 +1071,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "edge": {
-      "term": "Edge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eea": {
       "term": "EEA",
       "phonetic": "",
@@ -1395,15 +1368,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "fintech": {
-      "term": "FinTech",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "firefox": {
       "term": "Firefox",
       "phonetic": "",
@@ -1541,15 +1505,6 @@
     },
     "genesis-block": {
       "term": "genesis block",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "gigawei": {
-      "term": "Gigawei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1890,15 +1845,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "latency": {
-      "term": "Latency",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "lattice1": {
       "term": "Lattice1",
       "phonetic": "",
@@ -1910,15 +1856,6 @@
     },
     "launchpad": {
       "term": "Launchpad",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "layer-0": {
-      "term": "layer 0",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2016,15 +1953,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "liquid-democracy": {
-      "term": "liquid democracy",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "liquidation": {
       "term": "liquidation",
       "phonetic": "",
@@ -2062,7 +1990,7 @@
       "datefirstseen": ""
     },
     "mainnet": {
-      "term": "Mainnet",
+      "term": "mainnet",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2099,15 +2027,6 @@
     },
     "matic": {
       "term": "MATIC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "maximum-priority-fee": {
-      "term": "Maximum Priority Fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2619,15 +2538,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "permission": {
-      "term": "Permission",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "permissioned-ledger": {
       "term": "permissioned ledger",
       "phonetic": "",
@@ -2682,15 +2592,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "portfolio": {
-      "term": "portfolio",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "pos": {
       "term": "PoS",
       "phonetic": "",
@@ -2702,15 +2603,6 @@
     },
     "pow": {
       "term": "PoW",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "priority-fee": {
-      "term": "Priority fee",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3125,15 +3017,6 @@
     },
     "sidechain": {
       "term": "sidechain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "signature": {
-      "term": "Signature",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3557,15 +3440,6 @@
     },
     "validity-proof": {
       "term": "validity proof",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "validium": {
-      "term": "Validium",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",

@@ -9,15 +9,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "0xplain": {
-      "term": "0xplain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "1inch": {
       "term": "1inch",
       "phonetic": "",
@@ -28,7 +19,7 @@
       "datefirstseen": ""
     },
     "2fa": {
-      "term": "Authentification double (2FA)",
+      "term": "Authentification double",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -46,7 +37,7 @@
       "datefirstseen": ""
     },
     "51%-attack": {
-      "term": "Attaque des 51 %",
+      "term": "attaque des 51 %",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -63,17 +54,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "about": {
-      "term": "À propos",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "account": {
-      "term": "Compte",
+      "term": "compte",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -82,7 +64,7 @@
       "datefirstseen": ""
     },
     "ach-transfer": {
-      "term": "Transfert ACH",
+      "term": "transfert ACH",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -91,16 +73,7 @@
       "datefirstseen": ""
     },
     "address": {
-      "term": "adresse/ « adresse publique » (adresse du portefeuille)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "advanced": {
-      "term": "Avancé",
+      "term": "adresse",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -110,15 +83,6 @@
     },
     "aggregator": {
       "term": "agrégateur",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "aggressive": {
-      "term": "Agressif",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -171,15 +135,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "alerts": {
-      "term": "Alertes",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "algorithm": {
       "term": "algorithme",
       "phonetic": "",
@@ -199,7 +154,7 @@
       "datefirstseen": ""
     },
     "aml": {
-      "term": "AML (lutte contre le blanchiment d’argent)",
+      "term": "AML",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -217,7 +172,7 @@
       "datefirstseen": ""
     },
     "appchain": {
-      "term": "AppChain",
+      "term": "appchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -227,15 +182,6 @@
     },
     "apple-pay": {
       "term": "Apple Pay",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "approve": {
-      "term": "Approuver",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -253,7 +199,7 @@
       "datefirstseen": ""
     },
     "asic": {
-      "term": "ASIC (circuit intégré spécifique à une application)",
+      "term": "Circuit intégré spécifique à une application",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -288,15 +234,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "autodetection": {
-      "term": "Détection automatique",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "avalanche": {
       "term": "Avalanche",
       "phonetic": "",
@@ -324,35 +261,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "backup": {
-      "term": "Sauvegarde",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "balance": {
-      "term": "Solde",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "banxa": {
       "term": "Banxa",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "base-fee": {
-      "term": "Frais de base",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -387,15 +297,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "biometrics": {
-      "term": "Biométrie",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "bitcoin": {
       "term": "Bitcoin",
       "phonetic": "",
@@ -406,7 +307,7 @@
       "datefirstseen": ""
     },
     "block": {
-      "term": "Bloc (nom)",
+      "term": "bloc",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -415,7 +316,7 @@
       "datefirstseen": ""
     },
     "block-explorer": {
-      "term": "Explorateur de blocs",
+      "term": "explorateur de blocs",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -460,7 +361,7 @@
       "datefirstseen": ""
     },
     "blockchain": {
-      "term": "Chaîne de blocs / Blockchain",
+      "term": "chaîne de blocs",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -469,7 +370,7 @@
       "datefirstseen": ""
     },
     "blockchain-explorer": {
-      "term": "Explorateur de blockchain",
+      "term": "explorateur de blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -478,25 +379,7 @@
       "datefirstseen": ""
     },
     "blockchain-trilemma": {
-      "term": "Trilemme de la blockchain",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blockies": {
-      "term": "Blockies",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "blue-fox": {
-      "term": "blue fox",
+      "term": "trilemme de la blockchain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -523,7 +406,7 @@
       "datefirstseen": ""
     },
     "bounty": {
-      "term": "prime/prime de bug",
+      "term": "prime",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -550,16 +433,7 @@
       "datefirstseen": ""
     },
     "bridge": {
-      "term": "Passerelle",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "browser": {
-      "term": "Navigateur",
+      "term": "passerelle",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -569,24 +443,6 @@
     },
     "btc": {
       "term": "BTC",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "bug-report": {
-      "term": "Signalement de bogues",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "buidl": {
-      "term": "BUIDL (voir nos réalisations)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -604,7 +460,7 @@
       "datefirstseen": ""
     },
     "byzantine-fault-tolerance": {
-      "term": "tolérance aux pannes byzantines",
+      "term": "Tolérance aux pannes byzantines",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -614,15 +470,6 @@
     },
     "byzantium-fork": {
       "term": "Fork Byzance",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "cancel": {
-      "term": "Annuler",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -640,7 +487,7 @@
       "datefirstseen": ""
     },
     "centralized-exchange": {
-      "term": "Échange centralisé",
+      "term": "échange centralisé",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -675,17 +522,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "clear": {
-      "term": "Effacer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "client": {
-      "term": "client (Ethereum ou autre blockchaîne compatible)",
+      "term": "client",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -739,16 +577,7 @@
       "datefirstseen": ""
     },
     "cold-wallet": {
-      "term": "portefeuille déconnecté /stockage déconnecté",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "community-platform": {
-      "term": "Plateforme communautaire",
+      "term": "portefeuille déconnecté",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -757,7 +586,7 @@
       "datefirstseen": ""
     },
     "compile": {
-      "term": "Compiler",
+      "term": "compiler",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -767,15 +596,6 @@
     },
     "compound": {
       "term": "Compound",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "confirm": {
-      "term": "Confirmer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -846,15 +666,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "contacts": {
-      "term": "Contacts",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "contract": {
       "term": "contrat",
       "phonetic": "",
@@ -873,35 +684,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "conversion": {
-      "term": "Conversion",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "coolwallet": {
       "term": "CoolWallet",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "copy": {
-      "term": "Copier",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "create": {
-      "term": "Créer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -919,7 +703,7 @@
       "datefirstseen": ""
     },
     "crypto-fund": {
-      "term": "Fonds crypto",
+      "term": "fonds crypto",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -928,7 +712,7 @@
       "datefirstseen": ""
     },
     "crypto-wallet": {
-      "term": "Portefeuille crypto",
+      "term": "portefeuille crypto",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -955,7 +739,7 @@
       "datefirstseen": ""
     },
     "crypto-compliance": {
-      "term": "Conformité crypto",
+      "term": "conformité crypto",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1009,16 +793,7 @@
       "datefirstseen": ""
     },
     "custody": {
-      "term": "Conservation",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "custom-nonce": {
-      "term": "Nonce personnalisé",
+      "term": "conservation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1062,7 +837,7 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ddos-": {
+    "ddos": {
       "term": "Attaque par déni de service distribuée (DDoS)",
       "phonetic": "",
       "partOfSpeech": "",
@@ -1072,7 +847,7 @@
       "datefirstseen": ""
     },
     "decentralization": {
-      "term": "Décentralisation",
+      "term": "décentralisation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1125,35 +900,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "default": {
-      "term": "Par défaut",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "defi": {
       "term": "DeFi",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "defi-read-api": {
-      "term": "DeFi Read API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "defi-write-api": {
-      "term": "DeFi Write API",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1170,17 +918,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "delete": {
-      "term": "Supprimer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "denominations": {
-      "term": "ether (dénominations)",
+      "term": "dénominations",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1198,7 +937,7 @@
       "datefirstseen": ""
     },
     "derive": {
-      "term": "dériver / dérivation",
+      "term": "dériver",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1225,16 +964,7 @@
       "datefirstseen": ""
     },
     "developer": {
-      "term": "Développeur",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "device": {
-      "term": "Appareil",
+      "term": "développeur",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1243,7 +973,7 @@
       "datefirstseen": ""
     },
     "dex": {
-      "term": "échange décentralisé",
+      "term": "Échange décentralisé",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1288,7 +1018,7 @@
       "datefirstseen": ""
     },
     "digital-signature": {
-      "term": "Signature numérique",
+      "term": "signature numérique",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1298,15 +1028,6 @@
     },
     "diligence": {
       "term": "Diligence",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "disable": {
-      "term": "Désactiver",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1341,24 +1062,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "download": {
-      "term": "Télécharger",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "dropped": {
-      "term": "Déconnecté",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "ecosystem": {
       "term": "écosystème",
       "phonetic": "",
@@ -1368,26 +1071,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "edge": {
-      "term": "Edge",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "edit": {
-      "term": "Modifier",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eea": {
-      "term": "Enterprise Ethereum Alliance (EEA)",
+      "term": "Ethereum Enterprise Alliance (EEA)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1404,17 +1089,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "enable": {
-      "term": "Activer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "encrypted-keys": {
-      "term": "clés chiffrées ou clés en clair",
+    "encrypted-key": {
+      "term": "clé chiffrée",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1494,15 +1170,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "error": {
-      "term": "Erreur",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "eth": {
       "term": "ETH",
       "phonetic": "",
@@ -1512,8 +1179,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "ether-": {
-      "term": "ether (ETH)",
+    "ether": {
+      "term": "ether",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1540,7 +1207,7 @@
       "datefirstseen": ""
     },
     "ethereum-improvement-proposal": {
-      "term": "Propositions d’amélioration d’Ethereum (EIP)",
+      "term": "Propositions d’amélioration d’ethereum (EIP)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1549,7 +1216,7 @@
       "datefirstseen": ""
     },
     "ethereum-mainnet": {
-      "term": "Réseau principal Ethereum ",
+      "term": "Réseau principal Ethereum",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1612,7 +1279,7 @@
       "datefirstseen": ""
     },
     "execution-client": {
-      "term": "Client d’exécution",
+      "term": "client d’exécution",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1621,43 +1288,7 @@
       "datefirstseen": ""
     },
     "execution-layer": {
-      "term": "Couche d’exécution",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "experimental": {
-      "term": "Expérimental",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "export": {
-      "term": "Exporter",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "extension": {
-      "term": "Extension",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "failed": {
-      "term": "Échec",
+      "term": "couche d’exécution",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1684,7 +1315,7 @@
       "datefirstseen": ""
     },
     "fault-tolerant": {
-      "term": "fault-tolerant",
+      "term": "tolérant aux pannes",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1702,7 +1333,7 @@
       "datefirstseen": ""
     },
     "finality": {
-      "term": "finale, finalité",
+      "term": "finalité",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1711,7 +1342,7 @@
       "datefirstseen": ""
     },
     "finality-rate": {
-      "term": "Taux de finalité",
+      "term": "taux de finalité",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1737,15 +1368,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "fintech": {
-      "term": "FinTech",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "firefox": {
       "term": "Firefox",
       "phonetic": "",
@@ -1756,7 +1378,7 @@
       "datefirstseen": ""
     },
     "firewall": {
-      "term": "Pare-feu",
+      "term": "pare-feu",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1765,16 +1387,7 @@
       "datefirstseen": ""
     },
     "firmware": {
-      "term": "Firmware",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "flask": {
-      "term": "Flask",
+      "term": "firmware",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1792,7 +1405,7 @@
       "datefirstseen": ""
     },
     "fractional-ownership": {
-      "term": "Propriété fractionnée",
+      "term": "propriété fractionnée",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1801,7 +1414,7 @@
       "datefirstseen": ""
     },
     "fraud-proof": {
-      "term": "Preuve de fraude",
+      "term": "preuve de fraude",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1890,26 +1503,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "general": {
-      "term": "Général",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "genesis-block": {
       "term": "bloc initial",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "gigawei": {
-      "term": "Gigawei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1945,7 +1540,7 @@
       "datefirstseen": ""
     },
     "governance": {
-      "term": "Gouvernance",
+      "term": "gouvernance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -1972,7 +1567,7 @@
       "datefirstseen": ""
     },
     "halving": {
-      "term": "Réduction de moitié",
+      "term": "réduction de moitié",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2008,7 +1603,7 @@
       "datefirstseen": ""
     },
     "hash": {
-      "term": "Hachage (nom)",
+      "term": "hachage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2017,7 +1612,7 @@
       "datefirstseen": ""
     },
     "hd-wallet": {
-      "term": "Portefeuille déterministe hiérarchique (HD)",
+      "term": "portefeuille déterministe hiérarchique (HD)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2027,15 +1622,6 @@
     },
     "hex-data": {
       "term": "Données hexadécimales",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "hide": {
-      "term": "Masquer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2062,7 +1648,7 @@
       "datefirstseen": ""
     },
     "hybrid-network": {
-      "term": "Réseau hybride",
+      "term": "réseau hybride",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2080,7 +1666,7 @@
       "datefirstseen": ""
     },
     "ibc": {
-      "term": "Protocole de communication entre blockchaîne (IBC)",
+      "term": "IBC",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2106,26 +1692,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "identicon": {
-      "term": "Identicon",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "immutability": {
       "term": "immutabilité",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "import": {
-      "term": "Importer/Importation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2143,25 +1711,7 @@
       "datefirstseen": ""
     },
     "insider-trading": {
-      "term": "Délit d’initié",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "install": {
-      "term": "Installer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "institutional": {
-      "term": "Institutional",
+      "term": "délit d’initié",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2179,7 +1729,7 @@
       "datefirstseen": ""
     },
     "interoperability": {
-      "term": "Interopérabilité",
+      "term": "interopérabilité",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2189,15 +1739,6 @@
     },
     "interplanetary-file-system-(ipfs)": {
       "term": "InterPlanetary File System (IPFS)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "invalid": {
-      "term": "Non valide",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2225,15 +1766,6 @@
     },
     "ipo": {
       "term": "IPO",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "jazzicons": {
-      "term": "Jazzicons",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2313,15 +1845,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "latency": {
-      "term": "Latence",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "lattice1": {
       "term": "Lattice1",
       "phonetic": "",
@@ -2340,17 +1863,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "layer-0": {
-      "term": "Couche 0",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "layer-1": {
-      "term": "Couche 1",
+      "term": "couche 1",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2359,7 +1873,7 @@
       "datefirstseen": ""
     },
     "layer-2": {
-      "term": "Couche 2",
+      "term": "couche 2",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2395,7 +1909,7 @@
       "datefirstseen": ""
     },
     "library": {
-      "term": "Bibliothèque",
+      "term": "bibliothèque",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2439,26 +1953,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "link": {
-      "term": "Lien",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "liquid-democracy": {
-      "term": "Démocratie liquide (démocratie délégative)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "liquidation": {
-      "term": "Liquidation",
+      "term": "liquidation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2493,26 +1989,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "lock": {
-      "term": "Verrouiller",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "low": {
-      "term": "Faible",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "mainnet": {
-      "term": "Réseau principal Ethereum (Mainnet)",
+      "term": "réseau principal Ethereum (mainnet)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2530,7 +2008,7 @@
       "datefirstseen": ""
     },
     "malware": {
-      "term": "Programme malveillant",
+      "term": "programme malveillant",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2556,17 +2034,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "maximum-priority-fee": {
-      "term": "Frai de priorité maximum",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "memory-pool": {
-      "term": "pool de stockage des transactions ; mempool",
+      "term": "pool de stockage des transactions",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2575,7 +2044,7 @@
       "datefirstseen": ""
     },
     "mempool": {
-      "term": "Mempool",
+      "term": "mempool",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2593,7 +2062,7 @@
       "datefirstseen": ""
     },
     "merge": {
-      "term": "Fusion (nom)",
+      "term": "Fusion",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2620,7 +2089,7 @@
       "datefirstseen": ""
     },
     "metadata": {
-      "term": "Métadonnées",
+      "term": "métadonnées",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2630,42 +2099,6 @@
     },
     "metamask": {
       "term": "MetaMask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-activity": {
-      "term": "MetaMask Activity",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-bridge": {
-      "term": "Passerelle Metamask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-community-platform": {
-      "term": "Plateforme communautaire Metamask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-extension": {
-      "term": "Extension Metamask",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2700,44 +2133,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "metamask-sdk": {
-      "term": "MetaMask SDK",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-snaps": {
-      "term": "MetaMask Snaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metamask-support": {
-      "term": "Assistance Metamask",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "metamask-swaps": {
       "term": "MetaMask Swaps",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "metametrics": {
-      "term": "MetaMetrics",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2808,15 +2205,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "mmi": {
-      "term": "MMI",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "mnemonic-phrase": {
       "term": "phrase mnémotechnique",
       "phonetic": "",
@@ -2853,15 +2241,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "multi-factor-authentication": {
-      "term": "Authentification multifactorielle",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "multi-sig": {
       "term": "Multisig",
       "phonetic": "",
@@ -2881,7 +2260,7 @@
       "datefirstseen": ""
     },
     "nested-blockchain": {
-      "term": "Blockchain imbriquée / Chaîne de blocs imbriquée",
+      "term": "blockchain imbriquée / chaîne de blocs imbriquée",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2890,7 +2269,7 @@
       "datefirstseen": ""
     },
     "network": {
-      "term": "Réseau ",
+      "term": "réseau",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2898,8 +2277,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "network-pcongestion": {
-      "term": "Congestion de réseau",
+    "network-congestion": {
+      "term": "congestion de réseau",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2962,7 +2341,7 @@
       "datefirstseen": ""
     },
     "non-fungible-token": {
-      "term": "Jeton non fongible",
+      "term": "jeton non fongible",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -2989,7 +2368,7 @@
       "datefirstseen": ""
     },
     "off-ramp": {
-      "term": "conversion de monnaie fiat en jetons sur la blockchain (on-ramp), échange d’actifs  de la blockchain en monnaie fiat (off-ramp)",
+      "term": "off-ramp",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3069,15 +2448,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "optional": {
-      "term": "Facultatif",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "oracle": {
       "term": "Oracle",
       "phonetic": "",
@@ -3088,7 +2458,7 @@
       "datefirstseen": ""
     },
     "p2p": {
-      "term": "Pair-à-pair (P2P)",
+      "term": "P2P",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3124,7 +2494,7 @@
       "datefirstseen": ""
     },
     "passphrase": {
-      "term": "Phrase secrète/Phrase de passe",
+      "term": "phrase secrète/phrase de passe",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3133,7 +2503,7 @@
       "datefirstseen": ""
     },
     "password": {
-      "term": "Mot de passe",
+      "term": "mot de passe",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3160,25 +2530,7 @@
       "datefirstseen": ""
     },
     "peer-to-peer": {
-      "term": "Pair-à-pair",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "pending": {
-      "term": "En attente",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "permission": {
-      "term": "Autorisation",
+      "term": "pair-à-pair",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3196,7 +2548,7 @@
       "datefirstseen": ""
     },
     "phishing": {
-      "term": "hameçonnage (nom)",
+      "term": "hameçonnage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3240,17 +2592,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "portfolio": {
-      "term": "Portfolio",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "pos": {
-      "term": "Preuve d’enjeu (PoS)",
+      "term": "PoS",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3259,16 +2602,7 @@
       "datefirstseen": ""
     },
     "pow": {
-      "term": "Preuve de travail (PoW)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "priority-fee": {
-      "term": "Frais de priorité",
+      "term": "PoW",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3358,16 +2692,7 @@
       "datefirstseen": ""
     },
     "public-key-cryptography": {
-      "term": "Cryptographie à clé publique",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "public-key-infrastructure": {
-      "term": "Infrastructure de clé publique",
+      "term": "cryptographie à clé publique",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3402,24 +2727,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "receive": {
-      "term": "Recevoir",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reject": {
-      "term": "Rejeter",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "relayer": {
       "term": "relayeur",
       "phonetic": "",
@@ -3430,61 +2737,7 @@
       "datefirstseen": ""
     },
     "remote-procedure-call": {
-      "term": "Appel de procédure à distance (RPC)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "remove": {
-      "term": "Supprimer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(noun)": {
-      "term": "Demande (nom)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "request-(verb)": {
-      "term": "Demander (verbe)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reset": {
-      "term": "Réinitialiser",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "restore": {
-      "term": "Restaurer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "reveal": {
-      "term": "Révéler",
+      "term": "Appel de procédure à distance",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3502,7 +2755,7 @@
       "datefirstseen": ""
     },
     "roadmap": {
-      "term": "Feuille de route",
+      "term": "feuille de route",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3600,17 +2853,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "save": {
-      "term": "Sauvegarder",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "scalability": {
-      "term": "Capacité à être mis à l’échelle",
+      "term": "capacité à être mis à l’échelle",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3619,7 +2863,7 @@
       "datefirstseen": ""
     },
     "scaling": {
-      "term": "Monter en charge / Montée en charge",
+      "term": "monter en charge / montée en charge",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3628,16 +2872,7 @@
       "datefirstseen": ""
     },
     "scam": {
-      "term": "Arnaque / Escroquerie",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "scan": {
-      "term": "Scanner",
+      "term": "arnaque / escroquerie",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3663,17 +2898,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "search": {
-      "term": "Recherche/Rechercher",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "search-engine": {
-      "term": "Moteur de recherche",
+      "term": "moteur de recherche",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3683,15 +2909,6 @@
     },
     "secret-recovery-phrase": {
       "term": "Phrase secrète de récupération",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "security-&-privacy": {
-      "term": "Sécurité et confidentialité",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3709,7 +2926,7 @@
       "datefirstseen": ""
     },
     "security-token-offering": {
-      "term": "Offre de jetons de sécurité (STO)",
+      "term": "Offre de jetons de sécurité",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3727,7 +2944,7 @@
       "datefirstseen": ""
     },
     "self-custody": {
-      "term": "Détention en propre",
+      "term": "détention en propre",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3771,15 +2988,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "settings": {
-      "term": "Paramètres",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "shard-chain": {
       "term": "chaîne de fragment",
       "phonetic": "",
@@ -3790,7 +2998,7 @@
       "datefirstseen": ""
     },
     "sharding": {
-      "term": "fragmentation (nom)",
+      "term": "fragmentation",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3799,16 +3007,7 @@
       "datefirstseen": ""
     },
     "shielded-transaction": {
-      "term": "Transaction protégée",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "show": {
-      "term": "Afficher",
+      "term": "transaction protégée",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3818,42 +3017,6 @@
     },
     "sidechain": {
       "term": "chaîne latérale / blockchain secondaire",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign": {
-      "term": "Signer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "sign-in": {
-      "term": "Connexion",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "signature": {
-      "term": "Signature numérique (cryptographie)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "skip": {
-      "term": "Ignorer",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3897,33 +3060,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "snap": {
-      "term": "Snap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snaps": {
-      "term": "Snaps (MetaMask Snaps)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "snapshots-api": {
-      "term": "Snapshots API",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "soft-fork": {
       "term": "fork doux",
       "phonetic": "",
@@ -3942,26 +3078,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "source": {
-      "term": "Source (nom)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "speed-up": {
-      "term": "Accélérer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "stablecoin": {
-      "term": "Stablecoin (monnaie stable)",
+      "term": "stablecoin (monnaie stable)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -3979,7 +3097,7 @@
       "datefirstseen": ""
     },
     "staking": {
-      "term": "staking (nom)",
+      "term": "staking",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4005,24 +3123,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "state-logs": {
-      "term": "Journaux d’état",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "status": {
-      "term": "Statut",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "sto": {
       "term": "STO",
       "phonetic": "",
@@ -4033,34 +3133,7 @@
       "datefirstseen": ""
     },
     "streaming": {
-      "term": "Streaming",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "submit": {
-      "term": "Envoyer",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support": {
-      "term": "Assistance",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "support-center": {
-      "term": "Centre d’assistance",
+      "term": "streaming",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4069,25 +3142,7 @@
       "datefirstseen": ""
     },
     "swap": {
-      "term": "Échanger",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "switch": {
-      "term": "Changer (verbe)",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "symbol": {
-      "term": "Symbole",
+      "term": "échanger",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4158,35 +3213,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "theme": {
-      "term": "Thème",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "tips": {
-      "term": "Conseils",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "token": {
       "term": "jeton",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "token-id": {
-      "term": "ID de jeton",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4204,7 +3232,7 @@
       "datefirstseen": ""
     },
     "token-standard": {
-      "term": "Jeton standard",
+      "term": "jeton standard",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4213,7 +3241,7 @@
       "datefirstseen": ""
     },
     "transaction": {
-      "term": "Transaction",
+      "term": "transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4231,16 +3259,7 @@
       "datefirstseen": ""
     },
     "transaction-fee": {
-      "term": "Frais de transaction",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transaction-history-api": {
-      "term": "Transaction History API",
+      "term": "frais de transaction",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4268,15 +3287,6 @@
     },
     "transak": {
       "term": "Transak",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "transfer": {
-      "term": "Transférer (verbe)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4320,15 +3330,6 @@
       "source": "",
       "datefirstseen": ""
     },
-    "tutorial": {
-      "term": "Tutoriel",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "tvl": {
       "term": "Valeur totale verrouillée (TVL)",
       "phonetic": "",
@@ -4357,7 +3358,7 @@
       "datefirstseen": ""
     },
     "unencrypted-key": {
-      "term": "unencrypted key",
+      "term": "clé en clair",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4367,24 +3368,6 @@
     },
     "uniswap": {
       "term": "Uniswap",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "unknown": {
-      "term": "Inconnu",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "unlock": {
-      "term": "Déverrouiller",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4402,16 +3385,7 @@
       "datefirstseen": ""
     },
     "unstake": {
-      "term": "unstake",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "update": {
-      "term": "Mettre à jour",
+      "term": "déstaker",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4473,26 +3447,8 @@
       "source": "",
       "datefirstseen": ""
     },
-    "validium": {
-      "term": "Validium",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
-    "vault-decryptor": {
-      "term": "Déchiffreur de coffre-fort",
-      "phonetic": "",
-      "partOfSpeech": "",
-      "definition": "",
-      "termCategory": "",
-      "source": "",
-      "datefirstseen": ""
-    },
     "vesting": {
-      "term": "Acquisition",
+      "term": "acquisition",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4519,7 +3475,7 @@
       "datefirstseen": ""
     },
     "wallet-address": {
-      "term": "wallet address",
+      "term": "adresse de portefeuille",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4546,7 +3502,7 @@
       "datefirstseen": ""
     },
     "web3": {
-      "term": "web3, Web 3.0",
+      "term": "web3",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4564,7 +3520,7 @@
       "datefirstseen": ""
     },
     "webhook": {
-      "term": "webhook",
+      "term": "alerte automatisée",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4582,7 +3538,7 @@
       "datefirstseen": ""
     },
     "wei": {
-      "term": "Wei",
+      "term": "wei",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4591,7 +3547,7 @@
       "datefirstseen": ""
     },
     "whitepaper": {
-      "term": "Livre blanc",
+      "term": "livre blanc",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4600,7 +3556,7 @@
       "datefirstseen": ""
     },
     "wrapping": {
-      "term": "Emballage",
+      "term": "emballage",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4618,7 +3574,7 @@
       "datefirstseen": ""
     },
     "xpriv": {
-      "term": "Clé privée étendue (XPRIV)",
+      "term": "XPRIV",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4627,7 +3583,7 @@
       "datefirstseen": ""
     },
     "xpub": {
-      "term": "Clé publique étendue (XPUB)",
+      "term": "XPUB",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4663,7 +3619,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-proof": {
-      "term": "Preuve à divulgation nulle de connaissance (ZKP)",
+      "term": "preuve à divulgation nulle de connaissance (ZKP)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4672,7 +3628,7 @@
       "datefirstseen": ""
     },
     "zero-knowledge-rollup": {
-      "term": "Rollup à divulgation nulle de connaissance(rollup ZK)",
+      "term": "rollup à divulgation nulle de connaissance (rollup ZK)",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
@@ -4682,6 +3638,15 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "definition": "",
+      "termCategory": "",
+      "source": "",
+      "datefirstseen": ""
+    },
+    "0xplain": {
+      "term": "Oxplain",
       "phonetic": "",
       "partOfSpeech": "",
       "definition": "",
