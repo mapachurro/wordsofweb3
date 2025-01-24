@@ -82,12 +82,14 @@ function generateJSONFiles(data, englishHeader) {
         const termKey = englishTerm.toLowerCase().replace(/\s+/g, '-');
         localeData.terms[termKey] = {
           "term": translatedTerm,
-          "phonetic": "",
           "partOfSpeech": "",
-          "definition": "",
           "termCategory": "",
-          "source": "",
-          "datefirstseen": ""
+          "phonetic": "",
+          "definition": "",
+          "extended": "",
+          "termSource": "",
+          "dateFirstRecorded": "",
+          "commentary": "",
         };
       } else {
         console.warn(`Warning: Found an undefined term in row: ${JSON.stringify(row)}`);
