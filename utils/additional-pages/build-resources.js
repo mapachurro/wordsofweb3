@@ -1,5 +1,10 @@
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from 'url';
+
+// Create equivalent of __dirname for ES Modules context
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const resourcesTemplatePath = path.join(__dirname, "resources-template.html");
 const resourcesDataPath = path.join(__dirname, "resources.json");
@@ -11,7 +16,7 @@ function renderTemplate(template, data) {
   ).replace(/{{(.*?)}}/g, (_, key) => data[key] || "");
 }
 
-function buildResourcesPage() {
+export async function buildResourcesPage() {
   try {
     const template = fs.readFileSync(resourcesTemplatePath, "utf-8");
     const data = JSON.parse(fs.readFileSync(resourcesDataPath, "utf-8"));
@@ -23,5 +28,3 @@ function buildResourcesPage() {
     console.error("Error building resources page:", err);
   }
 }
-
-buildResourcesPage();

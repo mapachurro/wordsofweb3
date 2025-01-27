@@ -7,7 +7,7 @@ import { fileURLToPath } from "url";
 import buildPages from "./build-pages.js";
 import buildHomepages from "./build-homepages.js";
 import intertextualLinks from "./intertextual.js";
-import buildResourcesPage from "./additional-pages/build-resources.js";
+import { buildResourcesPage } from "./additional-pages/build-resources.js";
 
 // This creates an equivalent of `__dirname`
 const __filename = fileURLToPath(import.meta.url);
