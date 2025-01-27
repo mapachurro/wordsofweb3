@@ -7,6 +7,7 @@ import { fileURLToPath } from "url";
 import buildPages from "./build-pages.js";
 import buildHomepages from "./build-homepages.js";
 import intertextualLinks from "./intertextual.js";
+import buildResourcesPage from "./additional-pages/build-resources.js";
 
 // This creates an equivalent of `__dirname`
 const __filename = fileURLToPath(import.meta.url);
@@ -102,6 +103,11 @@ async function build() {
     console.log("Beginning index.html generation for all locales")
     await buildHomepages();
     console.log("Built homepages for each locale.");
+
+    // Create the 'Resources' page
+    console.log("Generating resources page...");
+    await buildResourcesPage();
+    console.log("Resources page built.");
 
     // Generate directory index files
     console.log("Beginning generation of page indices for all locales")

@@ -41,7 +41,7 @@ CORRECTIONS ARE THE WAY WE MAKE THIS GOOD.
 
 ## For the moment, please feel free to [create an issue in this repo](https://github.com/mapachurro/wordsofweb3/issues).
 
-We are working on creating an [attestation](https://docs.ver.ax/verax-documentation)-based contribution flow / frontend for the app. Stay tuned!
+We are working on creating an attestation-based contribution flow / frontend for the app. Stay tuned!
 
 # wordsofweb3: Architecture
 
@@ -311,6 +311,26 @@ The search will be key functionality in this site.
 The current implementation leverages the directoryContents.json files, which are generated during build. It currently matches any terms which have the search query term in them. Ideally, we have something like this in the future:
 
 ```markdown
+
+# Additional pages
+
+The first additional page, outside the core Glossary, is the `Resources` page. 
+
+This is a static page, mostly of links. It will have two sections, to begin with: 
+
+1. Web3, Decentralized Web, and Crypto Glossaries and Explainers
+
+This section simply lists glossaries and **conceptual explainers** in this technological area. It does **not** list *educational resources*, such as courses or bootcamps.
+
+2. High-Value Source Materials
+
+This section lists websites, forums, GitHub repositories, etc., where reliable information about terminology can be sourced. This includes places like the Ethereum Cat Herders and Magicians' sites, the Bitcoin Wiki, ethereum.org, etc. 
+
+**For the time being, if you'd like to add something to this list, open an issue or a PR on this repo!**
+
+`TODO :`
+- When the submission flow is created, allow users to submit suggestions here
+
 ## Term matches
 
 - Terms that have the search query in them
