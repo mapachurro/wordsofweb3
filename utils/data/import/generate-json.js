@@ -86,6 +86,8 @@ function generateJSONFiles(data, englishHeader) {
           "termCategory": "",
           "phonetic": "",
           "definition": "",
+          "definitionSource": "",
+          "sampleSentence": "",
           "extended": "",
           "termSource": "",
           "dateFirstRecorded": "",
