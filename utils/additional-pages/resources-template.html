@@ -1,20 +1,19 @@
 <!DOCTYPE html>
-<html lang="{{locale}}">
+<html lang="">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href="../assets/favicon.ico">
-  <link rel="stylesheet" href="../assets/css/bootstrap/bootstrap.css">
-  <link rel="stylesheet" href="../assets/css/bootstrap/custom.css">
-  <link rel="stylesheet" href="../assets/css/styles.css">
-  <title>{{title}}</title>
-  <script type="module" src="../js/index.js" defer></script>
+  <link rel="icon" href="./assets/favicon.ico">
+  <link rel="stylesheet" href="./assets/css/bootstrap/bootstrap.css">
+  <link rel="stylesheet" href="./assets/css/bootstrap/custom.css">
+  <link rel="stylesheet" href="./assets/css/styles.css">
+  <title>Resources</title>
 </head>
 <body>
   <header id="navbar-container" class="mb-5">
     <nav class="navbar navbar-expand-lg navbar-dark">
       <a class="navbar-brand" href="index.html" id="logo-link">
-        <img src="../assets/education-dao-circle.png" alt="Logo" class="logo-image" />
+        <img src="./assets/education-dao-circle.png" alt="Logo" class="logo-image" />
         wordsofweb3
       </a>
       <a href="../resources.html" class="nav-link">Resources</a>
@@ -51,34 +50,27 @@
         </select>
     </nav>
   </header>
-
-<main class="container">
-  <!-- Search Card -->
-  <div class="card mb-4">
-    <div class="card-body">
-      <h5 id="search-header" class="card-title text-center">{{searchHeader}}</h5>
-      <div id="search-container" class="input-group mb-3">
-        <input type="text" id="search-input" class="form-control" placeholder="{{searchPlaceholder}}">
-        <button id="search-button" class="btn btn-primary">{{searchButton}}</button>
-      </div>
-      <!-- Results container inside the search card, initially hidden -->
-      <div id="results-container" class="mt-3" style="display: none;"></div>
-    </div>
-  </div>
-
-  <!-- Explore Card -->
-  <div class="card">
-    <div class="card-body">
-      <h5 id="explore" class="card-title">{{exploreHeader}}</h5>
-      <div id="explore-container" class="row">
-        <!-- Terms will be injected here as responsive columns -->
+  <main class="container">
+    <div class="card mb-4">
+      <div class="card-body">
+        <h1 class="card-title">{{title}}</h1>
+        {{#sections}}
+        <div class="mb-3">
+          <h2 class="card-subtitle mb-2">{{title}}</h2>
+          <ul class="list-group">
+            {{#links}}
+            <li class="list-group-item">
+              <a href="{{url}}" target="_blank">{{text}}</a> - {{description}}
+            </li>
+            {{/links}}
+          </ul>
+        </div>
+        {{/sections}}
       </div>
     </div>
-  </div>
-</main>
-
-<footer class="text-center mt-5">
-  <p>wordsofweb3 glossary © 2024 by Education DAO is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/</p>
-</footer>
+  </main>  
+  <footer>
+    <p>&copy; 2025 Education DAO</p>
+  </footer>
 </body>
 </html>
