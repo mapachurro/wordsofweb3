@@ -11,9 +11,31 @@ const resourcesDataPath = path.join(__dirname, "resources.json");
 const outputPath = path.join(__dirname, "../../build/resources.html");
 
 function renderTemplate(template, data) {
-  return template.replace(/{{#(.*?)}}([\s\S]*?){{\/\1}}/g, (_, key, content) =>
-    (data[key] || []).map(item => content.replace(/{{(.*?)}}/g, (_, k) => item[k] || "")).join("")
-  ).replace(/{{(.*?)}}/g, (_, key) => data[key] || "");
+  return template
+    .replace(/{{#(.*?)}}([\s\S]*?){{\/\1}}/g, (_, key, content) => {
+      console.log(`Processing section: ${key}`);
+      console.log(`Data for ${key}:`, data[key]);
+
+      return (data[key] || []).map(item => {
+        if (key === "sections") {
+          // Recursively process the nested "links" inside each section
+          return content
+            .replace(/{{#links}}([\s\S]*?){{\/links}}/g, (_, linkContent) => {
+              return (item.links || []).map(link => {
+                console.log(`Processing link:`, link);
+                return linkContent.replace(/{{(.*?)}}/g, (_, k) => link[k] || "");
+              }).join("");
+            })
+            .replace(/{{(.*?)}}/g, (_, k) => item[k] || "");
+        } else {
+          return content.replace(/{{(.*?)}}/g, (_, k) => item[k] || "");
+        }
+      }).join("");
+    })
+    .replace(/{{(.*?)}}/g, (_, key) => {
+      console.log(`Replacing standalone key: ${key} with value: ${data[key]}`);
+      return data[key] || "";
+    });
 }
 
 export async function buildResourcesPage() {
@@ -28,3 +50,5 @@ export async function buildResourcesPage() {
     console.error("Error building resources page:", err);
   }
 }
+
+buildResourcesPage();
