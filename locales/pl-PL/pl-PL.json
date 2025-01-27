@@ -781,7 +781,7 @@
       "commentary": ""
     },
     "coin": {
-      "term": "Coin / moneta",
+      "term": "Coin -- moneta",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1886,7 +1886,7 @@
       "commentary": ""
     },
     "faucet": {
-      "term": "Kranik / faucet",
+      "term": "Kranik -- faucet",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1912,7 +1912,7 @@
       "commentary": ""
     },
     "fiat-currency": {
-      "term": "Waluta fiat / pieniądz fiducjarny",
+      "term": "Waluta fiat -- pieniądz fiducjarny",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2315,7 +2315,7 @@
       "commentary": ""
     },
     "hash": {
-      "term": "hasz / skrót",
+      "term": "hasz -- skrót",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2341,7 +2341,7 @@
       "commentary": ""
     },
     "hex-data": {
-      "term": "Dane w zapisie szesnastkowym/heksadecymalnym",
+      "term": "number system wey use 16 symbols instead of 10",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3147,7 +3147,7 @@
       "commentary": ""
     },
     "miner-tip": {
-      "term": "napiwek dla górnika/walidatora",
+      "term": "napiwek dla górnika--walidatora",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3173,7 +3173,7 @@
       "commentary": ""
     },
     "mint": {
-      "term": "minting / mintowanie",
+      "term": "minting -- mintowanie",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3342,7 +3342,7 @@
       "commentary": ""
     },
     "nft-drop": {
-      "term": "Drop / zrzut NFT",
+      "term": "Drop -- zrzut NFT",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4083,7 +4083,7 @@
       "commentary": ""
     },
     "sandbox": {
-      "term": "Środowisko testowe / piaskownica",
+      "term": "Środowisko testowe -- piaskownica",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5123,7 +5123,7 @@
       "commentary": ""
     },
     "whitepaper": {
-      "term": "artykuł / opracowanie",
+      "term": "artykuł -- opracowanie",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",

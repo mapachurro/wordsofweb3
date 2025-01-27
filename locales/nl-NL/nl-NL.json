@@ -586,7 +586,7 @@
       "commentary": ""
     },
     "bounty": {
-      "term": "bounty/",
+      "term": "bounty",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -781,7 +781,7 @@
       "commentary": ""
     },
     "coin": {
-      "term": "coin/cryptomunt",
+      "term": "coin—cryptomunt",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -820,7 +820,7 @@
       "commentary": ""
     },
     "cold-storage": {
-      "term": "koude opslag/cold storage",
+      "term": "koude opslag—cold storage",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1093,7 +1093,7 @@
       "commentary": ""
     },
     "cryptocurrency": {
-      "term": "cryptocurrency/cryptomunt",
+      "term": "cryptocurrency—cryptomunt",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1145,7 +1145,7 @@
       "commentary": ""
     },
     "custody": {
-      "term": "custody/bewaring/beheer",
+      "term": "custody—bewaring--beheer",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1418,7 +1418,7 @@
       "commentary": ""
     },
     "difficulty": {
-      "term": "difficulty/moeilijkheid",
+      "term": "difficulty--moeilijkheid",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1587,7 +1587,7 @@
       "commentary": ""
     },
     "encryption": {
-      "term": "encryptie/versleuteling",
+      "term": "encryptie--versleuteling",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1834,7 +1834,7 @@
       "commentary": ""
     },
     "exchange": {
-      "term": "exchange/cryptobeurs",
+      "term": "exchange--cryptobeurs",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1912,7 +1912,7 @@
       "commentary": ""
     },
     "fiat-currency": {
-      "term": "fiatgeld/fiduciair geld",
+      "term": "fiatgeld--fiduciair geld",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2107,7 +2107,7 @@
       "commentary": ""
     },
     "gas-fee": {
-      "term": "transactiekosten/gas fee",
+      "term": "transactiekosten--gas fee",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2120,7 +2120,7 @@
       "commentary": ""
     },
     "gas-limit": {
-      "term": "maximale transactiekosten/gas limit",
+      "term": "maximale transactiekosten--gas limit",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2354,7 +2354,7 @@
       "commentary": ""
     },
     "hot-storage": {
-      "term": "warme opslag/hot storage",
+      "term": "warme opslag--hot storage",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2367,7 +2367,7 @@
       "commentary": ""
     },
     "hot-wallet": {
-      "term": "warme wallet/warme opslag/hot wallet",
+      "term": "warme wallet--warme opslag--hot wallet",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3862,7 +3862,7 @@
       "commentary": ""
     },
     "public-blockchain": {
-      "term": "openbare blockchain/public blockchain",
+      "term": "openbare blockchain--public blockchain",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3875,7 +3875,7 @@
       "commentary": ""
     },
     "public-key": {
-      "term": "publieke sleutel/public key",
+      "term": "publieke sleutel--public key",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3888,7 +3888,7 @@
       "commentary": ""
     },
     "public-key-cryptography": {
-      "term": "asymmetrische cryptografie/publieke-sleutelcryptografie",
+      "term": "asymmetrische cryptografie--publieke-sleutelcryptografie",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4148,7 +4148,7 @@
       "commentary": ""
     },
     "scam": {
-      "term": "scam/oplichting",
+      "term": "scam--oplichting",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4252,7 +4252,7 @@
       "commentary": ""
     },
     "self-custody": {
-      "term": "self-custody/zelfbewaring/eigen beheer",
+      "term": "self-custody--zelfbewaring--eigen beheer",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4980,7 +4980,7 @@
       "commentary": ""
     },
     "vesting": {
-      "term": "vesting/wacht-",
+      "term": "vesting--wacht-",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",

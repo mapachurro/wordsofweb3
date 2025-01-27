@@ -781,7 +781,7 @@
       "commentary": ""
     },
     "coin": {
-      "term": "monnaie/jeton fongible",
+      "term": "monnaie--jeton fongible",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1912,7 +1912,7 @@
       "commentary": ""
     },
     "fiat-currency": {
-      "term": "devise fiat /monnaie fiat",
+      "term": "devise fiat --monnaie fiat",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2276,7 +2276,7 @@
       "commentary": ""
     },
     "hard-fork": {
-      "term": "hard fork/embranchement dur",
+      "term": "hard fork--embranchement dur",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3212,7 +3212,7 @@
       "commentary": ""
     },
     "modular-blockchain": {
-      "term": "blockchain modulaire / Chaîne de blocs modulaire",
+      "term": "blockchain modulaire -- Chaîne de blocs modulaire",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3264,7 +3264,7 @@
       "commentary": ""
     },
     "nested-blockchain": {
-      "term": "blockchain imbriquée / chaîne de blocs imbriquée",
+      "term": "blockchain imbriquée -- chaîne de blocs imbriquée",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3446,7 +3446,7 @@
       "commentary": ""
     },
     "on-chain": {
-      "term": "sur la chaîne/sur la blockchaîne",
+      "term": "sur la chaîne--sur la blockchaîne",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3602,7 +3602,7 @@
       "commentary": ""
     },
     "passphrase": {
-      "term": "phrase secrète/phrase de passe",
+      "term": "phrase secrète--phrase de passe",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3771,7 +3771,7 @@
       "commentary": ""
     },
     "private-blockchain": {
-      "term": "blockchain privée/ chaîne de blocs privée",
+      "term": "blockchain privée-- chaîne de blocs privée",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3784,7 +3784,7 @@
       "commentary": ""
     },
     "private-currency": {
-      "term": "devise privée/monnaie privée",
+      "term": "devise privée--monnaie privée",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3862,7 +3862,7 @@
       "commentary": ""
     },
     "public-blockchain": {
-      "term": "blockchain publique/chaîne de blocs publique",
+      "term": "blockchain publique--chaîne de blocs publique",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4135,7 +4135,7 @@
       "commentary": ""
     },
     "scaling": {
-      "term": "monter en charge / montée en charge",
+      "term": "monter en charge -- montée en charge",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4148,7 +4148,7 @@
       "commentary": ""
     },
     "scam": {
-      "term": "arnaque / escroquerie",
+      "term": "arnaque -- escroquerie",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4356,7 +4356,7 @@
       "commentary": ""
     },
     "sidechain": {
-      "term": "chaîne latérale / blockchain secondaire",
+      "term": "chaîne latérale -- blockchain secondaire",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4382,7 +4382,7 @@
       "commentary": ""
     },
     "slippage": {
-      "term": "slippage / effet de glissement",
+      "term": "slippage -- effet de glissement",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4902,7 +4902,7 @@
       "commentary": ""
     },
     "upgrade": {
-      "term": "mise à niveau / mettre à niveau",
+      "term": "mise à niveau -- mettre à niveau",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
