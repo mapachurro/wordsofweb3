@@ -70,6 +70,7 @@ Yes, this means custom scripting; but anyone that tells you that an npm package 
 
 Currently, we have definitions in the following languages:
 
+```txt
 العربية
 中文-简体(简体)
 中文-繁體(繁體)
@@ -98,6 +99,7 @@ tagaloga
 türkçe
 українська
 tiếng-việt
+```
 
 # Components of the site: data processing and build
 
