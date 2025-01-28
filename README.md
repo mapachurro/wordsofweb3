@@ -66,7 +66,42 @@ We use ES Module syntax in wordsofweb3, so make sure any functionality uses this
 
 Yes, this means custom scripting; but anyone that tells you that an npm package or open source project will require _less_ maintenance than custom scripts that do what you want, well, wish them the best of luck with that.
 
-### Homepages
+## Languages
+
+Currently, we have definitions in the following languages:
+
+العربية
+中文-简体(简体)
+中文-繁體(繁體)
+nederlands
+français
+deutsch
+eλληνικά
+english-us (United States)
+hausa
+हिन्दी
+magyar
+bahasa-indonesia
+italiano
+日本語
+한국어
+فارسی
+bahasa-melayu
+pidgin
+polski
+português-brasil
+românăână
+русский
+español-latinoamérica
+tagaloga
+ไทย
+türkçe
+українська
+tiếng-việt
+
+# Components of the site: data processing and build
+
+## Homepages
 
 As a fully internationalized app, the site will actually have multiple potential versions of its homepage.
 
@@ -75,10 +110,12 @@ This means there is an `index.html` page in the root directory `./`, as well as 
 The root index file, upon load, _should_ detect the user's browser locale, and direct them to the correct `./<locale>/index.html` file.
 If there doesn't seem to be an appropriate locale for the user, the root index file should show a welcome message, display all available locales and allow the user to choose one.
 
+*Note: the above functionality probably has a bad impact on SEO, and we should consider disabling it.*
+
 These homepages are created by `build-homepages.js`, which runs during the build process.
 This script ingests `index-template.html`, and applies UI translation strings found in `./l10n/<four-letter-dash-locale-code>/translation.json` to the elements that need to contain human-readable information.
 
-#### The Navbar and language switching
+### The Navbar and language switching
 
 The language dropdown selector on this site is much dumber than many that are out there.
 
@@ -86,7 +123,7 @@ Currently, **it only does one thing: takes you to the homepage of whatever langu
 
 Ideally, it would also switch between languages for the term page you're on.
 
-### Creating the glossary entries
+## Creating the glossary entries
 
 Similarly to the "template" format of the homepage, each `term`'s `entry page` will be generated **on the build side of the app; nothing will be created "generatively" on the reader's side.**
 
@@ -104,7 +141,7 @@ To emphasize the importance of this: **The .json files that are created from thi
 
 More details about these files: 
 
-#### `all-terms.csv`:
+### `all-terms.csv`:
 
 This .csv file is something that will be imported, from time to time, with new or updated terms in one or more languages.
 It currently houses a large number of locales; here is a sample of its structure and content:
@@ -168,30 +205,31 @@ This file, like `all-terms`, will be imported from time to time, and will includ
 
 
 
-### `app-side-glossary.csv`
-
-`TODO`
+## Exporting term data to CSV
 
 We need a way to export this information, and manage it, in .csv format, for less-technical people who don't want to handle .json files.
-For this reason, these collective .json files from each locale will be exportable, via a script not yet written, to `./utils/data/export/app-side-glossary.csv`, for exportation to e.g. Google Sheets for editing and updates.
 
-There is a placeholder script, in [`./utils/data/export/TODO.js`](./utils/data/export/TODO.js), with more specifications.
+The script at [`./utils/data/export/export-json.js`](./utils/data/export/export-json.js) does just this. In order to export a given language's
+data to a .CSV file, change the path to the langauge you're interested in, and run the script using nodejs, `node export-json.js`. It should
+output `glossary.csv` in that directory, which you can use as you see fit.
+
+There is a placeholder script, in [`./utils/data/export/TODO.js`](./utils/data/export/TODO.js), with aspirations for a script that does
+all languages at once. That's a TODO, for sure.
 
 
 Here is a sample of how [the current CSV file](./utils/data/import/all-terms.csv) looks:
 
 ```CSV
 
-Term,Part of speech,Term Category,Phonetic,Definition,Source,Date first recorded
-0x API,noun,project or product,/ˌzɪroʊ ˈɛks ˈeɪ.pi.aɪ/,"The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users.",,
-1inch,noun,project or product,/ˈwʌn ɪntʃ/,Decentralized exchange aggregator that aims to provide traders with the best price and lowest fees on their transactions.,,
-2FA,noun,software term,"/ˈtuː ˈfæktər ɔːˈθɛntɪˌkeɪʃən/, /ˈtuː ˈɛf ˈeɪ/",Abbreviation; two-factor authentication (2FA) is an identity and access management security method that requires two forms of identification to access resources and data. 2FA gives businesses the ability to monitor and help safeguard their most vulnerable information and networks.See also 'U2F' When 2FA A,,
-3Box Labs,noun,project or product,/ˈθriː bɑks ˈlæbz/,"The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem",,
-51% attack,noun,decentralized web,/ˈfɪfti wʌn pərˈsɛnt əˈtæk/,"If more than half the computer power or mining hash rate on a network is run by a single person or a single group of people, then a 51% attack is in operation. This means that this entity has full control of the network and can negatively affect a cryptocurrency by taking over mining operations, stopping or changing transactions, and double-spending coins.",,
+"key","term","partOfSpeech","termCategory","phonetic","definition","definitionSource","sampleSentence","extended","termSource","dateFirstRecorded","commentary"
+"51%-attack","51% attack","noun","","/ˈfɪfti wʌn pərˈsɛnt əˈtæk/","An attack, often discussed in purely theoretical terms, performed against a distributed ledger or blockchain network.   The mechanism of the attack consists of gaining control of at least half – more than 50% – of the 'nodes' or 'peers' that participate in the network's consensus mechanism, i.e., sync the current state of the ledger. By gaining control of 51% of the network, the attacker could, in theory, maliciously rewrite the ledger for their own purposes.","","","Solving for this attack vector is one of the key design decisions in the Bitcoin protocol, as well as Ethereum, and others. In the case of Bitcoin, this was solved through the Proof of Work consensus mechanism, wherein the difficulty involved in mining new blocks effectively prevents any one actor from gaining this sort of control.","Consensys Software Inc., Blockchain Glossary for Beginners","",""
+"account","account","noun","","/əˈkaʊnt/","An account, in web1 and web2 terms, refers to some sort of identity on some sort of digital platform. It is usually tied to an authentication method, e.g., username and password, which is granted, managed, and secured by the platform or service in question.   By contrast, a web3 or crypto account consists of what is known as a public-private key pair; the public half is generally safe to be shared publicly, and in the case of Ethereum, is further processed to create what is known as the 'public address' of the account, always beginning with '0x'. The private half, meanwhile, gives total control over the account; *total*.","","","These public-private key pairs can be generated one at a time, or they can be *derived* from what is known as a **seed phrase** or **secret recovery phrase**; for more on this, see HD wallet.","Many","",""
+"address","address","noun","","/ˈæd.rɛs/ ""ˈpʌblɪk ˈæd.rɛs""","On a distributed ledger or public blockchain network, an 'address', or 'public address', is an identifier that can be used to variously locate, identify, send or receive tokens to and from, different entities.","James Beck, Education DAO - mapachurro","","For example, on some networks, particularly EVM-style, every account will have an address, to which tokens could be sent. Smart contracts on those networks also have addresses, so that other contracts or protocols can interact with them. In Ethereum, the address begins with 0x; For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee","Consensys Software Inc., Blockchain Glossary for Beginners","",""
+"aggregator","aggregator","noun","","/ˈæɡrɪˌɡeɪtər/","A platform or protocol that combines real-time or quasi-real-time information regarding the availability, liquidity, price, etc., of tokens, pools, and other decentralized finance (DeFi) instruments from multiple decentralized exchanges (DEXs), or other sources, ideally to provide the best prices and the most efficient execution for their trades or other actions.","","","","","",""
 
 ```
 
-### Moving the information from .json to HTML
+## Building the term pages
 
 Once this information is in its .json files in corresponding locale folders, we can proceed to generate the site's content from it.
 
@@ -217,7 +255,7 @@ There is a cross-locale mapping function present in this script, which should li
 [English](./path-to-entry-in-English.html)
 ```
 
-### Paths and slugs
+## Paths and slugs
 
 wordsofweb3 should always prioritize human-readability over concessions to the conventions of machines, even when that sucks for technical reasons.
 
