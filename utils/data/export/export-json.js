@@ -1,3 +1,7 @@
+//This script takes a single locale's .json file and exports it to a .CSV file.
+// As you would expect, the json object keys are the labels in Row 1, and the values
+// for each of those keys in each term are each row after that.
+
 import fs from 'fs';
 import path from 'path';
 import { parse } from 'json2csv';
