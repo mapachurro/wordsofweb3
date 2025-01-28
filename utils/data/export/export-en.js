@@ -1,0 +1,32 @@
+import fs from 'fs';
+import path from 'path';
+import { parse } from 'json2csv';
+
+// Load JSON file
+const inputFilePath = path.join('../../../locales/en-US/en-US.json');
+const outputFilePath = path.join('./glossary.csv');
+
+const jsonData = JSON.parse(fs.readFileSync(inputFilePath, 'utf8'));
+const terms = jsonData.terms;
+
+if (!terms) {
+  console.error('No terms found in JSON file.');
+  process.exit(1);
+}
+
+// Extract column headers dynamically
+const headers = ['key', ...Object.keys(Object.values(terms)[0])];
+
+// Convert to CSV format
+const rows = Object.entries(terms).map(([key, values]) => ({
+  key, // JSON object key (e.g., "51%-attack", "account")
+  ...values, // Spread remaining properties
+}));
+
+try {
+  const csv = parse(rows, { fields: headers });
+  fs.writeFileSync(outputFilePath, csv, 'utf8');
+  console.log(`CSV successfully created: ${outputFilePath}`);
+} catch (error) {
+  console.error('Error generating CSV:', error);
+}
