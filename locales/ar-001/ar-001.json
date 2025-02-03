@@ -1,16 +1,94 @@
 {
   "terms": {
-    "51-percent-attack": {
-      "term": "هجمات 51%",
+    "0x-api": {
+      "term": "0x API",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
-      "definition": "هجمات 51%: عندما يسيطر معدن أو مجموعة من المعدنين على أكثر من 50% من معدل تجزئة التعدين أو القوة الحاسوبية على الشبكة.",
-      "definitionSource": "https://academy.binance.com/ar/glossary/51-percent-attack",
+      "definition": "",
+      "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "termSource": "https://academy.binance.com/ar/glossary/51-percent-attack",
-      "dateFirstRecorded": "2025-02-01",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "0xplain": {
+      "term": "0xplain",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "1inch": {
+      "term": "1inch",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "2fa": {
+      "term": "المصادقة الثنائية (2FA)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "3box-labs": {
+      "term": "3Box Labs",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "51%-attack": {
+      "term": "هجوم 51٪",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "aave": {
+      "term": "Aave",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "absolute-advantage": {
@@ -24,6 +102,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/absolute-advantage",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "account": {
+      "term": "حساب",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ach-transfer": {
+      "term": "تحويل ACH",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "active-management": {
@@ -66,7 +170,7 @@
       "commentary": ""
     },
     "address": {
-      "term": "Address",
+      "term": "العنوان",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -78,8 +182,47 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "aggregator": {
+      "term": "مُجمِعّ",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "agoric": {
+      "term": "Agoric",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "air-gapping": {
+      "term": "عزل الأجهزة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "airdrop": {
-      "term": "Airdrop",
+      "term": "توزيع مجاني",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -91,8 +234,34 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "airgap-vault": {
+      "term": "AirGap Vault",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "airswap": {
+      "term": "AirSwap",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "algorithm": {
-      "term": "الخوارزمية",
+      "term": "خوارزمية",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -157,7 +326,7 @@
       "commentary": ""
     },
     "altcoin": {
-      "term": "Altcoin",
+      "term": "عملة بديلة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -167,6 +336,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/altcoin",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "aml": {
+      "term": "مكافحة غسيل الأموال",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "angel-investor": {
@@ -193,6 +375,45 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/anti-money-laundering",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "api": {
+      "term": "API",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "appchain": {
+      "term": "بلوكتشين التطبيق",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "apple-pay": {
+      "term": "Apple Pay",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "application-programming-interface": {
@@ -234,6 +455,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "arbitrum": {
+      "term": "Arbitrum",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "arc-20": {
       "term": "ARC-20",
       "partOfSpeech": "",
@@ -258,6 +492,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/artificial-intelligence-ai",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "asic": {
+      "term": "الدائرة المتكاملة الخاصة بالتطبيق (ASIC)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "asic-resistant": {
@@ -297,6 +544,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/asset-management",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "asset-provenance": {
+      "term": "منشأ الأصل",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "assets-under-management-aum": {
@@ -351,6 +611,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "attestation": {
+      "term": "المصادقة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "auction": {
       "term": "Auction",
       "partOfSpeech": "",
@@ -364,6 +637,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "aurora": {
+      "term": "Aurora",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "automated-market-maker-amm": {
       "term": "صانع السوق الآلي",
       "partOfSpeech": "",
@@ -375,6 +661,45 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/automated-market-maker-amm",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "avalanche": {
+      "term": "Avalanche",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "avax": {
+      "term": "AVAX",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "axie-infinity": {
+      "term": "Axie Infinity",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "b-tokens": {
@@ -403,8 +728,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "banxa": {
+      "term": "Banxa",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "beacon-chain": {
-      "term": "سلسلة Beacon",
+      "term": "سلسلة المنارة (Beacon)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -494,6 +832,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "besu": {
+      "term": "Besu",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "beta-coefficient": {
       "term": "Beta (Coefficient)",
       "partOfSpeech": "",
@@ -546,6 +897,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "binance": {
+      "term": "Binance",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "binance-blockchain-charity-foundation": {
       "term": "Blockchain Charity Foundation",
       "partOfSpeech": "",
@@ -586,7 +950,7 @@
       "commentary": ""
     },
     "bitcoin": {
-      "term": "Bitcoin",
+      "term": "بيتكوين",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -664,7 +1028,7 @@
       "commentary": ""
     },
     "block": {
-      "term": "Block",
+      "term": "كُتلة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -677,7 +1041,7 @@
       "commentary": ""
     },
     "block-explorer": {
-      "term": "Block Explorer",
+      "term": "مستكشف البلوكتشين",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -703,7 +1067,7 @@
       "commentary": ""
     },
     "block-height": {
-      "term": "Block Height",
+      "term": "موقع الكتلة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -728,8 +1092,34 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "block-time": {
+      "term": "وقت الكتلة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "blockaid": {
+      "term": "Blockaid",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "blockchain": {
-      "term": "البلوكشين",
+      "term": "البلوكتشين",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -739,6 +1129,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/blockchain",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "blockchain-explorer": {
+      "term": "مستكشف البلوكتشين",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "blockchain-trilemma": {
+      "term": "المعضلة الثلاثية الأبعاد لسلاسل البلوكتشين",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "bloom-filter": {
@@ -778,6 +1194,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/bnb",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "bnb-chain": {
+      "term": "BNB Chain",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "bnsol": {
@@ -820,7 +1249,7 @@
       "commentary": ""
     },
     "bounty": {
-      "term": "Bounty",
+      "term": "مكافأة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -830,6 +1259,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/bounty",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "brain-wallet": {
+      "term": "محفظة الدماغ",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "brave": {
+      "term": "Brave",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "brc-20-tokens": {
@@ -884,6 +1339,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "bridge": {
+      "term": "جسر",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "bscscan": {
       "term": "مستكشف BscScan",
       "partOfSpeech": "",
@@ -895,6 +1363,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/bscscan",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "btc": {
+      "term": "BTC",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "btc-wallet-address": {
@@ -962,6 +1443,45 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "bytecode": {
+      "term": "شفرة البايت",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "byzantine-fault-tolerance": {
+      "term": "التسامح مع الخطأ البيزنطي",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "byzantium-fork": {
+      "term": "انقسام (فورك) Byzantium",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "candidate-block": {
       "term": "كتلة المرشح",
       "partOfSpeech": "",
@@ -999,6 +1519,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/capitulation",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "celo": {
+      "term": "Celo",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "censorship-resistance": {
@@ -1067,7 +1600,7 @@
       "commentary": ""
     },
     "centralized-exchange": {
-      "term": "منصة التداول المركزية",
+      "term": "بورصة مركزية",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1077,6 +1610,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/centralized-exchange",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "cex": {
+      "term": "CEX",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "chain-id": {
+      "term": "مُعرفّ السلسلة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "chatgpt": {
@@ -1090,6 +1649,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/chatgpt",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "chrome": {
+      "term": "Chrome",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "cipher": {
@@ -1118,6 +1690,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "client": {
+      "term": "عميل",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "cloud": {
       "term": "Cloud",
       "partOfSpeech": "",
@@ -1131,8 +1716,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "codefi": {
+      "term": "التداول والتمويل اللامركزي (CodeFi)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "coin": {
-      "term": "Coin",
+      "term": "عملة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1144,8 +1742,34 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "coinbase-pay": {
+      "term": "Coinbase Pay",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "coingecko": {
+      "term": "CoinGecko",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "cold-storage": {
-      "term": "التخزين البارد (التخزين دون اتصال بالإنترنت)",
+      "term": "التخزين البارد (غير متصل بالإنترنت)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1155,6 +1779,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/cold-storage",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "cold-wallet": {
+      "term": "محفظة باردة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "collateral": {
@@ -1196,6 +1833,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "compile": {
+      "term": "تجميع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "compound": {
+      "term": "بروتوكول Compound",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "compound-interest": {
       "term": "الفائدة المركّبة",
       "partOfSpeech": "",
@@ -1207,6 +1870,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/compound-interest",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "confirmation": {
+      "term": "تأكيد",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "confirmation-time": {
@@ -1235,6 +1911,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "consensus": {
+      "term": "خوارزمية الإجماع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "consensus-algorithm": {
       "term": "خوارزمية الإجماع",
       "partOfSpeech": "",
@@ -1246,6 +1935,71 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/consensus-algorithm",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "consensus-client": {
+      "term": "عميل إجماع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "consensus-layer": {
+      "term": "طبقة الإجماع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "consensus-mechanism": {
+      "term": "آلية الإجماع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "consensys": {
+      "term": "Consensys",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "constantinople-fork": {
+      "term": "انقسام Constantinople (هارد فورك)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "consumer-price-index-(cpi)": {
@@ -1272,6 +2026,45 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/contango-and-backwardation",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "contract": {
+      "term": "عقد",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "contract-account": {
+      "term": "حساب العقد",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "coolwallet": {
+      "term": "CoolWallet",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "copy-trading": {
@@ -1326,6 +2119,58 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "crypto-": {
+      "term": "-مشفرة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "crypto-asset": {
+      "term": "أصل مشفر",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "crypto-bounties": {
+      "term": "مكافآت التشفير",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "crypto-compliance": {
+      "term": "امتثال الأصول المشفرة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "crypto-etfs": {
       "term": "صناديق المؤشرات المتداولة للعملات الرقمية",
       "partOfSpeech": "",
@@ -1352,6 +2197,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "crypto-fund": {
+      "term": "صندوق استثمار الأصول المشفرة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "crypto-protocol": {
       "term": "بروتوكول العملات الرقمية",
       "partOfSpeech": "",
@@ -1363,6 +2221,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/crypto-protocol",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "crypto-wallet": {
+      "term": "محفظة العملات المشفرة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "crypto-winter": {
@@ -1378,8 +2249,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "cryptocompare": {
+      "term": "CryptoCompare",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "cryptocurrency": {
-      "term": "العملة الرقمية",
+      "term": "عملة مشفرة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1389,6 +2273,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/cryptocurrency",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "cryptoeconomics": {
+      "term": "اقتصاديات الأصول المشفرة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "cryptography": {
@@ -1404,8 +2301,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "curve": {
+      "term": "Curve",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "custody": {
-      "term": "الاحتجاز",
+      "term": "الحفظ الآمن",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1415,6 +2325,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/custody",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "d'cent": {
+      "term": "D'CENT",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "daemon": {
@@ -1430,6 +2353,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "dai": {
+      "term": "DAI",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "danksharding": {
       "term": "ترقية Danksharding",
       "partOfSpeech": "",
@@ -1441,6 +2377,45 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/danksharding",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "dao": {
+      "term": "DAO",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "dapp": {
+      "term": "dapp",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ddos": {
+      "term": "الهجمات الموزعة لحجب الخدمة (DDoS)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "dead-cat-bounce": {
@@ -1469,8 +2444,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "decentralization": {
+      "term": "اللامركزية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "decentralized-application": {
-      "term": "التطبيقات اللامركزية",
+      "term": "تطبيق لامركزي",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1496,7 +2484,7 @@
       "commentary": ""
     },
     "decentralized-autonomous-organization": {
-      "term": "المنظمة المستقلة اللامركزية (DAO)",
+      "term": "منظمة مستقلة لامركزية",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1509,7 +2497,7 @@
       "commentary": ""
     },
     "decentralized-exchange": {
-      "term": "Decentralized Exchange (DEX)",
+      "term": "بورصة لامركزية",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1519,6 +2507,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/decentralized-exchange",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "decentralized-finance": {
+      "term": "التمويل اللامركزي",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "decentralized-indexes": {
@@ -1532,6 +2533,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/decentralized-indexes",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "decentralized-web": {
+      "term": "الويب اللامركزي",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "decryption": {
@@ -1560,6 +2574,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "defi": {
+      "term": "تمويل لامركزي (DeFi)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "delegated-proof-of-stake-(dpos)": {
+      "term": "DPoS",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "delisting": {
       "term": "Delisting",
       "partOfSpeech": "",
@@ -1571,6 +2611,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/delisting",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "denominations": {
+      "term": "فئات",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "depeg": {
@@ -1586,6 +2639,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "deposit": {
+      "term": "الإيداع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "depression": {
       "term": "الكساد",
       "partOfSpeech": "",
@@ -1599,6 +2665,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "derive": {
+      "term": "يشتق",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "design-flaw-attack": {
       "term": "Design Flaw Attack",
       "partOfSpeech": "",
@@ -1610,6 +2689,58 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/design-flaw-attack",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "dev": {
+      "term": "مُطورّ",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "devcon": {
+      "term": "Devcon",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "developer": {
+      "term": "مُطوّر",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "dex": {
+      "term": "بورصة لامركزية (DEX)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "diamond-hands": {
@@ -1626,7 +2757,7 @@
       "commentary": ""
     },
     "difficulty": {
-      "term": "Difficulty",
+      "term": "صعوبة التعدين",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1639,7 +2770,7 @@
       "commentary": ""
     },
     "difficulty-bomb": {
-      "term": "Difficulty Bomb",
+      "term": "انفجار الصعوبة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1651,8 +2782,34 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "digital-asset": {
+      "term": "أصل رقمي",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "digital-identity": {
+      "term": "هوية رقمية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "digital-signature": {
-      "term": "التوقيع الرقمي",
+      "term": "توقيع رقمي",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1662,6 +2819,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/digital-signature",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "diligence": {
+      "term": "Diligence",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "direct-market-access-dma": {
@@ -1675,6 +2845,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/direct-market-access-dma",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "distributed-ledger-technology": {
+      "term": "تقنية دفتر الأستاذ الموزع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "divergence": {
@@ -1701,6 +2884,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/diversification",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "dlt": {
+      "term": "DLT",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "do-your-own-research": {
@@ -1742,6 +2938,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "double-spend": {
+      "term": "إنفاق مزدوج",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "double-spending": {
       "term": "Double Spending",
       "partOfSpeech": "",
@@ -1766,6 +2975,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/eclipse-attack",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "ecosystem": {
+      "term": "النظام البيئي",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "eea": {
+      "term": "تحالف إيثريوم للمؤسسات (EEA)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "efficient-market-hypothesis-emh": {
@@ -1805,6 +3040,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/eip",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "eip-1559": {
+      "term": "EIP-1559",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "eip-3074": {
@@ -1872,8 +3120,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "encrypted-key": {
+      "term": "مفاتيح مشفرة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "encryption": {
-      "term": "Encryption",
+      "term": "التشفير",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1896,6 +3157,58 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/endogenous-variable",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "ens": {
+      "term": "ENS",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "entropy": {
+      "term": "إنتروبيا",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "epoch": {
+      "term": "حقبة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "erc": {
+      "term": "ERC",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "erc-1155": {
@@ -1963,6 +3276,58 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "eth": {
+      "term": "ETH",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ether": {
+      "term": "إيثر",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ethereum": {
+      "term": "Ethereum",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ethereum-2.0": {
+      "term": "Ethereum 2.0",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "ethereum-classic": {
       "term": "Ethereum Classic",
       "partOfSpeech": "",
@@ -1989,6 +3354,58 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "ethereum-improvement-proposal": {
+      "term": "مقترحات تحسين الإثيريوم (EIP)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ethereum-mainnet": {
+      "term": "شبكة إيثريوم الرئيسية (Mainnet)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ethereum-name-service": {
+      "term": "خدمة أسماء الإيثيريوم",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ethereum-virtual-machine": {
+      "term": "محرك إيثريوم الافتراضي",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "ethereum-virtual-machine-evm": {
       "term": "آلة Ethereum الافتراضية (EVM)",
       "partOfSpeech": "",
@@ -2002,8 +3419,47 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "etherscan": {
+      "term": "Etherscan",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "eur": {
+      "term": "EUR",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "evm": {
+      "term": "EVM",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "exchange": {
-      "term": "Exchange",
+      "term": "بورصة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2013,6 +3469,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/exchange",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "execution-client": {
+      "term": "عميل التنفيذ",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "execution-layer": {
+      "term": "طبقة التنفيذ",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "exogenous-variable": {
@@ -2093,6 +3575,45 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "fantom": {
+      "term": "Fantom",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "faucet": {
+      "term": "صنبور العملة الرقمية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "fault-tolerant": {
+      "term": "يتحمل الأعطال",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "fear-of-missing-out": {
       "term": "Fear Of Missing Out (FOMO)",
       "partOfSpeech": "",
@@ -2132,6 +3653,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "fiat-currency": {
+      "term": "عملة ورقية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "fibonacci-retracement": {
       "term": "Fibonacci Retracement",
       "partOfSpeech": "",
@@ -2159,7 +3693,7 @@
       "commentary": ""
     },
     "finality": {
-      "term": "Finality",
+      "term": "نهائي، نهائية",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2169,6 +3703,84 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/finality",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "finality-rate": {
+      "term": "معدل النهائية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "financial-technology": {
+      "term": "التكنولوجيا المالية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "finney": {
+      "term": "فيني",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "firefox": {
+      "term": "Firefox",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "firewall": {
+      "term": "جدار الحماية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "firmware": {
+      "term": "برنامج ثابت",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "first-mover-advantage": {
@@ -2276,7 +3888,7 @@
       "commentary": ""
     },
     "fork": {
-      "term": "تقسيم البلوكشين",
+      "term": "انقسام (فورك)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2299,6 +3911,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/formal-verification",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "fractional-ownership": {
+      "term": "ملكية جزئية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "fraud-proof": {
@@ -2327,8 +3952,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "ftm": {
+      "term": "FTM",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "full-node": {
-      "term": "Full Node",
+      "term": "عُقدة كاملة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2418,6 +4056,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "ganache": {
+      "term": "Ganache",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "gas": {
       "term": "رسوم المعاملات",
       "partOfSpeech": "",
@@ -2431,8 +4082,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "gas-fee": {
+      "term": "رسوم معاملات الشبكة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "gas-limit": {
-      "term": "Gas Limit",
+      "term": "حد رسوم معاملات الشبكة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2442,6 +4106,45 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/gas-limit",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "gas-price": {
+      "term": "سعر رسوم المعاملات",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "gas-station-network": {
+      "term": "Gas Station Network",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "gbp": {
+      "term": "GBP",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "gdp-deflator": {
@@ -2471,7 +4174,7 @@
       "commentary": ""
     },
     "genesis-block": {
-      "term": "Genesis Block",
+      "term": "كتلة التكوين",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2481,6 +4184,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/genesis-block",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "gitcoin": {
+      "term": "Gitcoin",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "github": {
@@ -2507,6 +4223,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/gm-good-morning",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "goerli": {
+      "term": "Goerli",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "golden-cross": {
@@ -2561,6 +4290,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "governance": {
+      "term": "الحوكمة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "gross-domestic-product-gdp": {
       "term": "الناتج المحلي الإجمالي (GDP)",
       "partOfSpeech": "",
@@ -2574,8 +4316,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "gsn": {
+      "term": "GSN",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "gwei": {
-      "term": "Gwei",
+      "term": "جوي (gwei)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2627,7 +4382,7 @@
       "commentary": ""
     },
     "halving": {
-      "term": "التنصيف",
+      "term": "التنصيف (الهالفينج)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2652,6 +4407,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "hard-fork": {
+      "term": "انقسام كُلي (هارد فورك)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "hard-landing": {
       "term": "الهبوط الحاد",
       "partOfSpeech": "",
@@ -2665,8 +4433,34 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "hardware-wallet": {
+      "term": "محفظة الأجهزة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "harmony": {
+      "term": "Harmony",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "hash": {
-      "term": "Hash",
+      "term": "الهاش",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2704,6 +4498,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "hd-wallet": {
+      "term": "محفظة حتمية هرمية (HD)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "herd-instinct": {
       "term": "غريزة القطيع",
       "partOfSpeech": "",
@@ -2715,6 +4522,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/herd-instinct",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "hex-data": {
+      "term": "بيانات سداسية عشرية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "high-frequency-trading-hft": {
@@ -2756,6 +4576,71 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "hot-storage": {
+      "term": "تخزين ساخن",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "hot-wallet": {
+      "term": "محفظة ساخنة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "hybrid-network": {
+      "term": "شبكة هجينة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "hyperledger": {
+      "term": "مشروع هايبرليدجر",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ibc": {
+      "term": "بروتوكول الاتصال بين شبكات البلوكتشين (IBC)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "iceberg-order": {
       "term": "Iceberg Order",
       "partOfSpeech": "",
@@ -2769,8 +4654,34 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "ico": {
+      "term": "عرض العملة الأولي (ICO)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "id": {
+      "term": "ID",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "immutability": {
-      "term": "Immutability",
+      "term": "عدم القابلية للتغير (الثبات)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2806,6 +4717,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/index-funds",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "infura": {
+      "term": "Infura",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "initial-coin-offering": {
@@ -2873,6 +4797,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "insider-trading": {
+      "term": "تداول المُطّلعين",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "integrated-circuit": {
       "term": "Integrated Circuit (IC)",
       "partOfSpeech": "",
@@ -2899,8 +4836,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "internal-transaction": {
+      "term": "معاملة داخلية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "interoperability": {
-      "term": "Interoperability",
+      "term": "قابلية التشغيل البيني",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2910,6 +4860,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/interoperability",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "interplanetary-file-system-(ipfs)": {
+      "term": "نظام الملفات إنتربلانتري (IPFS)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "interplanetary-file-system-ipfs": {
@@ -2938,6 +4901,45 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "ip-address": {
+      "term": "عنوان IP",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ipfs": {
+      "term": "IPFS",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ipo": {
+      "term": "IPO",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "isolated-margin": {
       "term": "Isolated Margin",
       "partOfSpeech": "",
@@ -2964,6 +4966,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "json-file": {
+      "term": "ملف JSON",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "json-rpc": {
+      "term": "بروتوكول JSON-RPC",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "keccak": {
       "term": "Keccak",
       "partOfSpeech": "",
@@ -2977,8 +5005,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "keystore-file": {
+      "term": "ملف تخزين المفاتيح",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "know-your-customer": {
-      "term": "توثيق الهوية (KYC)",
+      "term": "التحقق من هوية العميل",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2988,6 +5029,58 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/know-your-customer",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "know-your-transaction": {
+      "term": "التحقق من المعاملات",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "kovan": {
+      "term": "Kovan",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "kyc": {
+      "term": "KYC",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "kyt": {
+      "term": "KYT",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "laspeyres-index": {
@@ -3016,6 +5109,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "lattice1": {
+      "term": "Lattice1",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "launchpad": {
+      "term": "منصة الإطلاق",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "law-of-demand": {
       "term": "Law of Demand",
       "partOfSpeech": "",
@@ -3029,8 +5148,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "layer-1": {
+      "term": "الطبقة 1",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "layer-2": {
-      "term": "Layer 2",
+      "term": "الطبقة 2",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3055,6 +5187,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "ledger-live": {
+      "term": "Ledger Live",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ledger-live-app": {
+      "term": "تطبيق Ledger Live",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "leveraged-tokens": {
       "term": "Leveraged Tokens",
       "partOfSpeech": "",
@@ -3069,7 +5227,7 @@
       "commentary": ""
     },
     "library": {
-      "term": "Library",
+      "term": "المكتبة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3079,6 +5237,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/library",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "lido": {
+      "term": "Lido",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "light-client": {
+      "term": "عقدة بسيطة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "lightning-network": {
@@ -3105,6 +5289,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/limit-order",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "linea": {
+      "term": "Linea",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "linux": {
@@ -3146,8 +5343,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "liquidation": {
+      "term": "تصفية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "liquidity": {
-      "term": "Liquidity",
+      "term": "السيولة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3170,6 +5380,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/liquidity-crisis",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "liquidity-pool": {
+      "term": "تجمع السيولة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "liquidity-provider": {
@@ -3198,6 +5421,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "liquidity-staking": {
+      "term": "ربط السيولة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "listing": {
       "term": "Listing",
       "partOfSpeech": "",
@@ -3212,7 +5448,7 @@
       "commentary": ""
     },
     "mainnet": {
-      "term": "الشبكة الرئيسية",
+      "term": "شبكة رئيسية (mainnet)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3250,8 +5486,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "maker-protocol": {
+      "term": "بروتوكول Maker",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "malware": {
-      "term": "Malware",
+      "term": "برمجيات خبيثة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3274,6 +5523,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/margin-trading",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "market-cap": {
+      "term": "القيمة السوقية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "market-capitalization": {
@@ -3341,6 +5603,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "matic": {
+      "term": "MATIC",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "maximum-supply": {
       "term": "Maximum Supply",
       "partOfSpeech": "",
@@ -3354,8 +5629,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "memory-pool": {
+      "term": "تجمع المعاملات",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "mempool": {
-      "term": "Mempool",
+      "term": "mempool",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3365,6 +5653,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/mempool",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "mercuryo": {
+      "term": "Mercuryo",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "merge": {
+      "term": "دمج",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "merged-mining": {
@@ -3380,6 +5694,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "merkle-patricia-trie": {
+      "term": "ميركل باتريشيا تري",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "merkle-tree": {
       "term": "شجرة Merkle",
       "partOfSpeech": "",
@@ -3393,8 +5720,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "mesh": {
+      "term": "Mesh",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "metadata": {
-      "term": "Metadata",
+      "term": "البيانات الوصفية",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3406,8 +5746,73 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "metamask": {
+      "term": "MetaMask",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "metamask-flask": {
+      "term": "MetaMask Flask",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "metamask-institutional": {
+      "term": "MetaMask Institutional",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "metamask-learn": {
+      "term": "MetaMask Learn",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "metamask-swaps": {
+      "term": "MetaMask Swaps",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "metaverse": {
-      "term": "الميتافيرس",
+      "term": "ميتافرس",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3417,6 +5822,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/metaverse",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "mev": {
+      "term": "القيمة القصوى القابلة للاستخراج (MEV)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "mfa": {
+      "term": "المصادقة متعددة العوامل (MFA)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "microtransactions": {
@@ -3430,6 +5861,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/microtransactions",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "miner": {
+      "term": "المُعدِّن",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "miner-tip": {
+      "term": "إكرامية المُعدنّ",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "mining": {
@@ -3459,7 +5916,7 @@
       "commentary": ""
     },
     "mint": {
-      "term": "السك",
+      "term": "سكّ",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3469,6 +5926,45 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/mint",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "mnemonic-phrase": {
+      "term": "عبارة التذكر",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "mobikwik": {
+      "term": "MobiKwik",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "modular-blockchain": {
+      "term": "بلوكتشين قائم على نظام الوحدات",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "monetary-policy": {
@@ -3523,6 +6019,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "moonpay": {
+      "term": "MoonPay",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "moving-average-envelopes": {
       "term": "3. مغلفات المتوسط المتحرك",
       "partOfSpeech": "",
@@ -3562,6 +6071,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "multi-sig": {
+      "term": "متعددة التوقيع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "multi-signature-wallet": {
+      "term": "محفظة متعددة التوقيع (multisig)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "multisignature": {
       "term": "Multisignature",
       "partOfSpeech": "",
@@ -3588,6 +6123,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "nested-blockchain": {
+      "term": "بلوكتشين متداخل",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "net-asset-value-nav": {
       "term": "صافي قيمة الأصول (NAV)",
       "partOfSpeech": "",
@@ -3599,6 +6147,84 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/net-asset-value-nav",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "network": {
+      "term": "شبكة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "network-congestion": {
+      "term": "ازدحام الشبكة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "nfc": {
+      "term": "خاصية الاتصال قريب المدى (NFC)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "nft": {
+      "term": "NFT",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "nft-aggregator": {
+      "term": "مُجمِعّ NFT",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "nft-drop": {
+      "term": "توزيع NFT",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "nft-floor-prices": {
@@ -3640,8 +6266,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "ngrave": {
+      "term": "Ngrave",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "node": {
-      "term": "Node",
+      "term": "عقدة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3651,6 +6290,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/node",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "non-fungible-token": {
+      "term": "رمز غير قابل للاستبدال",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "non-fungible-token-nft": {
@@ -3667,7 +6319,7 @@
       "commentary": ""
     },
     "nonce": {
-      "term": "Nonce",
+      "term": "الرقم التعريفي",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3693,7 +6345,7 @@
       "commentary": ""
     },
     "off-chain": {
-      "term": "خارج السلسلة",
+      "term": "خارج البلوكتشين",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3703,6 +6355,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/off-chain",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "off-ramp": {
+      "term": "تحويل أصل رقمي إلى عملة عادية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "offline-signing-orchestrator-oso": {
@@ -3731,8 +6396,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "ommer-block": {
+      "term": "كتلة ommer",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "on-chain": {
-      "term": "على السلسلة",
+      "term": "على البلوكتشين",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3742,6 +6420,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/on-chain",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "on-ramp": {
+      "term": "شراء أصل رقمي بعملة عادية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "one": {
+      "term": "ONE",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "opbnb": {
@@ -3770,6 +6474,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "opensea": {
+      "term": "OpenSea",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "opera": {
+      "term": "Opera",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "opportunity-cost": {
       "term": "تكلفة الفرصة البديلة",
       "partOfSpeech": "",
@@ -3783,8 +6513,34 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "optimism": {
+      "term": "Optimism",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "optimistic-rollup": {
+      "term": "تجميعات Optimistic",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "oracle": {
-      "term": "Oracle",
+      "term": "أوراكل",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3848,6 +6604,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "p2p": {
+      "term": "P2P",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "palm": {
+      "term": "PALM",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "pancakeswap": {
       "term": "PancakeSwap",
       "partOfSpeech": "",
@@ -3887,6 +6669,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "paraswap": {
+      "term": "ParaSwap",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "parity": {
+      "term": "تكافؤ",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "passive-management": {
       "term": "Passive Management",
       "partOfSpeech": "",
@@ -3900,8 +6708,60 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "passphrase": {
+      "term": "عبارة المرور",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "password": {
+      "term": "كلمة المرور",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "password-manager": {
+      "term": "مدير كلمات المرور",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "paypal": {
+      "term": "PayPal",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "peer-to-peer": {
-      "term": "Peer-to-Peer (P2P)",
+      "term": "نظير إلى نظير",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3926,6 +6786,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "permissioned-ledger": {
+      "term": "سجل بإذن",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "permissionless-blockchain": {
       "term": "سلاسل البلوكشين المفتوحة للعامة",
       "partOfSpeech": "",
@@ -3940,7 +6813,7 @@
       "commentary": ""
     },
     "phishing": {
-      "term": "Phishing",
+      "term": "التصيد الاحتيالي",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3950,6 +6823,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/phishing",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "pki": {
+      "term": "البنية التحتية للمفتاح العام (PKI)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "plasma": {
@@ -3965,6 +6851,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "poa": {
+      "term": "خوارزمية إثبات السلطة (PoA)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "polkadot-crowdloan": {
       "term": "Polkadot Crowdloan",
       "partOfSpeech": "",
@@ -3978,6 +6877,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "polygon": {
+      "term": "Polygon",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "ponzi-scheme": {
       "term": "Ponzi Scheme",
       "partOfSpeech": "",
@@ -3989,6 +6901,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/ponzi-scheme",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "pos": {
+      "term": "PoS",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "pow": {
+      "term": "PoW",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "premining": {
@@ -4030,8 +6968,34 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "private-blockchain": {
+      "term": "بلوكتشين خاص",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "private-currency": {
+      "term": "عملة خاصة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "private-key": {
-      "term": "Private Key",
+      "term": "مفتاح خاص",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4096,7 +7060,7 @@
       "commentary": ""
     },
     "proof-of-stake": {
-      "term": "Proof of Stake (PoS)",
+      "term": "خوارزمية إثبات الحصة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4122,7 +7086,7 @@
       "commentary": ""
     },
     "proof-of-work": {
-      "term": "إثبات العمل",
+      "term": "خوارزمية إثبات العمل",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4160,6 +7124,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "protocol": {
+      "term": "بروتوكول",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "pseudorandom": {
       "term": "Pseudorandom",
       "partOfSpeech": "",
@@ -4173,8 +7150,34 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "public-address": {
+      "term": "عنوان عام",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "public-blockchain": {
+      "term": "بلوكتشين عام",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "public-key": {
-      "term": "المفتاح العام",
+      "term": "مفتاح عام",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4184,6 +7187,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/public-key",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "public-key-cryptography": {
+      "term": "تشفير المفتاح العام",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "pump-and-dump": {
@@ -4197,6 +7213,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/pump-and-dump",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "qr-code": {
+      "term": "رمز الاستجابة السريعة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "quantitative-easing-qe": {
@@ -4238,6 +7267,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "quorum": {
+      "term": "Quorum",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "race-attack": {
       "term": "Race attack",
       "partOfSpeech": "",
@@ -4262,6 +7304,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/ransomware",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "rarible": {
+      "term": "Rarible",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "real-world-assets-rwas": {
@@ -4329,6 +7384,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "relayer": {
+      "term": "ناقل",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "remote-procedure-call": {
+      "term": "بروتوكول استدعاء الإجراء البعيد",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "resistance": {
       "term": "Resistance",
       "partOfSpeech": "",
@@ -4368,6 +7449,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "rinkeby": {
+      "term": "Rinkeby",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "risk-premium": {
       "term": "علاوة تحمل المخاطر",
       "partOfSpeech": "",
@@ -4382,7 +7476,7 @@
       "commentary": ""
     },
     "roadmap": {
-      "term": "Roadmap",
+      "term": "خارطة الطريق",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4392,6 +7486,45 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/roadmap",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "rocket-pool": {
+      "term": "Rocket Pool",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "rollups": {
+      "term": "تجميعات",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "ropsten": {
+      "term": "Ropsten",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "routing-attack": {
@@ -4407,8 +7540,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "rpc": {
+      "term": "RPC",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "rug-pull": {
-      "term": "Rug pull",
+      "term": "هروب المحتالين",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4418,6 +7564,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/rug-pull",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "safeheron": {
+      "term": "Safeheron",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "sahm-rule": {
@@ -4433,6 +7592,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "samsung-pay": {
+      "term": "Samsung Pay",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "sandbox": {
+      "term": "بيئة الاختبار",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "sandwich-trading": {
       "term": "تداول الحصر",
       "partOfSpeech": "",
@@ -4444,6 +7629,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/sandwich-trading",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "sardine": {
+      "term": "Sardine",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "satoshi": {
@@ -4460,7 +7658,7 @@
       "commentary": ""
     },
     "satoshi-nakamoto": {
-      "term": "Satoshi Nakamoto",
+      "term": "ساتوشي ناكاموتو",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4470,6 +7668,97 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/satoshi-nakamoto",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "scalability": {
+      "term": "قابلية التوسع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "scaling": {
+      "term": "التوسع",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "scam": {
+      "term": "احتيال",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "scrypt": {
+      "term": "خوارزمية التعدين Scrypt",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "sdk": {
+      "term": "SDK",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "search-engine": {
+      "term": "محرك البحث",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "secret-recovery-phrase": {
+      "term": "عبارة الاسترداد السرية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "secure-asset-fund-for-users": {
@@ -4511,6 +7800,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "security-token": {
+      "term": "توكِنّ ورقة مالية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "security-token-offering": {
+      "term": "عرض توكن الورقة المالية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "security-token-offering-sto": {
       "term": "طرح رموز الأوراق المالية (STO)",
       "partOfSpeech": "",
@@ -4525,7 +7840,7 @@
       "commentary": ""
     },
     "seed-phrase": {
-      "term": "Seed Phrase",
+      "term": "العبارة الأولية",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4561,6 +7876,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/segregated-witness",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "self-custody": {
+      "term": "الحفظ الذاتي",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "self-executing": {
+      "term": "ذاتي التنفيذ",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "selfish-mining": {
@@ -4602,8 +7943,60 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "sepolia": {
+      "term": "Sepolia",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "serenity": {
+      "term": "ترقية Serenity",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "serialization": {
+      "term": "عملية التسلسل",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "shard-chain": {
+      "term": "سلسلة مجزأة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "sharding": {
-      "term": "التجزئة",
+      "term": "تجزئة الشبكة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4626,6 +8019,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/sharpe-ratio",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "shielded-transaction": {
+      "term": "معاملة مُحصنة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "sidechain": {
+      "term": "سلسلة جانبية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "sidechains": {
@@ -4667,8 +8086,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "slashing-condition": {
+      "term": "شرط الشطب",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "slippage": {
-      "term": "الانزلاق",
+      "term": "الانزلاق السعري",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4680,8 +8112,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "slot": {
+      "term": "فاصل زمني",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "smart-contract": {
-      "term": "العقد الذكي",
+      "term": "عقد ذكي",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4756,6 +8201,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/socialfi",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "soft-fork": {
+      "term": "انقسام بسيط (هارد فورك)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "soft-landing": {
@@ -4849,6 +8307,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "stake": {
+      "term": "يُخزّن",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "staking": {
+      "term": "الربط",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "staking-pool": {
       "term": "Staking Pool",
       "partOfSpeech": "",
@@ -4860,6 +8344,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/staking-pool",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "state": {
+      "term": "حالة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "state-channel": {
@@ -4875,6 +8372,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "state-channels": {
+      "term": "قنوات الحالة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "steth": {
       "term": "stETH",
       "partOfSpeech": "",
@@ -4886,6 +8396,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/steth",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "sto": {
+      "term": "STO",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "stock-variable": {
@@ -4912,6 +8435,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/store-of-value",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "streaming": {
+      "term": "تدفق",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "supercomputer": {
@@ -4953,6 +8489,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "swap": {
+      "term": "تبديل",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "sybil-attack": {
       "term": "هجوم Sybil",
       "partOfSpeech": "",
@@ -4964,6 +8513,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/sybil-attack",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "szabo": {
+      "term": "سزابو (szabo)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "taker": {
@@ -4992,6 +8554,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "teku": {
+      "term": "Teku",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "telegram": {
+      "term": "Telegram",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "testnet": {
       "term": "شبكة الاختبار",
       "partOfSpeech": "",
@@ -5003,6 +8591,45 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/testnet",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "testnet-kovan": {
+      "term": "شبكة اختبار Kovan",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "testnet-rinkeby": {
+      "term": "شبكة اختبار Rinkeby",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "testnet-ropsten": {
+      "term": "شبكة اختبار Ropsten",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "ticker": {
@@ -5032,7 +8659,7 @@
       "commentary": ""
     },
     "token": {
-      "term": "Token",
+      "term": "توكِنّ",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5058,7 +8685,7 @@
       "commentary": ""
     },
     "token-lockup": {
-      "term": "Token Lockup",
+      "term": "احتجاز التوكِنّ",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5094,6 +8721,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/token-sale",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "token-standard": {
+      "term": "معيار التوكن",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "token-standards": {
@@ -5174,8 +8814,47 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "transaction": {
+      "term": "المعاملة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "transaction-block": {
+      "term": "كتلة المعاملة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "transaction-fee": {
+      "term": "رسوم المعاملة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "transaction-id": {
-      "term": "معرّف المعاملة (TXID)",
+      "term": "مُعرفّ المعاملة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5185,6 +8864,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/transaction-id",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "transaction-pool": {
+      "term": "تجمع المعاملات",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "transactions-per-second-tps": {
@@ -5200,6 +8892,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "transak": {
+      "term": "Transak",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "treasury-bills-t-bills": {
       "term": "سندات الخزانة",
       "partOfSpeech": "",
@@ -5211,6 +8916,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/treasury-bills-t-bills",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "trezor": {
+      "term": "Trezor",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "trueusd-tusd": {
@@ -5226,8 +8944,21 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "truffle": {
+      "term": "Truffle",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "trustless": {
-      "term": "Trustless",
+      "term": "لا يتطلب ثقة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5240,7 +8971,7 @@
       "commentary": ""
     },
     "turing-complete": {
-      "term": "Turing Complete",
+      "term": "تورنج كاملة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5250,6 +8981,45 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/turing-complete",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "tvl": {
+      "term": "إجمالي القيمة المحجوزة (TVL)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "txid": {
+      "term": "مُعرفّ المعاملة (TXID)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "u2f": {
+      "term": "المعامل الثاني الشامل (U2F)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "understanding-cz-s-number-4": {
@@ -5265,6 +9035,32 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "unencrypted-key": {
+      "term": "مفتاح غير مشفر",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "uniswap": {
+      "term": "Uniswap",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "unit-of-account": {
       "term": "Unit of Account",
       "partOfSpeech": "",
@@ -5278,6 +9074,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "unspent-transaction-output": {
+      "term": "ناتج المعاملات غير المُنفقة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "unspent-transaction-output-utxo": {
       "term": "Unspent Transaction Output (UTXO)",
       "partOfSpeech": "",
@@ -5289,6 +9098,58 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/unspent-transaction-output-utxo",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "unstake": {
+      "term": "إلغاء التخزين",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "upgrade": {
+      "term": "ترقية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "url": {
+      "term": "URL",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "usd": {
+      "term": "USD",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "user-interface": {
@@ -5317,6 +9178,45 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "utxo": {
+      "term": "UTXO",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "validator": {
+      "term": "المُدققّ",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "validity-proof": {
+      "term": "إثبات الصلاحية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "verification-code": {
       "term": "Verification Code",
       "partOfSpeech": "",
@@ -5328,6 +9228,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/verification-code",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "vesting": {
+      "term": "الاستحقاق",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "villagedao": {
+      "term": "VillageDAO",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "virtual-machine": {
@@ -5396,7 +9322,7 @@
       "commentary": ""
     },
     "wallet": {
-      "term": "Wallet",
+      "term": "محفظة",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5406,6 +9332,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/wallet",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "wallet-address": {
+      "term": "عنوان المحفظة",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "walletconnect": {
+      "term": "WalletConnect",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "wash-trading": {
@@ -5460,8 +9412,73 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "web-3.0": {
+      "term": "الويب 3.0",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "web3": {
+      "term": "ويب 3",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "webhid": {
+      "term": "واجهة برمجة تطبيقات WebHID",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "webhook": {
+      "term": "خطّاف الويب",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "websocket": {
+      "term": "بروتوكول WebSocket",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "wei": {
-      "term": "Wei",
+      "term": "وي (wei)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5525,6 +9542,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "whitepaper": {
+      "term": "الورقة التعريفية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "wick": {
       "term": "Wick",
       "partOfSpeech": "",
@@ -5564,6 +9594,19 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "wrapping": {
+      "term": "تغليف التوكن",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "wyckoff": {
       "term": "وايكوف",
       "partOfSpeech": "",
@@ -5577,8 +9620,60 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
+    "wyre": {
+      "term": "Wyre",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "xpriv": {
+      "term": "المفتاح الخاص الممتد (XPRIV)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "xpub": {
+      "term": "المفتاح العام الممتد (XPUB)",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "yield-bearing-tokens": {
+      "term": "التوكنات حاملة العائد",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "yield-farming": {
-      "term": "تحصيل العائدات",
+      "term": "تحصيل العائد",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5588,6 +9683,32 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/yield-farming",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "zero-address": {
+      "term": "العنوان صفر",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "zero-knowledge-proof": {
+      "term": "إثبات المعرفة الصفرية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "zero-knowledge-proofs": {
@@ -5601,6 +9722,19 @@
       "extended": "",
       "termSource": "https://academy.binance.com/ar/glossary/zero-knowledge-proofs",
       "dateFirstRecorded": "2025-02-01",
+      "commentary": ""
+    },
+    "zero-knowledge-rollup": {
+      "term": "تجميع المعرفة الصفرية",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
       "commentary": ""
     },
     "zk-rollup": {
@@ -5617,7 +9751,7 @@
       "commentary": ""
     },
     "zk-snarks": {
-      "term": "دليل المعرفة الصفرية (zk-SNARKs)",
+      "term": "zk-SNARKs",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
