@@ -89,7 +89,7 @@ export default async function buildPages() {
                 const sampleSentence = termData.sampleSentence || "N/A";
                 const extended = termData.extended || "No extended definition. ...yet";
                 const termSource = termData.termSource || "This word came from... the ether";
-                const date = termData.date || "Unknown";
+                const date = termData.dateFirstRecorded || "Unknown";
                 const commentary = termData.commentary || "No commentary on this. ...yet";
 
 
@@ -125,7 +125,7 @@ export default async function buildPages() {
                     .replace(/{{sampleSentence}}/g, sampleSentence)
                     .replace(/{{extended}}/g, extended)
                     .replace(/{{termSource}}/g, termSource)
-                    .replace(/{{date}}/g, date)
+                    .replace(/{{dateFirstRecorded}}/g, date)
                     .replace(/{{commentary}}/g, commentary);
 
                 const fileName = `${termValue.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "")}.html`;
