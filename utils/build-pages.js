@@ -85,6 +85,14 @@ export default async function buildPages() {
                 const partOfSpeechValue = termData.partOfSpeech || "Grammatical data not yet available";
                 const definitionValue = termData.definition || "Definition not available.";
                 const termCategoryValue = termData.termCategory || "";
+                const definitionSource = termData.definitionSource || "N/A";
+                const sampleSentence = termData.sampleSentence || "N/A";
+                const extended = termData.extended || "No extended definition. ...yet";
+                const termSource = termData.termSource || "This word came from... the ether";
+                const date = termData.dateFirstRecorded || "Unknown";
+                const commentary = termData.commentary || "No commentary on this. ...yet";
+
+
 
                 if (problematicChars.test(termValue)) {
                     logToFile(`Warning: Term '${termValue}' in locale '${locale}' contains problematic characters.`);
@@ -112,7 +120,13 @@ export default async function buildPages() {
                     .replace(/{{partOfSpeech}}/g, partOfSpeechValue)
                     .replace(/{{definition}}/g, definitionValue)
                     .replace(/{{termCategory}}/g, termCategoryValue)
-                    .replace(/{{languageLinks}}/g, languageLinks);
+                    .replace(/{{languageLinks}}/g, languageLinks)
+                    .replace(/{{definitionSource}}/g, definitionSource)
+                    .replace(/{{sampleSentence}}/g, sampleSentence)
+                    .replace(/{{extended}}/g, extended)
+                    .replace(/{{termSource}}/g, termSource)
+                    .replace(/{{dateFirstRecorded}}/g, date)
+                    .replace(/{{commentary}}/g, commentary);
 
                 const fileName = `${termValue.replace(/\s+/g, "-").toLowerCase().replace(problematicChars, "")}.html`;
                 const filePath = path.join(localeOutputDir, fileName);
