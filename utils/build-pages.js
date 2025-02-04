@@ -84,7 +84,7 @@ export default async function buildPages() {
                 const phoneticValue = termData.phonetic || "Pronunciation not yet available";
                 const partOfSpeechValue = termData.partOfSpeech || "Grammatical data not yet available";
                 const definitionValue = termData.definition || "Definition not available.";
-                const termCategoryValue = termData.termCategory || "";
+                const termCategoryValue = termData.termCategory || "To be determined";
                 const definitionSource = termData.definitionSource || "N/A";
                 const sampleSentence = termData.sampleSentence || "N/A";
                 const extended = termData.extended || "No extended definition. ...yet";
