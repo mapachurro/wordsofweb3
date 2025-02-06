@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Paths
-const languageCodesPath = path.join(__dirname, './l10n/language-codes.json');
+const languageCodesPath = path.join(__dirname, './../public/assets/language-codes.json');
 const logFilePath = path.join(__dirname, './directoryOutput.txt');
 
 // Helper function to log messages to a file
@@ -33,7 +33,7 @@ function loadLanguageCodes() {
 }
 
 const languageCodes = loadLanguageCodes();
-const locales = languageCodes ? Object.values(languageCodes).map(code => code.slug) : [];
+const locales = languageCodes ? Object.values(languageCodes).map(code => code.fourLetterDash) : [];
 
 // Function to generate index for each directory with localized term names
 function generateIndexForDirectory(directoryPath, locale, outputPath) {
@@ -50,12 +50,12 @@ function generateIndexForDirectory(directoryPath, locale, outputPath) {
         return;
     }
 
-    const indexData = Object.keys(termsData).map(termKey => {
-        const termName = termsData[termKey].term || termKey; // Use the localized term name if available, else fallback to the termKey
+    const indexData = Object.entries(termsData).map(([termKey, termObject]) => {
+        const termName = termObject.term || termKey; // Use the localized term name if available, else fallback to the termKey
         logToFile(`Processing term '${termKey}': Display name '${termName}'`); // Log each term and its name
         return {
-            name: termName,
-            link: termKey.replace(/\s+/g, "-").toLowerCase() // Safe link based on the termKey
+            name: termName, // Use "term" value from JSON instead of key
+            link: `${termKey.replace(/\s+/g, "-").toLowerCase()}.html` // Safe link based on the termKey
         };
     });
 
@@ -73,7 +73,7 @@ function generateIndexForDirectory(directoryPath, locale, outputPath) {
 
 // Generate the index files for each locale directory
 locales.forEach(locale => {
-    const directoryPath = path.join(__dirname, '../static', locale);
+    const directoryPath = path.join(__dirname, './../locales', locale);
     const outputPath = path.join(directoryPath, 'directoryContents.json');
     logToFile(`Generating index for locale: ${locale} at ${directoryPath}`);
     generateIndexForDirectory(directoryPath, locale, outputPath);
