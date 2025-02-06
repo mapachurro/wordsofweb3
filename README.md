@@ -115,7 +115,7 @@ If there doesn't seem to be an appropriate locale for the user, the root index f
 *Note: the above functionality probably has a bad impact on SEO, and we should consider disabling it.*
 
 These homepages are created by `build-homepages.js`, which runs during the build process.
-This script ingests `index-template.html`, and applies UI translation strings found in `./l10n/<four-letter-dash-locale-code>/translation.json` to the elements that need to contain human-readable information.
+This script ingests `index-template.html`, and applies UI translation strings found in `./locales<four-letter-dash-locale-code>/translation.json` to the elements that need to contain human-readable information.
 
 ### The Navbar and language switching
 

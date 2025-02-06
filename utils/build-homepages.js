@@ -12,7 +12,7 @@ const templatePath = path.join(__dirname, 'index-template.html');
 const template = fs.readFileSync(templatePath, 'utf-8');
 
 // Directory paths
-const localesDir = path.join(__dirname, '../l10n/locales');
+const localesDir = path.join(__dirname, '../locales/');
 const outputDir = path.join(__dirname, '../build');
 
 // Function to build homepages
@@ -119,7 +119,7 @@ buildHomepages().catch(err => console.error(`Error building homepages: ${err.mes
 // };
 
 // // Directory paths
-// const localesDir = path.join(__dirname, '../l10n/locales');
+// const localesDir = path.join(__dirname, '../locales/');
 // const outputDir = path.join(__dirname, '../build');
 
 // // Function to build homepages
