@@ -156,7 +156,7 @@ async function build() {
     }
 
     // Copy other public assets (e.g., images, favicon) directly to 'assets'
-    ["favicon.ico", "education-dao-circle.png"].forEach((file) => {
+    ["favicon.ico", "education-dao-circle.png", "language-codes.json"].forEach((file) => {
       const filePath = path.join(publicDir, `assets/${file}`);
       if (fs.existsSync(filePath)) {
         copyFileSync(filePath, path.join(buildDir, "assets", file));
