@@ -261,7 +261,7 @@ There is a cross-locale mapping function present in this script, which should li
 
 wordsofweb3 should always prioritize human-readability over concessions to the conventions of machines, even when that sucks for technical reasons.
 
-An example of this: we do not have paths like `/es-419/cuenta.html`; no, we have `/nederlands/ethereum.html`. This does mean that, at times, we have to leverage functions available in the `l10n.js` script to convert between different formats of language codes. This script leverages a .json file which contains several different formats, at `./l10n/language-codes.json`:
+An example of this: we do not have paths like `/es-419/cuenta.html`; no, we have `/nederlands/ethereum.html`. This does mean that, at times, we have to leverage functions available in the `l10n.js` script to convert between different formats of language codes. This script leverages a .json file which contains several different formats, at `./utils/language-codes.json`:
 
 ```json
 {

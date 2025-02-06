@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Paths
-const languageCodesPath = path.join(__dirname, '../l10n/language-codes.json');
+const languageCodesPath = path.join(__dirname, './l10n/language-codes.json');
 const logFilePath = path.join(__dirname, './directoryOutput.txt');
 
 // Helper function to log messages to a file

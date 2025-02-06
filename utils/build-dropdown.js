@@ -9,7 +9,7 @@ const __dirname = join(__filename, '..');
 // Paths
 const navbarTemplatePath = join(__dirname, '../navbar-template.html');
 const indexTemplatePath = join(__dirname, './index-template.html');
-const languageCodesPath = join(__dirname, '../l10n/language-codes.json');
+const languageCodesPath = join(__dirname, './language-codes.json');
 
 // Read language codes
 const languageCodes = JSON.parse(readFileSync(languageCodesPath, 'utf-8'));
