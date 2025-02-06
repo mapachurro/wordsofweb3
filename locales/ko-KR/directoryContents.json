@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "2단계 인증",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "51% 공격",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "계정",
+    "link": "account.html"
+  },
+  {
+    "name": "ACH 송금",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "주소",
+    "link": "address.html"
+  },
+  {
+    "name": "애그리게이터",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "에어갭",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "에어드롭",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "알고리즘",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "알트코인",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "AML",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "AppChain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ASIC",
+    "link": "asic.html"
+  },
+  {
+    "name": "자산 출처",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "증명",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "비콘 체인",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "비트코인",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "블록",
+    "link": "block.html"
+  },
+  {
+    "name": "블록 탐색기",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "블록 높이",
+    "link": "block-height.html"
+  },
+  {
+    "name": "블록 보상",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "블록타임",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "블록체인",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "블록체인 탐색기",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "블록체인 트릴레마",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "바운티",
+    "link": "bounty.html"
+  },
+  {
+    "name": "브레인월렛",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "브릿지",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "바이트코드",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "비잔틴 장애 허용",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "비잔티움 포크",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "중앙화 거래소",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "체인 ID",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "클라이언트",
+    "link": "client.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "코인",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "콜드 스토리지",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "콜드 월렛",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "컴파일링",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "컨펌",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "컨센서스",
+    "link": "consensus.html"
+  },
+  {
+    "name": "합의 클라이언트",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "합의 레이어",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "합의 메커니즘",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "콘스탄티노플 포크",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "계약",
+    "link": "contract.html"
+  },
+  {
+    "name": "계약 계정",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "암호 현상금",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "암호화폐 펀드",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "암호화폐 지갑",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "암호화",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "암호 자산",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "암호화폐 컴플라이언스",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "암호화폐",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "암호경제학",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "암호화",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "커스터디",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "디앱",
+    "link": "dapp.html"
+  },
+  {
+    "name": "디도스",
+    "link": "ddos.html"
+  },
+  {
+    "name": "탈중앙화",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "탈중앙화 애플리케이션",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "탈중앙화 자율조직",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "탈중앙화 거래소",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "탈중앙화 금융",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "탈중앙화 웹",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "디파이",
+    "link": "defi.html"
+  },
+  {
+    "name": "DPoS",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "단위",
+    "link": "denominations.html"
+  },
+  {
+    "name": "예치",
+    "link": "deposit.html"
+  },
+  {
+    "name": "파생",
+    "link": "derive.html"
+  },
+  {
+    "name": "개발자",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "개발자",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "난이도",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "난이도 폭탄",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "디지털 자산",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "디지털 신원",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "전자 서명",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "분산 원장 기술",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "이중 지불",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "생태계",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "암호화된 키",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "암호화",
+    "link": "encryption.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "엔트로피",
+    "link": "entropy.html"
+  },
+  {
+    "name": "에폭",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "에테르",
+    "link": "ether.html"
+  },
+  {
+    "name": "이더리움",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "이더리움 개선 제안",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Ethereum 메인넷",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "이더리움 네임 서비스",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Ethereum 가상 머신",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "거래소",
+    "link": "exchange.html"
+  },
+  {
+    "name": "실행 클라이언트",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "실행 레이어",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "파우셋",
+    "link": "faucet.html"
+  },
+  {
+    "name": "장애 허용",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "명목화폐",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "완결성",
+    "link": "finality.html"
+  },
+  {
+    "name": "완결율",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "금융 기술",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "피니",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "방화벽",
+    "link": "firewall.html"
+  },
+  {
+    "name": "펌웨어",
+    "link": "firmware.html"
+  },
+  {
+    "name": "포크",
+    "link": "fork.html"
+  },
+  {
+    "name": "부분 소유권",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "사기 증명",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "전체 노드",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "가스",
+    "link": "gas.html"
+  },
+  {
+    "name": "가스비",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "가스 한도",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "가스 가격",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "제네시스블록",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "거버넌스",
+    "link": "governance.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "그웨이",
+    "link": "gwei.html"
+  },
+  {
+    "name": "반감기",
+    "link": "halving.html"
+  },
+  {
+    "name": "하드포크",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "하드웨어 지갑",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "해시",
+    "link": "hash.html"
+  },
+  {
+    "name": "HD 지갑",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "16進データ",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "핫 스토리지",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "핫월렛",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "하이브리드 네트워크",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "하이퍼레저",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "불변성",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "내부자 거래",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "내부 거래",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "상호운용성",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "행성 간 파일 시스템(IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "IP 주소",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "JSON 파일",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "키스토어 파일",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "고객확인제도",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "고객거래확인",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "런치패드",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "레이어 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "레이어 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "렛저 라이브 앱",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "라이브러리",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "라이트 클라이언트",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "청산",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "유동성",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "유동성 풀",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "유동성 스테이킹",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "메인넷",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "메이커 프로토콜",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "맬웨어",
+    "link": "malware.html"
+  },
+  {
+    "name": "시가 총액",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "메모리 풀",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "멤풀",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "병합",
+    "link": "merge.html"
+  },
+  {
+    "name": "머클패트리샤트리",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "메타데이터",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "메타버스",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "MEV",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "채굴기",
+    "link": "miner.html"
+  },
+  {
+    "name": "채굴기 팁",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "채굴",
+    "link": "mining.html"
+  },
+  {
+    "name": "민트",
+    "link": "mint.html"
+  },
+  {
+    "name": "니모닉 구문",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "모듈형 블록체인",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "다중서명",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "다중서명지갑",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "중첩블록체인",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "네트워크",
+    "link": "network.html"
+  },
+  {
+    "name": "네트워크 정체",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "근거리 무선 통신",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT 애그리게이터",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "NFT 하락",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "노드",
+    "link": "node.html"
+  },
+  {
+    "name": "대체불가토큰",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "논스",
+    "link": "nonce.html"
+  },
+  {
+    "name": "오프체인",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "오프램프",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "오머 블록",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "온체인",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "온램프",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "옵티미스틱 롤업",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "오라클",
+    "link": "oracle.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "파라스왑",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "패리티",
+    "link": "parity.html"
+  },
+  {
+    "name": "패스프레이즈",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "비밀번호",
+    "link": "password.html"
+  },
+  {
+    "name": "비밀번호 매니저",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "피어 투 피어",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "허가된 원장",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "피싱",
+    "link": "phishing.html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "플라즈마",
+    "link": "plasma.html"
+  },
+  {
+    "name": "PoA",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "프라이빗 블록체인",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "프라이빗 통화",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "개인 키",
+    "link": "private-key.html"
+  },
+  {
+    "name": "지분 증명",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "작업증명",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "프로토콜",
+    "link": "protocol.html"
+  },
+  {
+    "name": "공개 주소",
+    "link": "public-address.html"
+  },
+  {
+    "name": "퍼블릭 블록체인",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "공개 키",
+    "link": "public-key.html"
+  },
+  {
+    "name": "공개 키 암호화",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "QR 코드",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "릴레이어",
+    "link": "relayer.html"
+  },
+  {
+    "name": "원격 프로시저 호출",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "로드맵",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "롤업",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "러그 풀",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "샌드박스",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "나카모토 사토시",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "확장성",
+    "link": "scalability.html"
+  },
+  {
+    "name": "스케일링",
+    "link": "scaling.html"
+  },
+  {
+    "name": "사기",
+    "link": "scam.html"
+  },
+  {
+    "name": "스크립트",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "검색 엔진",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "비밀복구구문",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "보안 토큰",
+    "link": "security-token.html"
+  },
+  {
+    "name": "증권형 토큰 공개",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "시드구문",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "셀프 커스터디",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "셀프 커스터디",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "세레니티",
+    "link": "serenity.html"
+  },
+  {
+    "name": "직렬화",
+    "link": "serialization.html"
+  },
+  {
+    "name": "샤드체인",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "샤딩",
+    "link": "sharding.html"
+  },
+  {
+    "name": "차폐 트랜잭션",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "사이드체인",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "슬래싱 조건",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "슬리피지",
+    "link": "slippage.html"
+  },
+  {
+    "name": "슬롯",
+    "link": "slot.html"
+  },
+  {
+    "name": "스마트 계약",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "소프트 포크",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "솔리디티",
+    "link": "solidity.html"
+  },
+  {
+    "name": "스테이블코인",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "스테이크",
+    "link": "stake.html"
+  },
+  {
+    "name": "스테이킹",
+    "link": "staking.html"
+  },
+  {
+    "name": "상태",
+    "link": "state.html"
+  },
+  {
+    "name": "상태 채널",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "스트리밍",
+    "link": "streaming.html"
+  },
+  {
+    "name": "스왑",
+    "link": "swap.html"
+  },
+  {
+    "name": "재보",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "테스트넷",
+    "link": "testnet.html"
+  },
+  {
+    "name": "테스트넷 코반",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "테스트넷 린케비",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "테스트넷 롭스텐",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "토큰",
+    "link": "token.html"
+  },
+  {
+    "name": "토큰 락업",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "토큰 표준",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "트랜잭션",
+    "link": "transaction.html"
+  },
+  {
+    "name": "트랜잭션 블록",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "트랜잭션 수수료",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "트랜잭션 ID",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "트랜잭션 풀",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "무신뢰",
+    "link": "trustless.html"
+  },
+  {
+    "name": "튜링완전",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "TVL",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "암호화되지 않은 키",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "유니스왑",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "미사용 트랜잭션 출력값",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "언스테이크",
+    "link": "unstake.html"
+  },
+  {
+    "name": "업그레이드",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "밸리데이터",
+    "link": "validator.html"
+  },
+  {
+    "name": "유효성 증명",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "베스팅",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "지갑",
+    "link": "wallet.html"
+  },
+  {
+    "name": "지갑 주소",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "웹 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "웹3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "웹훅",
+    "link": "webhook.html"
+  },
+  {
+    "name": "웹소켓",
+    "link": "websocket.html"
+  },
+  {
+    "name": "웨이",
+    "link": "wei.html"
+  },
+  {
+    "name": "백서",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "래핑",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "XPUB",
+    "link": "xpub.html"
+  },
+  {
+    "name": "이자농사",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "이자지급토큰",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "제로 어드레스",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "영지식 증명",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "영지식 롤업",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "영지식 스나크",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

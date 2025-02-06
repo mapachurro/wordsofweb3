@@ -1,0 +1,3006 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "2FA",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "atac 51%",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "Absolute Advantage",
+    "link": "absolute-advantage.html"
+  },
+  {
+    "name": "cont",
+    "link": "account.html"
+  },
+  {
+    "name": "Plată ACH",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "Active Management",
+    "link": "active-management.html"
+  },
+  {
+    "name": "Servicii validate activ (AVS)",
+    "link": "actively-validated-services-avs.html"
+  },
+  {
+    "name": "Ad Hoc",
+    "link": "ad-hoc.html"
+  },
+  {
+    "name": "adresă",
+    "link": "address.html"
+  },
+  {
+    "name": "agregator",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "air-gapping",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "a face--efectua etc. un airdrop",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "algoritm",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "All or None Order (AON)",
+    "link": "all-or-none-order.html"
+  },
+  {
+    "name": "All-Time High (ATH)",
+    "link": "all-time-high.html"
+  },
+  {
+    "name": "Allocation",
+    "link": "allocation.html"
+  },
+  {
+    "name": "Alpha",
+    "link": "alpha.html"
+  },
+  {
+    "name": "altcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "AML",
+    "link": "aml.html"
+  },
+  {
+    "name": "Angel Investor",
+    "link": "angel-investor.html"
+  },
+  {
+    "name": "Combaterea spălării banilor (AML)",
+    "link": "anti-money-laundering.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Application Programming Interface (API)",
+    "link": "application-programming-interface.html"
+  },
+  {
+    "name": "Application-Specific Integrated Circuit (ASIC)",
+    "link": "application-specific-integrated-circuit.html"
+  },
+  {
+    "name": "Arbitraj",
+    "link": "arbitrage.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ARC-20",
+    "link": "arc-20.html"
+  },
+  {
+    "name": "Inteligență artificială (AI)",
+    "link": "artificial-intelligence-ai.html"
+  },
+  {
+    "name": "ASIC",
+    "link": "asic.html"
+  },
+  {
+    "name": "ASIC-resistant",
+    "link": "asic-resistant.html"
+  },
+  {
+    "name": "Ask Price",
+    "link": "asking-price.html"
+  },
+  {
+    "name": "Asset Management",
+    "link": "asset-management.html"
+  },
+  {
+    "name": "proveniența activelor",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "Active în curs de administrare (AUM)",
+    "link": "assets-under-management-aum.html"
+  },
+  {
+    "name": "Asynchronous",
+    "link": "asynchronous.html"
+  },
+  {
+    "name": "Atomic Swap",
+    "link": "atomic-swap.html"
+  },
+  {
+    "name": "Attack surface",
+    "link": "attack-surface.html"
+  },
+  {
+    "name": "atestare",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Auction",
+    "link": "auction.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Automated Market Makers (AMM)",
+    "link": "automated-market-maker-amm.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "B-Tokens",
+    "link": "b-tokens.html"
+  },
+  {
+    "name": "Bags",
+    "link": "bags.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Beacon Chain",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Bear Market",
+    "link": "bear-market.html"
+  },
+  {
+    "name": "Benchmark",
+    "link": "benchmark.html"
+  },
+  {
+    "name": "BEP-1155",
+    "link": "bep-1155.html"
+  },
+  {
+    "name": "BEP-20",
+    "link": "bep-20.html"
+  },
+  {
+    "name": "BEP-721",
+    "link": "bep-721.html"
+  },
+  {
+    "name": "BEP-95",
+    "link": "bep-95.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Beta (Coefficient)",
+    "link": "beta-coefficient.html"
+  },
+  {
+    "name": "Beta (Release)",
+    "link": "beta-release.html"
+  },
+  {
+    "name": "Bid-Ask Spread",
+    "link": "bid-ask-spread.html"
+  },
+  {
+    "name": "Bid Price",
+    "link": "bid-price.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Blockchain Charity Foundation",
+    "link": "binance-blockchain-charity-foundation.html"
+  },
+  {
+    "name": "Binance Ecosystem Fund (BEF)",
+    "link": "binance-ecosystem-fund.html"
+  },
+  {
+    "name": "Binancian",
+    "link": "binancian.html"
+  },
+  {
+    "name": "Bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "Bitcoin Core",
+    "link": "bitcoin-core.html"
+  },
+  {
+    "name": "Bitcoin Dominance",
+    "link": "bitcoin-dominance.html"
+  },
+  {
+    "name": "Maximaliștii Bitcoin",
+    "link": "bitcoin-maximalists.html"
+  },
+  {
+    "name": "Bitcoin Pizza",
+    "link": "bitcoin-pizza.html"
+  },
+  {
+    "name": "Black Swan Event",
+    "link": "black-swan-event.html"
+  },
+  {
+    "name": "bloc",
+    "link": "block.html"
+  },
+  {
+    "name": "block explorer",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "Block header",
+    "link": "block-header.html"
+  },
+  {
+    "name": "înălțimea blocului",
+    "link": "block-height.html"
+  },
+  {
+    "name": "recompensa blocului",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "durata blocului",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "blockchain",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "blockchain explorer",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "Trilema blockchain",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "Bloom Filter",
+    "link": "bloom-filter.html"
+  },
+  {
+    "name": "Tokenuri blue-chip",
+    "link": "blue-chip-token.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "BNSOL",
+    "link": "bnsol.html"
+  },
+  {
+    "name": "Bollinger Bands",
+    "link": "bollinger-bands.html"
+  },
+  {
+    "name": "Obligațiune",
+    "link": "bond.html"
+  },
+  {
+    "name": "bounty",
+    "link": "bounty.html"
+  },
+  {
+    "name": "brain wallet",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "Tokenuri BRC-20",
+    "link": "brc-20-tokens.html"
+  },
+  {
+    "name": "Break-Even Point (BEP)",
+    "link": "break-even-point.html"
+  },
+  {
+    "name": "Breakeven Multiple",
+    "link": "breakeven-multiple.html"
+  },
+  {
+    "name": "Breakout",
+    "link": "breakout.html"
+  },
+  {
+    "name": "pod",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BscScan",
+    "link": "bscscan.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "Adresa de portofel BTC",
+    "link": "btc-wallet-address.html"
+  },
+  {
+    "name": "BUIDL",
+    "link": "buidl.html"
+  },
+  {
+    "name": "Bull Market",
+    "link": "bull-market.html"
+  },
+  {
+    "name": "Portofel de unică folosință (burner wallet)",
+    "link": "burner-wallet.html"
+  },
+  {
+    "name": "Buy Wall",
+    "link": "buy-wall.html"
+  },
+  {
+    "name": "bytecode",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "Byzantine fault tolerance",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "Fork-ul Byzantium",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Bloc candidat",
+    "link": "candidate-block.html"
+  },
+  {
+    "name": "Candlestick",
+    "link": "candlestick.html"
+  },
+  {
+    "name": "Capitulation",
+    "link": "capitulation.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "Censorship-resistance",
+    "link": "censorship-resistance.html"
+  },
+  {
+    "name": "Central Bank",
+    "link": "central-bank.html"
+  },
+  {
+    "name": "Monede digitale ale băncii centrale (CBDC)",
+    "link": "central-bank-digital-currency-cbdc.html"
+  },
+  {
+    "name": "Central Processing Unit (CPU)",
+    "link": "central-processing-unit.html"
+  },
+  {
+    "name": "Centralized",
+    "link": "centralized.html"
+  },
+  {
+    "name": "exchange centralizat",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "ID chain",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "ChatGPT",
+    "link": "chatgpt.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "Cipher",
+    "link": "cipher.html"
+  },
+  {
+    "name": "Circulating Supply",
+    "link": "circulating-supply.html"
+  },
+  {
+    "name": "client",
+    "link": "client.html"
+  },
+  {
+    "name": "Cloud",
+    "link": "cloud.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "monedă",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "cold storage",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "cold wallet",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "Collateral",
+    "link": "collateral.html"
+  },
+  {
+    "name": "Colocation",
+    "link": "colocation.html"
+  },
+  {
+    "name": "Commodity Futures Trading Commission (CFTC)",
+    "link": "commodity-futures-trading-commission.html"
+  },
+  {
+    "name": "a compila",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "Dobânda compusă",
+    "link": "compound-interest.html"
+  },
+  {
+    "name": "confirmare",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "Timp de confirmare",
+    "link": "confirmation-time.html"
+  },
+  {
+    "name": "Confluence",
+    "link": "confluence.html"
+  },
+  {
+    "name": "consens",
+    "link": "consensus.html"
+  },
+  {
+    "name": "Algoritm de consens",
+    "link": "consensus-algorithm.html"
+  },
+  {
+    "name": "client de consens",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "strat de consens",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "mecanism de consens",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Fork-ul Constantinople",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "Consumer Price Index (CPI)",
+    "link": "consumer-price-index-(cpi).html"
+  },
+  {
+    "name": "Contango și backwardation",
+    "link": "contango-and-backwardation.html"
+  },
+  {
+    "name": "contract",
+    "link": "contract.html"
+  },
+  {
+    "name": "contul contractului",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "Copy Trading",
+    "link": "copy-trading.html"
+  },
+  {
+    "name": "Riscul legat de contraparte",
+    "link": "counterparty-risk.html"
+  },
+  {
+    "name": "Credentials",
+    "link": "credentials.html"
+  },
+  {
+    "name": "Punți cross-chain",
+    "link": "cross-chain-bridges.html"
+  },
+  {
+    "name": "cripto-",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "criptoactiv",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "bounty-uri cripto",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "conformitate cripto",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "ETF-uri cripto",
+    "link": "crypto-etfs.html"
+  },
+  {
+    "name": "Indicele cripto de frică și lăcomie",
+    "link": "crypto-fear-and-greed-index.html"
+  },
+  {
+    "name": "fond cripto",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "Protocol cripto",
+    "link": "crypto-protocol.html"
+  },
+  {
+    "name": "portofel cripto",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "Iarnă cripto",
+    "link": "crypto-winter.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "criptomonede",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "criptoeconomie",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "criptografie",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "custodie",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "Daemon",
+    "link": "daemon.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "Danksharding",
+    "link": "danksharding.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS",
+    "link": "ddos.html"
+  },
+  {
+    "name": "Dead Cat Bounce",
+    "link": "dead-cat-bounce.html"
+  },
+  {
+    "name": "Crucea morții",
+    "link": "death-cross.html"
+  },
+  {
+    "name": "descentralizare",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "aplicație descentralizată",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Decentralized Autonomous Cooperative (DAC)",
+    "link": "decentralized-autonomous-cooperative.html"
+  },
+  {
+    "name": "Organizație autonomă descentralizată",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "bursă descentralizată",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "finanțe descentralizate",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "Indecși descentralizați",
+    "link": "decentralized-indexes.html"
+  },
+  {
+    "name": "web descentralizat",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "Decryption",
+    "link": "decryption.html"
+  },
+  {
+    "name": "Deep Web",
+    "link": "deep-web.html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "Proof of stake delegat (DPoS)",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "Delisting",
+    "link": "delisting.html"
+  },
+  {
+    "name": "denominări",
+    "link": "denominations.html"
+  },
+  {
+    "name": "Depeg",
+    "link": "depeg.html"
+  },
+  {
+    "name": "depozit",
+    "link": "deposit.html"
+  },
+  {
+    "name": "Depresiune",
+    "link": "depression.html"
+  },
+  {
+    "name": "a deriva—derivare",
+    "link": "derive.html"
+  },
+  {
+    "name": "Design Flaw Attack",
+    "link": "design-flaw-attack.html"
+  },
+  {
+    "name": "dev",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "programator",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "Diamond hands",
+    "link": "diamond-hands.html"
+  },
+  {
+    "name": "dificultate",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "difficulty bomb",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "activ digital",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "identitate digitală",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "semnătură digitală",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Accesul direct pe piață (DMA)",
+    "link": "direct-market-access-dma.html"
+  },
+  {
+    "name": "Tehnologia registrelor distribuite",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "Divergence",
+    "link": "divergence.html"
+  },
+  {
+    "name": "Diversification",
+    "link": "diversification.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "Cercetați pe cont propriu (DYOR)",
+    "link": "do-your-own-research.html"
+  },
+  {
+    "name": "Dollar Cost Averaging (DCA)",
+    "link": "dollar-cost-averaging.html"
+  },
+  {
+    "name": "Diagramă cu puncte",
+    "link": "dot-plot.html"
+  },
+  {
+    "name": "cheltuială dublă",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "Double Spending",
+    "link": "double-spending.html"
+  },
+  {
+    "name": "Eclipse Attack",
+    "link": "eclipse-attack.html"
+  },
+  {
+    "name": "ecosistem",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "Efficient Market Hypothesis (EMH)",
+    "link": "efficient-market-hypothesis-emh.html"
+  },
+  {
+    "name": "EigenLayer",
+    "link": "eigenlayer.html"
+  },
+  {
+    "name": "EIP",
+    "link": "eip.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "EIP-3074",
+    "link": "eip-3074.html"
+  },
+  {
+    "name": "EIP-4844",
+    "link": "eip-4844.html"
+  },
+  {
+    "name": "EIP-7251",
+    "link": "eip-7251.html"
+  },
+  {
+    "name": "EIP-7702",
+    "link": "eip-7702.html"
+  },
+  {
+    "name": "Elasticitate",
+    "link": "elasticity.html"
+  },
+  {
+    "name": "cheie criptată",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "criptare",
+    "link": "encryption.html"
+  },
+  {
+    "name": "Variabilă endogenă",
+    "link": "endogenous-variable.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "entropie",
+    "link": "entropy.html"
+  },
+  {
+    "name": "epoch",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-404",
+    "link": "erc-404.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETF",
+    "link": "etf.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "Ethereum Classic",
+    "link": "ethereum-classic.html"
+  },
+  {
+    "name": "Fundația Ethereum",
+    "link": "ethereum-foundation.html"
+  },
+  {
+    "name": "Propunere de îmbunătățire Ethereum",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Mainnet Ethereum",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "Ethereum Name Service",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Mașină virtuală Ethereum",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Mașina virtuală Ethereum (EVM)",
+    "link": "ethereum-virtual-machine-evm.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "schimb",
+    "link": "exchange.html"
+  },
+  {
+    "name": "client de execuție",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "layer de execuție",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Variabila exogenă",
+    "link": "exogenous-variable.html"
+  },
+  {
+    "name": "Media mobilă exponențială (EMA)",
+    "link": "exponential-moving-average-ema.html"
+  },
+  {
+    "name": "Cont deținut extern (EOA)",
+    "link": "externally-owned-account-eoa.html"
+  },
+  {
+    "name": "Fakeout",
+    "link": "fakeout.html"
+  },
+  {
+    "name": "Falling Knife",
+    "link": "falling-knife.html"
+  },
+  {
+    "name": "Fan Tokens",
+    "link": "fan-tokens.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "faucet",
+    "link": "faucet.html"
+  },
+  {
+    "name": "tolerant la erori",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "Fear Of Missing Out (FOMO)",
+    "link": "fear-of-missing-out.html"
+  },
+  {
+    "name": "Fear, Uncertainty and Doubt (FUD)",
+    "link": "fear-uncertainty-and-doubt.html"
+  },
+  {
+    "name": "Fiat",
+    "link": "fiat.html"
+  },
+  {
+    "name": "monedă fiduciară",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "Fibonacci Retracement",
+    "link": "fibonacci-retracement.html"
+  },
+  {
+    "name": "Fill Or Kill Order (FOK)",
+    "link": "fill-or-kill-order.html"
+  },
+  {
+    "name": "finalitate",
+    "link": "finality.html"
+  },
+  {
+    "name": "taxă de finalitate",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "tehnologie financiară",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "firewall",
+    "link": "firewall.html"
+  },
+  {
+    "name": "firmware",
+    "link": "firmware.html"
+  },
+  {
+    "name": "First-Mover Advantage (FMA)",
+    "link": "first-mover-advantage.html"
+  },
+  {
+    "name": "Politică fiscală",
+    "link": "fiscal-policy.html"
+  },
+  {
+    "name": "Flappening",
+    "link": "flappening.html"
+  },
+  {
+    "name": "Flashbots",
+    "link": "flashbots.html"
+  },
+  {
+    "name": "Flippening",
+    "link": "flippening.html"
+  },
+  {
+    "name": "Variabilă de flux",
+    "link": "flow-variable.html"
+  },
+  {
+    "name": "Forced Liquidation",
+    "link": "forced-liquidation.html"
+  },
+  {
+    "name": "Forex (FX)",
+    "link": "forex-fx.html"
+  },
+  {
+    "name": "fork",
+    "link": "fork.html"
+  },
+  {
+    "name": "Formal Verification",
+    "link": "formal-verification.html"
+  },
+  {
+    "name": "proprietate fracționată",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "antifraudă",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "Fren",
+    "link": "fren.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "nod complet",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Fully Diluted Valuation (FDV)",
+    "link": "fully-diluted-valuation-fdv.html"
+  },
+  {
+    "name": "Analiza fundamentală (FA)",
+    "link": "fundamental-analysis.html"
+  },
+  {
+    "name": "Taxe de finanțare",
+    "link": "funding-fees.html"
+  },
+  {
+    "name": "Fungibility",
+    "link": "fungibility.html"
+  },
+  {
+    "name": "Futures Contract",
+    "link": "futures-contract.html"
+  },
+  {
+    "name": "GameFi",
+    "link": "gamefi.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gas",
+    "link": "gas.html"
+  },
+  {
+    "name": "taxă de gas",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "limită de gas",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "prețul gas-ului",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "Deflatorul PIB",
+    "link": "gdp-deflator.html"
+  },
+  {
+    "name": "General Public License",
+    "link": "general-public-license.html"
+  },
+  {
+    "name": "bloc de geneză",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "GM (Good Morning)",
+    "link": "gm-good-morning.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "Golden Cross",
+    "link": "golden-cross.html"
+  },
+  {
+    "name": "Raportul de aur",
+    "link": "golden-ratio.html"
+  },
+  {
+    "name": "Goldilocks",
+    "link": "goldilocks.html"
+  },
+  {
+    "name": "Gossip Protocol",
+    "link": "gossip-protocol.html"
+  },
+  {
+    "name": "governance",
+    "link": "governance.html"
+  },
+  {
+    "name": "Produsul Intern Brut (PIB)",
+    "link": "gross-domestic-product-gdp.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "Hackathon",
+    "link": "hackathon.html"
+  },
+  {
+    "name": "Hacker",
+    "link": "hacker.html"
+  },
+  {
+    "name": "Haha Money Printer Go Brrrrr",
+    "link": "haha-money-printer-go-brrrrr.html"
+  },
+  {
+    "name": "înjumătățire",
+    "link": "halving.html"
+  },
+  {
+    "name": "Hard Cap",
+    "link": "hard-cap.html"
+  },
+  {
+    "name": "hard fork",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "Hard Landing",
+    "link": "hard-landing.html"
+  },
+  {
+    "name": "portofel hardware",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "hash",
+    "link": "hash.html"
+  },
+  {
+    "name": "Hash Rate",
+    "link": "hash-rate.html"
+  },
+  {
+    "name": "Hashed TimeLock Contract (HTLC)",
+    "link": "hashed-timelock-contract.html"
+  },
+  {
+    "name": "portofel HD",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "Instinctul de turmă",
+    "link": "herd-instinct.html"
+  },
+  {
+    "name": "Dados hexa",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "High-Frequency Trading (HFT)",
+    "link": "high-frequency-trading-hft.html"
+  },
+  {
+    "name": "HODL",
+    "link": "hodl.html"
+  },
+  {
+    "name": "Honeypot",
+    "link": "honeypot.html"
+  },
+  {
+    "name": "hot storage",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "hot wallet",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "rețea hibridă",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "Iceberg Order",
+    "link": "iceberg-order.html"
+  },
+  {
+    "name": "Ofertă inițială de monedă",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "imutabilitate",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Fonduri indexate",
+    "link": "index-funds.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "Initial Coin Offering (ICO)",
+    "link": "initial-coin-offering.html"
+  },
+  {
+    "name": "Ofertă inițială DEX (IDO)",
+    "link": "initial-dex-offering-ido.html"
+  },
+  {
+    "name": "Initial Exchange Offering (IEO)",
+    "link": "initial-exchange-offering.html"
+  },
+  {
+    "name": "Initial Public Offering (IPO)",
+    "link": "initial-public-offering.html"
+  },
+  {
+    "name": "Inscripționări",
+    "link": "inscription.html"
+  },
+  {
+    "name": "tranzacții cu informații privilegiate",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "Integrated Circuit (IC)",
+    "link": "integrated-circuit.html"
+  },
+  {
+    "name": "Ratele dobânzii",
+    "link": "interest-rates.html"
+  },
+  {
+    "name": "tranzacție internă",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "interoperabilitate",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-ipfs.html"
+  },
+  {
+    "name": "IOU",
+    "link": "iou.html"
+  },
+  {
+    "name": "adresă IP",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Isolated Margin",
+    "link": "isolated-margin.html"
+  },
+  {
+    "name": "Issuance",
+    "link": "issuance.html"
+  },
+  {
+    "name": "Fișier JSON",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "Keccak",
+    "link": "keccak.html"
+  },
+  {
+    "name": "fișier keystore",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "Know Your Customer",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "Know Your Transaction",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Indicele Laspeyres",
+    "link": "laspeyres-index.html"
+  },
+  {
+    "name": "Latency",
+    "link": "latency.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Launchpad",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "Law of Demand",
+    "link": "law-of-demand.html"
+  },
+  {
+    "name": "layer 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "layer 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Aplicația Ledger Live",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "Leveraged Tokens",
+    "link": "leveraged-tokens.html"
+  },
+  {
+    "name": "Bibliotecă",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "client ușor",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Ordin limită",
+    "link": "limit-order.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "Linux",
+    "link": "linux.html"
+  },
+  {
+    "name": "Staking lichid",
+    "link": "liquid-staking.html"
+  },
+  {
+    "name": "Token de staking lichid (LST)",
+    "link": "liquid-staking-token-lst.html"
+  },
+  {
+    "name": "lichidare",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "lichiditate",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "Criza de lichiditate",
+    "link": "liquidity-crisis.html"
+  },
+  {
+    "name": "pool de lichidități",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "Furnizor de lichiditate",
+    "link": "liquidity-provider.html"
+  },
+  {
+    "name": "Ratele de lichiditate",
+    "link": "liquidity-ratios.html"
+  },
+  {
+    "name": "staking de lichidități",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "Listing",
+    "link": "listing.html"
+  },
+  {
+    "name": "mainnet",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Mainnet Swap",
+    "link": "mainnet-swap.html"
+  },
+  {
+    "name": "Maker",
+    "link": "maker.html"
+  },
+  {
+    "name": "Protocolul Maker",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "malware",
+    "link": "malware.html"
+  },
+  {
+    "name": "Margin Trading",
+    "link": "margin-trading.html"
+  },
+  {
+    "name": "capitalizarea pieței",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "Capitalizare de piață",
+    "link": "market-capitalization.html"
+  },
+  {
+    "name": "Market Momentum",
+    "link": "market-momentum.html"
+  },
+  {
+    "name": "Ordin de piață",
+    "link": "market-order.html"
+  },
+  {
+    "name": "Masternode",
+    "link": "masternode.html"
+  },
+  {
+    "name": "Motor de asociere",
+    "link": "matching-engine.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "Maximum Supply",
+    "link": "maximum-supply.html"
+  },
+  {
+    "name": "pool de memorie",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Fuziune",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merged Mining",
+    "link": "merged-mining.html"
+  },
+  {
+    "name": "Arborele Merkle Patricia",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Arborele Merkle",
+    "link": "merkle-tree.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "metadate",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metavers",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "MEV",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "Microtranzacții",
+    "link": "microtransactions.html"
+  },
+  {
+    "name": "miner",
+    "link": "miner.html"
+  },
+  {
+    "name": "miner tip",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "minare",
+    "link": "mining.html"
+  },
+  {
+    "name": "Mining Farm",
+    "link": "mining-farm.html"
+  },
+  {
+    "name": "mint",
+    "link": "mint.html"
+  },
+  {
+    "name": "frază mnemotehnică",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "blockchain modular",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "Politică monetară",
+    "link": "monetary-policy.html"
+  },
+  {
+    "name": "Piețe monetare",
+    "link": "money-markets.html"
+  },
+  {
+    "name": "Eticheta În curs de monitorizare",
+    "link": "monitoring-tag.html"
+  },
+  {
+    "name": "Moon",
+    "link": "moon.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "Învelișurile mediilor mobile",
+    "link": "moving-average-envelopes.html"
+  },
+  {
+    "name": "Banda mediilor mobile",
+    "link": "moving-average-ribbon.html"
+  },
+  {
+    "name": "Mt. Gox",
+    "link": "mt-gox.html"
+  },
+  {
+    "name": "multi-sig",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "portofel multisemnătură",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "Multisignature",
+    "link": "multisignature.html"
+  },
+  {
+    "name": "Consensul Nakamoto",
+    "link": "nakamoto-consensus.html"
+  },
+  {
+    "name": "nested blockchain",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "Valoarea netă a activului (NAV)",
+    "link": "net-asset-value-nav.html"
+  },
+  {
+    "name": "rețea",
+    "link": "network.html"
+  },
+  {
+    "name": "congestionarea rețelei",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "NFC",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "Agregator NFT",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "NFT drop",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Prețuri minime NFT",
+    "link": "nft-floor-prices.html"
+  },
+  {
+    "name": "NFT Mystery Boxes",
+    "link": "nft-mystery-boxes.html"
+  },
+  {
+    "name": "NGMI",
+    "link": "ngmi.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "nod",
+    "link": "node.html"
+  },
+  {
+    "name": "token nefungibil",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "Token nefungibil (NFT)",
+    "link": "non-fungible-token-nft.html"
+  },
+  {
+    "name": "nonce",
+    "link": "nonce.html"
+  },
+  {
+    "name": "OCO Order",
+    "link": "oco-order.html"
+  },
+  {
+    "name": "off-chain",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "off-ramp",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "Offline Signing Orchestrator (OSO)",
+    "link": "offline-signing-orchestrator-oso.html"
+  },
+  {
+    "name": "Offshore account",
+    "link": "offshore-account.html"
+  },
+  {
+    "name": "bloc ommer",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "on-chain",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "on-ramp",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "opBNB",
+    "link": "opbnb.html"
+  },
+  {
+    "name": "Open-Source Software (OSS)",
+    "link": "open-source-software-oss.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Costul de oportunitate",
+    "link": "opportunity-cost.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "rollup optimist",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "Oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "Tokenuri ORC-20",
+    "link": "orc-20-tokens.html"
+  },
+  {
+    "name": "Registrul de ordine",
+    "link": "order-book.html"
+  },
+  {
+    "name": "Ordinals",
+    "link": "ordinals.html"
+  },
+  {
+    "name": "Orphan Block",
+    "link": "orphan-block.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "PancakeSwap",
+    "link": "pancakeswap.html"
+  },
+  {
+    "name": "Paper Wallet",
+    "link": "paper-wallet.html"
+  },
+  {
+    "name": "Paralelizarea",
+    "link": "parallelization.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "paritate",
+    "link": "parity.html"
+  },
+  {
+    "name": "Passive Management",
+    "link": "passive-management.html"
+  },
+  {
+    "name": "Passphrase",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "Parolă",
+    "link": "password.html"
+  },
+  {
+    "name": "manager parole",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "peer-to-peer",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "Monede ancorate",
+    "link": "pegged-currency.html"
+  },
+  {
+    "name": "registru autorizat",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "Blockchain fără permisiune",
+    "link": "permissionless-blockchain.html"
+  },
+  {
+    "name": "phishing",
+    "link": "phishing.html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "PoA",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polkadot Crowdloan",
+    "link": "polkadot-crowdloan.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "Ponzi Scheme",
+    "link": "ponzi-scheme.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "Pre-minerit",
+    "link": "premining.html"
+  },
+  {
+    "name": "Price Action",
+    "link": "price-action.html"
+  },
+  {
+    "name": "Prisoner's Dilemma",
+    "link": "prisoners-dilemma.html"
+  },
+  {
+    "name": "blockchain privat",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "monedă privată",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "cheie privată",
+    "link": "private-key.html"
+  },
+  {
+    "name": "Private Sale",
+    "link": "private-sale.html"
+  },
+  {
+    "name": "Progressive Web application (PWA)",
+    "link": "progressive-web-application.html"
+  },
+  {
+    "name": "Proof of Attendance Protocol (POAP)",
+    "link": "proof-of-attendance-protocol-poap.html"
+  },
+  {
+    "name": "Proof of Reserves (PoR)",
+    "link": "proof-of-reserves-por.html"
+  },
+  {
+    "name": "Proof of Stake",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "Proof of Staked Authority (PoSA)",
+    "link": "proof-of-staked-authority-posa.html"
+  },
+  {
+    "name": "Proof of Work",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "Proposer-Builder Separation (PBS)",
+    "link": "proposer-builder-separation-pbs.html"
+  },
+  {
+    "name": "Proto-dankharding",
+    "link": "proto-danksharding.html"
+  },
+  {
+    "name": "protocol",
+    "link": "protocol.html"
+  },
+  {
+    "name": "Pseudorandom",
+    "link": "pseudorandom.html"
+  },
+  {
+    "name": "adresă publică",
+    "link": "public-address.html"
+  },
+  {
+    "name": "blockchain public",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "cheie publică",
+    "link": "public-key.html"
+  },
+  {
+    "name": "criptografie cheie publică",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "Pump-and-dump",
+    "link": "pump-and-dump.html"
+  },
+  {
+    "name": "Cod QR",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Relaxarea cantitativă (Quantitative Easing, QE)",
+    "link": "quantitative-easing-qe.html"
+  },
+  {
+    "name": "Înăsprirea cantitativă (Quantitative Tightening - QT)",
+    "link": "quantitative-tightening-qt.html"
+  },
+  {
+    "name": "Quantum Computing",
+    "link": "quantum-computing.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Race attack",
+    "link": "race-attack.html"
+  },
+  {
+    "name": "Ransomware",
+    "link": "ransomware.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "Active din lumea reală (RWA)",
+    "link": "real-world-assets-rwas.html"
+  },
+  {
+    "name": "Recesiune",
+    "link": "recession.html"
+  },
+  {
+    "name": "Inscripționare recursivă",
+    "link": "recursive-inscription.html"
+  },
+  {
+    "name": "Rekt",
+    "link": "rekt.html"
+  },
+  {
+    "name": "Relative Strength Index (RSI)",
+    "link": "relative-strength-index.html"
+  },
+  {
+    "name": "relayer",
+    "link": "relayer.html"
+  },
+  {
+    "name": "Apel de procedură la distanță",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Resistance",
+    "link": "resistance.html"
+  },
+  {
+    "name": "Return on Investment (ROI)",
+    "link": "return-on-investment.html"
+  },
+  {
+    "name": "Tranzacționare de revanșă",
+    "link": "revenge-trading.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "Prima de risc",
+    "link": "risk-premium.html"
+  },
+  {
+    "name": "roadmap",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "rollups",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "Routing Attack",
+    "link": "routing-attack.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "rug pull",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Regula Sahm",
+    "link": "sahm-rule.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "sandbox",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Tranzacționarea de tip sandwich",
+    "link": "sandwich-trading.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi",
+    "link": "satoshi.html"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "scalabilitate",
+    "link": "scalability.html"
+  },
+  {
+    "name": "scaling",
+    "link": "scaling.html"
+  },
+  {
+    "name": "înșelăciune",
+    "link": "scam.html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "motor de căutare",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "Frază secretă de recuperare",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "Secure Asset Fund for Users (SAFU)",
+    "link": "secure-asset-fund-for-users.html"
+  },
+  {
+    "name": "Comisia de valori mobiliare și burse (SEC)",
+    "link": "securities-and-exchange-commission.html"
+  },
+  {
+    "name": "Security Audit",
+    "link": "security-audit.html"
+  },
+  {
+    "name": "Token de securitate",
+    "link": "security-token.html"
+  },
+  {
+    "name": "Security Token Offering",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "Ofertă de tokenuri financiare (STO)",
+    "link": "security-token-offering-sto.html"
+  },
+  {
+    "name": "seed phrase",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "Etichetă Seed",
+    "link": "seed-tag.html"
+  },
+  {
+    "name": "Segregated Witness (SegWit)",
+    "link": "segregated-witness.html"
+  },
+  {
+    "name": "custodie proprie",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "autoexecutare",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Selfish Mining",
+    "link": "selfish-mining.html"
+  },
+  {
+    "name": "Sell Wall",
+    "link": "sell-wall.html"
+  },
+  {
+    "name": "Sentiment",
+    "link": "sentiment.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "serializare",
+    "link": "serialization.html"
+  },
+  {
+    "name": "lanț de fragmente",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "fragmentare",
+    "link": "sharding.html"
+  },
+  {
+    "name": "Sharpe Ratio",
+    "link": "sharpe-ratio.html"
+  },
+  {
+    "name": "tranzacție protejată",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "sidechain",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "Sidechains",
+    "link": "sidechains.html"
+  },
+  {
+    "name": "Media mobilă simplă (SMA)",
+    "link": "simple-moving-average-sma.html"
+  },
+  {
+    "name": "Slashing",
+    "link": "slashing.html"
+  },
+  {
+    "name": "condiție de slashing",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "slippage",
+    "link": "slippage.html"
+  },
+  {
+    "name": "slot",
+    "link": "slot.html"
+  },
+  {
+    "name": "smart contract",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "Portofel pe bază de contract inteligent",
+    "link": "smart-contract-wallet.html"
+  },
+  {
+    "name": "Snapshot",
+    "link": "snapshot.html"
+  },
+  {
+    "name": "Portofel de recuperare socială",
+    "link": "social-recovery-wallet.html"
+  },
+  {
+    "name": "Tranzacționare socială",
+    "link": "social-trading.html"
+  },
+  {
+    "name": "SocialFi",
+    "link": "socialfi.html"
+  },
+  {
+    "name": "soft fork",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Soft landing",
+    "link": "soft-landing.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "Source Code",
+    "link": "source-code.html"
+  },
+  {
+    "name": "SPL",
+    "link": "spl.html"
+  },
+  {
+    "name": "Tokenuri SRC-20",
+    "link": "src-20-tokens.html"
+  },
+  {
+    "name": "stablecoin",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "Stagflație",
+    "link": "stagflation.html"
+  },
+  {
+    "name": "risca",
+    "link": "stake.html"
+  },
+  {
+    "name": "staking",
+    "link": "staking.html"
+  },
+  {
+    "name": "Staking Pool",
+    "link": "staking-pool.html"
+  },
+  {
+    "name": "stare",
+    "link": "state.html"
+  },
+  {
+    "name": "State Channel",
+    "link": "state-channel.html"
+  },
+  {
+    "name": "canale de stare",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "stETH",
+    "link": "steth.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "Variabila de stoc",
+    "link": "stock-variable.html"
+  },
+  {
+    "name": "Store of Value",
+    "link": "store-of-value.html"
+  },
+  {
+    "name": "streaming",
+    "link": "streaming.html"
+  },
+  {
+    "name": "Supercomputer",
+    "link": "supercomputer.html"
+  },
+  {
+    "name": "Supply Chain",
+    "link": "supply-chain.html"
+  },
+  {
+    "name": "Support",
+    "link": "support.html"
+  },
+  {
+    "name": "a face schimb",
+    "link": "swap.html"
+  },
+  {
+    "name": "Atac Sybil",
+    "link": "sybil-attack.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Taker",
+    "link": "taker.html"
+  },
+  {
+    "name": "Tank",
+    "link": "tank.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "testnet",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Testnet Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Testnet Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Testnet Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "Ticker",
+    "link": "ticker.html"
+  },
+  {
+    "name": "Simbol ticker",
+    "link": "ticker-symbol.html"
+  },
+  {
+    "name": "token",
+    "link": "token.html"
+  },
+  {
+    "name": "Eveniment de generare a tokenurilor (TGE)",
+    "link": "token-generation-event-tge.html"
+  },
+  {
+    "name": "blocare token",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "Fuziunea tokenurilor",
+    "link": "token-merge.html"
+  },
+  {
+    "name": "Token Sale",
+    "link": "token-sale.html"
+  },
+  {
+    "name": "standard de token",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "Standarde de token",
+    "link": "token-standards.html"
+  },
+  {
+    "name": "Tokenizare",
+    "link": "tokenization.html"
+  },
+  {
+    "name": "Tokenomics",
+    "link": "tokenomics.html"
+  },
+  {
+    "name": "Total Supply",
+    "link": "total-supply.html"
+  },
+  {
+    "name": "Valoarea totală blocată (TVL)",
+    "link": "total-value-locked-tvl.html"
+  },
+  {
+    "name": "TradFi",
+    "link": "tradfi.html"
+  },
+  {
+    "name": "tranzacție",
+    "link": "transaction.html"
+  },
+  {
+    "name": "bloc tranzacții",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "comision tranzacție",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "ID tranzacție",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "pool de tranzacții",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transactions Per Second (TPS)",
+    "link": "transactions-per-second-tps.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Obligațiuni de stat (T-bills)",
+    "link": "treasury-bills-t-bills.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "TrueUSD (TUSD)",
+    "link": "trueusd-tusd.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "trustless",
+    "link": "trustless.html"
+  },
+  {
+    "name": "Turing-complet",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "TVL",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "Cum înțelegem cifra 4 menționată de CZ",
+    "link": "understanding-cz-s-number-4.html"
+  },
+  {
+    "name": "cheie necriptată",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "Unit of Account",
+    "link": "unit-of-account.html"
+  },
+  {
+    "name": "rezultatul tranzacției necheltuite",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "Unspent Transaction Output (UTXO)",
+    "link": "unspent-transaction-output-utxo.html"
+  },
+  {
+    "name": "(a face) unstake",
+    "link": "unstake.html"
+  },
+  {
+    "name": "upgrade",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "User Interface (UI)",
+    "link": "user-interface.html"
+  },
+  {
+    "name": "Token utilitar",
+    "link": "utility-token.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "validator",
+    "link": "validator.html"
+  },
+  {
+    "name": "dovada validității",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "Verification Code",
+    "link": "verification-code.html"
+  },
+  {
+    "name": "vesting",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "Virtual Machine",
+    "link": "virtual-machine.html"
+  },
+  {
+    "name": "Vladimir Club",
+    "link": "vladimir-club.html"
+  },
+  {
+    "name": "Volatility",
+    "link": "volatility.html"
+  },
+  {
+    "name": "Volume",
+    "link": "volume.html"
+  },
+  {
+    "name": "WAGMI",
+    "link": "wagmi.html"
+  },
+  {
+    "name": "portofel",
+    "link": "wallet.html"
+  },
+  {
+    "name": "adresa portofelului",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Tranzacții manipulatorii",
+    "link": "wash-trading.html"
+  },
+  {
+    "name": "Weak Hands",
+    "link": "weak-hands.html"
+  },
+  {
+    "name": "Weak Subjectivity",
+    "link": "weak-subjectivity.html"
+  },
+  {
+    "name": "Web 1.0",
+    "link": "web-1.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "Media mobilă ponderată (WMA)",
+    "link": "weighted-moving-average-wma.html"
+  },
+  {
+    "name": "Whale",
+    "link": "whale.html"
+  },
+  {
+    "name": "Whiskers",
+    "link": "whiskers.html"
+  },
+  {
+    "name": "Whitelist",
+    "link": "whitelist.html"
+  },
+  {
+    "name": "whitepaper",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "Wick",
+    "link": "wick.html"
+  },
+  {
+    "name": "Rata de câștig",
+    "link": "win-rate.html"
+  },
+  {
+    "name": "Wrapped Ether (WETH)",
+    "link": "wrapped-ether.html"
+  },
+  {
+    "name": "wrapping",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyckoff",
+    "link": "wyckoff.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "XPUB",
+    "link": "xpub.html"
+  },
+  {
+    "name": "tokeni yield-bearing",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "yield farming",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "adresă zero",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "dovadă cunoștințe zero",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "Zero-Knowledge Proofs",
+    "link": "zero-knowledge-proofs.html"
+  },
+  {
+    "name": "rollup cunoștințe zero",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "Zk-rollup",
+    "link": "zk-rollup.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "zk-STARKs",
+    "link": "zk-starks.html"
+  }
+]

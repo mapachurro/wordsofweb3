@@ -1,0 +1,3006 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "雙重要素驗證 (2FA)",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "51%攻擊",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "Absolute Advantage",
+    "link": "absolute-advantage.html"
+  },
+  {
+    "name": "帳戶",
+    "link": "account.html"
+  },
+  {
+    "name": "ACH 轉帳",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "Active Management",
+    "link": "active-management.html"
+  },
+  {
+    "name": "主動驗證服務 (AVS)",
+    "link": "actively-validated-services-avs.html"
+  },
+  {
+    "name": "Ad Hoc",
+    "link": "ad-hoc.html"
+  },
+  {
+    "name": "地址",
+    "link": "address.html"
+  },
+  {
+    "name": "聚合器",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "氣隙隔離",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "空投",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "算法",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "All or None Order (AON)",
+    "link": "all-or-none-order.html"
+  },
+  {
+    "name": "All-Time High (ATH)",
+    "link": "all-time-high.html"
+  },
+  {
+    "name": "Allocation",
+    "link": "allocation.html"
+  },
+  {
+    "name": "Alpha",
+    "link": "alpha.html"
+  },
+  {
+    "name": "山寨幣",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "反洗錢",
+    "link": "aml.html"
+  },
+  {
+    "name": "Angel Investor",
+    "link": "angel-investor.html"
+  },
+  {
+    "name": "洗錢防制 (AML)",
+    "link": "anti-money-laundering.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "應用程式鏈",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Application Programming Interface (API)",
+    "link": "application-programming-interface.html"
+  },
+  {
+    "name": "Application-Specific Integrated Circuit (ASIC)",
+    "link": "application-specific-integrated-circuit.html"
+  },
+  {
+    "name": "套利",
+    "link": "arbitrage.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ARC-20",
+    "link": "arc-20.html"
+  },
+  {
+    "name": "人工智慧 (AI)",
+    "link": "artificial-intelligence-ai.html"
+  },
+  {
+    "name": "特定應用積體電路",
+    "link": "asic.html"
+  },
+  {
+    "name": "ASIC-resistant",
+    "link": "asic-resistant.html"
+  },
+  {
+    "name": "Ask Price",
+    "link": "asking-price.html"
+  },
+  {
+    "name": "Asset Management",
+    "link": "asset-management.html"
+  },
+  {
+    "name": "資產溯源",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "資產管理規模 (AUM)",
+    "link": "assets-under-management-aum.html"
+  },
+  {
+    "name": "Asynchronous",
+    "link": "asynchronous.html"
+  },
+  {
+    "name": "Atomic Swap",
+    "link": "atomic-swap.html"
+  },
+  {
+    "name": "Attack surface",
+    "link": "attack-surface.html"
+  },
+  {
+    "name": "證明",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Auction",
+    "link": "auction.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "自動做市商 (AMM)",
+    "link": "automated-market-maker-amm.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "B-Token",
+    "link": "b-tokens.html"
+  },
+  {
+    "name": "Bags",
+    "link": "bags.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "信標鏈",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Bear Market",
+    "link": "bear-market.html"
+  },
+  {
+    "name": "Benchmark",
+    "link": "benchmark.html"
+  },
+  {
+    "name": "BEP-1155",
+    "link": "bep-1155.html"
+  },
+  {
+    "name": "BEP-20",
+    "link": "bep-20.html"
+  },
+  {
+    "name": "BEP-721",
+    "link": "bep-721.html"
+  },
+  {
+    "name": "BEP-95",
+    "link": "bep-95.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Beta (Coefficient)",
+    "link": "beta-coefficient.html"
+  },
+  {
+    "name": "Beta (Release)",
+    "link": "beta-release.html"
+  },
+  {
+    "name": "Bid-Ask Spread",
+    "link": "bid-ask-spread.html"
+  },
+  {
+    "name": "Bid Price",
+    "link": "bid-price.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Blockchain Charity Foundation",
+    "link": "binance-blockchain-charity-foundation.html"
+  },
+  {
+    "name": "Binance Ecosystem Fund (BEF)",
+    "link": "binance-ecosystem-fund.html"
+  },
+  {
+    "name": "幣安夥伴",
+    "link": "binancian.html"
+  },
+  {
+    "name": "比特幣",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "Bitcoin Core",
+    "link": "bitcoin-core.html"
+  },
+  {
+    "name": "Bitcoin Dominance",
+    "link": "bitcoin-dominance.html"
+  },
+  {
+    "name": "比特幣至上主義者",
+    "link": "bitcoin-maximalists.html"
+  },
+  {
+    "name": "Bitcoin Pizza",
+    "link": "bitcoin-pizza.html"
+  },
+  {
+    "name": "Black Swan Event",
+    "link": "black-swan-event.html"
+  },
+  {
+    "name": "區塊",
+    "link": "block.html"
+  },
+  {
+    "name": "區塊鏈瀏覽器",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "Block header",
+    "link": "block-header.html"
+  },
+  {
+    "name": "區塊高度",
+    "link": "block-height.html"
+  },
+  {
+    "name": "出塊獎勵",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "出塊時間",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "區塊鏈",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "區塊鏈瀏覽器",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "區塊鏈的三難困境",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "Bloom Filter",
+    "link": "bloom-filter.html"
+  },
+  {
+    "name": "藍籌代幣",
+    "link": "blue-chip-token.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "BNSOL",
+    "link": "bnsol.html"
+  },
+  {
+    "name": "Bollinger Bands",
+    "link": "bollinger-bands.html"
+  },
+  {
+    "name": "債券",
+    "link": "bond.html"
+  },
+  {
+    "name": "懸賞",
+    "link": "bounty.html"
+  },
+  {
+    "name": "腦錢包",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "BRC-20 代幣",
+    "link": "brc-20-tokens.html"
+  },
+  {
+    "name": "Break-Even Point (BEP)",
+    "link": "break-even-point.html"
+  },
+  {
+    "name": "Breakeven Multiple",
+    "link": "breakeven-multiple.html"
+  },
+  {
+    "name": "Breakout",
+    "link": "breakout.html"
+  },
+  {
+    "name": "跨鏈橋",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BscScan",
+    "link": "bscscan.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "BTC 錢包地址",
+    "link": "btc-wallet-address.html"
+  },
+  {
+    "name": "BUIDL",
+    "link": "buidl.html"
+  },
+  {
+    "name": "Bull Market",
+    "link": "bull-market.html"
+  },
+  {
+    "name": "一次性錢包",
+    "link": "burner-wallet.html"
+  },
+  {
+    "name": "Buy Wall",
+    "link": "buy-wall.html"
+  },
+  {
+    "name": "位元組碼",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "拜占庭容錯算法",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "拜占庭分叉",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "候選區塊",
+    "link": "candidate-block.html"
+  },
+  {
+    "name": "Candlestick",
+    "link": "candlestick.html"
+  },
+  {
+    "name": "Capitulation",
+    "link": "capitulation.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "Censorship-resistance",
+    "link": "censorship-resistance.html"
+  },
+  {
+    "name": "Central Bank",
+    "link": "central-bank.html"
+  },
+  {
+    "name": "中央銀行數位貨幣 (CBDC)",
+    "link": "central-bank-digital-currency-cbdc.html"
+  },
+  {
+    "name": "Central Processing Unit (CPU)",
+    "link": "central-processing-unit.html"
+  },
+  {
+    "name": "Centralized",
+    "link": "centralized.html"
+  },
+  {
+    "name": "中心化交易所",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "鏈ID",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "ChatGPT",
+    "link": "chatgpt.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "Cipher",
+    "link": "cipher.html"
+  },
+  {
+    "name": "Circulating Supply",
+    "link": "circulating-supply.html"
+  },
+  {
+    "name": "客戶端",
+    "link": "client.html"
+  },
+  {
+    "name": "Cloud",
+    "link": "cloud.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "幣",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "冷儲存",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "冷錢包",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "Collateral",
+    "link": "collateral.html"
+  },
+  {
+    "name": "Colocation",
+    "link": "colocation.html"
+  },
+  {
+    "name": "Commodity Futures Trading Commission (CFTC)",
+    "link": "commodity-futures-trading-commission.html"
+  },
+  {
+    "name": "編譯",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "複利",
+    "link": "compound-interest.html"
+  },
+  {
+    "name": "確認",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "確認時間",
+    "link": "confirmation-time.html"
+  },
+  {
+    "name": "Confluence",
+    "link": "confluence.html"
+  },
+  {
+    "name": "共識",
+    "link": "consensus.html"
+  },
+  {
+    "name": "共識演算法",
+    "link": "consensus-algorithm.html"
+  },
+  {
+    "name": "共識層客戶端",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "共識層",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "共識機制",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "君士坦丁堡分叉",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "Consumer Price Index (CPI)",
+    "link": "consumer-price-index-(cpi).html"
+  },
+  {
+    "name": "期貨升水與期貨貼水",
+    "link": "contango-and-backwardation.html"
+  },
+  {
+    "name": "合約",
+    "link": "contract.html"
+  },
+  {
+    "name": "合約帳戶",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "跟單交易",
+    "link": "copy-trading.html"
+  },
+  {
+    "name": "交易對手風險",
+    "link": "counterparty-risk.html"
+  },
+  {
+    "name": "Credentials",
+    "link": "credentials.html"
+  },
+  {
+    "name": "跨鏈橋",
+    "link": "cross-chain-bridges.html"
+  },
+  {
+    "name": "加密-",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "加密資產",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "加密貨幣賞金",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "加密-法規遵循",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "加密貨幣 ETF",
+    "link": "crypto-etfs.html"
+  },
+  {
+    "name": "加密貨幣恐懼與貪婪指數",
+    "link": "crypto-fear-and-greed-index.html"
+  },
+  {
+    "name": "加密貨幣基金",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "加密貨幣協定",
+    "link": "crypto-protocol.html"
+  },
+  {
+    "name": "加密貨幣錢包",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "加密貨幣寒冬",
+    "link": "crypto-winter.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "加密貨幣",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "加密經濟學",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "密碼學",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "託管",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "Daemon",
+    "link": "daemon.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "Dank 分片",
+    "link": "danksharding.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS攻擊",
+    "link": "ddos.html"
+  },
+  {
+    "name": "Dead Cat Bounce",
+    "link": "dead-cat-bounce.html"
+  },
+  {
+    "name": "死亡交叉",
+    "link": "death-cross.html"
+  },
+  {
+    "name": "去中心化",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "去中心化應用程式",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Decentralized Autonomous Cooperative (DAC)",
+    "link": "decentralized-autonomous-cooperative.html"
+  },
+  {
+    "name": "去中心化自治組織",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "去中心化交易所",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "去中心化金融",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "去中心化指數",
+    "link": "decentralized-indexes.html"
+  },
+  {
+    "name": "去中心化網路",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "Decryption",
+    "link": "decryption.html"
+  },
+  {
+    "name": "Deep Web",
+    "link": "deep-web.html"
+  },
+  {
+    "name": "去中心化金融",
+    "link": "defi.html"
+  },
+  {
+    "name": "DPoS",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "Delisting",
+    "link": "delisting.html"
+  },
+  {
+    "name": "以太幣",
+    "link": "denominations.html"
+  },
+  {
+    "name": "脫鉤",
+    "link": "depeg.html"
+  },
+  {
+    "name": "入金",
+    "link": "deposit.html"
+  },
+  {
+    "name": "蕭條",
+    "link": "depression.html"
+  },
+  {
+    "name": "金融衍生品",
+    "link": "derive.html"
+  },
+  {
+    "name": "Design Flaw Attack",
+    "link": "design-flaw-attack.html"
+  },
+  {
+    "name": "開發者",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "開發者",
+    "link": "developer.html"
+  },
+  {
+    "name": "去中心化交易所",
+    "link": "dex.html"
+  },
+  {
+    "name": "鑽石手",
+    "link": "diamond-hands.html"
+  },
+  {
+    "name": "難度值",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "難度炸彈",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "數位資產",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "數位身分",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "數位簽章",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "直接市場接入 (DMA)",
+    "link": "direct-market-access-dma.html"
+  },
+  {
+    "name": "分散式帳本技術",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "Divergence",
+    "link": "divergence.html"
+  },
+  {
+    "name": "Diversification",
+    "link": "diversification.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "做好研究 (DYOR)",
+    "link": "do-your-own-research.html"
+  },
+  {
+    "name": "Dollar Cost Averaging (DCA)",
+    "link": "dollar-cost-averaging.html"
+  },
+  {
+    "name": "點狀圖",
+    "link": "dot-plot.html"
+  },
+  {
+    "name": "雙重支付",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "Double Spending",
+    "link": "double-spending.html"
+  },
+  {
+    "name": "Eclipse Attack",
+    "link": "eclipse-attack.html"
+  },
+  {
+    "name": "生態圈",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "企業以太坊聯盟",
+    "link": "eea.html"
+  },
+  {
+    "name": "Efficient Market Hypothesis (EMH)",
+    "link": "efficient-market-hypothesis-emh.html"
+  },
+  {
+    "name": "EigenLayer",
+    "link": "eigenlayer.html"
+  },
+  {
+    "name": "EIP",
+    "link": "eip.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "EIP-3074",
+    "link": "eip-3074.html"
+  },
+  {
+    "name": "以太坊改進提案 4844 (EIP-4844)",
+    "link": "eip-4844.html"
+  },
+  {
+    "name": "EIP-7251",
+    "link": "eip-7251.html"
+  },
+  {
+    "name": "EIP-7702",
+    "link": "eip-7702.html"
+  },
+  {
+    "name": "彈性",
+    "link": "elasticity.html"
+  },
+  {
+    "name": "加密金鑰",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "加密",
+    "link": "encryption.html"
+  },
+  {
+    "name": "內生變數",
+    "link": "endogenous-variable.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "熵",
+    "link": "entropy.html"
+  },
+  {
+    "name": "時間週期",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-404",
+    "link": "erc-404.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETF",
+    "link": "etf.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "以太幣",
+    "link": "ether.html"
+  },
+  {
+    "name": "以太坊",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "以太坊經典",
+    "link": "ethereum-classic.html"
+  },
+  {
+    "name": "以太坊基金會",
+    "link": "ethereum-foundation.html"
+  },
+  {
+    "name": "以太坊改進提案",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "以太坊主網路",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "以太坊域名服務",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "以太坊虛擬機",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "以太坊虛擬機 (EVM)",
+    "link": "ethereum-virtual-machine-evm.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "交易所",
+    "link": "exchange.html"
+  },
+  {
+    "name": "執行客戶端",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "執行層",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "外生變數",
+    "link": "exogenous-variable.html"
+  },
+  {
+    "name": "指數移動平均線 (EMA)",
+    "link": "exponential-moving-average-ema.html"
+  },
+  {
+    "name": "外部持有帳戶 (EOA)",
+    "link": "externally-owned-account-eoa.html"
+  },
+  {
+    "name": "Fakeout",
+    "link": "fakeout.html"
+  },
+  {
+    "name": "Falling Knife",
+    "link": "falling-knife.html"
+  },
+  {
+    "name": "Fan Tokens",
+    "link": "fan-tokens.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "水龍頭",
+    "link": "faucet.html"
+  },
+  {
+    "name": "容錯",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "Fear Of Missing Out (FOMO)",
+    "link": "fear-of-missing-out.html"
+  },
+  {
+    "name": "Fear, Uncertainty and Doubt (FUD)",
+    "link": "fear-uncertainty-and-doubt.html"
+  },
+  {
+    "name": "Fiat",
+    "link": "fiat.html"
+  },
+  {
+    "name": "法定貨幣",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "Fibonacci Retracement",
+    "link": "fibonacci-retracement.html"
+  },
+  {
+    "name": "Fill Or Kill Order (FOK)",
+    "link": "fill-or-kill-order.html"
+  },
+  {
+    "name": "最終",
+    "link": "finality.html"
+  },
+  {
+    "name": "最終率",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "金融科技",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "芬尼",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "防火牆",
+    "link": "firewall.html"
+  },
+  {
+    "name": "韌體",
+    "link": "firmware.html"
+  },
+  {
+    "name": "First-Mover Advantage (FMA)",
+    "link": "first-mover-advantage.html"
+  },
+  {
+    "name": "財政政策",
+    "link": "fiscal-policy.html"
+  },
+  {
+    "name": "Flappening",
+    "link": "flappening.html"
+  },
+  {
+    "name": "Flashbots",
+    "link": "flashbots.html"
+  },
+  {
+    "name": "Flippening",
+    "link": "flippening.html"
+  },
+  {
+    "name": "流量變數",
+    "link": "flow-variable.html"
+  },
+  {
+    "name": "Forced Liquidation",
+    "link": "forced-liquidation.html"
+  },
+  {
+    "name": "Forex (FX)",
+    "link": "forex-fx.html"
+  },
+  {
+    "name": "分叉",
+    "link": "fork.html"
+  },
+  {
+    "name": "Formal Verification",
+    "link": "formal-verification.html"
+  },
+  {
+    "name": "部分所有權",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "欺詐證明",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "Fren",
+    "link": "fren.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "完整節點",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Fully Diluted Valuation (FDV)",
+    "link": "fully-diluted-valuation-fdv.html"
+  },
+  {
+    "name": "基本分析 (FA)",
+    "link": "fundamental-analysis.html"
+  },
+  {
+    "name": "資金費用",
+    "link": "funding-fees.html"
+  },
+  {
+    "name": "Fungibility",
+    "link": "fungibility.html"
+  },
+  {
+    "name": "Futures Contract",
+    "link": "futures-contract.html"
+  },
+  {
+    "name": "GameFi",
+    "link": "gamefi.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "Gas",
+    "link": "gas.html"
+  },
+  {
+    "name": "礦工費",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "Gas 上限",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "Gas 計價",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "國內生產毛額平減指數",
+    "link": "gdp-deflator.html"
+  },
+  {
+    "name": "General Public License",
+    "link": "general-public-license.html"
+  },
+  {
+    "name": "創世區塊",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "GM (早安)",
+    "link": "gm-good-morning.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "Golden Cross",
+    "link": "golden-cross.html"
+  },
+  {
+    "name": "黃金比例",
+    "link": "golden-ratio.html"
+  },
+  {
+    "name": "金髮女孩",
+    "link": "goldilocks.html"
+  },
+  {
+    "name": "Gossip Protocol",
+    "link": "gossip-protocol.html"
+  },
+  {
+    "name": "治理",
+    "link": "governance.html"
+  },
+  {
+    "name": "國內生產毛額 (GDP)",
+    "link": "gross-domestic-product-gdp.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "Gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "Hackathon",
+    "link": "hackathon.html"
+  },
+  {
+    "name": "Hacker",
+    "link": "hacker.html"
+  },
+  {
+    "name": "Haha Money Printer Go Brrrrr",
+    "link": "haha-money-printer-go-brrrrr.html"
+  },
+  {
+    "name": "減半",
+    "link": "halving.html"
+  },
+  {
+    "name": "Hard Cap",
+    "link": "hard-cap.html"
+  },
+  {
+    "name": "硬分叉",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "硬著陸",
+    "link": "hard-landing.html"
+  },
+  {
+    "name": "硬體錢包",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "雜湊",
+    "link": "hash.html"
+  },
+  {
+    "name": "Hash Rate",
+    "link": "hash-rate.html"
+  },
+  {
+    "name": "Hashed TimeLock Contract (HTLC)",
+    "link": "hashed-timelock-contract.html"
+  },
+  {
+    "name": "分層確定式錢包",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "羊群效應",
+    "link": "herd-instinct.html"
+  },
+  {
+    "name": "十六進位",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "High-Frequency Trading (HFT)",
+    "link": "high-frequency-trading-hft.html"
+  },
+  {
+    "name": "HODL",
+    "link": "hodl.html"
+  },
+  {
+    "name": "Honeypot",
+    "link": "honeypot.html"
+  },
+  {
+    "name": "熱儲存",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "熱錢包",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "混合式區塊鏈",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "超級帳本",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "區塊鏈間通訊 (IBC)",
+    "link": "ibc.html"
+  },
+  {
+    "name": "Iceberg Order",
+    "link": "iceberg-order.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "不可篡改",
+    "link": "immutability.html"
+  },
+  {
+    "name": "指數基金",
+    "link": "index-funds.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "Initial Coin Offering (ICO)",
+    "link": "initial-coin-offering.html"
+  },
+  {
+    "name": "首次 Dex 發行 (IDO)",
+    "link": "initial-dex-offering-ido.html"
+  },
+  {
+    "name": "Initial Exchange Offering (IEO)",
+    "link": "initial-exchange-offering.html"
+  },
+  {
+    "name": "Initial Public Offering (IPO)",
+    "link": "initial-public-offering.html"
+  },
+  {
+    "name": "銘文",
+    "link": "inscription.html"
+  },
+  {
+    "name": "內線交易",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "Integrated Circuit (IC)",
+    "link": "integrated-circuit.html"
+  },
+  {
+    "name": "利率",
+    "link": "interest-rates.html"
+  },
+  {
+    "name": "內部交易",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "互操作性",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "星際檔案系統 (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-ipfs.html"
+  },
+  {
+    "name": "欠條 (IOU)",
+    "link": "iou.html"
+  },
+  {
+    "name": "IP 位址",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Isolated Margin",
+    "link": "isolated-margin.html"
+  },
+  {
+    "name": "Issuance",
+    "link": "issuance.html"
+  },
+  {
+    "name": "JSON 檔案",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "Keccak",
+    "link": "keccak.html"
+  },
+  {
+    "name": "keystore 檔案",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "認識你的客戶",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "認識你的交易",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Laspeyres Index",
+    "link": "laspeyres-index.html"
+  },
+  {
+    "name": "Latency",
+    "link": "latency.html"
+  },
+  {
+    "name": "Lattice2",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Launchpad",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "Law of Demand",
+    "link": "law-of-demand.html"
+  },
+  {
+    "name": "第 1 層",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "第 2 層",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Ledger Live 應用程式",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "Leveraged Tokens",
+    "link": "leveraged-tokens.html"
+  },
+  {
+    "name": "函式庫",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "輕客戶端",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "限價單",
+    "link": "limit-order.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "Linux",
+    "link": "linux.html"
+  },
+  {
+    "name": "流動性質押",
+    "link": "liquid-staking.html"
+  },
+  {
+    "name": "流動性質押代幣 (LST)",
+    "link": "liquid-staking-token-lst.html"
+  },
+  {
+    "name": "清算",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "流動性",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "流動性危機",
+    "link": "liquidity-crisis.html"
+  },
+  {
+    "name": "流動性池",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "流動性提供商",
+    "link": "liquidity-provider.html"
+  },
+  {
+    "name": "流動資產比率",
+    "link": "liquidity-ratios.html"
+  },
+  {
+    "name": "流動性質押",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "Listing",
+    "link": "listing.html"
+  },
+  {
+    "name": "主網",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Mainnet Swap",
+    "link": "mainnet-swap.html"
+  },
+  {
+    "name": "Maker",
+    "link": "maker.html"
+  },
+  {
+    "name": "Maker協議",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "惡意軟體",
+    "link": "malware.html"
+  },
+  {
+    "name": "Margin Trading",
+    "link": "margin-trading.html"
+  },
+  {
+    "name": "市值",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "市值",
+    "link": "market-capitalization.html"
+  },
+  {
+    "name": "Market Momentum",
+    "link": "market-momentum.html"
+  },
+  {
+    "name": "市價單",
+    "link": "market-order.html"
+  },
+  {
+    "name": "Masternode",
+    "link": "masternode.html"
+  },
+  {
+    "name": "媒合引擎",
+    "link": "matching-engine.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "Maximum Supply",
+    "link": "maximum-supply.html"
+  },
+  {
+    "name": "記憶體池",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "記憶池",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "合併",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merged Mining",
+    "link": "merged-mining.html"
+  },
+  {
+    "name": "梅克爾樹",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "雜湊樹",
+    "link": "merkle-tree.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "詮釋資料",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "元宇宙",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "最大可提取價值",
+    "link": "mev.html"
+  },
+  {
+    "name": "多重要素驗證 (MFA)",
+    "link": "mfa.html"
+  },
+  {
+    "name": "微交易",
+    "link": "microtransactions.html"
+  },
+  {
+    "name": "礦工",
+    "link": "miner.html"
+  },
+  {
+    "name": "礦工小費",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "挖礦",
+    "link": "mining.html"
+  },
+  {
+    "name": "Mining Farm",
+    "link": "mining-farm.html"
+  },
+  {
+    "name": "鑄造",
+    "link": "mint.html"
+  },
+  {
+    "name": "助記詞",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "模塊化區塊鏈",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "貨幣政策",
+    "link": "monetary-policy.html"
+  },
+  {
+    "name": "貨幣市場",
+    "link": "money-markets.html"
+  },
+  {
+    "name": "監控標籤",
+    "link": "monitoring-tag.html"
+  },
+  {
+    "name": "Moon",
+    "link": "moon.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "移動平均線軌道",
+    "link": "moving-average-envelopes.html"
+  },
+  {
+    "name": "移動平均線緞帶",
+    "link": "moving-average-ribbon.html"
+  },
+  {
+    "name": "Mt. Gox",
+    "link": "mt-gox.html"
+  },
+  {
+    "name": "多簽錢包",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "多簽錢包",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "Multisignature",
+    "link": "multisignature.html"
+  },
+  {
+    "name": "Nakamoto 共識",
+    "link": "nakamoto-consensus.html"
+  },
+  {
+    "name": "巢狀區塊鏈",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "淨資產價值 (NAV)",
+    "link": "net-asset-value-nav.html"
+  },
+  {
+    "name": "網路",
+    "link": "network.html"
+  },
+  {
+    "name": "網路壅塞",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "近距離無線通訊",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT 聚合器",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "NFT 投放",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "NFT 底價",
+    "link": "nft-floor-prices.html"
+  },
+  {
+    "name": "NFT Mystery Boxes",
+    "link": "nft-mystery-boxes.html"
+  },
+  {
+    "name": "NGMI",
+    "link": "ngmi.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "節點",
+    "link": "node.html"
+  },
+  {
+    "name": "非同質化代幣",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "非同質化代幣 (NFT)",
+    "link": "non-fungible-token-nft.html"
+  },
+  {
+    "name": "僅使用一次的數字",
+    "link": "nonce.html"
+  },
+  {
+    "name": "OCO Order",
+    "link": "oco-order.html"
+  },
+  {
+    "name": "鏈下",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "出金",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "離線簽署協調器 (OSO)",
+    "link": "offline-signing-orchestrator-oso.html"
+  },
+  {
+    "name": "Offshore account",
+    "link": "offshore-account.html"
+  },
+  {
+    "name": "叔塊",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "鏈上",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "入金",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "opBNB",
+    "link": "opbnb.html"
+  },
+  {
+    "name": "Open-Source Software (OSS)",
+    "link": "open-source-software-oss.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "機會成本",
+    "link": "opportunity-cost.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "Optimistic Rollup",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "預言機",
+    "link": "oracle.html"
+  },
+  {
+    "name": "ORC-20 代幣",
+    "link": "orc-20-tokens.html"
+  },
+  {
+    "name": "訂單簿",
+    "link": "order-book.html"
+  },
+  {
+    "name": "Ordinals",
+    "link": "ordinals.html"
+  },
+  {
+    "name": "Orphan Block",
+    "link": "orphan-block.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "PancakeSwap",
+    "link": "pancakeswap.html"
+  },
+  {
+    "name": "Paper Wallet",
+    "link": "paper-wallet.html"
+  },
+  {
+    "name": "並行化",
+    "link": "parallelization.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "同等",
+    "link": "parity.html"
+  },
+  {
+    "name": "Passive Management",
+    "link": "passive-management.html"
+  },
+  {
+    "name": "助記詞",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "密碼",
+    "link": "password.html"
+  },
+  {
+    "name": "密鑰管理員",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "點對點",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "掛鉤貨幣",
+    "link": "pegged-currency.html"
+  },
+  {
+    "name": "認許制帳本",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "非許可制區塊鏈",
+    "link": "permissionless-blockchain.html"
+  },
+  {
+    "name": "網路釣魚",
+    "link": "phishing.html"
+  },
+  {
+    "name": "公鑰基礎建設 (PKI)",
+    "link": "pki.html"
+  },
+  {
+    "name": "以太坊等離子體",
+    "link": "plasma.html"
+  },
+  {
+    "name": "授權證明",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polkadot Crowdloan",
+    "link": "polkadot-crowdloan.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "Ponzi Scheme",
+    "link": "ponzi-scheme.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "預挖礦",
+    "link": "premining.html"
+  },
+  {
+    "name": "Price Action",
+    "link": "price-action.html"
+  },
+  {
+    "name": "Prisoner's Dilemma",
+    "link": "prisoners-dilemma.html"
+  },
+  {
+    "name": "私鏈",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "私人貨幣",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "私鑰",
+    "link": "private-key.html"
+  },
+  {
+    "name": "Private Sale",
+    "link": "private-sale.html"
+  },
+  {
+    "name": "Progressive Web application (PWA)",
+    "link": "progressive-web-application.html"
+  },
+  {
+    "name": "Proof of Attendance Protocol (POAP)",
+    "link": "proof-of-attendance-protocol-poap.html"
+  },
+  {
+    "name": "儲備證明 (PoR)",
+    "link": "proof-of-reserves-por.html"
+  },
+  {
+    "name": "權益證明",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "權益權威證明 (PoSA)",
+    "link": "proof-of-staked-authority-posa.html"
+  },
+  {
+    "name": "工作量證明",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "Proposer-Builder Separation (PBS)",
+    "link": "proposer-builder-separation-pbs.html"
+  },
+  {
+    "name": "Proto-Dank 分片",
+    "link": "proto-danksharding.html"
+  },
+  {
+    "name": "協議",
+    "link": "protocol.html"
+  },
+  {
+    "name": "Pseudorandom",
+    "link": "pseudorandom.html"
+  },
+  {
+    "name": "收款地址",
+    "link": "public-address.html"
+  },
+  {
+    "name": "公有鏈",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "公開金鑰",
+    "link": "public-key.html"
+  },
+  {
+    "name": "公鑰密碼學",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "拉高拋售",
+    "link": "pump-and-dump.html"
+  },
+  {
+    "name": "QR碼",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "量化寬鬆 (QE)",
+    "link": "quantitative-easing-qe.html"
+  },
+  {
+    "name": "量化緊縮 (QT)",
+    "link": "quantitative-tightening-qt.html"
+  },
+  {
+    "name": "Quantum Computing",
+    "link": "quantum-computing.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Race attack",
+    "link": "race-attack.html"
+  },
+  {
+    "name": "Ransomware",
+    "link": "ransomware.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "現實世界資產 (RWA)",
+    "link": "real-world-assets-rwas.html"
+  },
+  {
+    "name": "經濟衰退",
+    "link": "recession.html"
+  },
+  {
+    "name": "遞歸銘文",
+    "link": "recursive-inscription.html"
+  },
+  {
+    "name": "Rekt",
+    "link": "rekt.html"
+  },
+  {
+    "name": "Relative Strength Index (RSI)",
+    "link": "relative-strength-index.html"
+  },
+  {
+    "name": "中繼器",
+    "link": "relayer.html"
+  },
+  {
+    "name": "遠端程序呼叫",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Resistance",
+    "link": "resistance.html"
+  },
+  {
+    "name": "Return on Investment (ROI)",
+    "link": "return-on-investment.html"
+  },
+  {
+    "name": "報復性交易",
+    "link": "revenge-trading.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "風險溢酬",
+    "link": "risk-premium.html"
+  },
+  {
+    "name": "發展路線圖",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "交易卷",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "Routing Attack",
+    "link": "routing-attack.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "Rug Pull 騙局",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "薩姆規則",
+    "link": "sahm-rule.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "沙盒",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "三明治交易",
+    "link": "sandwich-trading.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi",
+    "link": "satoshi.html"
+  },
+  {
+    "name": "中本聰",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "可擴展性",
+    "link": "scalability.html"
+  },
+  {
+    "name": "擴展",
+    "link": "scaling.html"
+  },
+  {
+    "name": "詐騙",
+    "link": "scam.html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "搜尋引擎",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "助記詞",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "用戶資產安全基金 (SAFU)",
+    "link": "secure-asset-fund-for-users.html"
+  },
+  {
+    "name": "美國證券交易委員會 (SEC)",
+    "link": "securities-and-exchange-commission.html"
+  },
+  {
+    "name": "Security Audit",
+    "link": "security-audit.html"
+  },
+  {
+    "name": "證券型代幣",
+    "link": "security-token.html"
+  },
+  {
+    "name": "證券型代幣發行",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "證券型代幣發行 (STO)",
+    "link": "security-token-offering-sto.html"
+  },
+  {
+    "name": "助記詞",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "種子標籤",
+    "link": "seed-tag.html"
+  },
+  {
+    "name": "隔離見證 (SegWit)",
+    "link": "segregated-witness.html"
+  },
+  {
+    "name": "自行監管",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "自動執行",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Selfish Mining",
+    "link": "selfish-mining.html"
+  },
+  {
+    "name": "Sell Wall",
+    "link": "sell-wall.html"
+  },
+  {
+    "name": "Sentiment",
+    "link": "sentiment.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "序列化",
+    "link": "serialization.html"
+  },
+  {
+    "name": "分片鏈",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "分片",
+    "link": "sharding.html"
+  },
+  {
+    "name": "Sharpe Ratio",
+    "link": "sharpe-ratio.html"
+  },
+  {
+    "name": "匿名交易",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "側鏈",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "側鏈",
+    "link": "sidechains.html"
+  },
+  {
+    "name": "簡單移動平均線 (SMA)",
+    "link": "simple-moving-average-sma.html"
+  },
+  {
+    "name": "罰沒",
+    "link": "slashing.html"
+  },
+  {
+    "name": "刪砍條件",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "滑點",
+    "link": "slippage.html"
+  },
+  {
+    "name": "時段",
+    "link": "slot.html"
+  },
+  {
+    "name": "智能合約",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "智能合約錢包",
+    "link": "smart-contract-wallet.html"
+  },
+  {
+    "name": "Snapshot",
+    "link": "snapshot.html"
+  },
+  {
+    "name": "社交恢復錢包",
+    "link": "social-recovery-wallet.html"
+  },
+  {
+    "name": "社交交易",
+    "link": "social-trading.html"
+  },
+  {
+    "name": "SocialFi",
+    "link": "socialfi.html"
+  },
+  {
+    "name": "軟分叉",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "軟著陸",
+    "link": "soft-landing.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "Source Code",
+    "link": "source-code.html"
+  },
+  {
+    "name": "SPL",
+    "link": "spl.html"
+  },
+  {
+    "name": "SRC-20 代幣",
+    "link": "src-20-tokens.html"
+  },
+  {
+    "name": "穩定幣",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "停滯性通膨",
+    "link": "stagflation.html"
+  },
+  {
+    "name": "質押權益",
+    "link": "stake.html"
+  },
+  {
+    "name": "質押",
+    "link": "staking.html"
+  },
+  {
+    "name": "Staking Pool",
+    "link": "staking-pool.html"
+  },
+  {
+    "name": "狀態",
+    "link": "state.html"
+  },
+  {
+    "name": "State Channel",
+    "link": "state-channel.html"
+  },
+  {
+    "name": "狀態通道",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "stETH",
+    "link": "steth.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "存量變數",
+    "link": "stock-variable.html"
+  },
+  {
+    "name": "Store of Value",
+    "link": "store-of-value.html"
+  },
+  {
+    "name": "金流",
+    "link": "streaming.html"
+  },
+  {
+    "name": "Supercomputer",
+    "link": "supercomputer.html"
+  },
+  {
+    "name": "Supply Chain",
+    "link": "supply-chain.html"
+  },
+  {
+    "name": "Support",
+    "link": "support.html"
+  },
+  {
+    "name": "換幣",
+    "link": "swap.html"
+  },
+  {
+    "name": "女巫攻擊 (Sybil attacks)",
+    "link": "sybil-attack.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Taker",
+    "link": "taker.html"
+  },
+  {
+    "name": "Tank",
+    "link": "tank.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "測試網路",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Testnet Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Testnet Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Testnet Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "Ticker",
+    "link": "ticker.html"
+  },
+  {
+    "name": "交易代號",
+    "link": "ticker-symbol.html"
+  },
+  {
+    "name": "代幣",
+    "link": "token.html"
+  },
+  {
+    "name": "代幣生成事件 (TGE)",
+    "link": "token-generation-event-tge.html"
+  },
+  {
+    "name": "代幣鎖倉",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "代幣合併",
+    "link": "token-merge.html"
+  },
+  {
+    "name": "Token Sale",
+    "link": "token-sale.html"
+  },
+  {
+    "name": "代幣標準",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "代幣標準",
+    "link": "token-standards.html"
+  },
+  {
+    "name": "代幣化",
+    "link": "tokenization.html"
+  },
+  {
+    "name": "代幣經濟",
+    "link": "tokenomics.html"
+  },
+  {
+    "name": "Total Supply",
+    "link": "total-supply.html"
+  },
+  {
+    "name": "總鎖定價值 (TVL)",
+    "link": "total-value-locked-tvl.html"
+  },
+  {
+    "name": "TradFi",
+    "link": "tradfi.html"
+  },
+  {
+    "name": "交易",
+    "link": "transaction.html"
+  },
+  {
+    "name": "交易區塊",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "交易手續費",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "交易ID",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "交易池",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transactions Per Second (TPS)",
+    "link": "transactions-per-second-tps.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "國庫券 (T-bills)",
+    "link": "treasury-bills-t-bills.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "TrueUSD (TUSD)",
+    "link": "trueusd-tusd.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "去信任化",
+    "link": "trustless.html"
+  },
+  {
+    "name": "圖靈完備",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "鎖幣總值",
+    "link": "tvl.html"
+  },
+  {
+    "name": "交易 ID",
+    "link": "txid.html"
+  },
+  {
+    "name": "通用第二因素",
+    "link": "u2f.html"
+  },
+  {
+    "name": "了解數字 4 之於 CZ 的意義",
+    "link": "understanding-cz-s-number-4.html"
+  },
+  {
+    "name": "未加密金鑰",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "Unit of Account",
+    "link": "unit-of-account.html"
+  },
+  {
+    "name": "未花費交易輸出",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "Unspent Transaction Output (UTXO)",
+    "link": "unspent-transaction-output-utxo.html"
+  },
+  {
+    "name": "解質押",
+    "link": "unstake.html"
+  },
+  {
+    "name": "升級",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "User Interface (UI)",
+    "link": "user-interface.html"
+  },
+  {
+    "name": "功能型代幣",
+    "link": "utility-token.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "區塊鏈驗證人",
+    "link": "validator.html"
+  },
+  {
+    "name": "有效證明",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "Verification Code",
+    "link": "verification-code.html"
+  },
+  {
+    "name": "限量交易",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "Virtual Machine",
+    "link": "virtual-machine.html"
+  },
+  {
+    "name": "Vladimir Club",
+    "link": "vladimir-club.html"
+  },
+  {
+    "name": "Volatility",
+    "link": "volatility.html"
+  },
+  {
+    "name": "Volume",
+    "link": "volume.html"
+  },
+  {
+    "name": "WAGMI",
+    "link": "wagmi.html"
+  },
+  {
+    "name": "錢包",
+    "link": "wallet.html"
+  },
+  {
+    "name": "錢包地址",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "洗量交易",
+    "link": "wash-trading.html"
+  },
+  {
+    "name": "Weak Hands",
+    "link": "weak-hands.html"
+  },
+  {
+    "name": "Weak Subjectivity",
+    "link": "weak-subjectivity.html"
+  },
+  {
+    "name": "Web 1.0",
+    "link": "web-1.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "Web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "加權移動平均線 (WMA)",
+    "link": "weighted-moving-average-wma.html"
+  },
+  {
+    "name": "Whale",
+    "link": "whale.html"
+  },
+  {
+    "name": "Whiskers",
+    "link": "whiskers.html"
+  },
+  {
+    "name": "Whitelist",
+    "link": "whitelist.html"
+  },
+  {
+    "name": "白皮書",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "Wick",
+    "link": "wick.html"
+  },
+  {
+    "name": "勝率",
+    "link": "win-rate.html"
+  },
+  {
+    "name": "Wrapped Ether (WETH)",
+    "link": "wrapped-ether.html"
+  },
+  {
+    "name": "包裝",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "威考夫",
+    "link": "wyckoff.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "擴展私鑰 (XPRIV)",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "擴展公鑰 (XPUB)",
+    "link": "xpub.html"
+  },
+  {
+    "name": "配息代幣",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "流動性挖礦",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "零地址",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "零知識證明",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "零知識證明",
+    "link": "zero-knowledge-proofs.html"
+  },
+  {
+    "name": "零知識匯總",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "zk 匯總",
+    "link": "zk-rollup.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "zk-STARKs",
+    "link": "zk-starks.html"
+  }
+]

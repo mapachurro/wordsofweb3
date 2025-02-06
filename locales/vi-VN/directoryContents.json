@@ -1,0 +1,3006 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "2FA",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "Tấn công 51%",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "Absolute Advantage",
+    "link": "absolute-advantage.html"
+  },
+  {
+    "name": "tài khoản",
+    "link": "account.html"
+  },
+  {
+    "name": "Chuyển tiền ACH",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "Active Management",
+    "link": "active-management.html"
+  },
+  {
+    "name": "Dịch vụ xác thực chủ động (AVS)",
+    "link": "actively-validated-services-avs.html"
+  },
+  {
+    "name": "Ad Hoc",
+    "link": "ad-hoc.html"
+  },
+  {
+    "name": "địa chỉ",
+    "link": "address.html"
+  },
+  {
+    "name": "nền tảng tổng hợp thanh khoản",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "khe hở không khí",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "tặng",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "thuật toán",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "All or None Order (AON)",
+    "link": "all-or-none-order.html"
+  },
+  {
+    "name": "All-Time High (ATH)",
+    "link": "all-time-high.html"
+  },
+  {
+    "name": "Allocation",
+    "link": "allocation.html"
+  },
+  {
+    "name": "Alpha",
+    "link": "alpha.html"
+  },
+  {
+    "name": "tiền thay thế",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "AML",
+    "link": "aml.html"
+  },
+  {
+    "name": "Angel Investor",
+    "link": "angel-investor.html"
+  },
+  {
+    "name": "Chống rửa tiền (AML)",
+    "link": "anti-money-laundering.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Application Programming Interface (API)",
+    "link": "application-programming-interface.html"
+  },
+  {
+    "name": "Application-Specific Integrated Circuit (ASIC)",
+    "link": "application-specific-integrated-circuit.html"
+  },
+  {
+    "name": "Kinh doanh chênh lệch giá",
+    "link": "arbitrage.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ARC-20",
+    "link": "arc-20.html"
+  },
+  {
+    "name": "Trí tuệ nhân tạo (AI)",
+    "link": "artificial-intelligence-ai.html"
+  },
+  {
+    "name": "ASIC",
+    "link": "asic.html"
+  },
+  {
+    "name": "ASIC-resistant",
+    "link": "asic-resistant.html"
+  },
+  {
+    "name": "Ask Price",
+    "link": "asking-price.html"
+  },
+  {
+    "name": "Asset Management",
+    "link": "asset-management.html"
+  },
+  {
+    "name": "nguồn gốc tài sản",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "Tài sản được quản lý (AUM)",
+    "link": "assets-under-management-aum.html"
+  },
+  {
+    "name": "Asynchronous",
+    "link": "asynchronous.html"
+  },
+  {
+    "name": "Atomic Swap",
+    "link": "atomic-swap.html"
+  },
+  {
+    "name": "Attack surface",
+    "link": "attack-surface.html"
+  },
+  {
+    "name": "chứng thực",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Auction",
+    "link": "auction.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Công cụ tạo lập thị trường tự động (AMM)",
+    "link": "automated-market-maker-amm.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "B-Token",
+    "link": "b-tokens.html"
+  },
+  {
+    "name": "Bags",
+    "link": "bags.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Chuỗi Beacon",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Bear Market",
+    "link": "bear-market.html"
+  },
+  {
+    "name": "Benchmark",
+    "link": "benchmark.html"
+  },
+  {
+    "name": "BEP-1155",
+    "link": "bep-1155.html"
+  },
+  {
+    "name": "BEP-20",
+    "link": "bep-20.html"
+  },
+  {
+    "name": "BEP-721",
+    "link": "bep-721.html"
+  },
+  {
+    "name": "BEP-95",
+    "link": "bep-95.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Beta (Coefficient)",
+    "link": "beta-coefficient.html"
+  },
+  {
+    "name": "Beta (Release)",
+    "link": "beta-release.html"
+  },
+  {
+    "name": "Bid-Ask Spread",
+    "link": "bid-ask-spread.html"
+  },
+  {
+    "name": "Bid Price",
+    "link": "bid-price.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Blockchain Charity Foundation",
+    "link": "binance-blockchain-charity-foundation.html"
+  },
+  {
+    "name": "Binance Ecosystem Fund (BEF)",
+    "link": "binance-ecosystem-fund.html"
+  },
+  {
+    "name": "Binancian",
+    "link": "binancian.html"
+  },
+  {
+    "name": "Bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "Bitcoin Core",
+    "link": "bitcoin-core.html"
+  },
+  {
+    "name": "Bitcoin Dominance",
+    "link": "bitcoin-dominance.html"
+  },
+  {
+    "name": "Bitcoin Maximalists",
+    "link": "bitcoin-maximalists.html"
+  },
+  {
+    "name": "Bitcoin Pizza",
+    "link": "bitcoin-pizza.html"
+  },
+  {
+    "name": "Black Swan Event",
+    "link": "black-swan-event.html"
+  },
+  {
+    "name": "khối",
+    "link": "block.html"
+  },
+  {
+    "name": "trình khám phá khối",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "Block header",
+    "link": "block-header.html"
+  },
+  {
+    "name": "chiều cao khối",
+    "link": "block-height.html"
+  },
+  {
+    "name": "phần thưởng khối",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "thời gian đóng khối",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "chuỗi khối",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "trình khám phá chuỗi khối",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "bộ ba bất khả thi của chuỗi khối",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "Bloom Filter",
+    "link": "bloom-filter.html"
+  },
+  {
+    "name": "Token Blue-Chip",
+    "link": "blue-chip-token.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "BNSOL",
+    "link": "bnsol.html"
+  },
+  {
+    "name": "Bollinger Bands",
+    "link": "bollinger-bands.html"
+  },
+  {
+    "name": "Trái phiếu",
+    "link": "bond.html"
+  },
+  {
+    "name": "tiền thưởng",
+    "link": "bounty.html"
+  },
+  {
+    "name": "ví trí nhớ",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "Token BRC-20",
+    "link": "brc-20-tokens.html"
+  },
+  {
+    "name": "Break-Even Point (BEP)",
+    "link": "break-even-point.html"
+  },
+  {
+    "name": "Breakeven Multiple",
+    "link": "breakeven-multiple.html"
+  },
+  {
+    "name": "Breakout",
+    "link": "breakout.html"
+  },
+  {
+    "name": "cầu nối",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BscScan",
+    "link": "bscscan.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "Địa chỉ Ví BTC",
+    "link": "btc-wallet-address.html"
+  },
+  {
+    "name": "BUIDL",
+    "link": "buidl.html"
+  },
+  {
+    "name": "Bull Market",
+    "link": "bull-market.html"
+  },
+  {
+    "name": "Ví Burner",
+    "link": "burner-wallet.html"
+  },
+  {
+    "name": "Buy Wall",
+    "link": "buy-wall.html"
+  },
+  {
+    "name": "mã byte",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "Hệ thống chịu lỗi Byzantine",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "phân nhánh Byzantium",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Khối ứng viên",
+    "link": "candidate-block.html"
+  },
+  {
+    "name": "Candlestick",
+    "link": "candlestick.html"
+  },
+  {
+    "name": "Capitulation",
+    "link": "capitulation.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "This site can’t be reached",
+    "link": "censorship-resistance.html"
+  },
+  {
+    "name": "Central Bank",
+    "link": "central-bank.html"
+  },
+  {
+    "name": "Tiền kỹ thuật số của Ngân hàng Trung ương (CBDC)",
+    "link": "central-bank-digital-currency-cbdc.html"
+  },
+  {
+    "name": "Central Processing Unit (CPU)",
+    "link": "central-processing-unit.html"
+  },
+  {
+    "name": "Centralized",
+    "link": "centralized.html"
+  },
+  {
+    "name": "sàn giao dịch tập trung",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "ID chuỗi",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "ChatGPT",
+    "link": "chatgpt.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "Cipher",
+    "link": "cipher.html"
+  },
+  {
+    "name": "Circulating Supply",
+    "link": "circulating-supply.html"
+  },
+  {
+    "name": "khách hàng",
+    "link": "client.html"
+  },
+  {
+    "name": "Cloud",
+    "link": "cloud.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "đồng",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "kho lạnh",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "ví lạnh",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "Collateral",
+    "link": "collateral.html"
+  },
+  {
+    "name": "Colocation",
+    "link": "colocation.html"
+  },
+  {
+    "name": "Commodity Futures Trading Commission (CFTC)",
+    "link": "commodity-futures-trading-commission.html"
+  },
+  {
+    "name": "biên dịch",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "Lãi kép",
+    "link": "compound-interest.html"
+  },
+  {
+    "name": "xác nhận",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "Thời gian xác nhận",
+    "link": "confirmation-time.html"
+  },
+  {
+    "name": "Confluence",
+    "link": "confluence.html"
+  },
+  {
+    "name": "đồng thuận",
+    "link": "consensus.html"
+  },
+  {
+    "name": "Thuật toán đồng thuận",
+    "link": "consensus-algorithm.html"
+  },
+  {
+    "name": "ứng dụng đồng thuận",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "lớp đồng thuận",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "cơ chế đồng thuận",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Phân nhánh Constantinople",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "Consumer Price Index (CPI)",
+    "link": "consumer-price-index-(cpi).html"
+  },
+  {
+    "name": "Bù hoãn mua và bù hoãn bán",
+    "link": "contango-and-backwardation.html"
+  },
+  {
+    "name": "hợp đồng",
+    "link": "contract.html"
+  },
+  {
+    "name": "tài khoản hợp đồng",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "Sao chép giao dịch",
+    "link": "copy-trading.html"
+  },
+  {
+    "name": "Không có rủi ro đến từ đối tác",
+    "link": "counterparty-risk.html"
+  },
+  {
+    "name": "Credentials",
+    "link": "credentials.html"
+  },
+  {
+    "name": "Các cầu nối xuyên chuỗi chéo",
+    "link": "cross-chain-bridges.html"
+  },
+  {
+    "name": "tiền mã hoá",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "tài sản tiền mã hoá",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "tiền thưởng tiền mã hoá",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "tuân thủ tiền mã hoá",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "ETF tiền mã hóa",
+    "link": "crypto-etfs.html"
+  },
+  {
+    "name": "Chỉ số Sợ hãi và Tham lam của Tiền mã hoá",
+    "link": "crypto-fear-and-greed-index.html"
+  },
+  {
+    "name": "quỹ tiền mã hoá",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "Giao thức tiền mã hóa",
+    "link": "crypto-protocol.html"
+  },
+  {
+    "name": "ví tiền mã hoá",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "Mùa Đông Tiền Mã Hóa",
+    "link": "crypto-winter.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "tiền mã hoá",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "kinh tế tiền mã hoá",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "mật mã học",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "dịch vụ lưu ký",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "Daemon",
+    "link": "daemon.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "Danksharding",
+    "link": "danksharding.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS",
+    "link": "ddos.html"
+  },
+  {
+    "name": "Dead Cat Bounce",
+    "link": "dead-cat-bounce.html"
+  },
+  {
+    "name": "Điểm giao cắt tử thần",
+    "link": "death-cross.html"
+  },
+  {
+    "name": "phi tập trung",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "ứng dụng phi tập trung",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Decentralized Autonomous Cooperative (DAC)",
+    "link": "decentralized-autonomous-cooperative.html"
+  },
+  {
+    "name": "Tổ chức tự trị phi tập trung",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "sàn giao dịch phi tập trung",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "tài chính phi tập trung",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "Chỉ số phi tập trung",
+    "link": "decentralized-indexes.html"
+  },
+  {
+    "name": "trang web phi tập trung",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "Decryption",
+    "link": "decryption.html"
+  },
+  {
+    "name": "Deep Web",
+    "link": "deep-web.html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "Bằng chứng cổ phần được ủy quyền (DPoS)",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "Delisting",
+    "link": "delisting.html"
+  },
+  {
+    "name": "mệnh giá",
+    "link": "denominations.html"
+  },
+  {
+    "name": "Depeg",
+    "link": "depeg.html"
+  },
+  {
+    "name": "gửi tiền",
+    "link": "deposit.html"
+  },
+  {
+    "name": "Suy thoái kinh tế",
+    "link": "depression.html"
+  },
+  {
+    "name": "phái sinh",
+    "link": "derive.html"
+  },
+  {
+    "name": "Design Flaw Attack",
+    "link": "design-flaw-attack.html"
+  },
+  {
+    "name": "nhà lập trình",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "nhà lập trình",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "Bàn tay kim cương",
+    "link": "diamond-hands.html"
+  },
+  {
+    "name": "độ khó",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "bom độ khó",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "tài sản kỹ thuật số",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "nhận dạng kỹ thuật số",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "chữ ký số",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Tiếp cận thị trường trực tiếp (DMA)",
+    "link": "direct-market-access-dma.html"
+  },
+  {
+    "name": "Công nghệ sổ cái phân tán",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "Divergence",
+    "link": "divergence.html"
+  },
+  {
+    "name": "Diversification",
+    "link": "diversification.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "Tự nghiên cứu (DYOR)",
+    "link": "do-your-own-research.html"
+  },
+  {
+    "name": "Dollar Cost Averaging (DCA)",
+    "link": "dollar-cost-averaging.html"
+  },
+  {
+    "name": "Biểu đồ chấm",
+    "link": "dot-plot.html"
+  },
+  {
+    "name": "chi tiêu kép",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "Double Spending",
+    "link": "double-spending.html"
+  },
+  {
+    "name": "Eclipse Attack",
+    "link": "eclipse-attack.html"
+  },
+  {
+    "name": "hệ sinh thái",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "Efficient Market Hypothesis (EMH)",
+    "link": "efficient-market-hypothesis-emh.html"
+  },
+  {
+    "name": "EigenLayer",
+    "link": "eigenlayer.html"
+  },
+  {
+    "name": "EIP",
+    "link": "eip.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "EIP-3074",
+    "link": "eip-3074.html"
+  },
+  {
+    "name": "EIP-4844",
+    "link": "eip-4844.html"
+  },
+  {
+    "name": "EIP-7251",
+    "link": "eip-7251.html"
+  },
+  {
+    "name": "EIP-7702",
+    "link": "eip-7702.html"
+  },
+  {
+    "name": "Độ co giãn",
+    "link": "elasticity.html"
+  },
+  {
+    "name": "khóa được mã hóa",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "mã hóa",
+    "link": "encryption.html"
+  },
+  {
+    "name": "Biến nội sinh",
+    "link": "endogenous-variable.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "độ hỗn loạn",
+    "link": "entropy.html"
+  },
+  {
+    "name": "epoch",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-404",
+    "link": "erc-404.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETF",
+    "link": "etf.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "Ethereum Classic",
+    "link": "ethereum-classic.html"
+  },
+  {
+    "name": "Ethereum Foundation",
+    "link": "ethereum-foundation.html"
+  },
+  {
+    "name": "Đề xuất cải tiến Ethereum",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Ethereum Mainnet",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "Dịch vụ đăng ký tên miền trên Ethereum (ENS)",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Máy ảo Ethereum",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Máy ảo Ethereum (EVM)",
+    "link": "ethereum-virtual-machine-evm.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "sàn giao dịch",
+    "link": "exchange.html"
+  },
+  {
+    "name": "ứng dụng thực thi",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "lớp thực thi",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Biến ngoại sinh",
+    "link": "exogenous-variable.html"
+  },
+  {
+    "name": "Đường trung bình động hàm mũ (EMA)",
+    "link": "exponential-moving-average-ema.html"
+  },
+  {
+    "name": "Tài khoản thuộc sở hữu bên ngoài (EOA)",
+    "link": "externally-owned-account-eoa.html"
+  },
+  {
+    "name": "Fakeout",
+    "link": "fakeout.html"
+  },
+  {
+    "name": "Falling Knife",
+    "link": "falling-knife.html"
+  },
+  {
+    "name": "Fan Tokens",
+    "link": "fan-tokens.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "vòi",
+    "link": "faucet.html"
+  },
+  {
+    "name": "khả năng chịu lỗi",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "Fear Of Missing Out (FOMO)",
+    "link": "fear-of-missing-out.html"
+  },
+  {
+    "name": "Fear, Uncertainty and Doubt (FUD)",
+    "link": "fear-uncertainty-and-doubt.html"
+  },
+  {
+    "name": "Fiat",
+    "link": "fiat.html"
+  },
+  {
+    "name": "tiền pháp định",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "Fibonacci Retracement",
+    "link": "fibonacci-retracement.html"
+  },
+  {
+    "name": "Fill Or Kill Order (FOK)",
+    "link": "fill-or-kill-order.html"
+  },
+  {
+    "name": "cuối cùng",
+    "link": "finality.html"
+  },
+  {
+    "name": "tỷ lệ cuối cùng",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "công nghệ tài chính",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "tường lửa",
+    "link": "firewall.html"
+  },
+  {
+    "name": "phần cứng",
+    "link": "firmware.html"
+  },
+  {
+    "name": "First-Mover Advantage (FMA)",
+    "link": "first-mover-advantage.html"
+  },
+  {
+    "name": "Chính sách tài khóa",
+    "link": "fiscal-policy.html"
+  },
+  {
+    "name": "Flappening",
+    "link": "flappening.html"
+  },
+  {
+    "name": "Flashbots",
+    "link": "flashbots.html"
+  },
+  {
+    "name": "Flippening",
+    "link": "flippening.html"
+  },
+  {
+    "name": "Biến lưu lượng",
+    "link": "flow-variable.html"
+  },
+  {
+    "name": "Forced Liquidation",
+    "link": "forced-liquidation.html"
+  },
+  {
+    "name": "Forex (FX)",
+    "link": "forex-fx.html"
+  },
+  {
+    "name": "phân nhánh",
+    "link": "fork.html"
+  },
+  {
+    "name": "Formal Verification",
+    "link": "formal-verification.html"
+  },
+  {
+    "name": "phân quyền sở hữu",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "bằng chứng gian lận",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "Fren",
+    "link": "fren.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "nút đầy đủ",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Fully Diluted Valuation (FDV)",
+    "link": "fully-diluted-valuation-fdv.html"
+  },
+  {
+    "name": "Phân tích cơ bản (FA)",
+    "link": "fundamental-analysis.html"
+  },
+  {
+    "name": "Phí funding",
+    "link": "funding-fees.html"
+  },
+  {
+    "name": "Fungibility",
+    "link": "fungibility.html"
+  },
+  {
+    "name": "Futures Contract",
+    "link": "futures-contract.html"
+  },
+  {
+    "name": "GameFi",
+    "link": "gamefi.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gas",
+    "link": "gas.html"
+  },
+  {
+    "name": "phí gas",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "hạn mức phí gas",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "giá gas",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "Chỉ số điều chỉnh GDP",
+    "link": "gdp-deflator.html"
+  },
+  {
+    "name": "General Public License",
+    "link": "general-public-license.html"
+  },
+  {
+    "name": "khối genesis",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "GM (Chào buổi sáng)",
+    "link": "gm-good-morning.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "Golden Cross",
+    "link": "golden-cross.html"
+  },
+  {
+    "name": "Tỷ lệ vàng",
+    "link": "golden-ratio.html"
+  },
+  {
+    "name": "Goldilocks",
+    "link": "goldilocks.html"
+  },
+  {
+    "name": "Gossip Protocol",
+    "link": "gossip-protocol.html"
+  },
+  {
+    "name": "quản trị",
+    "link": "governance.html"
+  },
+  {
+    "name": "Tổng sản phẩm quốc nội (GDP)",
+    "link": "gross-domestic-product-gdp.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "Hackathon",
+    "link": "hackathon.html"
+  },
+  {
+    "name": "Hacker",
+    "link": "hacker.html"
+  },
+  {
+    "name": "Haha Money Printer Go Brrrrr",
+    "link": "haha-money-printer-go-brrrrr.html"
+  },
+  {
+    "name": "chia đôi khối",
+    "link": "halving.html"
+  },
+  {
+    "name": "Hard Cap",
+    "link": "hard-cap.html"
+  },
+  {
+    "name": "phân nhánh cứng",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "Hạ cánh cứng",
+    "link": "hard-landing.html"
+  },
+  {
+    "name": "ví phần cứng",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "băm",
+    "link": "hash.html"
+  },
+  {
+    "name": "Hash Rate",
+    "link": "hash-rate.html"
+  },
+  {
+    "name": "Hashed TimeLock Contract (HTLC)",
+    "link": "hashed-timelock-contract.html"
+  },
+  {
+    "name": "Ví HD",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "Tâm lý đám đông",
+    "link": "herd-instinct.html"
+  },
+  {
+    "name": "шістнадцяткові дані",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "High-Frequency Trading (HFT)",
+    "link": "high-frequency-trading-hft.html"
+  },
+  {
+    "name": "HODL",
+    "link": "hodl.html"
+  },
+  {
+    "name": "Honeypot",
+    "link": "honeypot.html"
+  },
+  {
+    "name": "kho nóng",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "ví nóng",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "mạng lai",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "Iceberg Order",
+    "link": "iceberg-order.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "tính bất biến",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Quỹ chỉ số",
+    "link": "index-funds.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "Initial Coin Offering (ICO)",
+    "link": "initial-coin-offering.html"
+  },
+  {
+    "name": "Chào bán lần đầu trên DEX (IDO)",
+    "link": "initial-dex-offering-ido.html"
+  },
+  {
+    "name": "Initial Exchange Offering (IEO)",
+    "link": "initial-exchange-offering.html"
+  },
+  {
+    "name": "Initial Public Offering (IPO)",
+    "link": "initial-public-offering.html"
+  },
+  {
+    "name": "Inscription",
+    "link": "inscription.html"
+  },
+  {
+    "name": "giao dịch nội gián",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "Integrated Circuit (IC)",
+    "link": "integrated-circuit.html"
+  },
+  {
+    "name": "Lãi suất",
+    "link": "interest-rates.html"
+  },
+  {
+    "name": "giao dịch nội bộ",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "khả năng tương tác",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "Hệ thống tệp phân tán ngang hàng (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-ipfs.html"
+  },
+  {
+    "name": "IOU",
+    "link": "iou.html"
+  },
+  {
+    "name": "Địa chỉ IP",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Isolated Margin",
+    "link": "isolated-margin.html"
+  },
+  {
+    "name": "Issuance",
+    "link": "issuance.html"
+  },
+  {
+    "name": "Tệp JSON",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "Keccak",
+    "link": "keccak.html"
+  },
+  {
+    "name": "tệp lưu khóa",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "Xác minh danh tính khách hàng",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "Xác minh giao dịch",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Chỉ số Laspeyres",
+    "link": "laspeyres-index.html"
+  },
+  {
+    "name": "Latency",
+    "link": "latency.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Launchpad",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "Law of Demand",
+    "link": "law-of-demand.html"
+  },
+  {
+    "name": "lớp 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "lớp 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Ứng dụng Ledger Live",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "Leveraged Tokens",
+    "link": "leveraged-tokens.html"
+  },
+  {
+    "name": "thư viện",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "ứng dụng nhẹ",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Lệnh Limit",
+    "link": "limit-order.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "Linux",
+    "link": "linux.html"
+  },
+  {
+    "name": "Liquid Staking",
+    "link": "liquid-staking.html"
+  },
+  {
+    "name": "Token Liquid Staking (LST)",
+    "link": "liquid-staking-token-lst.html"
+  },
+  {
+    "name": "thanh lý",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "thanh khoản",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "Khủng hoảng thanh khoản",
+    "link": "liquidity-crisis.html"
+  },
+  {
+    "name": "bể thanh khoản",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "Nhà Cung Cấp Thanh Khoản",
+    "link": "liquidity-provider.html"
+  },
+  {
+    "name": "Tỷ lệ thanh khoản",
+    "link": "liquidity-ratios.html"
+  },
+  {
+    "name": "ký gửi thanh khoản",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "Listing",
+    "link": "listing.html"
+  },
+  {
+    "name": "mạng chính",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Mainnet Swap",
+    "link": "mainnet-swap.html"
+  },
+  {
+    "name": "Maker",
+    "link": "maker.html"
+  },
+  {
+    "name": "Giao thức Maker",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "phần mềm độc hại",
+    "link": "malware.html"
+  },
+  {
+    "name": "Margin Trading",
+    "link": "margin-trading.html"
+  },
+  {
+    "name": "vốn hóa thị trường",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "Vốn hóa thị trường",
+    "link": "market-capitalization.html"
+  },
+  {
+    "name": "Market Momentum",
+    "link": "market-momentum.html"
+  },
+  {
+    "name": "Lệnh Market",
+    "link": "market-order.html"
+  },
+  {
+    "name": "Masternode",
+    "link": "masternode.html"
+  },
+  {
+    "name": "Công cụ khớp lệnh",
+    "link": "matching-engine.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "Maximum Supply",
+    "link": "maximum-supply.html"
+  },
+  {
+    "name": "bể ghi nhớ giao dịch",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "bể nhớ giao dịch",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Hợp nhất",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merged Mining",
+    "link": "merged-mining.html"
+  },
+  {
+    "name": "Cây Merkle Patricia",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Cây Merkle",
+    "link": "merkle-tree.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "metadata",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "vũ trụ ảo",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "MEV",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "Microtransaction",
+    "link": "microtransactions.html"
+  },
+  {
+    "name": "thợ đào",
+    "link": "miner.html"
+  },
+  {
+    "name": "tiền thưởng cho thợ đào",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "đào",
+    "link": "mining.html"
+  },
+  {
+    "name": "Mining Farm",
+    "link": "mining-farm.html"
+  },
+  {
+    "name": "đúc",
+    "link": "mint.html"
+  },
+  {
+    "name": "cụm từ ghi nhớ",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "chuỗi khối mô-đun",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "Chính sách tiền tệ",
+    "link": "monetary-policy.html"
+  },
+  {
+    "name": "Thị trường tiền tệ",
+    "link": "money-markets.html"
+  },
+  {
+    "name": "Thẻ giám sát",
+    "link": "monitoring-tag.html"
+  },
+  {
+    "name": "Moon",
+    "link": "moon.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "Đường bao ngoài đường trung bình động (MAE)",
+    "link": "moving-average-envelopes.html"
+  },
+  {
+    "name": "Dải trung bình động",
+    "link": "moving-average-ribbon.html"
+  },
+  {
+    "name": "Mt. Gox",
+    "link": "mt-gox.html"
+  },
+  {
+    "name": "đa chữ ký",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "ví đa chữ ký",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "Multisignature",
+    "link": "multisignature.html"
+  },
+  {
+    "name": "Cơ chế đồng thuận Nakamoto",
+    "link": "nakamoto-consensus.html"
+  },
+  {
+    "name": "chuỗi khối lồng nhau",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "Giá trị tài sản ròng (NAV)",
+    "link": "net-asset-value-nav.html"
+  },
+  {
+    "name": "mạng",
+    "link": "network.html"
+  },
+  {
+    "name": "nghẽn mạng",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "NFC",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "Nền tảng giao dịch NFT",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "Tặng NFT",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Giá sàn NFT",
+    "link": "nft-floor-prices.html"
+  },
+  {
+    "name": "NFT Mystery Boxes",
+    "link": "nft-mystery-boxes.html"
+  },
+  {
+    "name": "NGMI",
+    "link": "ngmi.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "nút",
+    "link": "node.html"
+  },
+  {
+    "name": "mã thông báo không thể thay thế",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "Non-fungible token (NFT)",
+    "link": "non-fungible-token-nft.html"
+  },
+  {
+    "name": "số nonce",
+    "link": "nonce.html"
+  },
+  {
+    "name": "OCO Order",
+    "link": "oco-order.html"
+  },
+  {
+    "name": "ngoài chuỗi",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "chuyển đổi ngược",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "Trình điều phối ký ngoại tuyến (OSO)",
+    "link": "offline-signing-orchestrator-oso.html"
+  },
+  {
+    "name": "Offshore account",
+    "link": "offshore-account.html"
+  },
+  {
+    "name": "khối ommer",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "trên chuỗi",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "chuyển đổi xuôi",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "opBNB",
+    "link": "opbnb.html"
+  },
+  {
+    "name": "Open-Source Software (OSS)",
+    "link": "open-source-software-oss.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Chi phí cơ hội",
+    "link": "opportunity-cost.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "tổng hợp lạc quan",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "Nguồn cấp dữ liệu",
+    "link": "oracle.html"
+  },
+  {
+    "name": "Token ORC-20",
+    "link": "orc-20-tokens.html"
+  },
+  {
+    "name": "Sổ lệnh",
+    "link": "order-book.html"
+  },
+  {
+    "name": "Ordinals",
+    "link": "ordinals.html"
+  },
+  {
+    "name": "Orphan Block",
+    "link": "orphan-block.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "PancakeSwap",
+    "link": "pancakeswap.html"
+  },
+  {
+    "name": "Paper Wallet",
+    "link": "paper-wallet.html"
+  },
+  {
+    "name": "Parallelization",
+    "link": "parallelization.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "ngang bằng",
+    "link": "parity.html"
+  },
+  {
+    "name": "Passive Management",
+    "link": "passive-management.html"
+  },
+  {
+    "name": "Cụm mật khẩu",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "Mật khẩu",
+    "link": "password.html"
+  },
+  {
+    "name": "trình quản lý mật khẩu",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "ngang hàng",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "Đồng tiền neo giá",
+    "link": "pegged-currency.html"
+  },
+  {
+    "name": "sổ cái được cấp phép",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "Blockchain không cần cấp quyền",
+    "link": "permissionless-blockchain.html"
+  },
+  {
+    "name": "lừa đảo qua mạng",
+    "link": "phishing.html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "Giải pháp Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "PoA",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polkadot Crowdloan",
+    "link": "polkadot-crowdloan.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "Ponzi Scheme",
+    "link": "ponzi-scheme.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "Đào trước",
+    "link": "premining.html"
+  },
+  {
+    "name": "Price Action",
+    "link": "price-action.html"
+  },
+  {
+    "name": "Prisoner's Dilemma",
+    "link": "prisoners-dilemma.html"
+  },
+  {
+    "name": "chuỗi khối riêng",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "đồng tiền riêng",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "khóa riêng tư",
+    "link": "private-key.html"
+  },
+  {
+    "name": "Private Sale",
+    "link": "private-sale.html"
+  },
+  {
+    "name": "Progressive Web application (PWA)",
+    "link": "progressive-web-application.html"
+  },
+  {
+    "name": "Proof of Attendance Protocol (POAP)",
+    "link": "proof-of-attendance-protocol-poap.html"
+  },
+  {
+    "name": "Bằng chứng dự trữ (PoR)",
+    "link": "proof-of-reserves-por.html"
+  },
+  {
+    "name": "Bằng chứng cổ phần",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "Proof of Staked Authority (PoSA)",
+    "link": "proof-of-staked-authority-posa.html"
+  },
+  {
+    "name": "Bằng chứng công việc",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "Proposer-Builder Separation (PBS)",
+    "link": "proposer-builder-separation-pbs.html"
+  },
+  {
+    "name": "Proto-Danksharding",
+    "link": "proto-danksharding.html"
+  },
+  {
+    "name": "giao thức",
+    "link": "protocol.html"
+  },
+  {
+    "name": "Pseudorandom",
+    "link": "pseudorandom.html"
+  },
+  {
+    "name": "địa chỉ công khai",
+    "link": "public-address.html"
+  },
+  {
+    "name": "chuỗi khối công khai",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "khóa công khai",
+    "link": "public-key.html"
+  },
+  {
+    "name": "mật mã hoá khóa công khai",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "Bơm và xả",
+    "link": "pump-and-dump.html"
+  },
+  {
+    "name": "mã QR",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Nới lỏng định lượng (QE)",
+    "link": "quantitative-easing-qe.html"
+  },
+  {
+    "name": "Thắt chặt định lượng (QT)",
+    "link": "quantitative-tightening-qt.html"
+  },
+  {
+    "name": "Quantum Computing",
+    "link": "quantum-computing.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Race attack",
+    "link": "race-attack.html"
+  },
+  {
+    "name": "Ransomware",
+    "link": "ransomware.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "Tài sản trong thế giới thực (RWA)",
+    "link": "real-world-assets-rwas.html"
+  },
+  {
+    "name": "Suy thoái kinh tế",
+    "link": "recession.html"
+  },
+  {
+    "name": "Inscription đệ quy",
+    "link": "recursive-inscription.html"
+  },
+  {
+    "name": "Rekt",
+    "link": "rekt.html"
+  },
+  {
+    "name": "Relative Strength Index (RSI)",
+    "link": "relative-strength-index.html"
+  },
+  {
+    "name": "sàn chuyển tiếp",
+    "link": "relayer.html"
+  },
+  {
+    "name": "Gọi hàm từ xa",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Resistance",
+    "link": "resistance.html"
+  },
+  {
+    "name": "Return on Investment (ROI)",
+    "link": "return-on-investment.html"
+  },
+  {
+    "name": "Giao dịch phục thù",
+    "link": "revenge-trading.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "Phần bù rủi ro",
+    "link": "risk-premium.html"
+  },
+  {
+    "name": "lộ trình",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "tổng hợp",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "Routing Attack",
+    "link": "routing-attack.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "rút thảm",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Quy tắc Sahm",
+    "link": "sahm-rule.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "môi trường thử nghiệm",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Giao dịch Sandwich",
+    "link": "sandwich-trading.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi",
+    "link": "satoshi.html"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "khả năng mở rộng",
+    "link": "scalability.html"
+  },
+  {
+    "name": "mở rộng quy mô",
+    "link": "scaling.html"
+  },
+  {
+    "name": "lừa đảo",
+    "link": "scam.html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "công cụ tìm kiếm",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "Cụm từ khôi phục bí mật",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "Quỹ tài sản an toàn cho người dùng (SAFU)",
+    "link": "secure-asset-fund-for-users.html"
+  },
+  {
+    "name": "Ủy ban Chứng khoán và Sàn giao dịch (SEC)",
+    "link": "securities-and-exchange-commission.html"
+  },
+  {
+    "name": "Security Audit",
+    "link": "security-audit.html"
+  },
+  {
+    "name": "Token chứng khoán",
+    "link": "security-token.html"
+  },
+  {
+    "name": "Cung cấp mã thông báo bảo mật",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "Phát hành token chứng khoán (STO)",
+    "link": "security-token-offering-sto.html"
+  },
+  {
+    "name": "cụm từ khôi phục",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "Thẻ hạt giống - Seed Tag",
+    "link": "seed-tag.html"
+  },
+  {
+    "name": "Segregated Witness (SegWit)",
+    "link": "segregated-witness.html"
+  },
+  {
+    "name": "tự lưu ký",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "tự thực hiện",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Selfish Mining",
+    "link": "selfish-mining.html"
+  },
+  {
+    "name": "Sell Wall",
+    "link": "sell-wall.html"
+  },
+  {
+    "name": "Sentiment",
+    "link": "sentiment.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "tuần tự hóa",
+    "link": "serialization.html"
+  },
+  {
+    "name": "chuỗi phân đoạn",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "phân đoạn",
+    "link": "sharding.html"
+  },
+  {
+    "name": "Sharpe Ratio",
+    "link": "sharpe-ratio.html"
+  },
+  {
+    "name": "giao dịch được bảo vệ",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "chuỗi phụ",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "Các sidechain",
+    "link": "sidechains.html"
+  },
+  {
+    "name": "Đường trung bình động đơn giản (SMA)",
+    "link": "simple-moving-average-sma.html"
+  },
+  {
+    "name": "Slashing",
+    "link": "slashing.html"
+  },
+  {
+    "name": "điều kiện phạt",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "trượt giá",
+    "link": "slippage.html"
+  },
+  {
+    "name": "khe thời gian",
+    "link": "slot.html"
+  },
+  {
+    "name": "hợp đồng thông minh",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "Ví hợp đồng thông minh",
+    "link": "smart-contract-wallet.html"
+  },
+  {
+    "name": "Snapshot",
+    "link": "snapshot.html"
+  },
+  {
+    "name": "Giải pháp Social Recovery Wallet",
+    "link": "social-recovery-wallet.html"
+  },
+  {
+    "name": "Giao dịch xã hội",
+    "link": "social-trading.html"
+  },
+  {
+    "name": "SocialFi",
+    "link": "socialfi.html"
+  },
+  {
+    "name": "phân nhánh mềm",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Hạ cánh mềm",
+    "link": "soft-landing.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "Source Code",
+    "link": "source-code.html"
+  },
+  {
+    "name": "SPL",
+    "link": "spl.html"
+  },
+  {
+    "name": "Token SRC-20",
+    "link": "src-20-tokens.html"
+  },
+  {
+    "name": "đồng ổn định",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "Lạm phát đình trệ",
+    "link": "stagflation.html"
+  },
+  {
+    "name": "ký gửi",
+    "link": "stake.html"
+  },
+  {
+    "name": "ký gửi",
+    "link": "staking.html"
+  },
+  {
+    "name": "Staking Pool",
+    "link": "staking-pool.html"
+  },
+  {
+    "name": "trạng thái",
+    "link": "state.html"
+  },
+  {
+    "name": "State Channel",
+    "link": "state-channel.html"
+  },
+  {
+    "name": "kênh trạng thái",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "stETH",
+    "link": "steth.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "Biến trữ lượng",
+    "link": "stock-variable.html"
+  },
+  {
+    "name": "Store of Value",
+    "link": "store-of-value.html"
+  },
+  {
+    "name": "thanh toán liên tục",
+    "link": "streaming.html"
+  },
+  {
+    "name": "Supercomputer",
+    "link": "supercomputer.html"
+  },
+  {
+    "name": "Supply Chain",
+    "link": "supply-chain.html"
+  },
+  {
+    "name": "Support",
+    "link": "support.html"
+  },
+  {
+    "name": "hoán đổi",
+    "link": "swap.html"
+  },
+  {
+    "name": "Tấn công mạo nhận (Sybil Attack)",
+    "link": "sybil-attack.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Taker",
+    "link": "taker.html"
+  },
+  {
+    "name": "Tank",
+    "link": "tank.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "mạng thử nghiệm",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Mạng thử nghiệm Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Mạng thử nghiệm Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Mạng thử nghiệm Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "Ticker",
+    "link": "ticker.html"
+  },
+  {
+    "name": "Ký hiệu ticker",
+    "link": "ticker-symbol.html"
+  },
+  {
+    "name": "token",
+    "link": "token.html"
+  },
+  {
+    "name": "Sự kiện tạo token (TGE)",
+    "link": "token-generation-event-tge.html"
+  },
+  {
+    "name": "khoá token",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "Hợp nhất token",
+    "link": "token-merge.html"
+  },
+  {
+    "name": "Token Sale",
+    "link": "token-sale.html"
+  },
+  {
+    "name": "tiêu chuẩn token",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "Tiêu chuẩn token",
+    "link": "token-standards.html"
+  },
+  {
+    "name": "Token hóa",
+    "link": "tokenization.html"
+  },
+  {
+    "name": "Tokenomics",
+    "link": "tokenomics.html"
+  },
+  {
+    "name": "Total Supply",
+    "link": "total-supply.html"
+  },
+  {
+    "name": "Tổng giá trị đã khóa (Total Value Locked - TVL)",
+    "link": "total-value-locked-tvl.html"
+  },
+  {
+    "name": "TradFi",
+    "link": "tradfi.html"
+  },
+  {
+    "name": "giao dịch",
+    "link": "transaction.html"
+  },
+  {
+    "name": "khối giao dịch",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "phí giao dịch",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "ID giao dịch",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "bể nhớ giao dịch",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transactions Per Second (TPS)",
+    "link": "transactions-per-second-tps.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trái phiếu kho bạc (T-Bill)",
+    "link": "treasury-bills-t-bills.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "TrueUSD (TUSD)",
+    "link": "trueusd-tusd.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "không cần sự tin tưởng",
+    "link": "trustless.html"
+  },
+  {
+    "name": "ngôn ngữ Turing hoàn chỉnh",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "TVL",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "Hiểu về số 4 của CZ",
+    "link": "understanding-cz-s-number-4.html"
+  },
+  {
+    "name": "khóa không được mã hóa",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "Unit of Account",
+    "link": "unit-of-account.html"
+  },
+  {
+    "name": "đầu ra giao dịch chưa được sử dụng",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "Unspent Transaction Output (UTXO)",
+    "link": "unspent-transaction-output-utxo.html"
+  },
+  {
+    "name": "hủy ký gửi",
+    "link": "unstake.html"
+  },
+  {
+    "name": "nâng cấp",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "User Interface (UI)",
+    "link": "user-interface.html"
+  },
+  {
+    "name": "Token tiện ích",
+    "link": "utility-token.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "người xác thực",
+    "link": "validator.html"
+  },
+  {
+    "name": "bằng chứng hợp lệ",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "Verification Code",
+    "link": "verification-code.html"
+  },
+  {
+    "name": "phát hành theo tiến độ",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "Virtual Machine",
+    "link": "virtual-machine.html"
+  },
+  {
+    "name": "Vladimir Club",
+    "link": "vladimir-club.html"
+  },
+  {
+    "name": "Volatility",
+    "link": "volatility.html"
+  },
+  {
+    "name": "Volume",
+    "link": "volume.html"
+  },
+  {
+    "name": "WAGMI",
+    "link": "wagmi.html"
+  },
+  {
+    "name": "ví",
+    "link": "wallet.html"
+  },
+  {
+    "name": "địa chỉ ví",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Wash Trading",
+    "link": "wash-trading.html"
+  },
+  {
+    "name": "Weak Hands",
+    "link": "weak-hands.html"
+  },
+  {
+    "name": "Weak Subjectivity",
+    "link": "weak-subjectivity.html"
+  },
+  {
+    "name": "Web 1.0",
+    "link": "web-1.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "lệnh gọi lại HTTP do người dùng xác định",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "Đường trung bình động có trọng số (WMA)",
+    "link": "weighted-moving-average-wma.html"
+  },
+  {
+    "name": "Whale",
+    "link": "whale.html"
+  },
+  {
+    "name": "Whiskers",
+    "link": "whiskers.html"
+  },
+  {
+    "name": "Whitelist",
+    "link": "whitelist.html"
+  },
+  {
+    "name": "sách trắng",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "Wick",
+    "link": "wick.html"
+  },
+  {
+    "name": "Tỉ lệ thắng",
+    "link": "win-rate.html"
+  },
+  {
+    "name": "Wrapped Ether (WETH)",
+    "link": "wrapped-ether.html"
+  },
+  {
+    "name": "bao bọc",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyckoff",
+    "link": "wyckoff.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "XPUB",
+    "link": "xpub.html"
+  },
+  {
+    "name": "token tự sinh lãi",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "khai thác lợi nhuận",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "địa chỉ zero",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "bằng chứng không kiến thức",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "Bằng chứng không có kiến thức",
+    "link": "zero-knowledge-proofs.html"
+  },
+  {
+    "name": "tổng hợp không kiến thức",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "Zk-rollup",
+    "link": "zk-rollup.html"
+  },
+  {
+    "name": "zk-SNARK",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "Các zk-SNARK",
+    "link": "zk-starks.html"
+  }
+]

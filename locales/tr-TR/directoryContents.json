@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "İki Faktörlü Kimlik Doğrulaması",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "%51 saldırısı",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "hesap",
+    "link": "account.html"
+  },
+  {
+    "name": "ACH transferi",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "adres",
+    "link": "address.html"
+  },
+  {
+    "name": "toplayıcı",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "hava boşluğu",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "airdrop",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "algoritma",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "altcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "Kara Para Aklamanın Önlenmesi",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "Uygulamaya Özel Tümleşik Devre",
+    "link": "asic.html"
+  },
+  {
+    "name": "varlık kökeni",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "tasdik",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "İşaret Zinciri",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "blok",
+    "link": "block.html"
+  },
+  {
+    "name": "blok gezgini",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "blok yüksekliği",
+    "link": "block-height.html"
+  },
+  {
+    "name": "blok ödülü",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "blok süresi",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "blokzinciri",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "blokzinciri gezgini",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "blokzinciri çıkmazı",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "ödülü",
+    "link": "bounty.html"
+  },
+  {
+    "name": "beyin cüzdanı",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "köprü",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "bayt kodu",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "Bizans hata toleransı",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "Bizans çatalı",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "merkezi borsa",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "zincir kimliği",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "istemci",
+    "link": "client.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "coin",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "soğuk depolama",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "soğuk cüzdan",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "derleme",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "onay",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "fikir birliği",
+    "link": "consensus.html"
+  },
+  {
+    "name": "fikir birliği istemcisi",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "fikir birliği katmanı",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "fikir birliği mekanizması",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Constantinople çatalı",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "sözleşme",
+    "link": "contract.html"
+  },
+  {
+    "name": "sözleşme hesabı",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "kripto bounty ödülleri",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "kripto fonu",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "kripto cüzdanı",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "kripto-",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "kripto varlık",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "kripto uyumu",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "kripto para",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "kripto ekonomi",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "kriptografi",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "saklayıcı kurum",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS",
+    "link": "ddos.html"
+  },
+  {
+    "name": "merkeziyetsizleştirme",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "merkeziyetsiz uygulama",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Merkeziyetsiz Otonom Organizasyon",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "merkeziyetsiz borsa",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "merkeziyetsiz finans",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "merkeziyetsiz web",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "DPoS",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "değerler",
+    "link": "denominations.html"
+  },
+  {
+    "name": "para yatırma",
+    "link": "deposit.html"
+  },
+  {
+    "name": "türev",
+    "link": "derive.html"
+  },
+  {
+    "name": "geliştirici",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "geliştirici",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "zorluk",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "zorluk bombası",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "dijital varlık",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "dijital kimlik",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "dijital imza",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "dağıtılmış hesap defteri Teknolojisi",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "çift harcama",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "ekosistem",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "Kurumsal Ethereum İttifakı",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "şifrelenmiş anahtar",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "şifreleme",
+    "link": "encryption.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "entropi",
+    "link": "entropy.html"
+  },
+  {
+    "name": "epoch",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "Ethereum Geliştirme Teklifi",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Ethereum Ana Ağı",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "Ethereum İsimlendirme Hizmeti",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Ethereum Sanal Makinesi",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "borsa",
+    "link": "exchange.html"
+  },
+  {
+    "name": "yürütme istemcisi",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "yürütme katmanı",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "musluk",
+    "link": "faucet.html"
+  },
+  {
+    "name": "hataya dayanıklı",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "fiat para",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "kesinlik",
+    "link": "finality.html"
+  },
+  {
+    "name": "kesinlik oranı",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "finansal teknoloji",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "güvenlik duvarı",
+    "link": "firewall.html"
+  },
+  {
+    "name": "donanım yazılımı",
+    "link": "firmware.html"
+  },
+  {
+    "name": "çatal",
+    "link": "fork.html"
+  },
+  {
+    "name": "fraksiyonel sahiplik",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "dolandırıcılık kanıtı",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "tam düğüm",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gaz",
+    "link": "gas.html"
+  },
+  {
+    "name": "gaz ücreti",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "gaz limiti",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "gaz fiyatı",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "genesis blok",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "yönetişim",
+    "link": "governance.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "yarılanma",
+    "link": "halving.html"
+  },
+  {
+    "name": "sert çatal",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "donanım cüzdanı",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "hash",
+    "link": "hash.html"
+  },
+  {
+    "name": "Hiyerarşik Belirleyici (HD) cüzdan",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "ข้อมูลเลขฐานสิบหก",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "sıcak depolama",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "sıcak cüzdan",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "hibrit ağ",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "ölçeklendirilebilme çözümü",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "İçeriden Öğrenenlerin Ticareti",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "dahili işlem",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "birlikte çalışabilirlik",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "Gezegenler Arası Dosya Sistemi (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "IP adresi",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "JSON dosyası",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "keystore dosyası",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "Müşterini Tanı",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "İşlemini Tanı",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Launchpad",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "Katman 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "Katman 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Ledger Live Uygulaması",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "kitaplık",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "hafif istemci",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "likidasyon",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "likidite",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "likidite havuzu",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "likidite staking",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "ana ağ",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Maker Protokolü",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "kötü amaçlı yazılım",
+    "link": "malware.html"
+  },
+  {
+    "name": "piyasa değeri",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "bellek havuzu",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Birleştirme",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merkle Patricia trie",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "Meta veri",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metaverse",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "Maksimal Çıkarılabilir Değer",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "madenci",
+    "link": "miner.html"
+  },
+  {
+    "name": "madenci bahşişi",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "madencilik",
+    "link": "mining.html"
+  },
+  {
+    "name": "mint",
+    "link": "mint.html"
+  },
+  {
+    "name": "anımsatıcı ifade",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "modüler blokzinciri",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "çoklu imza",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "çoklu imza cüzdanı",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "nested (İç İçe) blokzincir",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "ağ",
+    "link": "network.html"
+  },
+  {
+    "name": "ağ tıkanıklığı",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "Yakın Alan İletişimi",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT toplayıcı",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "NFT drop",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "düğüm",
+    "link": "node.html"
+  },
+  {
+    "name": "nitelikli fikri tapu",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "nonce",
+    "link": "nonce.html"
+  },
+  {
+    "name": "zincir dışı",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "off-ramp",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "ommer blok",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "zincir içi",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "on-ramp",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "optimistik rollup",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "Oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "parite",
+    "link": "parity.html"
+  },
+  {
+    "name": "parola",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "şifre",
+    "link": "password.html"
+  },
+  {
+    "name": "şifre yöneticisi",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "eşler arası",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "izinli kayıt defteri",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "kimlik avı",
+    "link": "phishing.html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "Plazma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "Yetki İspatı",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "özel blokzinciri",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "özel para birimi",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "özel anahtar",
+    "link": "private-key.html"
+  },
+  {
+    "name": "Hisse İspatı",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "İş İspatı",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "protokol",
+    "link": "protocol.html"
+  },
+  {
+    "name": "genel adres",
+    "link": "public-address.html"
+  },
+  {
+    "name": "genel blokzinciri",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "genel anahtar",
+    "link": "public-key.html"
+  },
+  {
+    "name": "açık anahtarlı şifreleme",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "QR kodu",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "düzenleyici",
+    "link": "relayer.html"
+  },
+  {
+    "name": "Uzak Yordam Çağrısı",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "yol haritası",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "rolluplar",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "halı çekme",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "sandbox",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "ölçeklendirilebilirlik",
+    "link": "scalability.html"
+  },
+  {
+    "name": "ölçeklendirme",
+    "link": "scaling.html"
+  },
+  {
+    "name": "dolandırıcılık",
+    "link": "scam.html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "arama motoru",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "Gizli Kurtarma İfadesi",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "Menkul Kıymet Tokeni",
+    "link": "security-token.html"
+  },
+  {
+    "name": "Menkul Kıymet Token Arzı",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "anahtar cümle",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "self-custody",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "kendiliğinden uygulanan",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "serileştirme",
+    "link": "serialization.html"
+  },
+  {
+    "name": "parça zincir",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "bölme",
+    "link": "sharding.html"
+  },
+  {
+    "name": "korumalı işlem",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "yan zincir",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "slashing ceza durumu",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "kayma",
+    "link": "slippage.html"
+  },
+  {
+    "name": "slot",
+    "link": "slot.html"
+  },
+  {
+    "name": "akıllı sözleşme",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "yumuşak çatal",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "stabil kripto para",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "stake",
+    "link": "stake.html"
+  },
+  {
+    "name": "stake etme",
+    "link": "staking.html"
+  },
+  {
+    "name": "durum",
+    "link": "state.html"
+  },
+  {
+    "name": "durum kanalları",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "streaming",
+    "link": "streaming.html"
+  },
+  {
+    "name": "swap işlemi yapmak--gerçekleştirmek",
+    "link": "swap.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "test ağı",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Testnet Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Testnet Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Testnet Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "token",
+    "link": "token.html"
+  },
+  {
+    "name": "token kilitlenmesi",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "Token standardı",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "işlem",
+    "link": "transaction.html"
+  },
+  {
+    "name": "işlem bloku",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "işlem ücreti",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "işlem kimliği",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "işlem havuzu",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "güvensiz",
+    "link": "trustless.html"
+  },
+  {
+    "name": "Turing bütünlüğü",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "Kilitli Toplam Değer",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "Evrensel 2. Faktör",
+    "link": "u2f.html"
+  },
+  {
+    "name": "şifrelenmemiş anahtar",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "harcanmamış işlem çıktısı",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "unstake etmek",
+    "link": "unstake.html"
+  },
+  {
+    "name": "yükselt",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "doğrulayıcı",
+    "link": "validator.html"
+  },
+  {
+    "name": "geçerlilik ispatı",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "vesting",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "cüzdan",
+    "link": "wallet.html"
+  },
+  {
+    "name": "cüzdan adresi",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "web kancası",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "teknik doküman",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "Sarma",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "Genişletilmiş Özel Anahtar",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "Genişletilmiş Genel Anahtar",
+    "link": "xpub.html"
+  },
+  {
+    "name": "yield farming",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "gelir üreten token",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "zero adres",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "sıfır bilgi ispatı",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "sıfır bilgi rollup",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "zk-SNARK'lar",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

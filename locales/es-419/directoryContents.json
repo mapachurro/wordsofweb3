@@ -1,0 +1,3006 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "autenticación de dos factores",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "ataque de 51 %",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "Absolute Advantage",
+    "link": "absolute-advantage.html"
+  },
+  {
+    "name": "cuenta",
+    "link": "account.html"
+  },
+  {
+    "name": "transferencia ACH",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "Active Management",
+    "link": "active-management.html"
+  },
+  {
+    "name": "Servicios Validados Activamente (AVS)",
+    "link": "actively-validated-services-avs.html"
+  },
+  {
+    "name": "Ad Hoc",
+    "link": "ad-hoc.html"
+  },
+  {
+    "name": "dirección",
+    "link": "address.html"
+  },
+  {
+    "name": "agregador",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "separación física entre sistemas (air gap)",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "airdrop",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "algoritmo",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "All or None Order (AON)",
+    "link": "all-or-none-order.html"
+  },
+  {
+    "name": "All-Time High (ATH)",
+    "link": "all-time-high.html"
+  },
+  {
+    "name": "Allocation",
+    "link": "allocation.html"
+  },
+  {
+    "name": "Alpha",
+    "link": "alpha.html"
+  },
+  {
+    "name": "altcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "AML",
+    "link": "aml.html"
+  },
+  {
+    "name": "Angel Investor",
+    "link": "angel-investor.html"
+  },
+  {
+    "name": "Antilavado de dinero (AML)",
+    "link": "anti-money-laundering.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Application Programming Interface (API)",
+    "link": "application-programming-interface.html"
+  },
+  {
+    "name": "Application-Specific Integrated Circuit (ASIC)",
+    "link": "application-specific-integrated-circuit.html"
+  },
+  {
+    "name": "Arbitraje",
+    "link": "arbitrage.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ARC-20",
+    "link": "arc-20.html"
+  },
+  {
+    "name": "Inteligencia artificial (IA)",
+    "link": "artificial-intelligence-ai.html"
+  },
+  {
+    "name": "Circuito integrado de aplicación específica",
+    "link": "asic.html"
+  },
+  {
+    "name": "ASIC-resistant",
+    "link": "asic-resistant.html"
+  },
+  {
+    "name": "Ask Price",
+    "link": "asking-price.html"
+  },
+  {
+    "name": "Asset Management",
+    "link": "asset-management.html"
+  },
+  {
+    "name": "procedencia de los activos",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "Activos en gestión (AUM)",
+    "link": "assets-under-management-aum.html"
+  },
+  {
+    "name": "Asynchronous",
+    "link": "asynchronous.html"
+  },
+  {
+    "name": "Atomic Swap",
+    "link": "atomic-swap.html"
+  },
+  {
+    "name": "Attack surface",
+    "link": "attack-surface.html"
+  },
+  {
+    "name": "atestación",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Auction",
+    "link": "auction.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Automated Market Maker (AMM)",
+    "link": "automated-market-maker-amm.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "B-Tokens",
+    "link": "b-tokens.html"
+  },
+  {
+    "name": "Bags",
+    "link": "bags.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "cadena Beacon",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Bear Market",
+    "link": "bear-market.html"
+  },
+  {
+    "name": "Benchmark",
+    "link": "benchmark.html"
+  },
+  {
+    "name": "BEP-1155",
+    "link": "bep-1155.html"
+  },
+  {
+    "name": "BEP-20",
+    "link": "bep-20.html"
+  },
+  {
+    "name": "BEP-721",
+    "link": "bep-721.html"
+  },
+  {
+    "name": "BEP-95",
+    "link": "bep-95.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Beta (Coefficient)",
+    "link": "beta-coefficient.html"
+  },
+  {
+    "name": "Beta (Release)",
+    "link": "beta-release.html"
+  },
+  {
+    "name": "Bid-Ask Spread",
+    "link": "bid-ask-spread.html"
+  },
+  {
+    "name": "Bid Price",
+    "link": "bid-price.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Blockchain Charity Foundation",
+    "link": "binance-blockchain-charity-foundation.html"
+  },
+  {
+    "name": "Binance Ecosystem Fund (BEF)",
+    "link": "binance-ecosystem-fund.html"
+  },
+  {
+    "name": "Binancian",
+    "link": "binancian.html"
+  },
+  {
+    "name": "Bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "Bitcoin Core",
+    "link": "bitcoin-core.html"
+  },
+  {
+    "name": "Bitcoin Dominance",
+    "link": "bitcoin-dominance.html"
+  },
+  {
+    "name": "Maximalistas de Bitcoin",
+    "link": "bitcoin-maximalists.html"
+  },
+  {
+    "name": "Bitcoin Pizza",
+    "link": "bitcoin-pizza.html"
+  },
+  {
+    "name": "Black Swan Event",
+    "link": "black-swan-event.html"
+  },
+  {
+    "name": "bloque",
+    "link": "block.html"
+  },
+  {
+    "name": "explorador de bloques",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "Block header",
+    "link": "block-header.html"
+  },
+  {
+    "name": "altura del bloque",
+    "link": "block-height.html"
+  },
+  {
+    "name": "recompensa por bloque",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "tiempo del bloque",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "cadena de bloques",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "explorador de cadenas de bloques",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "trilema de la cadenas de bloques",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "Bloom Filter",
+    "link": "bloom-filter.html"
+  },
+  {
+    "name": "Token blue-chip",
+    "link": "blue-chip-token.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "BNSOL",
+    "link": "bnsol.html"
+  },
+  {
+    "name": "Bollinger Bands",
+    "link": "bollinger-bands.html"
+  },
+  {
+    "name": "Bono",
+    "link": "bond.html"
+  },
+  {
+    "name": "recompensa",
+    "link": "bounty.html"
+  },
+  {
+    "name": "monedero memorizado",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "Tokens BRC-20",
+    "link": "brc-20-tokens.html"
+  },
+  {
+    "name": "Break-Even Point (BEP)",
+    "link": "break-even-point.html"
+  },
+  {
+    "name": "Breakeven Multiple",
+    "link": "breakeven-multiple.html"
+  },
+  {
+    "name": "Breakout",
+    "link": "breakout.html"
+  },
+  {
+    "name": "puente",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BscScan",
+    "link": "bscscan.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "Dirección de billetera de BTC",
+    "link": "btc-wallet-address.html"
+  },
+  {
+    "name": "BUIDL",
+    "link": "buidl.html"
+  },
+  {
+    "name": "Bull Market",
+    "link": "bull-market.html"
+  },
+  {
+    "name": "Burner Wallet",
+    "link": "burner-wallet.html"
+  },
+  {
+    "name": "Buy Wall",
+    "link": "buy-wall.html"
+  },
+  {
+    "name": "código de bytes",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "Tolerancia a fallas bizantinas",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "Actualización Byzantium",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Bloque candidato",
+    "link": "candidate-block.html"
+  },
+  {
+    "name": "Candlestick",
+    "link": "candlestick.html"
+  },
+  {
+    "name": "Capitulation",
+    "link": "capitulation.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "Censorship-resistance",
+    "link": "censorship-resistance.html"
+  },
+  {
+    "name": "Central Bank",
+    "link": "central-bank.html"
+  },
+  {
+    "name": "Monedas Digitales de Banco Central (CBDC)",
+    "link": "central-bank-digital-currency-cbdc.html"
+  },
+  {
+    "name": "Central Processing Unit (CPU)",
+    "link": "central-processing-unit.html"
+  },
+  {
+    "name": "Centralized",
+    "link": "centralized.html"
+  },
+  {
+    "name": "cambio centralizado",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "ID de cadena",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "ChatGPT",
+    "link": "chatgpt.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "Cipher",
+    "link": "cipher.html"
+  },
+  {
+    "name": "Circulating Supply",
+    "link": "circulating-supply.html"
+  },
+  {
+    "name": "cliente",
+    "link": "client.html"
+  },
+  {
+    "name": "Cloud",
+    "link": "cloud.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "moneda",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "almacenamiento en frío",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "monedero en frío",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "Collateral",
+    "link": "collateral.html"
+  },
+  {
+    "name": "Colocation",
+    "link": "colocation.html"
+  },
+  {
+    "name": "Commodity Futures Trading Commission (CFTC)",
+    "link": "commodity-futures-trading-commission.html"
+  },
+  {
+    "name": "compilación",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "Interés Compuesto",
+    "link": "compound-interest.html"
+  },
+  {
+    "name": "confirmación",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "Hora de confirmación",
+    "link": "confirmation-time.html"
+  },
+  {
+    "name": "Confluence",
+    "link": "confluence.html"
+  },
+  {
+    "name": "consenso",
+    "link": "consensus.html"
+  },
+  {
+    "name": "Algoritmo de consenso",
+    "link": "consensus-algorithm.html"
+  },
+  {
+    "name": "cliente de consenso",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "capa de consenso",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "mecanismo de consenso",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Actualización Constantinople",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "Consumer Price Index (CPI)",
+    "link": "consumer-price-index-(cpi).html"
+  },
+  {
+    "name": "Contango y backwardation",
+    "link": "contango-and-backwardation.html"
+  },
+  {
+    "name": "contrato",
+    "link": "contract.html"
+  },
+  {
+    "name": "cuenta de contrato",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "Copy Trading",
+    "link": "copy-trading.html"
+  },
+  {
+    "name": "Riesgos de la contraparte",
+    "link": "counterparty-risk.html"
+  },
+  {
+    "name": "Credentials",
+    "link": "credentials.html"
+  },
+  {
+    "name": "Puentes cross-chain",
+    "link": "cross-chain-bridges.html"
+  },
+  {
+    "name": "cripto-",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "criptoactivo",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "recompensas criptográficas",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "cumplimiento en materia de criptoactivos",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "ETF de criptomonedas",
+    "link": "crypto-etfs.html"
+  },
+  {
+    "name": "Índice de miedo y codicia de las criptomonedas",
+    "link": "crypto-fear-and-greed-index.html"
+  },
+  {
+    "name": "criptofondo",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "Protocolo Cripto",
+    "link": "crypto-protocol.html"
+  },
+  {
+    "name": "criptomonedero",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "Invierno Cripto",
+    "link": "crypto-winter.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "criptomoneda",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "criptoeconomía",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "criptografía",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "custodia",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "Daemon",
+    "link": "daemon.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "Danksharding",
+    "link": "danksharding.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS",
+    "link": "ddos.html"
+  },
+  {
+    "name": "Dead Cat Bounce",
+    "link": "dead-cat-bounce.html"
+  },
+  {
+    "name": "Cruce de la muerte",
+    "link": "death-cross.html"
+  },
+  {
+    "name": "descentralización",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "aplicación descentralizada",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Decentralized Autonomous Cooperative (DAC)",
+    "link": "decentralized-autonomous-cooperative.html"
+  },
+  {
+    "name": "organización autónoma descentralizada",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "cambio descentralizado",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "finanzas descentralizadas",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "Índices descentralizados",
+    "link": "decentralized-indexes.html"
+  },
+  {
+    "name": "web descentralizada",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "Decryption",
+    "link": "decryption.html"
+  },
+  {
+    "name": "Deep Web",
+    "link": "deep-web.html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "DPoS",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "Delisting",
+    "link": "delisting.html"
+  },
+  {
+    "name": "denominaciones",
+    "link": "denominations.html"
+  },
+  {
+    "name": "Pérdida de paridad: desvinculación",
+    "link": "depeg.html"
+  },
+  {
+    "name": "depósito",
+    "link": "deposit.html"
+  },
+  {
+    "name": "Depresión",
+    "link": "depression.html"
+  },
+  {
+    "name": "derivar",
+    "link": "derive.html"
+  },
+  {
+    "name": "Design Flaw Attack",
+    "link": "design-flaw-attack.html"
+  },
+  {
+    "name": "desarrollador",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "desarrollador",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "Manos de diamantes",
+    "link": "diamond-hands.html"
+  },
+  {
+    "name": "dificultad",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "bomba de dificultad",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "activo digital",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "identidad digital",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "firma digital",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Acceso directo al mercado (DMA)",
+    "link": "direct-market-access-dma.html"
+  },
+  {
+    "name": "Tecnología de registro distribuido",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "Divergence",
+    "link": "divergence.html"
+  },
+  {
+    "name": "Diversification",
+    "link": "diversification.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "Do Your Own Research (DYOR)",
+    "link": "do-your-own-research.html"
+  },
+  {
+    "name": "Dollar Cost Averaging (DCA)",
+    "link": "dollar-cost-averaging.html"
+  },
+  {
+    "name": "Diagrama de puntos",
+    "link": "dot-plot.html"
+  },
+  {
+    "name": "doble gasto",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "Double Spending",
+    "link": "double-spending.html"
+  },
+  {
+    "name": "Eclipse Attack",
+    "link": "eclipse-attack.html"
+  },
+  {
+    "name": "ecosistema",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "Efficient Market Hypothesis (EMH)",
+    "link": "efficient-market-hypothesis-emh.html"
+  },
+  {
+    "name": "EigenLayer",
+    "link": "eigenlayer.html"
+  },
+  {
+    "name": "EIP",
+    "link": "eip.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "EIP-3074",
+    "link": "eip-3074.html"
+  },
+  {
+    "name": "EIP-4844",
+    "link": "eip-4844.html"
+  },
+  {
+    "name": "EIP-7251",
+    "link": "eip-7251.html"
+  },
+  {
+    "name": "EIP-7702",
+    "link": "eip-7702.html"
+  },
+  {
+    "name": "Elasticidad",
+    "link": "elasticity.html"
+  },
+  {
+    "name": "clave cifrada",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "cifrado",
+    "link": "encryption.html"
+  },
+  {
+    "name": "Variable endógena",
+    "link": "endogenous-variable.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "entropía",
+    "link": "entropy.html"
+  },
+  {
+    "name": "época",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-404",
+    "link": "erc-404.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETF",
+    "link": "etf.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "Ethereum Classic",
+    "link": "ethereum-classic.html"
+  },
+  {
+    "name": "Fundación Ethereum",
+    "link": "ethereum-foundation.html"
+  },
+  {
+    "name": "Propuesta de mejora de Ethereum",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Red principal de Ethereum",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "Servicio de nombres de Ethereum",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Máquina virtual de Ethereum",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Ethereum Virtual Machine (EVM)",
+    "link": "ethereum-virtual-machine-evm.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "cambio",
+    "link": "exchange.html"
+  },
+  {
+    "name": "cliente de ejecución",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "capa de ejecución",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Variable exógena",
+    "link": "exogenous-variable.html"
+  },
+  {
+    "name": "Media móvil exponencial (EMA)",
+    "link": "exponential-moving-average-ema.html"
+  },
+  {
+    "name": "Cuenta de propiedad externa (EOA)",
+    "link": "externally-owned-account-eoa.html"
+  },
+  {
+    "name": "Fakeout",
+    "link": "fakeout.html"
+  },
+  {
+    "name": "Falling Knife",
+    "link": "falling-knife.html"
+  },
+  {
+    "name": "Fan Tokens",
+    "link": "fan-tokens.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "grifo",
+    "link": "faucet.html"
+  },
+  {
+    "name": "tolerante a fallos",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "Fear Of Missing Out (FOMO)",
+    "link": "fear-of-missing-out.html"
+  },
+  {
+    "name": "Fear, Uncertainty and Doubt (FUD)",
+    "link": "fear-uncertainty-and-doubt.html"
+  },
+  {
+    "name": "Fiat",
+    "link": "fiat.html"
+  },
+  {
+    "name": "moneda fiduciaria",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "Fibonacci Retracement",
+    "link": "fibonacci-retracement.html"
+  },
+  {
+    "name": "Fill Or Kill Order (FOK)",
+    "link": "fill-or-kill-order.html"
+  },
+  {
+    "name": "finalidad",
+    "link": "finality.html"
+  },
+  {
+    "name": "velocidad de finalidad",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "tecnología financiera",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "cortafuegos",
+    "link": "firewall.html"
+  },
+  {
+    "name": "firmware",
+    "link": "firmware.html"
+  },
+  {
+    "name": "First-Mover Advantage (FMA)",
+    "link": "first-mover-advantage.html"
+  },
+  {
+    "name": "Política fiscal",
+    "link": "fiscal-policy.html"
+  },
+  {
+    "name": "Flappening",
+    "link": "flappening.html"
+  },
+  {
+    "name": "Flashbots",
+    "link": "flashbots.html"
+  },
+  {
+    "name": "Flippening",
+    "link": "flippening.html"
+  },
+  {
+    "name": "Variable de flujo",
+    "link": "flow-variable.html"
+  },
+  {
+    "name": "Forced Liquidation",
+    "link": "forced-liquidation.html"
+  },
+  {
+    "name": "Forex (FX)",
+    "link": "forex-fx.html"
+  },
+  {
+    "name": "bifurcación",
+    "link": "fork.html"
+  },
+  {
+    "name": "Formal Verification",
+    "link": "formal-verification.html"
+  },
+  {
+    "name": "titularidad fraccionaria",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "a prueba de fraude",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "Fren",
+    "link": "fren.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "nodo completo",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Fully Diluted Valuation (FDV)",
+    "link": "fully-diluted-valuation-fdv.html"
+  },
+  {
+    "name": "Análisis fundamental (FA)",
+    "link": "fundamental-analysis.html"
+  },
+  {
+    "name": "Comisiones de financiación",
+    "link": "funding-fees.html"
+  },
+  {
+    "name": "Fungibility",
+    "link": "fungibility.html"
+  },
+  {
+    "name": "Futures Contract",
+    "link": "futures-contract.html"
+  },
+  {
+    "name": "GameFi",
+    "link": "gamefi.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gas",
+    "link": "gas.html"
+  },
+  {
+    "name": "tarifa de gas",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "límite de gas",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "precio del gas",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "Deflactor del PIB",
+    "link": "gdp-deflator.html"
+  },
+  {
+    "name": "General Public License",
+    "link": "general-public-license.html"
+  },
+  {
+    "name": "bloque génesis",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "GM (Good Morning)",
+    "link": "gm-good-morning.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "Golden Cross",
+    "link": "golden-cross.html"
+  },
+  {
+    "name": "Proporción áurea",
+    "link": "golden-ratio.html"
+  },
+  {
+    "name": "Ricitos de oro",
+    "link": "goldilocks.html"
+  },
+  {
+    "name": "Gossip Protocol",
+    "link": "gossip-protocol.html"
+  },
+  {
+    "name": "gobernanza",
+    "link": "governance.html"
+  },
+  {
+    "name": "Producto Interno Bruto (PIB)",
+    "link": "gross-domestic-product-gdp.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "Hackathon",
+    "link": "hackathon.html"
+  },
+  {
+    "name": "Hacker",
+    "link": "hacker.html"
+  },
+  {
+    "name": "Haha Money Printer Go Brrrrr",
+    "link": "haha-money-printer-go-brrrrr.html"
+  },
+  {
+    "name": "reducción a la mitad",
+    "link": "halving.html"
+  },
+  {
+    "name": "Hard Cap",
+    "link": "hard-cap.html"
+  },
+  {
+    "name": "bifurcación dura",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "Aterrizaje forzoso",
+    "link": "hard-landing.html"
+  },
+  {
+    "name": "monedero físico",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "hash",
+    "link": "hash.html"
+  },
+  {
+    "name": "Hash Rate",
+    "link": "hash-rate.html"
+  },
+  {
+    "name": "Hashed TimeLock Contract (HTLC)",
+    "link": "hashed-timelock-contract.html"
+  },
+  {
+    "name": "monedero determinista jerárquico (HD)",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "Mentalidad de rebaño",
+    "link": "herd-instinct.html"
+  },
+  {
+    "name": "datos hexadécimos",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "High-Frequency Trading (HFT)",
+    "link": "high-frequency-trading-hft.html"
+  },
+  {
+    "name": "HODL",
+    "link": "hodl.html"
+  },
+  {
+    "name": "Honeypot",
+    "link": "honeypot.html"
+  },
+  {
+    "name": "almacenamiento en caliente",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "monedero en caliente",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "red híbrida",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "Iceberg Order",
+    "link": "iceberg-order.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "inmutabilidad",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Fondos indexado",
+    "link": "index-funds.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "Initial Coin Offering (ICO)",
+    "link": "initial-coin-offering.html"
+  },
+  {
+    "name": "Oferta Inicial de DEX (IDO)",
+    "link": "initial-dex-offering-ido.html"
+  },
+  {
+    "name": "Initial Exchange Offering (IEO)",
+    "link": "initial-exchange-offering.html"
+  },
+  {
+    "name": "Initial Public Offering (IPO)",
+    "link": "initial-public-offering.html"
+  },
+  {
+    "name": "Inscripción",
+    "link": "inscription.html"
+  },
+  {
+    "name": "abuso de información privilegiada",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "Integrated Circuit (IC)",
+    "link": "integrated-circuit.html"
+  },
+  {
+    "name": "Tasas de interés",
+    "link": "interest-rates.html"
+  },
+  {
+    "name": "transacción interna",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "interoperabilidad",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "Sistema de archivos interplanetario (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-ipfs.html"
+  },
+  {
+    "name": "Pagaré (IOU)",
+    "link": "iou.html"
+  },
+  {
+    "name": "Dirección IP",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Isolated Margin",
+    "link": "isolated-margin.html"
+  },
+  {
+    "name": "Issuance",
+    "link": "issuance.html"
+  },
+  {
+    "name": "archivo JSON",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "Keccak",
+    "link": "keccak.html"
+  },
+  {
+    "name": "archivo keystore",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "conozca a su cliente",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "conozca su transacción",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Índice de Laspeyres",
+    "link": "laspeyres-index.html"
+  },
+  {
+    "name": "Latency",
+    "link": "latency.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Launchpad",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "Law of Demand",
+    "link": "law-of-demand.html"
+  },
+  {
+    "name": "capa 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "capa 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Ledger Live App",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "Leveraged Tokens",
+    "link": "leveraged-tokens.html"
+  },
+  {
+    "name": "biblioteca",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "cliente ligero",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Orden limit",
+    "link": "limit-order.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "Linux",
+    "link": "linux.html"
+  },
+  {
+    "name": "Staking líquido",
+    "link": "liquid-staking.html"
+  },
+  {
+    "name": "Token de staking líquido (LST)",
+    "link": "liquid-staking-token-lst.html"
+  },
+  {
+    "name": "liquidación",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "liquidez",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "Crisis de liquidez",
+    "link": "liquidity-crisis.html"
+  },
+  {
+    "name": "fondo de liquidez",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "Proveedor de liquidez",
+    "link": "liquidity-provider.html"
+  },
+  {
+    "name": "Ratios de liquidez",
+    "link": "liquidity-ratios.html"
+  },
+  {
+    "name": "staking de liquidez",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "Listing",
+    "link": "listing.html"
+  },
+  {
+    "name": "red principal",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Mainnet Swap",
+    "link": "mainnet-swap.html"
+  },
+  {
+    "name": "Maker",
+    "link": "maker.html"
+  },
+  {
+    "name": "Protocolo Maker",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "software malicioso",
+    "link": "malware.html"
+  },
+  {
+    "name": "Margin Trading",
+    "link": "margin-trading.html"
+  },
+  {
+    "name": "capitalización bursátil",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "Capitalización de mercado",
+    "link": "market-capitalization.html"
+  },
+  {
+    "name": "Market Momentum",
+    "link": "market-momentum.html"
+  },
+  {
+    "name": "Orden market",
+    "link": "market-order.html"
+  },
+  {
+    "name": "Masternode",
+    "link": "masternode.html"
+  },
+  {
+    "name": "Motor de coincidencia",
+    "link": "matching-engine.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "Maximum Supply",
+    "link": "maximum-supply.html"
+  },
+  {
+    "name": "cola de transacciones",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "Mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Fusión",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merged Mining",
+    "link": "merged-mining.html"
+  },
+  {
+    "name": "árbol de Merkle Patricia trie",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Árbol de Merkle",
+    "link": "merkle-tree.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "metadatos",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metaverso",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "Valor máximo extraíble",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "Microtransacciones",
+    "link": "microtransactions.html"
+  },
+  {
+    "name": "minero",
+    "link": "miner.html"
+  },
+  {
+    "name": "propina del minero",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "minería",
+    "link": "mining.html"
+  },
+  {
+    "name": "Mining Farm",
+    "link": "mining-farm.html"
+  },
+  {
+    "name": "acuñar",
+    "link": "mint.html"
+  },
+  {
+    "name": "frase mnemotécnica",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "cadena de bloques modular",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "Política monetaria",
+    "link": "monetary-policy.html"
+  },
+  {
+    "name": "Mercados monetarios",
+    "link": "money-markets.html"
+  },
+  {
+    "name": "Etiqueta En Observación",
+    "link": "monitoring-tag.html"
+  },
+  {
+    "name": "Moon",
+    "link": "moon.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "Envolventes de medias móviles",
+    "link": "moving-average-envelopes.html"
+  },
+  {
+    "name": "Cinta de medias móviles",
+    "link": "moving-average-ribbon.html"
+  },
+  {
+    "name": "Mt. Gox",
+    "link": "mt-gox.html"
+  },
+  {
+    "name": "multifirma",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "monadero multifirma",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "Multisignature",
+    "link": "multisignature.html"
+  },
+  {
+    "name": "Consenso de Nakamoto",
+    "link": "nakamoto-consensus.html"
+  },
+  {
+    "name": "cadena de bloques anidada",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "Valor liquidativo (NAV)",
+    "link": "net-asset-value-nav.html"
+  },
+  {
+    "name": "red",
+    "link": "network.html"
+  },
+  {
+    "name": "congestión de red",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "comunicación de campo cercano",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "agregador de NFT",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "drop de NFT",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Precios mínimos de los NFT",
+    "link": "nft-floor-prices.html"
+  },
+  {
+    "name": "NFT Mystery Boxes",
+    "link": "nft-mystery-boxes.html"
+  },
+  {
+    "name": "NGMI",
+    "link": "ngmi.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "nodo",
+    "link": "node.html"
+  },
+  {
+    "name": "token no fungible",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "Token no fungible (NFT)",
+    "link": "non-fungible-token-nft.html"
+  },
+  {
+    "name": "nonce",
+    "link": "nonce.html"
+  },
+  {
+    "name": "OCO Order",
+    "link": "oco-order.html"
+  },
+  {
+    "name": "fuera de cadena",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "rampa de salida",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "Offline Signing Orchestrator (OSO)",
+    "link": "offline-signing-orchestrator-oso.html"
+  },
+  {
+    "name": "Offshore account",
+    "link": "offshore-account.html"
+  },
+  {
+    "name": "bloque ommer",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "en cadena",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "rampa de acceso",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "opBNB",
+    "link": "opbnb.html"
+  },
+  {
+    "name": "Open-Source Software (OSS)",
+    "link": "open-source-software-oss.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Costo de oportunidad",
+    "link": "opportunity-cost.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "rollup optimista",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "Oráculo",
+    "link": "oracle.html"
+  },
+  {
+    "name": "Tokens ORC-20",
+    "link": "orc-20-tokens.html"
+  },
+  {
+    "name": "Libro de órdenes",
+    "link": "order-book.html"
+  },
+  {
+    "name": "Ordinals",
+    "link": "ordinals.html"
+  },
+  {
+    "name": "Orphan Block",
+    "link": "orphan-block.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "PancakeSwap",
+    "link": "pancakeswap.html"
+  },
+  {
+    "name": "Paper Wallet",
+    "link": "paper-wallet.html"
+  },
+  {
+    "name": "Paralelización",
+    "link": "parallelization.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "paridad",
+    "link": "parity.html"
+  },
+  {
+    "name": "Passive Management",
+    "link": "passive-management.html"
+  },
+  {
+    "name": "frase de contraseña",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "contraseña",
+    "link": "password.html"
+  },
+  {
+    "name": "gestor de contraseñas",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "entre pares",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "Moneda vinculada",
+    "link": "pegged-currency.html"
+  },
+  {
+    "name": "registro de acceso restringido",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "Blockchain sin permiso",
+    "link": "permissionless-blockchain.html"
+  },
+  {
+    "name": "suplantación de identidad",
+    "link": "phishing.html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "Prueba de autoridad",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polkadot Crowdloan",
+    "link": "polkadot-crowdloan.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "Ponzi Scheme",
+    "link": "ponzi-scheme.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "Preminería",
+    "link": "premining.html"
+  },
+  {
+    "name": "Price Action",
+    "link": "price-action.html"
+  },
+  {
+    "name": "Prisoner's Dilemma",
+    "link": "prisoners-dilemma.html"
+  },
+  {
+    "name": "cadena de bloques privada",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "moneda privada",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "clave privada",
+    "link": "private-key.html"
+  },
+  {
+    "name": "Private Sale",
+    "link": "private-sale.html"
+  },
+  {
+    "name": "Progressive Web application (PWA)",
+    "link": "progressive-web-application.html"
+  },
+  {
+    "name": "Proof of Attendance Protocol (POAP)",
+    "link": "proof-of-attendance-protocol-poap.html"
+  },
+  {
+    "name": "Prueba de Reservas (PoR)",
+    "link": "proof-of-reserves-por.html"
+  },
+  {
+    "name": "Prueba de participación",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "Proof of Staked Authority (PoSA)",
+    "link": "proof-of-staked-authority-posa.html"
+  },
+  {
+    "name": "Prueba de trabajo",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "Proposer-Builder Separation (PBS)",
+    "link": "proposer-builder-separation-pbs.html"
+  },
+  {
+    "name": "Proto-danksharding",
+    "link": "proto-danksharding.html"
+  },
+  {
+    "name": "protocolo",
+    "link": "protocol.html"
+  },
+  {
+    "name": "Pseudorandom",
+    "link": "pseudorandom.html"
+  },
+  {
+    "name": "dirección pública",
+    "link": "public-address.html"
+  },
+  {
+    "name": "cadena de bloques pública",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "clave pública",
+    "link": "public-key.html"
+  },
+  {
+    "name": "criptografía de clave pública",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "Pump-and-dump",
+    "link": "pump-and-dump.html"
+  },
+  {
+    "name": "código QR",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Expansión cuantitativa (QE)",
+    "link": "quantitative-easing-qe.html"
+  },
+  {
+    "name": "Contracción cuantitativa (QT)",
+    "link": "quantitative-tightening-qt.html"
+  },
+  {
+    "name": "Quantum Computing",
+    "link": "quantum-computing.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Race attack",
+    "link": "race-attack.html"
+  },
+  {
+    "name": "Ransomware",
+    "link": "ransomware.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "Activos del mundo real (RWA)",
+    "link": "real-world-assets-rwas.html"
+  },
+  {
+    "name": "Recesión",
+    "link": "recession.html"
+  },
+  {
+    "name": "Inscripción recursiva",
+    "link": "recursive-inscription.html"
+  },
+  {
+    "name": "Rekt",
+    "link": "rekt.html"
+  },
+  {
+    "name": "Relative Strength Index (RSI)",
+    "link": "relative-strength-index.html"
+  },
+  {
+    "name": "repetidor",
+    "link": "relayer.html"
+  },
+  {
+    "name": "Llamada a procedimiento remoto",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Resistance",
+    "link": "resistance.html"
+  },
+  {
+    "name": "Return on Investment (ROI)",
+    "link": "return-on-investment.html"
+  },
+  {
+    "name": "Trading por venganza (revenge trading)",
+    "link": "revenge-trading.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "Prima de riesgo",
+    "link": "risk-premium.html"
+  },
+  {
+    "name": "hoja de ruta",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "rollups",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "Routing Attack",
+    "link": "routing-attack.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "tirón de alfombra",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Regla de Sahm",
+    "link": "sahm-rule.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "entorno de pruebas",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Trading sándwich",
+    "link": "sandwich-trading.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi",
+    "link": "satoshi.html"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "escalabilidad",
+    "link": "scalability.html"
+  },
+  {
+    "name": "escalado",
+    "link": "scaling.html"
+  },
+  {
+    "name": "estafa",
+    "link": "scam.html"
+  },
+  {
+    "name": "scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "motor de búsqueda",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "Frase secreta de recuperación",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "Secure Asset fund for Users (SAFU)",
+    "link": "secure-asset-fund-for-users.html"
+  },
+  {
+    "name": "Comisión de Bolsa y Valores (SEC)",
+    "link": "securities-and-exchange-commission.html"
+  },
+  {
+    "name": "Security Audit",
+    "link": "security-audit.html"
+  },
+  {
+    "name": "Token de seguridad",
+    "link": "security-token.html"
+  },
+  {
+    "name": "Oferta de tokens de seguridad",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "Oferta de Tokens de Valores (STO)",
+    "link": "security-token-offering-sto.html"
+  },
+  {
+    "name": "frase semilla",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "Etiqueta Semilla",
+    "link": "seed-tag.html"
+  },
+  {
+    "name": "Segregated Witness (SegWit)",
+    "link": "segregated-witness.html"
+  },
+  {
+    "name": "autocustodia",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "autoejecutable",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Selfish Mining",
+    "link": "selfish-mining.html"
+  },
+  {
+    "name": "Sell Wall",
+    "link": "sell-wall.html"
+  },
+  {
+    "name": "Sentiment",
+    "link": "sentiment.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "serialización",
+    "link": "serialization.html"
+  },
+  {
+    "name": "cadena de fragmentos",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "fragmentación",
+    "link": "sharding.html"
+  },
+  {
+    "name": "Sharpe Ratio",
+    "link": "sharpe-ratio.html"
+  },
+  {
+    "name": "transacción blindada",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "cadena lateral",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "Sidechains",
+    "link": "sidechains.html"
+  },
+  {
+    "name": "Media Móvil Simple (SMA)",
+    "link": "simple-moving-average-sma.html"
+  },
+  {
+    "name": "Slashing",
+    "link": "slashing.html"
+  },
+  {
+    "name": "condición de corte",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "deslizamiento",
+    "link": "slippage.html"
+  },
+  {
+    "name": "ranura",
+    "link": "slot.html"
+  },
+  {
+    "name": "contrato inteligente",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "Una billetera de contratos inteligentes",
+    "link": "smart-contract-wallet.html"
+  },
+  {
+    "name": "Snapshot",
+    "link": "snapshot.html"
+  },
+  {
+    "name": "Billetera de recuperación social",
+    "link": "social-recovery-wallet.html"
+  },
+  {
+    "name": "Trading Social",
+    "link": "social-trading.html"
+  },
+  {
+    "name": "SocialFi",
+    "link": "socialfi.html"
+  },
+  {
+    "name": "bifurcación suave",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Aterrizaje suave",
+    "link": "soft-landing.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "Source Code",
+    "link": "source-code.html"
+  },
+  {
+    "name": "SPL",
+    "link": "spl.html"
+  },
+  {
+    "name": "Tokens SRC-20",
+    "link": "src-20-tokens.html"
+  },
+  {
+    "name": "moneda estable",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "Estanflación",
+    "link": "stagflation.html"
+  },
+  {
+    "name": "stake",
+    "link": "stake.html"
+  },
+  {
+    "name": "staking",
+    "link": "staking.html"
+  },
+  {
+    "name": "Staking Pool",
+    "link": "staking-pool.html"
+  },
+  {
+    "name": "estado",
+    "link": "state.html"
+  },
+  {
+    "name": "State Channel",
+    "link": "state-channel.html"
+  },
+  {
+    "name": "canales de estado",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "stETH",
+    "link": "steth.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "Variable stock",
+    "link": "stock-variable.html"
+  },
+  {
+    "name": "Store of Value",
+    "link": "store-of-value.html"
+  },
+  {
+    "name": "flujo",
+    "link": "streaming.html"
+  },
+  {
+    "name": "Supercomputer",
+    "link": "supercomputer.html"
+  },
+  {
+    "name": "Supply Chain",
+    "link": "supply-chain.html"
+  },
+  {
+    "name": "Support",
+    "link": "support.html"
+  },
+  {
+    "name": "intercambiar",
+    "link": "swap.html"
+  },
+  {
+    "name": "Ataque Sybil",
+    "link": "sybil-attack.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Taker",
+    "link": "taker.html"
+  },
+  {
+    "name": "Tank",
+    "link": "tank.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "red de pruebas",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Red de pruebas Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Red de pruebas Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Red de pruebas Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "Ticker",
+    "link": "ticker.html"
+  },
+  {
+    "name": "Símbolo de ticker",
+    "link": "ticker-symbol.html"
+  },
+  {
+    "name": "token",
+    "link": "token.html"
+  },
+  {
+    "name": "Evento de generación de tokens (TGE)",
+    "link": "token-generation-event-tge.html"
+  },
+  {
+    "name": "bloqueo de tokens",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "Fusión de tokens",
+    "link": "token-merge.html"
+  },
+  {
+    "name": "Token Sale",
+    "link": "token-sale.html"
+  },
+  {
+    "name": "estándar de tokens",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "Estándares de token",
+    "link": "token-standards.html"
+  },
+  {
+    "name": "Tokenización",
+    "link": "tokenization.html"
+  },
+  {
+    "name": "Tokenomics",
+    "link": "tokenomics.html"
+  },
+  {
+    "name": "Total Supply",
+    "link": "total-supply.html"
+  },
+  {
+    "name": "Valor Total Bloqueado (TVL)",
+    "link": "total-value-locked-tvl.html"
+  },
+  {
+    "name": "TradFi",
+    "link": "tradfi.html"
+  },
+  {
+    "name": "transacción",
+    "link": "transaction.html"
+  },
+  {
+    "name": "bloque de transacciones",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "tarifa de transacción",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "ID de transacción",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "grupo de transacciones",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transactions Per Second (TPS)",
+    "link": "transactions-per-second-tps.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Letras del Tesoro (<em>T-Bills</em>)",
+    "link": "treasury-bills-t-bills.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "TrueUSD (TUSD)",
+    "link": "trueusd-tusd.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "sin verificación de confianza",
+    "link": "trustless.html"
+  },
+  {
+    "name": "Turing completo",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "Valor total bloqueado",
+    "link": "tvl.html"
+  },
+  {
+    "name": "ID de transacción",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "Cómo entender el número 4 de CZ",
+    "link": "understanding-cz-s-number-4.html"
+  },
+  {
+    "name": "clave no cifrada",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "Unit of Account",
+    "link": "unit-of-account.html"
+  },
+  {
+    "name": "salida de transacción no gastada",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "Unspent Transaction Output (UTXO)",
+    "link": "unspent-transaction-output-utxo.html"
+  },
+  {
+    "name": "dejar de hacer staking",
+    "link": "unstake.html"
+  },
+  {
+    "name": "actualizar",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "User Interface (UI)",
+    "link": "user-interface.html"
+  },
+  {
+    "name": "Token de utilidad",
+    "link": "utility-token.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "validador",
+    "link": "validator.html"
+  },
+  {
+    "name": "prueba de validez",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "Verification Code",
+    "link": "verification-code.html"
+  },
+  {
+    "name": "bloqueo de tokens",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "Virtual Machine",
+    "link": "virtual-machine.html"
+  },
+  {
+    "name": "Vladimir Club",
+    "link": "vladimir-club.html"
+  },
+  {
+    "name": "Volatility",
+    "link": "volatility.html"
+  },
+  {
+    "name": "Volume",
+    "link": "volume.html"
+  },
+  {
+    "name": "WAGMI",
+    "link": "wagmi.html"
+  },
+  {
+    "name": "billetera",
+    "link": "wallet.html"
+  },
+  {
+    "name": "dirección de monedero",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Volumen falso (wash trading)",
+    "link": "wash-trading.html"
+  },
+  {
+    "name": "Weak Hands",
+    "link": "weak-hands.html"
+  },
+  {
+    "name": "Weak Subjectivity",
+    "link": "weak-subjectivity.html"
+  },
+  {
+    "name": "Web 1.0",
+    "link": "web-1.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "Media móvil ponderada (WMA)",
+    "link": "weighted-moving-average-wma.html"
+  },
+  {
+    "name": "Whale",
+    "link": "whale.html"
+  },
+  {
+    "name": "Whiskers",
+    "link": "whiskers.html"
+  },
+  {
+    "name": "Whitelist",
+    "link": "whitelist.html"
+  },
+  {
+    "name": "libro blanco",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "Wick",
+    "link": "wick.html"
+  },
+  {
+    "name": "Tasa de trades ganadores",
+    "link": "win-rate.html"
+  },
+  {
+    "name": "Wrapped Ether (WETH)",
+    "link": "wrapped-ether.html"
+  },
+  {
+    "name": "envolver",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "El Método Wyckoff",
+    "link": "wyckoff.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "clave pública extendida",
+    "link": "xpub.html"
+  },
+  {
+    "name": "tokens de yield farming",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "yield farming",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "dirección cero",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "prueba de conocimiento cero",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "Zero-Knowledge Proofs",
+    "link": "zero-knowledge-proofs.html"
+  },
+  {
+    "name": "rollup de conocimiento cero",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "ZK-rollup",
+    "link": "zk-rollup.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "zk-Stark",
+    "link": "zk-starks.html"
+  }
+]

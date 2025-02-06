@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "Double verification for security",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "Chop oga network wey pass 50%",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "akaunt",
+    "link": "account.html"
+  },
+  {
+    "name": "Bank to bank transfer",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "public key wey dem dey use see your moni",
+    "link": "address.html"
+  },
+  {
+    "name": "oga wey gather everything",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "isolate di wallet for safety",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "free crypto dash",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "formula wey dey run di show",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "oga coin wey no be Bitcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "Block Mago-Mago Money",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "Special chip wey dey mine coin fast fast",
+    "link": "asic.html"
+  },
+  {
+    "name": "history of di asset",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "proof sey something dey legit",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Chain wey dey guide di main network",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "piece of di record",
+    "link": "block.html"
+  },
+  {
+    "name": "oga tool wey dey find crypto waka waka",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "block level",
+    "link": "block-height.html"
+  },
+  {
+    "name": "moni wey dem dey give for mining block",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "how long e take to find one block",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "block to block record wey no fit change",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "oga tool wey dey find crypto waka waka",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "three hard things wey blockchain dey fight",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "moni wey dem dey go give if you see bug",
+    "link": "bounty.html"
+  },
+  {
+    "name": "secret code wey you keep in your head",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "oga platform wey move your crypto between networks",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "code wey machne dey undastand",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "Network wey no fail even if some parts bad",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "Change wey happen for di network",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "company wey dey buy and sell crypto",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "number wey tell you which network you dey",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "software wey you dey use to connect to di network and wey dey confam transactions",
+    "link": "client.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "digital moni",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "storage wey no dey connected to internet",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "wallet wey no dey connected to internet",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "turn code to machine talk",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "confirm say transaction don happen true true",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "agreement wey everybody for di network get",
+    "link": "consensus.html"
+  },
+  {
+    "name": "software wey dey help network reach agreement",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "machine wey dey make sure everybody agree",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "rule for how di network reach agreement",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Change wey happen for di Ethereum network",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "agreement wey dey live for di blockchain",
+    "link": "contract.html"
+  },
+  {
+    "name": "special account wey hold di contract code",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "reward for finding wahala wey dey crypto projects",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "big pool of money wey dem fit invest for crypto projects",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "place wey you keep your crypto safe",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "anything wey relate to cryptocurrency",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "digital moni wey get value",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "wey follow di rules for crypto",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "crypto moni",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "how crypto economy dey work",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "oga code wey dey keep things safe",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "keeping",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "Many bad people wey try to block access to something online",
+    "link": "ddos.html"
+  },
+  {
+    "name": "no one person dey control am",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "app wey dey run on di blockchain, no central control",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Community wey control project without leader",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "place to buy and sell crypto without wahala",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "crypto finance wey nor need bank",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "internet wey no central control, everything dey open and free",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "How dem dey protect blockchain by you holding crypto wey dem delegate",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "moni unit",
+    "link": "denominations.html"
+  },
+  {
+    "name": "put money for something",
+    "link": "deposit.html"
+  },
+  {
+    "name": "comot from inside",
+    "link": "derive.html"
+  },
+  {
+    "name": "person wey dey build di software",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "person wey dey build di software",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "how hard e be to mine new coins",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "something wey dey make mining harder and harder over time",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "oga digital property wey you fit buy and sell",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "who you be online",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "oga code wey prove say na you sign something",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Technology wey dey use create distributed ledgers",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "spend moni two times palava",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "community wey support each other for crypto",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "Enterprise Ethereum Alliance",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "key wey dey hidden",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "locking your data so only you fit open am",
+    "link": "encryption.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "scatta scatta wey get security",
+    "link": "entropy.html"
+  },
+  {
+    "name": "one period of time in di blockchain",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "native coin of di Ethereum network",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "Suggestion for changing di Ethereum network",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Main Ethereum network",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Machine wey dey make Ethereum work",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "platform wey you fit buy and sell crypto",
+    "link": "exchange.html"
+  },
+  {
+    "name": "software wey dey run transaction for Ethereum blockchain",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "part of di network wey dey handle di execution clients",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "app wey dey give small amount of free crypto for new users",
+    "link": "faucet.html"
+  },
+  {
+    "name": "system wey fit still work even if e get fault",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "government money",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "transaction don complete",
+    "link": "finality.html"
+  },
+  {
+    "name": "speed wey dem dey use confirmin transaction wey no fit change",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "technology wey change how people manage money",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "barrier wey protect your computer from bad things",
+    "link": "firewall.html"
+  },
+  {
+    "name": "software for your device",
+    "link": "firmware.html"
+  },
+  {
+    "name": "split in di network, two versions now",
+    "link": "fork.html"
+  },
+  {
+    "name": "you get small part of one big thing",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "dem get way to catch bad belle for some crypto",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "computer wey e download and keep the whole blockchain",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "wetin your transaction need to run on di network",
+    "link": "gas.html"
+  },
+  {
+    "name": "moni wey you go pay make your crypto take waka",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "how much gas you go pay max",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "moni wey you go make your transaction waka sharp-sharp",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "first block wey dem first create on top blockchain",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "how dem dey decide for blockchain matter",
+    "link": "governance.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "halve block reward every now and then",
+    "link": "halving.html"
+  },
+  {
+    "name": "major change for di blockchain rule",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "physical device wey store your crypto offline",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "unique code wey represent data",
+    "link": "hash.html"
+  },
+  {
+    "name": "wallet wey generate addresses from a single seed phrase",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "Data hex",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "Software storage wey dey connected to di internet",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "Software wallet wey dey connected to di internet",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "network wey join different-different tech together",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Free software wey you fit use build blockchain",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "System wey blockchains fit use to tok to each other",
+    "link": "ibc.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "e no fit change again",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "use inside info trade before e reach public",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "movement of crypto inside di network",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "different crypto networks fit wok together",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "Internet address for your device:",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "When company first dey sell shares to public",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Special file format wey computers fit use share data JSON",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "File wey dem dey keep ya crypto keys safe",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "Sabi who your customer be",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "Check where your money dey come from and where e dey go",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Platform wey dey helep new crypto projects sell their coins to the public",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "ground floor layer",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "extra layer wey dem build on top di main network",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Ledger Live App",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "library",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "small program wey dey connect to blockchain, no be the full thing",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "when your crypto value fall too much and dem sell am off to pay back loan",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "how easy it be to buy and sell crypto, like how fast you fit change am to cash",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "tradin moni pot",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "stake moni for tradin moni pot",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "di real blockchain network where real transactions dey happen",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Maker Protocol",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "computer virus",
+    "link": "malware.html"
+  },
+  {
+    "name": "how big di market be",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "payment waiting list",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "payment waiting list",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Merge",
+    "link": "merge.html"
+  },
+  {
+    "name": "Special Data Structure",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Mesh Network",
+    "link": "mesh.html"
+  },
+  {
+    "name": "extra Information",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "Virtual world",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "Highest Value wey Person Fit Get for Trade",
+    "link": "mev.html"
+  },
+  {
+    "name": "Double-double verification",
+    "link": "mfa.html"
+  },
+  {
+    "name": "person wey dey confirm transactions",
+    "link": "miner.html"
+  },
+  {
+    "name": "Miner reward",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "crypto mining",
+    "link": "mining.html"
+  },
+  {
+    "name": "create new crypto",
+    "link": "mint.html"
+  },
+  {
+    "name": "secret group of words wey you fit use recover your crypto wallet",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "blockchain wey dem break into pieces",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "multi-signature",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "wallet wey need multiple approvals",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "blockchain inside another blockchain",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "network",
+    "link": "network.html"
+  },
+  {
+    "name": "network overload",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "Tap and Pay Technology",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "one big marketplace for all your digital art",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "NFT Release",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "part of di Network",
+    "link": "node.html"
+  },
+  {
+    "name": "unique digital asset wey no get copy",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "specialnumber for security",
+    "link": "nonce.html"
+  },
+  {
+    "name": "outside the Main Blockchain",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "way to buy and sell crypto",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "block wey get created temporarily but no dey included in the main chain",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "for the main blockchain network",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "way to buy and sell crypto",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "e go check well-well if fraud dey",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "Oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "Paraswap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "parity",
+    "link": "parity.html"
+  },
+  {
+    "name": "Secret Word",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "Secret Word",
+    "link": "password.html"
+  },
+  {
+    "name": "password Keeper",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "no middleman, person to person",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "blockchain wey only certain people get access to",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "fake website or email wey wan steal your crypto",
+    "link": "phishing.html"
+  },
+  {
+    "name": "System wey manage public keys and certificates for security",
+    "link": "pki.html"
+  },
+  {
+    "name": "Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "How dem dey protect blockchain by using people wey we trust",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "blockchain wey only certain people get access to",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "digital money wey e no be public",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "secret key for crypto",
+    "link": "private-key.html"
+  },
+  {
+    "name": "How dem dey protect blockchain by you holding crypto",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "How dem dey protect blockchain by computer wey dey solve hard problems",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "blockchain rules",
+    "link": "protocol.html"
+  },
+  {
+    "name": "your crypto address",
+    "link": "public-address.html"
+  },
+  {
+    "name": "open blockchain",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "public key",
+    "link": "public-key.html"
+  },
+  {
+    "name": "special lock and key system",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "QR Code",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Number wey dey needed for agreement",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "Connector wey Make Blockchain Transactions Happen",
+    "link": "relayer.html"
+  },
+  {
+    "name": "Remote Function Call",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "roadmap",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "express lane for internet",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "sudden scam",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "testing environment",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "fit carry more work",
+    "link": "scalability.html"
+  },
+  {
+    "name": "make am fit carry more work",
+    "link": "scaling.html"
+  },
+  {
+    "name": "scam",
+    "link": "scam.html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "search engine",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "Secret Word",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "Special tokens wey you fit invest",
+    "link": "security-token.html"
+  },
+  {
+    "name": "Dem dey sell special tokens for investment",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "secret word",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "you dey hol your crypto keys yourself",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "e dey work automatically",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "turn data small for storage or to send",
+    "link": "serialization.html"
+  },
+  {
+    "name": "small chains wey dey work with big chain",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "dem dey divide blockchain",
+    "link": "sharding.html"
+  },
+  {
+    "name": "secret message",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "separate blockchain wey dey connect to main one",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "wetin fit make dem destroy validator money",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "price change before you finish to buy--sell",
+    "link": "slippage.html"
+  },
+  {
+    "name": "slot",
+    "link": "slot.html"
+  },
+  {
+    "name": "agreement wey dey run by itself",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "small upgrade or change wey no break old systems",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "crypto wey hin value no dey change too much",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "make you hold crypto so you go fit collect gain",
+    "link": "stake.html"
+  },
+  {
+    "name": "hold crypto, collect gain",
+    "link": "staking.html"
+  },
+  {
+    "name": "wetin dey happen now for blockchain network",
+    "link": "state.html"
+  },
+  {
+    "name": "special channels wey dey make transaction happen quick-quick for Ethereum",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "payment wey dey flow steady",
+    "link": "streaming.html"
+  },
+  {
+    "name": "make u trade crypto for anoda",
+    "link": "swap.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "where dem dey test new software",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Testnet Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Testnet Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Testnet Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "special coin",
+    "link": "token.html"
+  },
+  {
+    "name": "hold your coin small time",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "rules wey tokens dey follow",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "moving your crypto around like you dey move money",
+    "link": "transaction.html"
+  },
+  {
+    "name": "block wey get transaction details",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "money wey you dey pay for transaction",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "Unique code for every transaction",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "payment queue",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "nobody fit cheat the system",
+    "link": "trustless.html"
+  },
+  {
+    "name": "a computer wey fit do anything",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "Total value of crypto wey dey locked up",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "key wey anybody fit see",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "small pieces of money wey you fit use again",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "commot your stake",
+    "link": "unstake.html"
+  },
+  {
+    "name": "improvement or software update",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "person wey dey check if transaction correct",
+    "link": "validator.html"
+  },
+  {
+    "name": "proof wey show say transaction correct",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "to hold your token for some time before you sell",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "place wey you dey keep your crypto",
+    "link": "wallet.html"
+  },
+  {
+    "name": "address for wallet",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "automatic message wey dey connect apps",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "smallest unit for ethereum token",
+    "link": "wei.html"
+  },
+  {
+    "name": "document wey explain new crypto project",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "converting one crypto to anoda format",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "Master key wey you fit use generate all your other keys",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "Special kind of key wey fit generate plenty addresses for your crypto wallet",
+    "link": "xpub.html"
+  },
+  {
+    "name": "Way wey you fit use earn rewards for crypto",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "Tokens wey dey give you rewards",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "Empty address wey no get any crypto",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "proof wey no show any extra info",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "rollup wey no reveal any secret",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

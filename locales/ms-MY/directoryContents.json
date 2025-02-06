@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "2FA",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "serangan 51%",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "akaun",
+    "link": "account.html"
+  },
+  {
+    "name": "Pemindahan ACH",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "alamat",
+    "link": "address.html"
+  },
+  {
+    "name": "pengagregat",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "air-gapping",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "airdrop",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "algoritma",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "altcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "AML",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ASIC",
+    "link": "asic.html"
+  },
+  {
+    "name": "asal aset",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "pengesahan",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Beacon Chain",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "blok",
+    "link": "block.html"
+  },
+  {
+    "name": "block explorer",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "ketinggian blok",
+    "link": "block-height.html"
+  },
+  {
+    "name": "ganjaran blok",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "masa blok",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "rantaian blok",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "blockchain explorer",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "trilema rantaian blok",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "ganjaran",
+    "link": "bounty.html"
+  },
+  {
+    "name": "dompet otak",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "jambatan",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "kod bait",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "toleransi kesalahan byzantine",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "Byzantium fork",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "pertukaran berpusat",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "ID rantaian",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "klien",
+    "link": "client.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "coin",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "simpanan sejuk",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "dompet sejuk",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "susun",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "pengesahan",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "konsensus",
+    "link": "consensus.html"
+  },
+  {
+    "name": "klien konsensus",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "lapisan konsensus",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "mekanisme konsensus",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Constantinople fork",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "kontrak",
+    "link": "contract.html"
+  },
+  {
+    "name": "akaun kontrak",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "ganjaran kripto",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "dana kripto",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "dompet kripto",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "kripto-",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "aset kripto",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "pematuhan kripto",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "mata wang kripto",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "kriptoekonomi",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "kriptografi",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "jagaan",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS",
+    "link": "ddos.html"
+  },
+  {
+    "name": "desentralisasi",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "aplikasi terdesentralisasi",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Pertubuhan Autonomi Terpencar",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "pertukaran terdesentralisasi",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "kewangan terdesentralisasi",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "web terdesentralisasi",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "Bukti pegangan yang terdelegasi (DPoS)",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "denominasi",
+    "link": "denominations.html"
+  },
+  {
+    "name": "deposit",
+    "link": "deposit.html"
+  },
+  {
+    "name": "terbit",
+    "link": "derive.html"
+  },
+  {
+    "name": "dev",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "pembangun",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "kesukaran",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "bom kesukaran",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "aset digital",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "identiti digital",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "tandatangan digital",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Teknologi Lejar Teragih",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "perbelanjaan berganda",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "ekosistem",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "kunci terenkripsi",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "enkripsi",
+    "link": "encryption.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "entropi",
+    "link": "entropy.html"
+  },
+  {
+    "name": "epoch",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "Cadangan Penambahbaikan Ethereum",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Ethereum Mainnet",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "Perkhidmatan Nama Ethereum",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Mesin Maya Ethereum",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "pertukaran",
+    "link": "exchange.html"
+  },
+  {
+    "name": "klien pelaksanaan",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "lapisan pelaksanaan",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "faucet",
+    "link": "faucet.html"
+  },
+  {
+    "name": "tahan ralat",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "mata wang fiat",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "muktamad",
+    "link": "finality.html"
+  },
+  {
+    "name": "kadar kemuktamadan",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "teknologi kewangan",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "tembok api",
+    "link": "firewall.html"
+  },
+  {
+    "name": "perisian tegar",
+    "link": "firmware.html"
+  },
+  {
+    "name": "fork",
+    "link": "fork.html"
+  },
+  {
+    "name": "pemilikan pecahan",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "kalis penipuan",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "nod penuh",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gas",
+    "link": "gas.html"
+  },
+  {
+    "name": "bayaran gas",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "had gas",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "harga gas",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "blok genesis",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "tadbir urus",
+    "link": "governance.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "halving",
+    "link": "halving.html"
+  },
+  {
+    "name": "hard fork",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "dompet perkakasan",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "hash",
+    "link": "hash.html"
+  },
+  {
+    "name": "dompet HD",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "داده‌های هگز",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "simpanan panas",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "dompet panas",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "rangkaian hibrid",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "tidak berubah",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "perdagangan orang dalam",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "transaksi dalaman",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "saling boleh kendali",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "Sistem Fail Antara Planet (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "alamat IP",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "fail JSON",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "fail keystore",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "Kenali Pelanggan Anda",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "Ketahui Transaksi Anda",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Launchpad",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "lapisan 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "lapisan 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Aplikasi Ledger Live",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "Perpustakaan",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "klien ringan",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Rangkaian Kilat",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "pembubaran",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "kecairan",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "kolam kecairan",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "staking kecairan",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "mainnet",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Protokol Maker",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "Perisian Hasad",
+    "link": "malware.html"
+  },
+  {
+    "name": "modal pasaran",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "kolam memori",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Penggabungan",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merkle Patricia trie",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "metadata",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metaverse",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "MEV",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "pelombong",
+    "link": "miner.html"
+  },
+  {
+    "name": "bayaran pelombong",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "melombong",
+    "link": "mining.html"
+  },
+  {
+    "name": "mint",
+    "link": "mint.html"
+  },
+  {
+    "name": "frasa mnemonik",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "rantaian blok modular",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "multi-sig",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "dompet berbilang tandatangan",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "rantaian blok bersarang",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "rangkaian",
+    "link": "network.html"
+  },
+  {
+    "name": "kesesakan rangkaian",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "NFC",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "Agregator NFT",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "NFT drop",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "nod",
+    "link": "node.html"
+  },
+  {
+    "name": "token tidak sepiawai",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "nonce",
+    "link": "nonce.html"
+  },
+  {
+    "name": "luar rantaian",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "off-ramp",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "ommer block",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "dalam rantaian",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "on-ramp",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "penggulungan optimistik",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "Oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "pariti",
+    "link": "parity.html"
+  },
+  {
+    "name": "Frasa laluan",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "Kata laluan",
+    "link": "password.html"
+  },
+  {
+    "name": "pengurus kata laluan",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "perangkai padan",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "lejar dibenarkan",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "pancingan data",
+    "link": "phishing.html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "PoA",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "rantaian blok peribadi",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "mata wang peribadi",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "kunci peribadi",
+    "link": "private-key.html"
+  },
+  {
+    "name": "Bukti Kepentingan",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "Bukti Kerja",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "protokol",
+    "link": "protocol.html"
+  },
+  {
+    "name": "alamat awam",
+    "link": "public-address.html"
+  },
+  {
+    "name": "rantaian blok awam",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "kunci awam",
+    "link": "public-key.html"
+  },
+  {
+    "name": "kriptografi kunci awam",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "Infrastruktur Kunci Awam",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "kod QR",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "penyampai",
+    "link": "relayer.html"
+  },
+  {
+    "name": "Panggilan Prosedur Jauh",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "pelan hala tuju",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "penggulungan",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "tarik permaidani",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "kotak pasir",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "kebolehskalaan",
+    "link": "scalability.html"
+  },
+  {
+    "name": "penskalaan",
+    "link": "scaling.html"
+  },
+  {
+    "name": "penipuan",
+    "link": "scam.html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "enjin carian",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "Frasa Pemulihan Rahsia",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "Token Keselamatan",
+    "link": "security-token.html"
+  },
+  {
+    "name": "Tawaran Token Keselamatan",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "frasa benih",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "jagaan sendiri",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "melaksanakan sendiri",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "serialisasi",
+    "link": "serialization.html"
+  },
+  {
+    "name": "rantai shard",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "sharding",
+    "link": "sharding.html"
+  },
+  {
+    "name": "transaksi terlindung",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "rantaian sampingan",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "keadaan slashing",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "gelinciran",
+    "link": "slippage.html"
+  },
+  {
+    "name": "slot",
+    "link": "slot.html"
+  },
+  {
+    "name": "kontrak pintar",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "soft fork",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "stablecoin",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "stake",
+    "link": "stake.html"
+  },
+  {
+    "name": "staking",
+    "link": "staking.html"
+  },
+  {
+    "name": "state",
+    "link": "state.html"
+  },
+  {
+    "name": "saluran state",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "penstriman",
+    "link": "streaming.html"
+  },
+  {
+    "name": "tukar",
+    "link": "swap.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "testnet",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Testnet Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Testnet Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Testnet Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "token",
+    "link": "token.html"
+  },
+  {
+    "name": "penguncian token",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "piawaian token",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "transaksi",
+    "link": "transaction.html"
+  },
+  {
+    "name": "blok transaksi",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "bayaran transaksi",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "ID transaksi",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "kolam transaksi",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "trustless",
+    "link": "trustless.html"
+  },
+  {
+    "name": "Lengkap Turing",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "TVL",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "kunci tidak terenkripsi",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "output transaksi tidak dibelanjakan",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "menarik balik pegangan",
+    "link": "unstake.html"
+  },
+  {
+    "name": "naik taraf",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "pengesah",
+    "link": "validator.html"
+  },
+  {
+    "name": "bukti kesahihan",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "pemegangan berperingkat",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "dompet",
+    "link": "wallet.html"
+  },
+  {
+    "name": "alamat dompet",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "cangkuk web",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "kertas putih",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "membalut",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "XPUB",
+    "link": "xpub.html"
+  },
+  {
+    "name": "pertanian hasil",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "token memberi hasil",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "alamat nol",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "bukti tanpa pengetahuan",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "penggabungan tanpa pengetahuan",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

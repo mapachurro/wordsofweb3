@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "การพิสูจน์ตัวจริงสองปัจจัย",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "การโจมตี 51%",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "บัญชี",
+    "link": "account.html"
+  },
+  {
+    "name": "การโอน ACH",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "ที่อยู่",
+    "link": "address.html"
+  },
+  {
+    "name": "ผู้รวบรวม",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "การสร้างแอร์แกป",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "แอร์ดรอป",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "อัลกอริทึม",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "อัลต์คอยน์",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "การต่อต้านการฟอกเงิน",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "วงจรรวมเฉพาะแอปพลิเคชัน",
+    "link": "asic.html"
+  },
+  {
+    "name": "ที่มาของสินทรัพย์",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "การลงนามรับรอง",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Beacon Chain",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "บิตคอยน์",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "บล็อก",
+    "link": "block.html"
+  },
+  {
+    "name": "ส่วนอธิบายบล็อก",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "เลขบล็อก",
+    "link": "block-height.html"
+  },
+  {
+    "name": "รางวัลการขุดบล็อก",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "ระยะเวลาบล็อก",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "บล็อกเชน",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "ส่วนอธิบายบล็อกเชน",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "บล็อกเชนตรีบถ",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "เชน BNB",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "รางวัล",
+    "link": "bounty.html"
+  },
+  {
+    "name": "วอลเล็ตความจำ",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "bridge",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "ไบต์โค้ด",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "การทนความผิดพร่องแบบไบแซนไทน์",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "การแยกบิแซนเทียม",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "ตลาดแลกเปลี่ยนรวมศูนย์",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "ID เชน",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "ไคลเอ็นต์",
+    "link": "client.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "เหรียญ",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "ที่เก็บเงินระยะยาว",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "วอลเล็ตเงินเย็น",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "การคอมไพล์",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "การยืนยัน",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "ฉันทามติ",
+    "link": "consensus.html"
+  },
+  {
+    "name": "ไคลเอ็นต์ฉันทามติ",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "เลเยอร์ฉันทามติ",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "กลไกฉันทามติ",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "การแยกคอนสแตนติโนเปิล",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "สัญญา",
+    "link": "contract.html"
+  },
+  {
+    "name": "บัญชีสัญญา",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "รางวัลคริปโต",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "กองทุนคริปโต",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "วอลเล็ตคริปโต",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "คริปโต",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "สินทรัพย์คริปโต",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "การปฏิบัติตามกฎระเบียบคริปโต",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "เงินคริปโต",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "เศรษฐกิจคริปโต",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "วิทยาการเข้ารหัส",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "การเก็บรักษา",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS",
+    "link": "ddos.html"
+  },
+  {
+    "name": "กระจายศูนย์",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "แอปพลิเคชันกระจายศูนย์",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "องค์กรอัตโนมัติแบบกระจายศูนย์",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "ตลาดแลกเปลี่ยนแบบกระจายศูนย์",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "การเงินกระจายศูนย์",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "เว็บกระจายศูนย์",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "DPoS",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "อีเทอร์",
+    "link": "denominations.html"
+  },
+  {
+    "name": "ฝาก",
+    "link": "deposit.html"
+  },
+  {
+    "name": "ได้มาจาก",
+    "link": "derive.html"
+  },
+  {
+    "name": "นักพัฒนา",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "นักพัฒนา",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "ความยากในการขุด",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "ปรับความยากจนขุดไม่ได้",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "สินทรัพย์ดิจิทัล",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "อัตลักษณ์ดิจิทัล",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "ลายเซ็นดิจิทัล",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "เทคโนโลยีการจดบัญชีแบบกระจาย",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "จ่ายซ้ำ",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "ระบบนิเวศ",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "คีย์เข้ารหัส",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "การเข้ารหัส",
+    "link": "encryption.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "เอนโทรปี",
+    "link": "entropy.html"
+  },
+  {
+    "name": "อีพอกช์",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "อีเทอร์",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "ข้อเสนอการปรับปรุง Ethereum",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "เครือข่ายหลัก Ethereum",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "เนมเซอร์วิส Ethereum",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "เครื่องมือจำลอง Ethereum",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "ตลาดแลกเปลี่ยน",
+    "link": "exchange.html"
+  },
+  {
+    "name": "ไคลเอ็นต์ดำเนินการ",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "เลเยอร์ดำเนินการ",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "ฟอเซ็ต",
+    "link": "faucet.html"
+  },
+  {
+    "name": "ทนต่อความผิดพร่อง",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "เงินเฟียต",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "ยอดสรุปสุดท้าย",
+    "link": "finality.html"
+  },
+  {
+    "name": "อัตราสุดท้าย",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "เทคโนโลยีทางการเงิน",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "ฟินนี่",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "ไฟร์วอลล์",
+    "link": "firewall.html"
+  },
+  {
+    "name": "เฟิร์มแวร์",
+    "link": "firmware.html"
+  },
+  {
+    "name": "แยก",
+    "link": "fork.html"
+  },
+  {
+    "name": "การถือครองกรรมสิทธิ์แบบสัดส่วน",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "การตรวจสอบแบบไม่ไว้ใจ",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "โหนดเต็ม",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "แก๊ส",
+    "link": "gas.html"
+  },
+  {
+    "name": "ค่าแก๊ส",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "ขีดจำกัดค่าแก๊ส",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "ราคาแก๊ส",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "เครือข่ายจัดหาแก๊ส",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "บล็อกแรก",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "การกำกับ",
+    "link": "governance.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "เกวย์",
+    "link": "gwei.html"
+  },
+  {
+    "name": "ฮาฟวิงก์",
+    "link": "halving.html"
+  },
+  {
+    "name": "การแยกสมบูรณ์",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "ฮาร์ดแวร์วอลเล็ต",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "แฮช",
+    "link": "hash.html"
+  },
+  {
+    "name": "วอลเล็ต HD",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "Hex na data",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "ที่เก็บเงินระยะสั้น",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "ฮอตวอลเล็ต",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "เครือข่ายไฮบริด",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "เปลี่ยนแปลงไม่ได้",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "การใช้ข้อมูลภายใน",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "ธุรกรรมภายใน",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "ความสอดประสาน",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "ระบบไฟล์ InterPlanetary (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "เลขที่อยู่ IP",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "ไฟล์ JSON",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "ไฟล์คีย์สโตร์",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "การรู้จักลูกค้า",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "การรู้จักธุรกรรม",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Launchpad",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "เลเยอร์ 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "เลเยอร์ 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "แอป Ledger Live",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "ไลบรารี",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "ไลต์ไคลเอ็นต์",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "การชำระบัญชี",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "สภาพคล่อง",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "พูลสภาพคล่อง",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "ฝากสภาพคล่อง",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "เครือข่ายหลัก",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Maker Protocol",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "มัลแวร์",
+    "link": "malware.html"
+  },
+  {
+    "name": "มูลค่าตลาด",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "พูลเมมโมรี่",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "เมมพูล",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "เมิร์ช",
+    "link": "merge.html"
+  },
+  {
+    "name": "ต้นไม้ Merkle Patricia",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "ข้อมูลเมต้า",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "เมตาเวิร์ส",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "มูลค่าที่สกัดได้สูงสุด",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "นักขุด",
+    "link": "miner.html"
+  },
+  {
+    "name": "ทิปนักขุด",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "การขุด",
+    "link": "mining.html"
+  },
+  {
+    "name": "สร้าง",
+    "link": "mint.html"
+  },
+  {
+    "name": "วลีช่วยจำ",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "บล็อกเชนแยกส่วน",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "แบบหลายลายเซ็น",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "วอลเล็ตหลายลายเซ็น",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "บล็อกเชนย่อย",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "เครือข่าย",
+    "link": "network.html"
+  },
+  {
+    "name": "ความแออัดของเครือข่าย",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "การสื่อสารไร้สายระยะใกล้",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "ผู้รวบรวม NFT",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "การปล่อยผลงาน NFT",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "โหนด",
+    "link": "node.html"
+  },
+  {
+    "name": "โทเค็นที่ไม่สามารถทดแทนได้",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "นอนซ์",
+    "link": "nonce.html"
+  },
+  {
+    "name": "ออฟเชน",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "แลกออก",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "ออมเมอร์บล็อก",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "ออนเชน",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "แลกเข้า",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "โรลล์อัปแบบออปติมิสติก",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "ออราเคิล",
+    "link": "oracle.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "แพริตี",
+    "link": "parity.html"
+  },
+  {
+    "name": "วลีรหัสผ่าน",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "รหัสผ่าน",
+    "link": "password.html"
+  },
+  {
+    "name": "เครื่องมือจัดการรหัสผ่าน",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "เพียร์ทูเพียร์",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "บัญชีที่อนุญาตแล้ว",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "ฟิชชิ่ง",
+    "link": "phishing.html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "พลาสมา",
+    "link": "plasma.html"
+  },
+  {
+    "name": "PoA",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "บล็อกเชนส่วนตัว",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "สกุลเงินส่วนตัว",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "คีย์ส่วนตัว",
+    "link": "private-key.html"
+  },
+  {
+    "name": "การพิสูจน์แบบมีส่วนได้ส่วนเสีย",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "การพิสูจน์ด้วยการทำงาน",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "โพรโตคอล",
+    "link": "protocol.html"
+  },
+  {
+    "name": "ที่อยู่สาธารณะ",
+    "link": "public-address.html"
+  },
+  {
+    "name": "บล็อกเชนสาธารณะ",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "คีย์สาธารณะ",
+    "link": "public-key.html"
+  },
+  {
+    "name": "วิทยาการรหัสลับคีย์สาธารณะ",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "รหัส QR",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "รีเลเยอร์",
+    "link": "relayer.html"
+  },
+  {
+    "name": "การเรียกโปรแกรมย่อยระยะไกล",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "แผนดำเนินการ",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "โรลล์อัป",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "กลโกงแบบหอบหนี",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "แซนด์บ็อกซ์",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "ซาโตชิ นากาโมโต",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "ความสามารถในการปรับขนาด",
+    "link": "scalability.html"
+  },
+  {
+    "name": "ปรับขนาด",
+    "link": "scaling.html"
+  },
+  {
+    "name": "หลอกลวง",
+    "link": "scam.html"
+  },
+  {
+    "name": "สคริปต์",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "โปรแกรมค้นหา",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "วลีกู้คืนรหัส",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "โทเค็นหลักทรัพย์",
+    "link": "security-token.html"
+  },
+  {
+    "name": "การเสนอขายโทเค็นหลักทรัพย์",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "ซีดเฟส",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "การเก็บรักษาเอง",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "ดำเนินการเอง",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "การเรียงลำดับอนุกรม",
+    "link": "serialization.html"
+  },
+  {
+    "name": "ชาร์ดเชน",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "การแบ่งชาร์ด",
+    "link": "sharding.html"
+  },
+  {
+    "name": "ธุรกรรมที่มีการป้องกัน",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "เชนข้างเคียง",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "เงื่อนไขลงโทษ",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "ค่าความคลาดเคลื่อน",
+    "link": "slippage.html"
+  },
+  {
+    "name": "สล็อต",
+    "link": "slot.html"
+  },
+  {
+    "name": "สมาร์ตคอนแทรก",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "การแยกอสมบูรณ์",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "สเตเบิลคอยน์",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "เดิมพัน",
+    "link": "stake.html"
+  },
+  {
+    "name": "การฝาก",
+    "link": "staking.html"
+  },
+  {
+    "name": "สถานะ",
+    "link": "state.html"
+  },
+  {
+    "name": "แชนแนลสถานะ",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "สตรีม",
+    "link": "streaming.html"
+  },
+  {
+    "name": "แลกเปลี่ยน",
+    "link": "swap.html"
+  },
+  {
+    "name": "ซาโบ",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "เครือข่ายทดสอบ",
+    "link": "testnet.html"
+  },
+  {
+    "name": "เครือข่ายทดสอบ Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "เครือข่ายทดสอบ Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "เครือข่ายทดสอบ Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "โทเค็น",
+    "link": "token.html"
+  },
+  {
+    "name": "ล็อกโทเค็น",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "มาตรฐานโทเค็น",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "ธุรกรรม",
+    "link": "transaction.html"
+  },
+  {
+    "name": "บล็อกธุรกรรม",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "ค่าธุรกรรม",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "ID ธุรกรรม",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "พูลธุรกรรม",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "ไม่ต้องไว้วางใจ",
+    "link": "trustless.html"
+  },
+  {
+    "name": "สมบูรณ์ตามแบบทัวริง",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "TVL",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "คีย์ไม่เข้ารหัส",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "เอาต์พุตธุรกรรมที่ยังไม่ใช้จ่าย",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "เลิกฝาก",
+    "link": "unstake.html"
+  },
+  {
+    "name": "อัปเกรด",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "ผู้ตรวจสอบ",
+    "link": "validator.html"
+  },
+  {
+    "name": "หลักฐานยืนยัน",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "ทยอยให้ตามเวลา",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "วอลเล็ต",
+    "link": "wallet.html"
+  },
+  {
+    "name": "ที่อยู่วอลเล็ต",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "เว็บ 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "เว็บ 3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "เว็บฮุก",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "เวย์",
+    "link": "wei.html"
+  },
+  {
+    "name": "หนังสือชี้ชวน",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "การห่อ",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "XPUB",
+    "link": "xpub.html"
+  },
+  {
+    "name": "การทำฟาร์ม",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "โทเคนรับผลประโยชน์จากการฟาร์ม",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "ที่อยู่สูญ",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "การพิสูจน์โดยไม่ต้องรู้ข้อมูล",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "โรลล์อัปแบบไม่ต้องรู้ข้อมูล",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

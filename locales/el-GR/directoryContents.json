@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "Επαλήθευση δύο παραγόντων",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "επίθεση του 51%",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "λογαριασμός",
+    "link": "account.html"
+  },
+  {
+    "name": "Μεταφορά αυτοματοποιημένου γραφείου συμψηφισμού",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "διεύθυνση",
+    "link": "address.html"
+  },
+  {
+    "name": "συσσωρευτής",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "διάκενο αέρα",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "τακτική airdrop",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "αλγόρυθμος",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "altcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "Καταπολέμηση της νομιμοποίησης εσόδων από παράνομες δραστηριότητες",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ASIC",
+    "link": "asic.html"
+  },
+  {
+    "name": "προέλευση περιουσιακών στοιχείων",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "επιβεβαίωση",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Κύρια αλυσίδα",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "ομάδα καταχωρίσεων",
+    "link": "block.html"
+  },
+  {
+    "name": "εξερευνητής ομάδας καταχωρίσεων",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "ύψος ομάδας καταχωρίσεων",
+    "link": "block-height.html"
+  },
+  {
+    "name": "ανταμοιβή ομάδας καταχωρίσεων",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "χρόνος ομάδας καταχωρίσεων",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "αλυσίδα κατανεμημένης εγγραφής",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "Εξερευνητής αλυσίδας κατανεμημένης εγγραφής",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "τρίλημα αλυσίδας κατανεμημένης εγγραφής",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "επιβράβευση",
+    "link": "bounty.html"
+  },
+  {
+    "name": "πορτοφόλι με φράσεις πρόσβασης",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "Γέφυρα",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "σύνολο εντολών",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "Ανοχή Βυζαντινής Βλάβης",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "ενημέρωση Byzantium",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "κεντρικό xρηματιστήριο",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "Αναγνωριστικό αλυσίδας",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "πελάτης",
+    "link": "client.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "νόμισμα",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "ψυχρή αποθήκευση",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "ψυχρό πορτοφόλι",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "μεταγλώττιση",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "επιβεβαίωση",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "κονή συναίνεση (ομοφωνία)",
+    "link": "consensus.html"
+  },
+  {
+    "name": "πελάτης συναίνεσης",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "επίπεδο συναίνεσης",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "μηχανισμός συναίνεσης",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "ενημέρωση Constantinople",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "συμβόλαιο",
+    "link": "contract.html"
+  },
+  {
+    "name": "συμβατικό ποσό",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "επιβραβεύσεις κρυπτονoμίσματος",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "χρηματοδότηση κρυπτονομίσματος",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "πορτοφόλι κρυπτονομίσματος",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "κρυπτο-",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "κρυπτοπεριουσιακά στοιχεία",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "κρυπτο-συμμόρφωση",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "κρυπτονόμισμα",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "κρυπτοοικονομία",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "Κρυπτογράφηση",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "φύλαξη",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "Άρνησης εξυπηρέτησης (DDoS)",
+    "link": "ddos.html"
+  },
+  {
+    "name": "αποκέντρωση",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "αποκεντρωμένη εφαρμογή",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Αποκεντρωμένος αυτόνομος οργανισμός",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "αποκεντρωμένη ανταλλαγή",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "αποκεντρωμένη χρηματοοικονομική",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "αποκεντρωμένος ιστός",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "DeFi (αποκεντρωμένη χρηματοοικονομική)",
+    "link": "defi.html"
+  },
+  {
+    "name": "DPoS",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "ονομασίες",
+    "link": "denominations.html"
+  },
+  {
+    "name": "κατάθεση",
+    "link": "deposit.html"
+  },
+  {
+    "name": "παραγωγή",
+    "link": "derive.html"
+  },
+  {
+    "name": "προγραμματιστής",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "προγραμματιστής",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "δυσκολία",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "βόμβα δυσκολίας",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "ψηφιακά διαθέσιμα στοιχεία",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "ψηφιακή ταυτότητα",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "ψηφιακή υπογραφή",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Τεχνολογία Κατανεμημένου Καθολικού",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "διπλά έξοδα",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "οικοσύστημα",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "κρυπτογραφημένα κλειδί",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "κρυπτογράφηση",
+    "link": "encryption.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "εντροπία",
+    "link": "entropy.html"
+  },
+  {
+    "name": "χρονική σήμανση",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "Ethereum Improvement Proposal (EIP)",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Ethereum Mainnet",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "Όνομα Υπηρεσίας του Ethereum",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Εικονική μηχανή Ethereum",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "ανταλλαγή",
+    "link": "exchange.html"
+  },
+  {
+    "name": "Πελάτης εκτέλεσης",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "Επίπεδο εκτέλεσης",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "faucet",
+    "link": "faucet.html"
+  },
+  {
+    "name": "ανοχή σε σφάλματα",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "παραστατικό χρήμα",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "τελειωτικός διακανονισμός με βεβαιότητα",
+    "link": "finality.html"
+  },
+  {
+    "name": "Χρέωση βεβαιότητας",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "χρηματοοικονομική τεχνολογία",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "τείχος προστασίας",
+    "link": "firewall.html"
+  },
+  {
+    "name": "υλικολογισμικό",
+    "link": "firmware.html"
+  },
+  {
+    "name": "ενημέρωση",
+    "link": "fork.html"
+  },
+  {
+    "name": "κλασματική ιδιοκτησία",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "θωράκιση κατά της απάτης.",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "πλήρης κόμβος",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "συναλλαγή",
+    "link": "gas.html"
+  },
+  {
+    "name": "τέλη συναλλαγών",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "όριο συναλλαγών",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "αξία συναλλαγών",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "μπλοκ genesis",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "διακυβέρνηση",
+    "link": "governance.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "μείωση κατά το ήμισυ",
+    "link": "halving.html"
+  },
+  {
+    "name": "πολύπλοκη αναβάθμιση λογισμικού",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "πορτοφόλι υλικού",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "κατακερματισμός",
+    "link": "hash.html"
+  },
+  {
+    "name": "Ιεραρχικά ντετερμινιστικά πορτοφόλια (HD)",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "Δεκαεξαδικά δεδομένα",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "θερμή αποθήκευση",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "θερμό πορτοφόλι",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "υβριδικό δίκτυο",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "Πρωτοκόλλου επικοινωνίας μεταξύ των Blockchain (IBC)",
+    "link": "ibc.html"
+  },
+  {
+    "name": "Αρχική προσφορά νομισμάτων (ICO)",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "αμεταβλητότητα",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "Εσωτερική πληροφόρηση",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "εσωτερική συναλλαγή",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "Διαλειτουργικότητα",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "Διαπλανητικό Σύστημα Αρχείων (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "Διεύθυνση IP",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Αρχείο JSON",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "αρχείο αποθήκευσης κλειδιών",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "Γνωρίστε τον πελάτη σας",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "Μάθετε τη συναλλαγή σας",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Πλατφόρμα εκκίνησης",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "επίπεδο 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "επίπεδο 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Ledger Live App",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "βιβλιοθήκη",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "εύκολο πρόγραμμα",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "Ρευστοποίηση",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "ρευστότητα",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "δεξαμενή ρευστότητας",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "ρευστότητα μεριδίου",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "mainnet",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Πρωτόκολλο προγραμματιστή",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "κακόβουλο λογισμικό",
+    "link": "malware.html"
+  },
+  {
+    "name": "επιχειρηματικά κεφάλαια",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "Λίστα εκκρεμών συναλλαγών",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Συγχώνευση",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merkle Patricia trie",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "Μεταδεδομένα",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metaverse",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "Μέγιστη εξαγώγιμη αξία (MEV)",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "λογισμικό εξόρυξης κρυπτονομισμάτων",
+    "link": "miner.html"
+  },
+  {
+    "name": "φιλοδώρημα miner",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "εξόρυξη",
+    "link": "mining.html"
+  },
+  {
+    "name": "μηχανισμός δημιουργίας κρυπτονομισμάτων",
+    "link": "mint.html"
+  },
+  {
+    "name": "μνημονική φράση",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "τμηματοποιημένη αλυσίδα",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "Πολλαπλών υπογραφών",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "πορτοφόλι πολλαπλών υπογραφών (multisig)",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "αλυσίδες μπλοκ δυο επιπέδων",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "δίκτυο",
+    "link": "network.html"
+  },
+  {
+    "name": "συμφόρηση δικτύου",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "Επικοινωνία κοντινού πεδίου (NFC)",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "Συγκέντρωση NFT",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "Μείωση NFT",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "κόμβος",
+    "link": "node.html"
+  },
+  {
+    "name": "Μη Εναλλάξιμα Κρυπτοπαραστατικά",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "αριθμολέξημα",
+    "link": "nonce.html"
+  },
+  {
+    "name": "εκτός αλυσίδας",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "εκτός εφαρμογών",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "ommer block",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "εντός αλυσίδας",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "εντός εφαρμογών",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "αισιόδοξη αναπροσαρμογή",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "Oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "ισοτιμία",
+    "link": "parity.html"
+  },
+  {
+    "name": "Φράση πρόσβασης",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "Κωδικός πρόσβασης",
+    "link": "password.html"
+  },
+  {
+    "name": "Διαχείριση κωδικών πρόσβασης",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "μεταξύ ομοτίμων",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "πρόσβαση σε συγκεκριμένους μόνο χρήστες",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "ηλεκτρονικό ψάρεμα",
+    "link": "phishing.html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "Πλάσμα",
+    "link": "plasma.html"
+  },
+  {
+    "name": "Απόδειξη Αρχής (PoA)",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "ιδιωτική αλυσίδα block",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "ιδιωτικό νόμισμα",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "ιδιωτικό κλειδί",
+    "link": "private-key.html"
+  },
+  {
+    "name": "Απόδειξης συμμετοχής",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "Απόδειξη εργασίας",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "πρωτόκολλο",
+    "link": "protocol.html"
+  },
+  {
+    "name": "δημόσια διεύθυνση",
+    "link": "public-address.html"
+  },
+  {
+    "name": "δημόσια αλυσίδα block",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "δημόσιο κλειδί",
+    "link": "public-key.html"
+  },
+  {
+    "name": "Κρυπτογράφηση δημοσίου κλειδιού",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "κωδικός QR",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "αποδέκτης",
+    "link": "relayer.html"
+  },
+  {
+    "name": "Κλήση απομακρυσμένης διαδικασίας",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "oδικός χάρτης",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "κακόβουλο λογισμικό",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "κακόβουλο λογισμικό",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "απομονωμένο υπολογιστικό περιβάλλον",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "επεκτασιμότητα--δυνατότητα κλιμάκωσης",
+    "link": "scalability.html"
+  },
+  {
+    "name": "Αλλαγή κλίμακας",
+    "link": "scaling.html"
+  },
+  {
+    "name": "Απάτη",
+    "link": "scam.html"
+  },
+  {
+    "name": "Συνάρτηση παραγωγής κλειδιού",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "Μηχανή αναζήτησης",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "Μυστική φράση ανάκτησης",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "Διακριτικό ασφαλείας",
+    "link": "security-token.html"
+  },
+  {
+    "name": "Προσφορά διακριτικών ασφαλείας",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "αρχική φράση",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "αυτοεπιμέλεια",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "αυτοδικαίως εκτέλεση",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "σειριοποίηση",
+    "link": "serialization.html"
+  },
+  {
+    "name": "Αλυσίδα Θραυσμάτων",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "κατακερματισμός",
+    "link": "sharding.html"
+  },
+  {
+    "name": "Προστατευμένη συναλλαγή",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "πλευρική αλυσίδα",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "συνθήκη slashing",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "απόκλιση",
+    "link": "slippage.html"
+  },
+  {
+    "name": "χρονικό διάστημα",
+    "link": "slot.html"
+  },
+  {
+    "name": "έξυπνη σύμβαση",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "αναβάθμιση λογισμικού",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "stablecoin",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "ποντάρισμα",
+    "link": "stake.html"
+  },
+  {
+    "name": "συμμετοχή",
+    "link": "staking.html"
+  },
+  {
+    "name": "επικοινωνία",
+    "link": "state.html"
+  },
+  {
+    "name": "αμφίδρομα κανάλια επικοινωνίας",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "Ροή",
+    "link": "streaming.html"
+  },
+  {
+    "name": "ανταλλάσσω",
+    "link": "swap.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "δίκτυο δοκιμών",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Testnet Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Testnet Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Testnet Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "συμβολικά νομίσματα",
+    "link": "token.html"
+  },
+  {
+    "name": "κλείδωμα συμβολικών νομισμάτων",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "Τυπικό συμβολικό νόμισμα",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "Συναλλαγή",
+    "link": "transaction.html"
+  },
+  {
+    "name": "μπλοκ συναλλαγών",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "προμήθεια συναλλαγής",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "ID συναλλαγής",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "ομάδα συναλλαγών",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "αναξιοπιστία",
+    "link": "trustless.html"
+  },
+  {
+    "name": "Turing-complete (Τούρινγκ υπολογιστικά καθολικό)",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "Κλειδωμένη συνολική τιμή (TVL)",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "μη κρυπτογραφημένο κλειδί",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "αδιάθετη έξοδος συναλλαγής",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "ακύρωση πονταρίσματος",
+    "link": "unstake.html"
+  },
+  {
+    "name": "αναβάθμιση",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "εγκριτής",
+    "link": "validator.html"
+  },
+  {
+    "name": "απόδειξη εγκυρότητας",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "Περιορισμός πώλησης",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "πορτοφόλι",
+    "link": "wallet.html"
+  },
+  {
+    "name": "διεύθυνση πορτοφολιού",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "λευκή βίβλος (μεταφορικά)",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "Αντιστοίχιση",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "Εκτεταμένο ιδιωτικό κλειδί (XPRIV)",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "Εκτεταμένο δημόσιο κλειδί (XPUB)",
+    "link": "xpub.html"
+  },
+  {
+    "name": "εξόρυξη ρευστότητας",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "συμβολικά νομίσματα με απόδοση",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "Μηδενική διεύθυνση",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "Απόδειξη μηδενικής γνώσης",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "rollup μηδενικής γνώσης",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "zk-SNARKs (μη διαδραστικές αποδείξεις μηδενικής γνώσης)",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

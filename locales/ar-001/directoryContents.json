@@ -1,0 +1,3006 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "المصادقة الثنائية (2FA)",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "هجوم 51٪",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "Absolute Advantage",
+    "link": "absolute-advantage.html"
+  },
+  {
+    "name": "حساب",
+    "link": "account.html"
+  },
+  {
+    "name": "تحويل ACH",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "Active Management",
+    "link": "active-management.html"
+  },
+  {
+    "name": "الخدمات التي تخضع للتدقيق النشط (AVS)",
+    "link": "actively-validated-services-avs.html"
+  },
+  {
+    "name": "Ad Hoc",
+    "link": "ad-hoc.html"
+  },
+  {
+    "name": "العنوان",
+    "link": "address.html"
+  },
+  {
+    "name": "مُجمِعّ",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "عزل الأجهزة",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "توزيع مجاني",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "خوارزمية",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "All or None Order (AON)",
+    "link": "all-or-none-order.html"
+  },
+  {
+    "name": "All-Time High (ATH)",
+    "link": "all-time-high.html"
+  },
+  {
+    "name": "Allocation",
+    "link": "allocation.html"
+  },
+  {
+    "name": "Alpha",
+    "link": "alpha.html"
+  },
+  {
+    "name": "عملة بديلة",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "مكافحة غسيل الأموال",
+    "link": "aml.html"
+  },
+  {
+    "name": "Angel Investor",
+    "link": "angel-investor.html"
+  },
+  {
+    "name": "مكافحة غسيل الأموال",
+    "link": "anti-money-laundering.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "بلوكتشين التطبيق",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Application Programming Interface (API)",
+    "link": "application-programming-interface.html"
+  },
+  {
+    "name": "Application-Specific Integrated Circuit (ASIC)",
+    "link": "application-specific-integrated-circuit.html"
+  },
+  {
+    "name": "المراجحة",
+    "link": "arbitrage.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ARC-20",
+    "link": "arc-20.html"
+  },
+  {
+    "name": "الذكاء الاصطناعي",
+    "link": "artificial-intelligence-ai.html"
+  },
+  {
+    "name": "الدائرة المتكاملة الخاصة بالتطبيق (ASIC)",
+    "link": "asic.html"
+  },
+  {
+    "name": "ASIC-resistant",
+    "link": "asic-resistant.html"
+  },
+  {
+    "name": "Ask Price",
+    "link": "asking-price.html"
+  },
+  {
+    "name": "Asset Management",
+    "link": "asset-management.html"
+  },
+  {
+    "name": "منشأ الأصل",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "الأصول الخاضعة للإدارة",
+    "link": "assets-under-management-aum.html"
+  },
+  {
+    "name": "Asynchronous",
+    "link": "asynchronous.html"
+  },
+  {
+    "name": "Atomic Swap",
+    "link": "atomic-swap.html"
+  },
+  {
+    "name": "Attack surface",
+    "link": "attack-surface.html"
+  },
+  {
+    "name": "المصادقة",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Auction",
+    "link": "auction.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "صانع السوق الآلي",
+    "link": "automated-market-maker-amm.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "B-Tokens",
+    "link": "b-tokens.html"
+  },
+  {
+    "name": "Bags",
+    "link": "bags.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "سلسلة المنارة (Beacon)",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Bear Market",
+    "link": "bear-market.html"
+  },
+  {
+    "name": "Benchmark",
+    "link": "benchmark.html"
+  },
+  {
+    "name": "معيار BEP-1155",
+    "link": "bep-1155.html"
+  },
+  {
+    "name": "BEP-20",
+    "link": "bep-20.html"
+  },
+  {
+    "name": "معيار BEP-721",
+    "link": "bep-721.html"
+  },
+  {
+    "name": "BEP-95",
+    "link": "bep-95.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Beta (Coefficient)",
+    "link": "beta-coefficient.html"
+  },
+  {
+    "name": "Beta (Release)",
+    "link": "beta-release.html"
+  },
+  {
+    "name": "Bid-Ask Spread",
+    "link": "bid-ask-spread.html"
+  },
+  {
+    "name": "Bid Price",
+    "link": "bid-price.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Blockchain Charity Foundation",
+    "link": "binance-blockchain-charity-foundation.html"
+  },
+  {
+    "name": "Binance Ecosystem Fund (BEF)",
+    "link": "binance-ecosystem-fund.html"
+  },
+  {
+    "name": "أعضاء Binance",
+    "link": "binancian.html"
+  },
+  {
+    "name": "بيتكوين",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "Bitcoin Core",
+    "link": "bitcoin-core.html"
+  },
+  {
+    "name": "Bitcoin Dominance",
+    "link": "bitcoin-dominance.html"
+  },
+  {
+    "name": "المتطرفون للبيتكوين",
+    "link": "bitcoin-maximalists.html"
+  },
+  {
+    "name": "Bitcoin Pizza",
+    "link": "bitcoin-pizza.html"
+  },
+  {
+    "name": "Black Swan Event",
+    "link": "black-swan-event.html"
+  },
+  {
+    "name": "كُتلة",
+    "link": "block.html"
+  },
+  {
+    "name": "مستكشف البلوكتشين",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "Block header",
+    "link": "block-header.html"
+  },
+  {
+    "name": "موقع الكتلة",
+    "link": "block-height.html"
+  },
+  {
+    "name": "مكافأة الكتلة",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "وقت الكتلة",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "البلوكتشين",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "مستكشف البلوكتشين",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "المعضلة الثلاثية الأبعاد لسلاسل البلوكتشين",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "Bloom Filter",
+    "link": "bloom-filter.html"
+  },
+  {
+    "name": "الرموز المميزة الممتازة",
+    "link": "blue-chip-token.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "رموز BNSOL المميزة",
+    "link": "bnsol.html"
+  },
+  {
+    "name": "Bollinger Bands",
+    "link": "bollinger-bands.html"
+  },
+  {
+    "name": "السندات",
+    "link": "bond.html"
+  },
+  {
+    "name": "مكافأة",
+    "link": "bounty.html"
+  },
+  {
+    "name": "محفظة الدماغ",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "رموز BRC-20 المميزة",
+    "link": "brc-20-tokens.html"
+  },
+  {
+    "name": "Break-Even Point (BEP)",
+    "link": "break-even-point.html"
+  },
+  {
+    "name": "Breakeven Multiple",
+    "link": "breakeven-multiple.html"
+  },
+  {
+    "name": "Breakout",
+    "link": "breakout.html"
+  },
+  {
+    "name": "جسر",
+    "link": "bridge.html"
+  },
+  {
+    "name": "مستكشف BscScan",
+    "link": "bscscan.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "عنوان محفظة BTC",
+    "link": "btc-wallet-address.html"
+  },
+  {
+    "name": "BUIDL",
+    "link": "buidl.html"
+  },
+  {
+    "name": "Bull Market",
+    "link": "bull-market.html"
+  },
+  {
+    "name": "محفظة الحرق",
+    "link": "burner-wallet.html"
+  },
+  {
+    "name": "Buy Wall",
+    "link": "buy-wall.html"
+  },
+  {
+    "name": "شفرة البايت",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "التسامح مع الخطأ البيزنطي",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "انقسام (فورك) Byzantium",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "كتلة المرشح",
+    "link": "candidate-block.html"
+  },
+  {
+    "name": "Candlestick",
+    "link": "candlestick.html"
+  },
+  {
+    "name": "Capitulation",
+    "link": "capitulation.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "Censorship-resistance",
+    "link": "censorship-resistance.html"
+  },
+  {
+    "name": "Central Bank",
+    "link": "central-bank.html"
+  },
+  {
+    "name": "العملات الرقمية للبنوك المركزية",
+    "link": "central-bank-digital-currency-cbdc.html"
+  },
+  {
+    "name": "Central Processing Unit (CPU)",
+    "link": "central-processing-unit.html"
+  },
+  {
+    "name": "Centralized",
+    "link": "centralized.html"
+  },
+  {
+    "name": "بورصة مركزية",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "مُعرفّ السلسلة",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "ChatGPT",
+    "link": "chatgpt.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "Cipher",
+    "link": "cipher.html"
+  },
+  {
+    "name": "Circulating Supply",
+    "link": "circulating-supply.html"
+  },
+  {
+    "name": "عميل",
+    "link": "client.html"
+  },
+  {
+    "name": "Cloud",
+    "link": "cloud.html"
+  },
+  {
+    "name": "التداول والتمويل اللامركزي (CodeFi)",
+    "link": "codefi.html"
+  },
+  {
+    "name": "عملة",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "التخزين البارد (غير متصل بالإنترنت)",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "محفظة باردة",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "Collateral",
+    "link": "collateral.html"
+  },
+  {
+    "name": "Colocation",
+    "link": "colocation.html"
+  },
+  {
+    "name": "Commodity Futures Trading Commission (CFTC)",
+    "link": "commodity-futures-trading-commission.html"
+  },
+  {
+    "name": "تجميع",
+    "link": "compile.html"
+  },
+  {
+    "name": "بروتوكول Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "الفائدة المركّبة",
+    "link": "compound-interest.html"
+  },
+  {
+    "name": "تأكيد",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "وقت التأكيد",
+    "link": "confirmation-time.html"
+  },
+  {
+    "name": "Confluence",
+    "link": "confluence.html"
+  },
+  {
+    "name": "خوارزمية الإجماع",
+    "link": "consensus.html"
+  },
+  {
+    "name": "خوارزمية الإجماع",
+    "link": "consensus-algorithm.html"
+  },
+  {
+    "name": "عميل إجماع",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "طبقة الإجماع",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "آلية الإجماع",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "انقسام Constantinople (هارد فورك)",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "Consumer Price Index (CPI)",
+    "link": "consumer-price-index-(cpi).html"
+  },
+  {
+    "name": "كونتانجو والسوق المعكوسة",
+    "link": "contango-and-backwardation.html"
+  },
+  {
+    "name": "عقد",
+    "link": "contract.html"
+  },
+  {
+    "name": "حساب العقد",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "التداول بالنسخ",
+    "link": "copy-trading.html"
+  },
+  {
+    "name": "مخاطر الطرف الآخر",
+    "link": "counterparty-risk.html"
+  },
+  {
+    "name": "Credentials",
+    "link": "credentials.html"
+  },
+  {
+    "name": "جسور الربط بين سلاسل بلوكشين",
+    "link": "cross-chain-bridges.html"
+  },
+  {
+    "name": "-مشفرة",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "أصل مشفر",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "مكافآت التشفير",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "امتثال الأصول المشفرة",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "صناديق المؤشرات المتداولة للعملات الرقمية",
+    "link": "crypto-etfs.html"
+  },
+  {
+    "name": "مؤشر الخوف والطمع بسوق العملات الرقمية",
+    "link": "crypto-fear-and-greed-index.html"
+  },
+  {
+    "name": "صندوق استثمار الأصول المشفرة",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "بروتوكول العملات الرقمية",
+    "link": "crypto-protocol.html"
+  },
+  {
+    "name": "محفظة العملات المشفرة",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "شتاء العملات الرقمية",
+    "link": "crypto-winter.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "عملة مشفرة",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "اقتصاديات الأصول المشفرة",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "التشفير",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "الحفظ الآمن",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "Daemon",
+    "link": "daemon.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "ترقية Danksharding",
+    "link": "danksharding.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "الهجمات الموزعة لحجب الخدمة (DDoS)",
+    "link": "ddos.html"
+  },
+  {
+    "name": "Dead Cat Bounce",
+    "link": "dead-cat-bounce.html"
+  },
+  {
+    "name": "تقاطع الموت",
+    "link": "death-cross.html"
+  },
+  {
+    "name": "اللامركزية",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "تطبيق لامركزي",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Decentralized Autonomous Cooperative (DAC)",
+    "link": "decentralized-autonomous-cooperative.html"
+  },
+  {
+    "name": "منظمة مستقلة لامركزية",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "بورصة لامركزية",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "التمويل اللامركزي",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "المؤشرات اللامركزية",
+    "link": "decentralized-indexes.html"
+  },
+  {
+    "name": "الويب اللامركزي",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "Decryption",
+    "link": "decryption.html"
+  },
+  {
+    "name": "Deep Web",
+    "link": "deep-web.html"
+  },
+  {
+    "name": "تمويل لامركزي (DeFi)",
+    "link": "defi.html"
+  },
+  {
+    "name": "DPoS",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "Delisting",
+    "link": "delisting.html"
+  },
+  {
+    "name": "فئات",
+    "link": "denominations.html"
+  },
+  {
+    "name": "فك الارتباط",
+    "link": "depeg.html"
+  },
+  {
+    "name": "الإيداع",
+    "link": "deposit.html"
+  },
+  {
+    "name": "الكساد",
+    "link": "depression.html"
+  },
+  {
+    "name": "يشتق",
+    "link": "derive.html"
+  },
+  {
+    "name": "Design Flaw Attack",
+    "link": "design-flaw-attack.html"
+  },
+  {
+    "name": "مُطورّ",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "مُطوّر",
+    "link": "developer.html"
+  },
+  {
+    "name": "بورصة لامركزية (DEX)",
+    "link": "dex.html"
+  },
+  {
+    "name": "الأيدي الماسية",
+    "link": "diamond-hands.html"
+  },
+  {
+    "name": "صعوبة التعدين",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "انفجار الصعوبة",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "أصل رقمي",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "هوية رقمية",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "توقيع رقمي",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "الوصول المباشر إلى الأسواق",
+    "link": "direct-market-access-dma.html"
+  },
+  {
+    "name": "تقنية دفتر الأستاذ الموزع",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "Divergence",
+    "link": "divergence.html"
+  },
+  {
+    "name": "Diversification",
+    "link": "diversification.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "قم بإجراء بحثك الخاص (DYOR)",
+    "link": "do-your-own-research.html"
+  },
+  {
+    "name": "Dollar Cost Averaging (DCA)",
+    "link": "dollar-cost-averaging.html"
+  },
+  {
+    "name": "المخططات البيانية النقطية",
+    "link": "dot-plot.html"
+  },
+  {
+    "name": "إنفاق مزدوج",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "Double Spending",
+    "link": "double-spending.html"
+  },
+  {
+    "name": "Eclipse Attack",
+    "link": "eclipse-attack.html"
+  },
+  {
+    "name": "النظام البيئي",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "تحالف إيثريوم للمؤسسات (EEA)",
+    "link": "eea.html"
+  },
+  {
+    "name": "Efficient Market Hypothesis (EMH)",
+    "link": "efficient-market-hypothesis-emh.html"
+  },
+  {
+    "name": "EigenLayer",
+    "link": "eigenlayer.html"
+  },
+  {
+    "name": "EIP",
+    "link": "eip.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "اقتراح تحسين Ethereum EIP-3074",
+    "link": "eip-3074.html"
+  },
+  {
+    "name": "اقتراح تحسين Ethereum EIP-4844",
+    "link": "eip-4844.html"
+  },
+  {
+    "name": "EIP-7251",
+    "link": "eip-7251.html"
+  },
+  {
+    "name": "اقتراح EIP-7702",
+    "link": "eip-7702.html"
+  },
+  {
+    "name": "المرونة",
+    "link": "elasticity.html"
+  },
+  {
+    "name": "مفاتيح مشفرة",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "التشفير",
+    "link": "encryption.html"
+  },
+  {
+    "name": "المتغير الداخلي",
+    "link": "endogenous-variable.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "إنتروبيا",
+    "link": "entropy.html"
+  },
+  {
+    "name": "حقبة",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "معيار ERC-404",
+    "link": "erc-404.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "صندوق المؤشرات المتداولة (ETF)",
+    "link": "etf.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "إيثر",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "Ethereum Classic",
+    "link": "ethereum-classic.html"
+  },
+  {
+    "name": "مؤسسة Ethereum",
+    "link": "ethereum-foundation.html"
+  },
+  {
+    "name": "مقترحات تحسين الإثيريوم (EIP)",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "شبكة إيثريوم الرئيسية (Mainnet)",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "خدمة أسماء الإيثيريوم",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "محرك إيثريوم الافتراضي",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "آلة Ethereum الافتراضية (EVM)",
+    "link": "ethereum-virtual-machine-evm.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "بورصة",
+    "link": "exchange.html"
+  },
+  {
+    "name": "عميل التنفيذ",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "طبقة التنفيذ",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "المتغيرات الخارجية",
+    "link": "exogenous-variable.html"
+  },
+  {
+    "name": "المتوسط المتحرك الأسي (EMA)",
+    "link": "exponential-moving-average-ema.html"
+  },
+  {
+    "name": "الحسابات الخارجية (EOAs)",
+    "link": "externally-owned-account-eoa.html"
+  },
+  {
+    "name": "Fakeout",
+    "link": "fakeout.html"
+  },
+  {
+    "name": "Falling Knife",
+    "link": "falling-knife.html"
+  },
+  {
+    "name": "Fan Tokens",
+    "link": "fan-tokens.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "صنبور العملة الرقمية",
+    "link": "faucet.html"
+  },
+  {
+    "name": "يتحمل الأعطال",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "Fear Of Missing Out (FOMO)",
+    "link": "fear-of-missing-out.html"
+  },
+  {
+    "name": "Fear, Uncertainty and Doubt (FUD)",
+    "link": "fear-uncertainty-and-doubt.html"
+  },
+  {
+    "name": "Fiat",
+    "link": "fiat.html"
+  },
+  {
+    "name": "عملة ورقية",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "Fibonacci Retracement",
+    "link": "fibonacci-retracement.html"
+  },
+  {
+    "name": "Fill Or Kill Order (FOK)",
+    "link": "fill-or-kill-order.html"
+  },
+  {
+    "name": "نهائي، نهائية",
+    "link": "finality.html"
+  },
+  {
+    "name": "معدل النهائية",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "التكنولوجيا المالية",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "فيني",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "جدار الحماية",
+    "link": "firewall.html"
+  },
+  {
+    "name": "برنامج ثابت",
+    "link": "firmware.html"
+  },
+  {
+    "name": "First-Mover Advantage (FMA)",
+    "link": "first-mover-advantage.html"
+  },
+  {
+    "name": "السياسة المالية",
+    "link": "fiscal-policy.html"
+  },
+  {
+    "name": "Flappening",
+    "link": "flappening.html"
+  },
+  {
+    "name": "Flashbots",
+    "link": "flashbots.html"
+  },
+  {
+    "name": "Flippening",
+    "link": "flippening.html"
+  },
+  {
+    "name": "متغير التدفق",
+    "link": "flow-variable.html"
+  },
+  {
+    "name": "Forced Liquidation",
+    "link": "forced-liquidation.html"
+  },
+  {
+    "name": "Forex (FX)",
+    "link": "forex-fx.html"
+  },
+  {
+    "name": "انقسام (فورك)",
+    "link": "fork.html"
+  },
+  {
+    "name": "Formal Verification",
+    "link": "formal-verification.html"
+  },
+  {
+    "name": "ملكية جزئية",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "إثبات الاحتيال",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "Fren (يا صديقي)",
+    "link": "fren.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "عُقدة كاملة",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Fully Diluted Valuation (FDV)",
+    "link": "fully-diluted-valuation-fdv.html"
+  },
+  {
+    "name": "التحليل الأساسي (FA)",
+    "link": "fundamental-analysis.html"
+  },
+  {
+    "name": "رسوم التمويل",
+    "link": "funding-fees.html"
+  },
+  {
+    "name": "Fungibility",
+    "link": "fungibility.html"
+  },
+  {
+    "name": "Futures Contract",
+    "link": "futures-contract.html"
+  },
+  {
+    "name": "تطبيقات اللعب بغرض الكسب GameFi",
+    "link": "gamefi.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "رسوم المعاملات",
+    "link": "gas.html"
+  },
+  {
+    "name": "رسوم معاملات الشبكة",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "حد رسوم معاملات الشبكة",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "سعر رسوم المعاملات",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "مُعامل انكماش إجمالي الناتج المحلي",
+    "link": "gdp-deflator.html"
+  },
+  {
+    "name": "General Public License",
+    "link": "general-public-license.html"
+  },
+  {
+    "name": "كتلة التكوين",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "GM (صباح الخير)",
+    "link": "gm-good-morning.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "Golden Cross",
+    "link": "golden-cross.html"
+  },
+  {
+    "name": "النسبة الذهبية",
+    "link": "golden-ratio.html"
+  },
+  {
+    "name": "الاعتدال",
+    "link": "goldilocks.html"
+  },
+  {
+    "name": "Gossip Protocol",
+    "link": "gossip-protocol.html"
+  },
+  {
+    "name": "الحوكمة",
+    "link": "governance.html"
+  },
+  {
+    "name": "الناتج المحلي الإجمالي (GDP)",
+    "link": "gross-domestic-product-gdp.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "جوي (gwei)",
+    "link": "gwei.html"
+  },
+  {
+    "name": "Hackathon",
+    "link": "hackathon.html"
+  },
+  {
+    "name": "Hacker",
+    "link": "hacker.html"
+  },
+  {
+    "name": "Haha Money Printer Go Brrrrr",
+    "link": "haha-money-printer-go-brrrrr.html"
+  },
+  {
+    "name": "التنصيف (الهالفينج)",
+    "link": "halving.html"
+  },
+  {
+    "name": "Hard Cap",
+    "link": "hard-cap.html"
+  },
+  {
+    "name": "انقسام كُلي (هارد فورك)",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "الهبوط الحاد",
+    "link": "hard-landing.html"
+  },
+  {
+    "name": "محفظة الأجهزة",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "الهاش",
+    "link": "hash.html"
+  },
+  {
+    "name": "Hash Rate",
+    "link": "hash-rate.html"
+  },
+  {
+    "name": "Hashed TimeLock Contract (HTLC)",
+    "link": "hashed-timelock-contract.html"
+  },
+  {
+    "name": "محفظة حتمية هرمية (HD)",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "غريزة القطيع",
+    "link": "herd-instinct.html"
+  },
+  {
+    "name": "بيانات سداسية عشرية",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "High-Frequency Trading (HFT)",
+    "link": "high-frequency-trading-hft.html"
+  },
+  {
+    "name": "HODL",
+    "link": "hodl.html"
+  },
+  {
+    "name": "Honeypot",
+    "link": "honeypot.html"
+  },
+  {
+    "name": "تخزين ساخن",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "محفظة ساخنة",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "شبكة هجينة",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "مشروع هايبرليدجر",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "بروتوكول الاتصال بين شبكات البلوكتشين (IBC)",
+    "link": "ibc.html"
+  },
+  {
+    "name": "Iceberg Order",
+    "link": "iceberg-order.html"
+  },
+  {
+    "name": "عرض العملة الأولي (ICO)",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "عدم القابلية للتغير (الثبات)",
+    "link": "immutability.html"
+  },
+  {
+    "name": "صناديق المؤشرات",
+    "link": "index-funds.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "Initial Coin Offering (ICO)",
+    "link": "initial-coin-offering.html"
+  },
+  {
+    "name": "الطرح الأولي على منصة لامركزية (IDO)",
+    "link": "initial-dex-offering-ido.html"
+  },
+  {
+    "name": "Initial Exchange Offering (IEO)",
+    "link": "initial-exchange-offering.html"
+  },
+  {
+    "name": "Initial Public Offering (IPO)",
+    "link": "initial-public-offering.html"
+  },
+  {
+    "name": "النقش",
+    "link": "inscription.html"
+  },
+  {
+    "name": "تداول المُطّلعين",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "Integrated Circuit (IC)",
+    "link": "integrated-circuit.html"
+  },
+  {
+    "name": "معدلات الفائدة",
+    "link": "interest-rates.html"
+  },
+  {
+    "name": "معاملة داخلية",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "قابلية التشغيل البيني",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "نظام الملفات إنتربلانتري (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-ipfs.html"
+  },
+  {
+    "name": "مستند الدين المُستحق (IOU)",
+    "link": "iou.html"
+  },
+  {
+    "name": "عنوان IP",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Isolated Margin",
+    "link": "isolated-margin.html"
+  },
+  {
+    "name": "Issuance",
+    "link": "issuance.html"
+  },
+  {
+    "name": "ملف JSON",
+    "link": "json-file.html"
+  },
+  {
+    "name": "بروتوكول JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "Keccak",
+    "link": "keccak.html"
+  },
+  {
+    "name": "ملف تخزين المفاتيح",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "التحقق من هوية العميل",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "التحقق من المعاملات",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "مؤشر لاسبير (Laspeyres)",
+    "link": "laspeyres-index.html"
+  },
+  {
+    "name": "Latency",
+    "link": "latency.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "منصة الإطلاق",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "Law of Demand",
+    "link": "law-of-demand.html"
+  },
+  {
+    "name": "الطبقة 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "الطبقة 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "تطبيق Ledger Live",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "Leveraged Tokens",
+    "link": "leveraged-tokens.html"
+  },
+  {
+    "name": "المكتبة",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "عقدة بسيطة",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "الطلب الحدي",
+    "link": "limit-order.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "Linux",
+    "link": "linux.html"
+  },
+  {
+    "name": "تخزين السيولة",
+    "link": "liquid-staking.html"
+  },
+  {
+    "name": "رموز تخزين السيولة (LST)",
+    "link": "liquid-staking-token-lst.html"
+  },
+  {
+    "name": "تصفية",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "السيولة",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "أزمة السيولة",
+    "link": "liquidity-crisis.html"
+  },
+  {
+    "name": "تجمع السيولة",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "مزود السيولة",
+    "link": "liquidity-provider.html"
+  },
+  {
+    "name": "نسب السيولة",
+    "link": "liquidity-ratios.html"
+  },
+  {
+    "name": "ربط السيولة",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "Listing",
+    "link": "listing.html"
+  },
+  {
+    "name": "شبكة رئيسية (mainnet)",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Mainnet Swap",
+    "link": "mainnet-swap.html"
+  },
+  {
+    "name": "Maker",
+    "link": "maker.html"
+  },
+  {
+    "name": "بروتوكول Maker",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "برمجيات خبيثة",
+    "link": "malware.html"
+  },
+  {
+    "name": "Margin Trading",
+    "link": "margin-trading.html"
+  },
+  {
+    "name": "القيمة السوقية",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "القيمة السوقية",
+    "link": "market-capitalization.html"
+  },
+  {
+    "name": "Market Momentum",
+    "link": "market-momentum.html"
+  },
+  {
+    "name": "طلب السوق",
+    "link": "market-order.html"
+  },
+  {
+    "name": "Masternode",
+    "link": "masternode.html"
+  },
+  {
+    "name": "مُحرّك المُطابقة",
+    "link": "matching-engine.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "Maximum Supply",
+    "link": "maximum-supply.html"
+  },
+  {
+    "name": "تجمع المعاملات",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "دمج",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merged Mining",
+    "link": "merged-mining.html"
+  },
+  {
+    "name": "ميركل باتريشيا تري",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "شجرة Merkle",
+    "link": "merkle-tree.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "البيانات الوصفية",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "ميتافرس",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "القيمة القصوى القابلة للاستخراج (MEV)",
+    "link": "mev.html"
+  },
+  {
+    "name": "المصادقة متعددة العوامل (MFA)",
+    "link": "mfa.html"
+  },
+  {
+    "name": "المعاملات الدقيقة",
+    "link": "microtransactions.html"
+  },
+  {
+    "name": "المُعدِّن",
+    "link": "miner.html"
+  },
+  {
+    "name": "إكرامية المُعدنّ",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "التعدين",
+    "link": "mining.html"
+  },
+  {
+    "name": "Mining Farm",
+    "link": "mining-farm.html"
+  },
+  {
+    "name": "سكّ",
+    "link": "mint.html"
+  },
+  {
+    "name": "عبارة التذكر",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "بلوكتشين قائم على نظام الوحدات",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "السياسة النقدية",
+    "link": "monetary-policy.html"
+  },
+  {
+    "name": "أسواق المال",
+    "link": "money-markets.html"
+  },
+  {
+    "name": "علامة &quot;قيد المراقبة&quot;",
+    "link": "monitoring-tag.html"
+  },
+  {
+    "name": "Moon",
+    "link": "moon.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "3. مغلفات المتوسط المتحرك",
+    "link": "moving-average-envelopes.html"
+  },
+  {
+    "name": "شريط المتوسط المتحرك",
+    "link": "moving-average-ribbon.html"
+  },
+  {
+    "name": "منصة &quot;إم تي جوكس&quot;",
+    "link": "mt-gox.html"
+  },
+  {
+    "name": "متعددة التوقيع",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "محفظة متعددة التوقيع (multisig)",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "Multisignature",
+    "link": "multisignature.html"
+  },
+  {
+    "name": "إجماع ناكاموتو",
+    "link": "nakamoto-consensus.html"
+  },
+  {
+    "name": "بلوكتشين متداخل",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "صافي قيمة الأصول (NAV)",
+    "link": "net-asset-value-nav.html"
+  },
+  {
+    "name": "شبكة",
+    "link": "network.html"
+  },
+  {
+    "name": "ازدحام الشبكة",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "خاصية الاتصال قريب المدى (NFC)",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "مُجمِعّ NFT",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "توزيع NFT",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "الحد الأدنى لسعر رموز NFT",
+    "link": "nft-floor-prices.html"
+  },
+  {
+    "name": "NFT Mystery Boxes",
+    "link": "nft-mystery-boxes.html"
+  },
+  {
+    "name": "NGMI",
+    "link": "ngmi.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "عقدة",
+    "link": "node.html"
+  },
+  {
+    "name": "رمز غير قابل للاستبدال",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "الرموز غير القابلة للتبادل (NFTs)",
+    "link": "non-fungible-token-nft.html"
+  },
+  {
+    "name": "الرقم التعريفي",
+    "link": "nonce.html"
+  },
+  {
+    "name": "OCO Order",
+    "link": "oco-order.html"
+  },
+  {
+    "name": "خارج البلوكتشين",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "تحويل أصل رقمي إلى عملة عادية",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "منسق التوقيع دون اتصال بالإنترنت (OSO)",
+    "link": "offline-signing-orchestrator-oso.html"
+  },
+  {
+    "name": "Offshore account",
+    "link": "offshore-account.html"
+  },
+  {
+    "name": "كتلة ommer",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "على البلوكتشين",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "شراء أصل رقمي بعملة عادية",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "opBNB",
+    "link": "opbnb.html"
+  },
+  {
+    "name": "Open-Source Software (OSS)",
+    "link": "open-source-software-oss.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "تكلفة الفرصة البديلة",
+    "link": "opportunity-cost.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "تجميعات Optimistic",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "أوراكل",
+    "link": "oracle.html"
+  },
+  {
+    "name": "رموز ORC-20 المميزة",
+    "link": "orc-20-tokens.html"
+  },
+  {
+    "name": "قائمة الطلب",
+    "link": "order-book.html"
+  },
+  {
+    "name": "Ordinals",
+    "link": "ordinals.html"
+  },
+  {
+    "name": "Orphan Block",
+    "link": "orphan-block.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "PancakeSwap",
+    "link": "pancakeswap.html"
+  },
+  {
+    "name": "Paper Wallet",
+    "link": "paper-wallet.html"
+  },
+  {
+    "name": "التوازي",
+    "link": "parallelization.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "تكافؤ",
+    "link": "parity.html"
+  },
+  {
+    "name": "Passive Management",
+    "link": "passive-management.html"
+  },
+  {
+    "name": "عبارة المرور",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "كلمة المرور",
+    "link": "password.html"
+  },
+  {
+    "name": "مدير كلمات المرور",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "نظير إلى نظير",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "العملة المرتبطة",
+    "link": "pegged-currency.html"
+  },
+  {
+    "name": "سجل بإذن",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "سلاسل البلوكشين المفتوحة للعامة",
+    "link": "permissionless-blockchain.html"
+  },
+  {
+    "name": "التصيد الاحتيالي",
+    "link": "phishing.html"
+  },
+  {
+    "name": "البنية التحتية للمفتاح العام (PKI)",
+    "link": "pki.html"
+  },
+  {
+    "name": "Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "خوارزمية إثبات السلطة (PoA)",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polkadot Crowdloan",
+    "link": "polkadot-crowdloan.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "Ponzi Scheme",
+    "link": "ponzi-scheme.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "التعدين الأولي",
+    "link": "premining.html"
+  },
+  {
+    "name": "Price Action",
+    "link": "price-action.html"
+  },
+  {
+    "name": "Prisoner's Dilemma",
+    "link": "prisoners-dilemma.html"
+  },
+  {
+    "name": "بلوكتشين خاص",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "عملة خاصة",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "مفتاح خاص",
+    "link": "private-key.html"
+  },
+  {
+    "name": "Private Sale",
+    "link": "private-sale.html"
+  },
+  {
+    "name": "Progressive Web application (PWA)",
+    "link": "progressive-web-application.html"
+  },
+  {
+    "name": "Proof of Attendance Protocol (POAP)",
+    "link": "proof-of-attendance-protocol-poap.html"
+  },
+  {
+    "name": "إثبات الاحتياطي (PoR)",
+    "link": "proof-of-reserves-por.html"
+  },
+  {
+    "name": "خوارزمية إثبات الحصة",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "دليل السلطة بحسب الحصة (PoSA)",
+    "link": "proof-of-staked-authority-posa.html"
+  },
+  {
+    "name": "خوارزمية إثبات العمل",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "Proposer-Builder Separation (PBS)",
+    "link": "proposer-builder-separation-pbs.html"
+  },
+  {
+    "name": "ترقية Proto-Danksharding",
+    "link": "proto-danksharding.html"
+  },
+  {
+    "name": "بروتوكول",
+    "link": "protocol.html"
+  },
+  {
+    "name": "Pseudorandom",
+    "link": "pseudorandom.html"
+  },
+  {
+    "name": "عنوان عام",
+    "link": "public-address.html"
+  },
+  {
+    "name": "بلوكتشين عام",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "مفتاح عام",
+    "link": "public-key.html"
+  },
+  {
+    "name": "تشفير المفتاح العام",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "تضخيم السعر من أجل البيع السريع",
+    "link": "pump-and-dump.html"
+  },
+  {
+    "name": "رمز الاستجابة السريعة",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "التيسير الكمي (QE)",
+    "link": "quantitative-easing-qe.html"
+  },
+  {
+    "name": "التشديد الكمي (QT)",
+    "link": "quantitative-tightening-qt.html"
+  },
+  {
+    "name": "Quantum Computing",
+    "link": "quantum-computing.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Race attack",
+    "link": "race-attack.html"
+  },
+  {
+    "name": "Ransomware",
+    "link": "ransomware.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "الأصول الحقيقية",
+    "link": "real-world-assets-rwas.html"
+  },
+  {
+    "name": "الركود",
+    "link": "recession.html"
+  },
+  {
+    "name": "النقش المكرر",
+    "link": "recursive-inscription.html"
+  },
+  {
+    "name": "Rekt",
+    "link": "rekt.html"
+  },
+  {
+    "name": "Relative Strength Index (RSI)",
+    "link": "relative-strength-index.html"
+  },
+  {
+    "name": "ناقل",
+    "link": "relayer.html"
+  },
+  {
+    "name": "بروتوكول استدعاء الإجراء البعيد",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Resistance",
+    "link": "resistance.html"
+  },
+  {
+    "name": "Return on Investment (ROI)",
+    "link": "return-on-investment.html"
+  },
+  {
+    "name": "التداول الانتقامي",
+    "link": "revenge-trading.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "علاوة تحمل المخاطر",
+    "link": "risk-premium.html"
+  },
+  {
+    "name": "خارطة الطريق",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "تجميعات",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "Routing Attack",
+    "link": "routing-attack.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "هروب المحتالين",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "قاعدة سهم",
+    "link": "sahm-rule.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "بيئة الاختبار",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "تداول الحصر",
+    "link": "sandwich-trading.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi",
+    "link": "satoshi.html"
+  },
+  {
+    "name": "ساتوشي ناكاموتو",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "قابلية التوسع",
+    "link": "scalability.html"
+  },
+  {
+    "name": "التوسع",
+    "link": "scaling.html"
+  },
+  {
+    "name": "احتيال",
+    "link": "scam.html"
+  },
+  {
+    "name": "خوارزمية التعدين Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "محرك البحث",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "عبارة الاسترداد السرية",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "صندوق الأصول الآمنة للمستخدمين (SAFU)",
+    "link": "secure-asset-fund-for-users.html"
+  },
+  {
+    "name": "لجنة الأوراق المالية والبورصات (SEC)",
+    "link": "securities-and-exchange-commission.html"
+  },
+  {
+    "name": "Security Audit",
+    "link": "security-audit.html"
+  },
+  {
+    "name": "توكِنّ ورقة مالية",
+    "link": "security-token.html"
+  },
+  {
+    "name": "عرض توكن الورقة المالية",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "طرح رموز الأوراق المالية (STO)",
+    "link": "security-token-offering-sto.html"
+  },
+  {
+    "name": "العبارة الأولية",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "علامة &quot;ناشئة&quot;",
+    "link": "seed-tag.html"
+  },
+  {
+    "name": "الشاهد المنفصل (SegWit)",
+    "link": "segregated-witness.html"
+  },
+  {
+    "name": "الحفظ الذاتي",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "ذاتي التنفيذ",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Selfish Mining",
+    "link": "selfish-mining.html"
+  },
+  {
+    "name": "Sell Wall",
+    "link": "sell-wall.html"
+  },
+  {
+    "name": "Sentiment",
+    "link": "sentiment.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "ترقية Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "عملية التسلسل",
+    "link": "serialization.html"
+  },
+  {
+    "name": "سلسلة مجزأة",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "تجزئة الشبكة",
+    "link": "sharding.html"
+  },
+  {
+    "name": "Sharpe Ratio",
+    "link": "sharpe-ratio.html"
+  },
+  {
+    "name": "معاملة مُحصنة",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "سلسلة جانبية",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "السلاسل الجانبية",
+    "link": "sidechains.html"
+  },
+  {
+    "name": "المتوسط المتحرك البسيط (SMA)",
+    "link": "simple-moving-average-sma.html"
+  },
+  {
+    "name": "الاستقطاع",
+    "link": "slashing.html"
+  },
+  {
+    "name": "شرط الشطب",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "الانزلاق السعري",
+    "link": "slippage.html"
+  },
+  {
+    "name": "فاصل زمني",
+    "link": "slot.html"
+  },
+  {
+    "name": "عقد ذكي",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "محافظ العقود الذكية",
+    "link": "smart-contract-wallet.html"
+  },
+  {
+    "name": "Snapshot",
+    "link": "snapshot.html"
+  },
+  {
+    "name": "محفظة الاسترداد الاجتماعي",
+    "link": "social-recovery-wallet.html"
+  },
+  {
+    "name": "التداول الاجتماعي",
+    "link": "social-trading.html"
+  },
+  {
+    "name": "تمويل منصات التواصل الاجتماعي SocialFi",
+    "link": "socialfi.html"
+  },
+  {
+    "name": "انقسام بسيط (هارد فورك)",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "الهبوط السلس",
+    "link": "soft-landing.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "Source Code",
+    "link": "source-code.html"
+  },
+  {
+    "name": "معيار SPL",
+    "link": "spl.html"
+  },
+  {
+    "name": "رموز SRC-20 المميزة",
+    "link": "src-20-tokens.html"
+  },
+  {
+    "name": "عملة مستقرة",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "الركود التضخمي",
+    "link": "stagflation.html"
+  },
+  {
+    "name": "يُخزّن",
+    "link": "stake.html"
+  },
+  {
+    "name": "الربط",
+    "link": "staking.html"
+  },
+  {
+    "name": "Staking Pool",
+    "link": "staking-pool.html"
+  },
+  {
+    "name": "حالة",
+    "link": "state.html"
+  },
+  {
+    "name": "State Channel",
+    "link": "state-channel.html"
+  },
+  {
+    "name": "قنوات الحالة",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "stETH",
+    "link": "steth.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "متغيرات المخزون الاقتصادي",
+    "link": "stock-variable.html"
+  },
+  {
+    "name": "Store of Value",
+    "link": "store-of-value.html"
+  },
+  {
+    "name": "تدفق",
+    "link": "streaming.html"
+  },
+  {
+    "name": "Supercomputer",
+    "link": "supercomputer.html"
+  },
+  {
+    "name": "Supply Chain",
+    "link": "supply-chain.html"
+  },
+  {
+    "name": "Support",
+    "link": "support.html"
+  },
+  {
+    "name": "تبديل",
+    "link": "swap.html"
+  },
+  {
+    "name": "هجوم Sybil",
+    "link": "sybil-attack.html"
+  },
+  {
+    "name": "سزابو (szabo)",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Taker",
+    "link": "taker.html"
+  },
+  {
+    "name": "Tank",
+    "link": "tank.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "شبكة الاختبار",
+    "link": "testnet.html"
+  },
+  {
+    "name": "شبكة اختبار Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "شبكة اختبار Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "شبكة اختبار Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "Ticker",
+    "link": "ticker.html"
+  },
+  {
+    "name": "رمز التداول",
+    "link": "ticker-symbol.html"
+  },
+  {
+    "name": "توكِنّ",
+    "link": "token.html"
+  },
+  {
+    "name": "أحداث إنشاء الرموز المميزة (TGE)",
+    "link": "token-generation-event-tge.html"
+  },
+  {
+    "name": "احتجاز التوكِنّ",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "دمج الرموز المميزة",
+    "link": "token-merge.html"
+  },
+  {
+    "name": "Token Sale",
+    "link": "token-sale.html"
+  },
+  {
+    "name": "معيار التوكن",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "معايير الرموز المميزة",
+    "link": "token-standards.html"
+  },
+  {
+    "name": "التحويل إلى رموز مميزة",
+    "link": "tokenization.html"
+  },
+  {
+    "name": "اقتصادات الرموز المميزة",
+    "link": "tokenomics.html"
+  },
+  {
+    "name": "Total Supply",
+    "link": "total-supply.html"
+  },
+  {
+    "name": "إجمالي القيمة المحجوزة (TVL)",
+    "link": "total-value-locked-tvl.html"
+  },
+  {
+    "name": "TradFi",
+    "link": "tradfi.html"
+  },
+  {
+    "name": "المعاملة",
+    "link": "transaction.html"
+  },
+  {
+    "name": "كتلة المعاملة",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "رسوم المعاملة",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "مُعرفّ المعاملة",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "تجمع المعاملات",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transactions Per Second (TPS)",
+    "link": "transactions-per-second-tps.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "سندات الخزانة",
+    "link": "treasury-bills-t-bills.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "TrueUSD (TUSD)",
+    "link": "trueusd-tusd.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "لا يتطلب ثقة",
+    "link": "trustless.html"
+  },
+  {
+    "name": "تورنج كاملة",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "إجمالي القيمة المحجوزة (TVL)",
+    "link": "tvl.html"
+  },
+  {
+    "name": "مُعرفّ المعاملة (TXID)",
+    "link": "txid.html"
+  },
+  {
+    "name": "المعامل الثاني الشامل (U2F)",
+    "link": "u2f.html"
+  },
+  {
+    "name": "ماذا يمثل الرقم 4 بالنسبة لتشانغبينج تشاو (CZ)؟",
+    "link": "understanding-cz-s-number-4.html"
+  },
+  {
+    "name": "مفتاح غير مشفر",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "Unit of Account",
+    "link": "unit-of-account.html"
+  },
+  {
+    "name": "ناتج المعاملات غير المُنفقة",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "Unspent Transaction Output (UTXO)",
+    "link": "unspent-transaction-output-utxo.html"
+  },
+  {
+    "name": "إلغاء التخزين",
+    "link": "unstake.html"
+  },
+  {
+    "name": "ترقية",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "User Interface (UI)",
+    "link": "user-interface.html"
+  },
+  {
+    "name": "رمز الخدمة",
+    "link": "utility-token.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "المُدققّ",
+    "link": "validator.html"
+  },
+  {
+    "name": "إثبات الصلاحية",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "Verification Code",
+    "link": "verification-code.html"
+  },
+  {
+    "name": "الاستحقاق",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "Virtual Machine",
+    "link": "virtual-machine.html"
+  },
+  {
+    "name": "Vladimir Club",
+    "link": "vladimir-club.html"
+  },
+  {
+    "name": "Volatility",
+    "link": "volatility.html"
+  },
+  {
+    "name": "Volume",
+    "link": "volume.html"
+  },
+  {
+    "name": "مصطلح WAGMI",
+    "link": "wagmi.html"
+  },
+  {
+    "name": "محفظة",
+    "link": "wallet.html"
+  },
+  {
+    "name": "عنوان المحفظة",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "التداول الوهمي",
+    "link": "wash-trading.html"
+  },
+  {
+    "name": "Weak Hands",
+    "link": "weak-hands.html"
+  },
+  {
+    "name": "Weak Subjectivity",
+    "link": "weak-subjectivity.html"
+  },
+  {
+    "name": "Web 1.0",
+    "link": "web-1.html"
+  },
+  {
+    "name": "الويب 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "ويب 3",
+    "link": "web3.html"
+  },
+  {
+    "name": "واجهة برمجة تطبيقات WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "خطّاف الويب",
+    "link": "webhook.html"
+  },
+  {
+    "name": "بروتوكول WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "وي (wei)",
+    "link": "wei.html"
+  },
+  {
+    "name": "المتوسط المتحرك المرجح (WMA)",
+    "link": "weighted-moving-average-wma.html"
+  },
+  {
+    "name": "Whale",
+    "link": "whale.html"
+  },
+  {
+    "name": "Whiskers",
+    "link": "whiskers.html"
+  },
+  {
+    "name": "Whitelist",
+    "link": "whitelist.html"
+  },
+  {
+    "name": "الورقة التعريفية",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "Wick",
+    "link": "wick.html"
+  },
+  {
+    "name": "معدّل الربح",
+    "link": "win-rate.html"
+  },
+  {
+    "name": "Wrapped Ether (WETH)",
+    "link": "wrapped-ether.html"
+  },
+  {
+    "name": "تغليف التوكن",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "وايكوف",
+    "link": "wyckoff.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "المفتاح الخاص الممتد (XPRIV)",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "المفتاح العام الممتد (XPUB)",
+    "link": "xpub.html"
+  },
+  {
+    "name": "التوكنات حاملة العائد",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "تحصيل العائد",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "العنوان صفر",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "إثبات المعرفة الصفرية",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "إثباتات المعرفة الصفرية",
+    "link": "zero-knowledge-proofs.html"
+  },
+  {
+    "name": "تجميع المعرفة الصفرية",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "تجميعة Zk",
+    "link": "zk-rollup.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "إثبات المعرفة الصفرية (zk-SNARKs)",
+    "link": "zk-starks.html"
+  }
+]

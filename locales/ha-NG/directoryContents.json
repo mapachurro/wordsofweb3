@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "Tabbatarwa ta Biyu",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "tsarin 51%",
+    "link": "51%-attack.html"
+  },
+  {
+    "name": "AAVE",
+    "link": "aave.html"
+  },
+  {
+    "name": "asusu",
+    "link": "account.html"
+  },
+  {
+    "name": "Canja ta ACH",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "adireshin jama'a",
+    "link": "address.html"
+  },
+  {
+    "name": "Mai tara",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "Ajiye kashe gaba ɗaya",
+    "link": "air-gapping.html"
+  },
+  {
+    "name": "Saukar iska da nufin kasuwanci",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "hanyar shawo kan matsala",
+    "link": "algorithm.html"
+  },
+  {
+    "name": "Sikka daban ban da Bitcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "Yaki da Wanke Kuɗade",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "Kayan sarrafa da aka tsara musamman",
+    "link": "asic.html"
+  },
+  {
+    "name": "Asalin Mallaka",
+    "link": "asset-provenance.html"
+  },
+  {
+    "name": "Tabbatarwa",
+    "link": "attestation.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Sarkar Jagora",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Bitcoin (BTC)",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "sashe",
+    "link": "block.html"
+  },
+  {
+    "name": "Mai binciken sarkar",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "Tsawon sashe",
+    "link": "block-height.html"
+  },
+  {
+    "name": "Ladan da ake samu daga sashe",
+    "link": "block-reward.html"
+  },
+  {
+    "name": "Lokacin sashe",
+    "link": "block-time.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "Sarkar dijital",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "mai binciken kasuwanci na dijital",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "Matsalar uku na sarkar tubuka",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "Lada don nemo kurakurai",
+    "link": "bounty.html"
+  },
+  {
+    "name": "Walat da ba a rubuta ba",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "hanyar musayar kadarori tsakanin sarkarori",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "Kalmomin shirye-shirye na na'ura mai kwakwalwa",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "Tsananin haƙuri ga kurakuran Byzantine",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "Byzantium fork",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "hannuwan ciniki mai cibiya",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "Gane shaida na sarkar",
+    "link": "chain-id.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "software da ke hulɗa da kuma tabbatar da ma'amaloli",
+    "link": "client.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "Sikka",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "Ajiye kashe gaba ɗaya",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "walat ajiyar kashe gaba ɗaya",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "tara",
+    "link": "compile.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "tabbatarwa",
+    "link": "confirmation.html"
+  },
+  {
+    "name": "amincewar juna",
+    "link": "consensus.html"
+  },
+  {
+    "name": "abokin tabbatar da amincewar juna",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "matsayin tabbatar da amincewar juna",
+    "link": "consensus-layer.html"
+  },
+  {
+    "name": "hanyar tabbatar da amincewar juna",
+    "link": "consensus-mechanism.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Rabuwar Constantinople",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "yarjejeniya",
+    "link": "contract.html"
+  },
+  {
+    "name": "asusun yarjejeniya",
+    "link": "contract-account.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "lada gano kurakurai na kudin dijital",
+    "link": "crypto-bounties.html"
+  },
+  {
+    "name": "asusun kudin dijital",
+    "link": "crypto-fund.html"
+  },
+  {
+    "name": "walat kudin dijital",
+    "link": "crypto-wallet.html"
+  },
+  {
+    "name": "na kudin dijital",
+    "link": "crypto-.html"
+  },
+  {
+    "name": "kadarorin dijital",
+    "link": "crypto-asset.html"
+  },
+  {
+    "name": "bin daidaita da ƙa'idodin kudin dijital",
+    "link": "crypto-compliance.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "kudin dijital",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "tattalin arziƙin kudin dijital",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "Ɓoye-ɓoye na kudin dijital",
+    "link": "cryptography.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "ajiya kudin dijital",
+    "link": "custody.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "d'cent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "Harin ƙwace sabis ta rarraba",
+    "link": "ddos.html"
+  },
+  {
+    "name": "rarraba iko",
+    "link": "decentralization.html"
+  },
+  {
+    "name": "aikace-aikacen dijital na cin gashin kansa",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Ƙungiyar cin gashin kanta ta dijital",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "kasuwancin dijital na cin gashin kansa",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "tattalin arziƙi na dijital na cin gashin kansa",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "intanet na cin gashin kansa",
+    "link": "decentralized-web.html"
+  },
+  {
+    "name": "Tattalin arziƙi na dijital na cin gashin kansa",
+    "link": "defi.html"
+  },
+  {
+    "name": "Tabbatarwa ta Hanyar Mallaka wanda aka wakilta",
+    "link": "delegated-proof-of-stake-(dpos).html"
+  },
+  {
+    "name": "raka'a kudi",
+    "link": "denominations.html"
+  },
+  {
+    "name": "ajiya",
+    "link": "deposit.html"
+  },
+  {
+    "name": "samo",
+    "link": "derive.html"
+  },
+  {
+    "name": "mai ƙirƙira",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "mai ƙirƙira",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "wahala",
+    "link": "difficulty.html"
+  },
+  {
+    "name": "bom ɗin wahala",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "kadarorin dijital",
+    "link": "digital-asset.html"
+  },
+  {
+    "name": "shaida ta dijital",
+    "link": "digital-identity.html"
+  },
+  {
+    "name": "sanya hannu ta dijital",
+    "link": "digital-signature.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Fasaha ta littafi na rarrabawa",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "biyan kuɗi sau biyu",
+    "link": "double-spend.html"
+  },
+  {
+    "name": "muhalli na dijital",
+    "link": "ecosystem.html"
+  },
+  {
+    "name": "Ƙungiyar Ethereum na Ƙwararru",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip-1559.html"
+  },
+  {
+    "name": "makullin da aka ɓoye",
+    "link": "encrypted-key.html"
+  },
+  {
+    "name": "buyar bayanai",
+    "link": "encryption.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "rashin tsari",
+    "link": "entropy.html"
+  },
+  {
+    "name": "lokaci",
+    "link": "epoch.html"
+  },
+  {
+    "name": "Shawarar Haɗin Ethereum",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc-1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc-20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc-721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-2.0.html"
+  },
+  {
+    "name": "Shawarar Inganta Ethereum",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Ethereum Mainnet",
+    "link": "ethereum-mainnet.html"
+  },
+  {
+    "name": "Sabis na Sunan Ethereum",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Na'urar aiwatarwa na Ethereum",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "kasuwanci",
+    "link": "exchange.html"
+  },
+  {
+    "name": "abokin aiwatarwa na na'urar aiwatarwa na Ethereum",
+    "link": "execution-client.html"
+  },
+  {
+    "name": "matsayin aiwatarwa",
+    "link": "execution-layer.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "faucet",
+    "link": "faucet.html"
+  },
+  {
+    "name": "ƙarfin jure kuskure",
+    "link": "fault-tolerant.html"
+  },
+  {
+    "name": "kudin gargajiya",
+    "link": "fiat-currency.html"
+  },
+  {
+    "name": "tabbatarwa",
+    "link": "finality.html"
+  },
+  {
+    "name": "matsayin tabbatarwa",
+    "link": "finality-rate.html"
+  },
+  {
+    "name": "fasaha ta kuɗi",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "ƙananan sassan ETH",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "ƙwararren tsaro",
+    "link": "firewall.html"
+  },
+  {
+    "name": "firmware",
+    "link": "firmware.html"
+  },
+  {
+    "name": "rabuwa na Sarkar dijital",
+    "link": "fork.html"
+  },
+  {
+    "name": "mallaka na kaso",
+    "link": "fractional-ownership.html"
+  },
+  {
+    "name": "tsaro daga yaudara",
+    "link": "fraud-proof.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "na'ura Cikakke",
+    "link": "full-node.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gan fetur don sarrafa ma'amala",
+    "link": "gas.html"
+  },
+  {
+    "name": "kudin man fetur don sarrafa ma'amala",
+    "link": "gas-fee.html"
+  },
+  {
+    "name": "Iyakar man fetur don sarrafa ma'amala",
+    "link": "gas-limit.html"
+  },
+  {
+    "name": "farashin man fetur don sarrafa ma'amala",
+    "link": "gas-price.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "tubalin farawa na sarkar dijital",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "gudanarwa",
+    "link": "governance.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "rabawa ta rabi",
+    "link": "halving.html"
+  },
+  {
+    "name": "canjin sarkar da ba za a iya dawo da shi ba",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "walat na kayan aiki",
+    "link": "hardware-wallet.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "lamban tabbatarwa na ma'amala",
+    "link": "hash.html"
+  },
+  {
+    "name": "walat mai tsarin gado na ƙididdiga",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "lamba goma sha shida",
+    "link": "hex-data.html"
+  },
+  {
+    "name": "Ajiye zafi",
+    "link": "hot-storage.html"
+  },
+  {
+    "name": "Walat zafi",
+    "link": "hot-wallet.html"
+  },
+  {
+    "name": "cibiyar haɗi",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "Tsari na Hulɗa Tsakanin Sarkar Dijital",
+    "link": "ibc.html"
+  },
+  {
+    "name": "Farkon Farawa na Tsabar Kuɗi",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "ba za a iya sauyawa ba",
+    "link": "immutability.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "ciniki na cikin gida",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "ma'amala ta ciki",
+    "link": "internal-transaction.html"
+  },
+  {
+    "name": "haɗin aiki tsakanin sarkar dijital",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "Tsarin Fayil na InterPlanetary (IPFS)",
+    "link": "interplanetary-file-system-(ipfs).html"
+  },
+  {
+    "name": "Adireshin IP",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "Bayar da Jama'a ta Farko",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Fayil ɗin JSON",
+    "link": "json-file.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "json-rpc.html"
+  },
+  {
+    "name": "Fayil ɗin ajiyar maɓalli ta sirri na JSON",
+    "link": "keystore-file.html"
+  },
+  {
+    "name": "Sanin Abokin Cinikinku",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "Sanin Ma'amala",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Farko na Ethereum",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "tsari na farko na blockchain cibiyar sadarwa",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "tsari na biyu na blockchain cibiyar sadarwa",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Ledger Live App",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "laburare",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "abokin Hulɗa Mai Haske",
+    "link": "light-client.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "asarar kasuwa",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "saukin juya zu kuɗi",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "asusu na ciniki",
+    "link": "liquidity-pool.html"
+  },
+  {
+    "name": "Sanya saukin juya zu kuɗi",
+    "link": "liquidity-staking.html"
+  },
+  {
+    "name": "mainnet",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Maker Protocol",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "malware",
+    "link": "malware.html"
+  },
+  {
+    "name": "darajar kasuwa",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "jerin jiran ma'amaloli",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "jerin jiran ma'amaloli",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Haɗawa",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merkle Patricia Trie",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "tarin bayani meta",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metaverse",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "Matsakaicin Darajar da za a Fitar",
+    "link": "mev.html"
+  },
+  {
+    "name": "Tabbatarwa ta hanyoyi da dama",
+    "link": "mfa.html"
+  },
+  {
+    "name": "mai hakar ma'adinai",
+    "link": "miner.html"
+  },
+  {
+    "name": "kudin haƙowa",
+    "link": "miner-tip.html"
+  },
+  {
+    "name": "haƙowa",
+    "link": "mining.html"
+  },
+  {
+    "name": "ƙirƙira sabon tokens",
+    "link": "mint.html"
+  },
+  {
+    "name": "kalmar sirri",
+    "link": "mnemonic-phrase.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "mai sassauƙa na blockchain",
+    "link": "modular-blockchain.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "walat mai sa hannu multiple",
+    "link": "multi-sig.html"
+  },
+  {
+    "name": "walat mai sa hannu multiple",
+    "link": "multi-signature-wallet.html"
+  },
+  {
+    "name": "blockchain a cikin wani blockchain",
+    "link": "nested-blockchain.html"
+  },
+  {
+    "name": "cibiyar sadarwa",
+    "link": "network.html"
+  },
+  {
+    "name": "cunkoson cibiyar sadarwa",
+    "link": "network-congestion.html"
+  },
+  {
+    "name": "Sadarwa ta Kusa",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "Mai tattara NFT",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "Fitar NFT",
+    "link": "nft-drop.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "nodo",
+    "link": "node.html"
+  },
+  {
+    "name": "kadarori marar musanya",
+    "link": "non-fungible-token.html"
+  },
+  {
+    "name": "nonce",
+    "link": "nonce.html"
+  },
+  {
+    "name": "ma'amala a waje da cibiyar sadarwa",
+    "link": "off-chain.html"
+  },
+  {
+    "name": "sauya crypto zuwa kuɗi na duniya",
+    "link": "off-ramp.html"
+  },
+  {
+    "name": "omma block",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "ma'amala a ciki cibiyar sadarwa",
+    "link": "on-chain.html"
+  },
+  {
+    "name": "canjin dukiya zuwa crypto",
+    "link": "on-ramp.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "tabbatarwa mai sauƙi",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "Oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "daidai",
+    "link": "parity.html"
+  },
+  {
+    "name": "Kalmar wucewa",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "Kalmar sirri",
+    "link": "password.html"
+  },
+  {
+    "name": "mai sarrafa kalmomin sirri",
+    "link": "password-manager.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "tsakanin mutane kai tsaye",
+    "link": "peer-to-peer.html"
+  },
+  {
+    "name": "littafi mai izini",
+    "link": "permissioned-ledger.html"
+  },
+  {
+    "name": "yaudara ta intanet",
+    "link": "phishing.html"
+  },
+  {
+    "name": "Tsare Sirrin Mabuɗin jama'a",
+    "link": "pki.html"
+  },
+  {
+    "name": "Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "Tabbatar da Mutunci",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "littafi sirri",
+    "link": "private-blockchain.html"
+  },
+  {
+    "name": "kudi sirri",
+    "link": "private-currency.html"
+  },
+  {
+    "name": "mabuɗin sirri",
+    "link": "private-key.html"
+  },
+  {
+    "name": "Tabbatarwa ta Hanyar Mallaka",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "Tabbatar da Aiki",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "protokoli",
+    "link": "protocol.html"
+  },
+  {
+    "name": "adireshin jama'a",
+    "link": "public-address.html"
+  },
+  {
+    "name": "sarkar dijital na jama'a",
+    "link": "public-blockchain.html"
+  },
+  {
+    "name": "mabuɗin jama'a",
+    "link": "public-key.html"
+  },
+  {
+    "name": "sirrin mabuɗin jama'a",
+    "link": "public-key-cryptography.html"
+  },
+  {
+    "name": "Lamban QR",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "Mai watsa sake",
+    "link": "relayer.html"
+  },
+  {
+    "name": "Kiran Tsarin Aiki daga Nesa",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "taswirar hanya",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "rollups",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "yaudarar kuɗi ta crypto",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "gwaji",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "ƙara saurin ciniki (saurin yankewa)",
+    "link": "scalability.html"
+  },
+  {
+    "name": "ƙarfafa",
+    "link": "scaling.html"
+  },
+  {
+    "name": "yaudara",
+    "link": "scam.html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "injin bincike",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "Kalmar Sirri",
+    "link": "secret-recovery-phrase.html"
+  },
+  {
+    "name": "Mai ganowa na tsaro",
+    "link": "security-token.html"
+  },
+  {
+    "name": "Fitar Alamar Tsaro",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "kalmar sirri",
+    "link": "seed-phrase.html"
+  },
+  {
+    "name": "ajiyar kudi kai tsaye",
+    "link": "self-custody.html"
+  },
+  {
+    "name": "mai aiki kai tsaye",
+    "link": "self-executing.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "silsilantarwa",
+    "link": "serialization.html"
+  },
+  {
+    "name": "sassanƙa sarka",
+    "link": "shard-chain.html"
+  },
+  {
+    "name": "sassakawa",
+    "link": "sharding.html"
+  },
+  {
+    "name": "mu'amala a Boye",
+    "link": "shielded-transaction.html"
+  },
+  {
+    "name": "sarkar gefe",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "sharía mai ragewa",
+    "link": "slashing-condition.html"
+  },
+  {
+    "name": "bambanci farashin",
+    "link": "slippage.html"
+  },
+  {
+    "name": "zagaye na zabin shinga",
+    "link": "slot.html"
+  },
+  {
+    "name": "yarjejeniyar kai tsaye",
+    "link": "smart-contract.html"
+  },
+  {
+    "name": "canjin tsarin cibiyar sadarwa mai sauƙi",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "kudi mai daidaito",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "zuwa sanya crypto hannu don samun lada",
+    "link": "stake.html"
+  },
+  {
+    "name": "sanya hannu don samun lada",
+    "link": "staking.html"
+  },
+  {
+    "name": "bayanin yanzu na cibiyar sadarwa",
+    "link": "state.html"
+  },
+  {
+    "name": "tashoshin hali",
+    "link": "state-channels.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "biyan kuɗi a sassa",
+    "link": "streaming.html"
+  },
+  {
+    "name": "musanya",
+    "link": "swap.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "Cibiyar gwaji",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Testnet Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Testnet Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Testnet Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "kadara ta dijita",
+    "link": "token.html"
+  },
+  {
+    "name": "Kulle kadara ta dijita",
+    "link": "token-lockup.html"
+  },
+  {
+    "name": "daidaitacce token",
+    "link": "token-standard.html"
+  },
+  {
+    "name": "ma'amala",
+    "link": "transaction.html"
+  },
+  {
+    "name": "sassan ma'amala",
+    "link": "transaction-block.html"
+  },
+  {
+    "name": "kudin ma'amala",
+    "link": "transaction-fee.html"
+  },
+  {
+    "name": "lambar shaidar ma'amala",
+    "link": "transaction-id.html"
+  },
+  {
+    "name": "tafkin ma'amala",
+    "link": "transaction-pool.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "ba dole a amince",
+    "link": "trustless.html"
+  },
+  {
+    "name": "Turing-cikakke",
+    "link": "turing-complete.html"
+  },
+  {
+    "name": "Jimlar Kudin da ke Ajiye",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "makullin da ba a ɓoye ba",
+    "link": "unencrypted-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "sakin mu'amala da ba a kashe ba (UTXO)",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "cire jarinka",
+    "link": "unstake.html"
+  },
+  {
+    "name": "ingantawa",
+    "link": "upgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "masu tabbatarwa",
+    "link": "validator.html"
+  },
+  {
+    "name": "shaidar tabbatarwa",
+    "link": "validity-proof.html"
+  },
+  {
+    "name": "rarraba alamar da aka tsara",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "Walat",
+    "link": "wallet.html"
+  },
+  {
+    "name": "adireshin walat",
+    "link": "wallet-address.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-3.0.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "saƙo na atomatik da ke haɗa aikace-aikace",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "takardar bayani mai zurfi kan aiki",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "rufe alamar",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "Makullin Sirri na Faɗi",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "Makullin Jama'a na Faɗi",
+    "link": "xpub.html"
+  },
+  {
+    "name": "hanyar samun riba a kan crypto",
+    "link": "yield-farming.html"
+  },
+  {
+    "name": "alamun da ke samar da riba",
+    "link": "yield-bearing-tokens.html"
+  },
+  {
+    "name": "Adireshin Sifili",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "tabbacin Ilimi sifili",
+    "link": "zero-knowledge-proof.html"
+  },
+  {
+    "name": "juyin ilimin sifili",
+    "link": "zero-knowledge-rollup.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zk-snarks.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]
