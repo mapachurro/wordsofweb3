@@ -9,7 +9,7 @@
   },
   {
     "name": "İki Faktörlü Kimlik Doğrulaması",
-    "link": "2fa.html"
+    "link": "ki-faktrl-kimlik-dorulamas.html"
   },
   {
     "name": "3Box Labs",
@@ -17,7 +17,7 @@
   },
   {
     "name": "%51 saldırısı",
-    "link": "51%-attack.html"
+    "link": "51-saldrs.html"
   },
   {
     "name": "Aave",
@@ -25,19 +25,19 @@
   },
   {
     "name": "hesap",
-    "link": "account.html"
+    "link": "hesap.html"
   },
   {
     "name": "ACH transferi",
-    "link": "ach-transfer.html"
+    "link": "ach-transferi.html"
   },
   {
     "name": "adres",
-    "link": "address.html"
+    "link": "adres.html"
   },
   {
     "name": "toplayıcı",
-    "link": "aggregator.html"
+    "link": "toplayc.html"
   },
   {
     "name": "Agoric",
@@ -45,7 +45,7 @@
   },
   {
     "name": "hava boşluğu",
-    "link": "air-gapping.html"
+    "link": "hava-boluu.html"
   },
   {
     "name": "airdrop",
@@ -61,7 +61,7 @@
   },
   {
     "name": "algoritma",
-    "link": "algorithm.html"
+    "link": "algoritma.html"
   },
   {
     "name": "altcoin",
@@ -69,7 +69,7 @@
   },
   {
     "name": "Kara Para Aklamanın Önlenmesi",
-    "link": "aml.html"
+    "link": "kara-para-aklamann-nlenmesi.html"
   },
   {
     "name": "API",
@@ -89,15 +89,15 @@
   },
   {
     "name": "Uygulamaya Özel Tümleşik Devre",
-    "link": "asic.html"
+    "link": "uygulamaya-zel-tmleik-devre.html"
   },
   {
     "name": "varlık kökeni",
-    "link": "asset-provenance.html"
+    "link": "varlk-kkeni.html"
   },
   {
     "name": "tasdik",
-    "link": "attestation.html"
+    "link": "tasdik.html"
   },
   {
     "name": "Aurora",
@@ -121,7 +121,7 @@
   },
   {
     "name": "İşaret Zinciri",
-    "link": "beacon-chain.html"
+    "link": "aret-zinciri.html"
   },
   {
     "name": "Besu",
@@ -137,23 +137,23 @@
   },
   {
     "name": "blok",
-    "link": "block.html"
+    "link": "blok.html"
   },
   {
     "name": "blok gezgini",
-    "link": "block-explorer.html"
+    "link": "blok-gezgini.html"
   },
   {
     "name": "blok yüksekliği",
-    "link": "block-height.html"
+    "link": "blok-ykseklii.html"
   },
   {
     "name": "blok ödülü",
-    "link": "block-reward.html"
+    "link": "blok-dl.html"
   },
   {
     "name": "blok süresi",
-    "link": "block-time.html"
+    "link": "blok-sresi.html"
   },
   {
     "name": "Blockaid",
@@ -161,15 +161,15 @@
   },
   {
     "name": "blokzinciri",
-    "link": "blockchain.html"
+    "link": "blokzinciri.html"
   },
   {
     "name": "blokzinciri gezgini",
-    "link": "blockchain-explorer.html"
+    "link": "blokzinciri-gezgini.html"
   },
   {
     "name": "blokzinciri çıkmazı",
-    "link": "blockchain-trilemma.html"
+    "link": "blokzinciri-kmaz.html"
   },
   {
     "name": "BNB",
@@ -181,11 +181,11 @@
   },
   {
     "name": "ödülü",
-    "link": "bounty.html"
+    "link": "dl.html"
   },
   {
     "name": "beyin cüzdanı",
-    "link": "brain-wallet.html"
+    "link": "beyin-czdan.html"
   },
   {
     "name": "Brave",
@@ -193,7 +193,7 @@
   },
   {
     "name": "köprü",
-    "link": "bridge.html"
+    "link": "kpr.html"
   },
   {
     "name": "BTC",
@@ -201,15 +201,15 @@
   },
   {
     "name": "bayt kodu",
-    "link": "bytecode.html"
+    "link": "bayt-kodu.html"
   },
   {
     "name": "Bizans hata toleransı",
-    "link": "byzantine-fault-tolerance.html"
+    "link": "bizans-hata-tolerans.html"
   },
   {
     "name": "Bizans çatalı",
-    "link": "byzantium-fork.html"
+    "link": "bizans-atal.html"
   },
   {
     "name": "Celo",
@@ -217,7 +217,7 @@
   },
   {
     "name": "merkezi borsa",
-    "link": "centralized-exchange.html"
+    "link": "merkezi-borsa.html"
   },
   {
     "name": "CEX",
@@ -225,7 +225,7 @@
   },
   {
     "name": "zincir kimliği",
-    "link": "chain-id.html"
+    "link": "zincir-kimlii.html"
   },
   {
     "name": "Chrome",
@@ -233,7 +233,7 @@
   },
   {
     "name": "istemci",
-    "link": "client.html"
+    "link": "istemci.html"
   },
   {
     "name": "Codefi",
@@ -253,15 +253,15 @@
   },
   {
     "name": "soğuk depolama",
-    "link": "cold-storage.html"
+    "link": "souk-depolama.html"
   },
   {
     "name": "soğuk cüzdan",
-    "link": "cold-wallet.html"
+    "link": "souk-czdan.html"
   },
   {
     "name": "derleme",
-    "link": "compile.html"
+    "link": "derleme.html"
   },
   {
     "name": "Compound",
@@ -269,23 +269,23 @@
   },
   {
     "name": "onay",
-    "link": "confirmation.html"
+    "link": "onay.html"
   },
   {
     "name": "fikir birliği",
-    "link": "consensus.html"
+    "link": "fikir-birlii.html"
   },
   {
     "name": "fikir birliği istemcisi",
-    "link": "consensus-client.html"
+    "link": "fikir-birlii-istemcisi.html"
   },
   {
     "name": "fikir birliği katmanı",
-    "link": "consensus-layer.html"
+    "link": "fikir-birlii-katman.html"
   },
   {
     "name": "fikir birliği mekanizması",
-    "link": "consensus-mechanism.html"
+    "link": "fikir-birlii-mekanizmas.html"
   },
   {
     "name": "Consensys",
@@ -293,15 +293,15 @@
   },
   {
     "name": "Constantinople çatalı",
-    "link": "constantinople-fork.html"
+    "link": "constantinople-atal.html"
   },
   {
     "name": "sözleşme",
-    "link": "contract.html"
+    "link": "szleme.html"
   },
   {
     "name": "sözleşme hesabı",
-    "link": "contract-account.html"
+    "link": "szleme-hesab.html"
   },
   {
     "name": "CoolWallet",
@@ -309,27 +309,27 @@
   },
   {
     "name": "kripto bounty ödülleri",
-    "link": "crypto-bounties.html"
+    "link": "kripto-bounty-dlleri.html"
   },
   {
     "name": "kripto fonu",
-    "link": "crypto-fund.html"
+    "link": "kripto-fonu.html"
   },
   {
     "name": "kripto cüzdanı",
-    "link": "crypto-wallet.html"
+    "link": "kripto-czdan.html"
   },
   {
     "name": "kripto-",
-    "link": "crypto-.html"
+    "link": "kripto.html"
   },
   {
     "name": "kripto varlık",
-    "link": "crypto-asset.html"
+    "link": "kripto-varlk.html"
   },
   {
     "name": "kripto uyumu",
-    "link": "crypto-compliance.html"
+    "link": "kripto-uyumu.html"
   },
   {
     "name": "CryptoCompare",
@@ -337,15 +337,15 @@
   },
   {
     "name": "kripto para",
-    "link": "cryptocurrency.html"
+    "link": "kripto-para.html"
   },
   {
     "name": "kripto ekonomi",
-    "link": "cryptoeconomics.html"
+    "link": "kripto-ekonomi.html"
   },
   {
     "name": "kriptografi",
-    "link": "cryptography.html"
+    "link": "kriptografi.html"
   },
   {
     "name": "Curve",
@@ -353,11 +353,11 @@
   },
   {
     "name": "saklayıcı kurum",
-    "link": "custody.html"
+    "link": "saklayc-kurum.html"
   },
   {
     "name": "D'CENT",
-    "link": "d'cent.html"
+    "link": "dcent.html"
   },
   {
     "name": "DAI",
@@ -377,27 +377,27 @@
   },
   {
     "name": "merkeziyetsizleştirme",
-    "link": "decentralization.html"
+    "link": "merkeziyetsizletirme.html"
   },
   {
     "name": "merkeziyetsiz uygulama",
-    "link": "decentralized-application.html"
+    "link": "merkeziyetsiz-uygulama.html"
   },
   {
     "name": "Merkeziyetsiz Otonom Organizasyon",
-    "link": "decentralized-autonomous-organization.html"
+    "link": "merkeziyetsiz-otonom-organizasyon.html"
   },
   {
     "name": "merkeziyetsiz borsa",
-    "link": "decentralized-exchange.html"
+    "link": "merkeziyetsiz-borsa.html"
   },
   {
     "name": "merkeziyetsiz finans",
-    "link": "decentralized-finance.html"
+    "link": "merkeziyetsiz-finans.html"
   },
   {
     "name": "merkeziyetsiz web",
-    "link": "decentralized-web.html"
+    "link": "merkeziyetsiz-web.html"
   },
   {
     "name": "DeFi",
@@ -405,23 +405,23 @@
   },
   {
     "name": "DPoS",
-    "link": "delegated-proof-of-stake-(dpos).html"
+    "link": "dpos.html"
   },
   {
     "name": "değerler",
-    "link": "denominations.html"
+    "link": "deerler.html"
   },
   {
     "name": "para yatırma",
-    "link": "deposit.html"
+    "link": "para-yatrma.html"
   },
   {
     "name": "türev",
-    "link": "derive.html"
+    "link": "trev.html"
   },
   {
     "name": "geliştirici",
-    "link": "dev.html"
+    "link": "gelitirici.html"
   },
   {
     "name": "Devcon",
@@ -429,7 +429,7 @@
   },
   {
     "name": "geliştirici",
-    "link": "developer.html"
+    "link": "gelitirici.html"
   },
   {
     "name": "DEX",
@@ -437,23 +437,23 @@
   },
   {
     "name": "zorluk",
-    "link": "difficulty.html"
+    "link": "zorluk.html"
   },
   {
     "name": "zorluk bombası",
-    "link": "difficulty-bomb.html"
+    "link": "zorluk-bombas.html"
   },
   {
     "name": "dijital varlık",
-    "link": "digital-asset.html"
+    "link": "dijital-varlk.html"
   },
   {
     "name": "dijital kimlik",
-    "link": "digital-identity.html"
+    "link": "dijital-kimlik.html"
   },
   {
     "name": "dijital imza",
-    "link": "digital-signature.html"
+    "link": "dijital-imza.html"
   },
   {
     "name": "Diligence",
@@ -461,7 +461,7 @@
   },
   {
     "name": "dağıtılmış hesap defteri Teknolojisi",
-    "link": "distributed-ledger-technology.html"
+    "link": "datlm-hesap-defteri-teknolojisi.html"
   },
   {
     "name": "DLT",
@@ -469,27 +469,27 @@
   },
   {
     "name": "çift harcama",
-    "link": "double-spend.html"
+    "link": "ift-harcama.html"
   },
   {
     "name": "ekosistem",
-    "link": "ecosystem.html"
+    "link": "ekosistem.html"
   },
   {
     "name": "Kurumsal Ethereum İttifakı",
-    "link": "eea.html"
+    "link": "kurumsal-ethereum-ttifak.html"
   },
   {
     "name": "EIP-1559",
-    "link": "eip-1559.html"
+    "link": "eip1559.html"
   },
   {
     "name": "şifrelenmiş anahtar",
-    "link": "encrypted-key.html"
+    "link": "ifrelenmi-anahtar.html"
   },
   {
     "name": "şifreleme",
-    "link": "encryption.html"
+    "link": "ifreleme.html"
   },
   {
     "name": "ENS",
@@ -497,7 +497,7 @@
   },
   {
     "name": "entropi",
-    "link": "entropy.html"
+    "link": "entropi.html"
   },
   {
     "name": "epoch",
@@ -509,15 +509,15 @@
   },
   {
     "name": "ERC-1155",
-    "link": "erc-1155.html"
+    "link": "erc1155.html"
   },
   {
     "name": "ERC-20",
-    "link": "erc-20.html"
+    "link": "erc20.html"
   },
   {
     "name": "ERC-721",
-    "link": "erc-721.html"
+    "link": "erc721.html"
   },
   {
     "name": "ETH",
@@ -533,23 +533,23 @@
   },
   {
     "name": "Ethereum 2.0",
-    "link": "ethereum-2.0.html"
+    "link": "ethereum-20.html"
   },
   {
     "name": "Ethereum Geliştirme Teklifi",
-    "link": "ethereum-improvement-proposal.html"
+    "link": "ethereum-gelitirme-teklifi.html"
   },
   {
     "name": "Ethereum Ana Ağı",
-    "link": "ethereum-mainnet.html"
+    "link": "ethereum-ana-a.html"
   },
   {
     "name": "Ethereum İsimlendirme Hizmeti",
-    "link": "ethereum-name-service.html"
+    "link": "ethereum-simlendirme-hizmeti.html"
   },
   {
     "name": "Ethereum Sanal Makinesi",
-    "link": "ethereum-virtual-machine.html"
+    "link": "ethereum-sanal-makinesi.html"
   },
   {
     "name": "Etherscan",
@@ -565,15 +565,15 @@
   },
   {
     "name": "borsa",
-    "link": "exchange.html"
+    "link": "borsa.html"
   },
   {
     "name": "yürütme istemcisi",
-    "link": "execution-client.html"
+    "link": "yrtme-istemcisi.html"
   },
   {
     "name": "yürütme katmanı",
-    "link": "execution-layer.html"
+    "link": "yrtme-katman.html"
   },
   {
     "name": "Fantom",
@@ -581,27 +581,27 @@
   },
   {
     "name": "musluk",
-    "link": "faucet.html"
+    "link": "musluk.html"
   },
   {
     "name": "hataya dayanıklı",
-    "link": "fault-tolerant.html"
+    "link": "hataya-dayankl.html"
   },
   {
     "name": "fiat para",
-    "link": "fiat-currency.html"
+    "link": "fiat-para.html"
   },
   {
     "name": "kesinlik",
-    "link": "finality.html"
+    "link": "kesinlik.html"
   },
   {
     "name": "kesinlik oranı",
-    "link": "finality-rate.html"
+    "link": "kesinlik-oran.html"
   },
   {
     "name": "finansal teknoloji",
-    "link": "financial-technology.html"
+    "link": "finansal-teknoloji.html"
   },
   {
     "name": "finney",
@@ -613,23 +613,23 @@
   },
   {
     "name": "güvenlik duvarı",
-    "link": "firewall.html"
+    "link": "gvenlik-duvar.html"
   },
   {
     "name": "donanım yazılımı",
-    "link": "firmware.html"
+    "link": "donanm-yazlm.html"
   },
   {
     "name": "çatal",
-    "link": "fork.html"
+    "link": "atal.html"
   },
   {
     "name": "fraksiyonel sahiplik",
-    "link": "fractional-ownership.html"
+    "link": "fraksiyonel-sahiplik.html"
   },
   {
     "name": "dolandırıcılık kanıtı",
-    "link": "fraud-proof.html"
+    "link": "dolandrclk-kant.html"
   },
   {
     "name": "FTM",
@@ -637,7 +637,7 @@
   },
   {
     "name": "tam düğüm",
-    "link": "full-node.html"
+    "link": "tam-dm.html"
   },
   {
     "name": "Ganache",
@@ -645,19 +645,19 @@
   },
   {
     "name": "gaz",
-    "link": "gas.html"
+    "link": "gaz.html"
   },
   {
     "name": "gaz ücreti",
-    "link": "gas-fee.html"
+    "link": "gaz-creti.html"
   },
   {
     "name": "gaz limiti",
-    "link": "gas-limit.html"
+    "link": "gaz-limiti.html"
   },
   {
     "name": "gaz fiyatı",
-    "link": "gas-price.html"
+    "link": "gaz-fiyat.html"
   },
   {
     "name": "Gas Station Network",
@@ -669,7 +669,7 @@
   },
   {
     "name": "genesis blok",
-    "link": "genesis-block.html"
+    "link": "genesis-blok.html"
   },
   {
     "name": "Gitcoin",
@@ -685,7 +685,7 @@
   },
   {
     "name": "yönetişim",
-    "link": "governance.html"
+    "link": "ynetiim.html"
   },
   {
     "name": "GSN",
@@ -697,15 +697,15 @@
   },
   {
     "name": "yarılanma",
-    "link": "halving.html"
+    "link": "yarlanma.html"
   },
   {
     "name": "sert çatal",
-    "link": "hard-fork.html"
+    "link": "sert-atal.html"
   },
   {
     "name": "donanım cüzdanı",
-    "link": "hardware-wallet.html"
+    "link": "donanm-czdan.html"
   },
   {
     "name": "Harmony",
@@ -717,23 +717,23 @@
   },
   {
     "name": "Hiyerarşik Belirleyici (HD) cüzdan",
-    "link": "hd-wallet.html"
+    "link": "hiyerarik-belirleyici-hd-czdan.html"
   },
   {
     "name": "ข้อมูลเลขฐานสิบหก",
-    "link": "hex-data.html"
+    "link": ".html"
   },
   {
     "name": "sıcak depolama",
-    "link": "hot-storage.html"
+    "link": "scak-depolama.html"
   },
   {
     "name": "sıcak cüzdan",
-    "link": "hot-wallet.html"
+    "link": "scak-czdan.html"
   },
   {
     "name": "hibrit ağ",
-    "link": "hybrid-network.html"
+    "link": "hibrit-a.html"
   },
   {
     "name": "Hyperledger",
@@ -753,7 +753,7 @@
   },
   {
     "name": "ölçeklendirilebilme çözümü",
-    "link": "immutability.html"
+    "link": "leklendirilebilme-zm.html"
   },
   {
     "name": "Infura",
@@ -761,23 +761,23 @@
   },
   {
     "name": "İçeriden Öğrenenlerin Ticareti",
-    "link": "insider-trading.html"
+    "link": "eriden-renenlerin-ticareti.html"
   },
   {
     "name": "dahili işlem",
-    "link": "internal-transaction.html"
+    "link": "dahili-ilem.html"
   },
   {
     "name": "birlikte çalışabilirlik",
-    "link": "interoperability.html"
+    "link": "birlikte-alabilirlik.html"
   },
   {
     "name": "Gezegenler Arası Dosya Sistemi (IPFS)",
-    "link": "interplanetary-file-system-(ipfs).html"
+    "link": "gezegenler-aras-dosya-sistemi-ipfs.html"
   },
   {
     "name": "IP adresi",
-    "link": "ip-address.html"
+    "link": "ip-adresi.html"
   },
   {
     "name": "IPFS",
@@ -789,23 +789,23 @@
   },
   {
     "name": "JSON dosyası",
-    "link": "json-file.html"
+    "link": "json-dosyas.html"
   },
   {
     "name": "JSON-RPC",
-    "link": "json-rpc.html"
+    "link": "jsonrpc.html"
   },
   {
     "name": "keystore dosyası",
-    "link": "keystore-file.html"
+    "link": "keystore-dosyas.html"
   },
   {
     "name": "Müşterini Tanı",
-    "link": "know-your-customer.html"
+    "link": "mterini-tan.html"
   },
   {
     "name": "İşlemini Tanı",
-    "link": "know-your-transaction.html"
+    "link": "lemini-tan.html"
   },
   {
     "name": "Kovan",
@@ -829,11 +829,11 @@
   },
   {
     "name": "Katman 1",
-    "link": "layer-1.html"
+    "link": "katman-1.html"
   },
   {
     "name": "Katman 2",
-    "link": "layer-2.html"
+    "link": "katman-2.html"
   },
   {
     "name": "Ledger",
@@ -845,11 +845,11 @@
   },
   {
     "name": "Ledger Live Uygulaması",
-    "link": "ledger-live-app.html"
+    "link": "ledger-live-uygulamas.html"
   },
   {
     "name": "kitaplık",
-    "link": "library.html"
+    "link": "kitaplk.html"
   },
   {
     "name": "Lido",
@@ -857,7 +857,7 @@
   },
   {
     "name": "hafif istemci",
-    "link": "light-client.html"
+    "link": "hafif-istemci.html"
   },
   {
     "name": "Lightning Network",
@@ -869,35 +869,35 @@
   },
   {
     "name": "likidasyon",
-    "link": "liquidation.html"
+    "link": "likidasyon.html"
   },
   {
     "name": "likidite",
-    "link": "liquidity.html"
+    "link": "likidite.html"
   },
   {
     "name": "likidite havuzu",
-    "link": "liquidity-pool.html"
+    "link": "likidite-havuzu.html"
   },
   {
     "name": "likidite staking",
-    "link": "liquidity-staking.html"
+    "link": "likidite-staking.html"
   },
   {
     "name": "ana ağ",
-    "link": "mainnet.html"
+    "link": "ana-a.html"
   },
   {
     "name": "Maker Protokolü",
-    "link": "maker-protocol.html"
+    "link": "maker-protokol.html"
   },
   {
     "name": "kötü amaçlı yazılım",
-    "link": "malware.html"
+    "link": "kt-amal-yazlm.html"
   },
   {
     "name": "piyasa değeri",
-    "link": "market-cap.html"
+    "link": "piyasa-deeri.html"
   },
   {
     "name": "MATIC",
@@ -905,7 +905,7 @@
   },
   {
     "name": "bellek havuzu",
-    "link": "memory-pool.html"
+    "link": "bellek-havuzu.html"
   },
   {
     "name": "mempool",
@@ -917,7 +917,7 @@
   },
   {
     "name": "Birleştirme",
-    "link": "merge.html"
+    "link": "birletirme.html"
   },
   {
     "name": "Merkle Patricia trie",
@@ -929,7 +929,7 @@
   },
   {
     "name": "Meta veri",
-    "link": "metadata.html"
+    "link": "meta-veri.html"
   },
   {
     "name": "MetaMask",
@@ -957,7 +957,7 @@
   },
   {
     "name": "Maksimal Çıkarılabilir Değer",
-    "link": "mev.html"
+    "link": "maksimal-karlabilir-deer.html"
   },
   {
     "name": "MFA",
@@ -965,15 +965,15 @@
   },
   {
     "name": "madenci",
-    "link": "miner.html"
+    "link": "madenci.html"
   },
   {
     "name": "madenci bahşişi",
-    "link": "miner-tip.html"
+    "link": "madenci-bahii.html"
   },
   {
     "name": "madencilik",
-    "link": "mining.html"
+    "link": "madencilik.html"
   },
   {
     "name": "mint",
@@ -981,7 +981,7 @@
   },
   {
     "name": "anımsatıcı ifade",
-    "link": "mnemonic-phrase.html"
+    "link": "anmsatc-ifade.html"
   },
   {
     "name": "MobiKwik",
@@ -989,7 +989,7 @@
   },
   {
     "name": "modüler blokzinciri",
-    "link": "modular-blockchain.html"
+    "link": "modler-blokzinciri.html"
   },
   {
     "name": "MoonPay",
@@ -997,27 +997,27 @@
   },
   {
     "name": "çoklu imza",
-    "link": "multi-sig.html"
+    "link": "oklu-imza.html"
   },
   {
     "name": "çoklu imza cüzdanı",
-    "link": "multi-signature-wallet.html"
+    "link": "oklu-imza-czdan.html"
   },
   {
     "name": "nested (İç İçe) blokzincir",
-    "link": "nested-blockchain.html"
+    "link": "nested-e-blokzincir.html"
   },
   {
     "name": "ağ",
-    "link": "network.html"
+    "link": "a.html"
   },
   {
     "name": "ağ tıkanıklığı",
-    "link": "network-congestion.html"
+    "link": "a-tkankl.html"
   },
   {
     "name": "Yakın Alan İletişimi",
-    "link": "nfc.html"
+    "link": "yakn-alan-letiimi.html"
   },
   {
     "name": "NFT",
@@ -1025,7 +1025,7 @@
   },
   {
     "name": "NFT toplayıcı",
-    "link": "nft-aggregator.html"
+    "link": "nft-toplayc.html"
   },
   {
     "name": "NFT drop",
@@ -1037,11 +1037,11 @@
   },
   {
     "name": "düğüm",
-    "link": "node.html"
+    "link": "dm.html"
   },
   {
     "name": "nitelikli fikri tapu",
-    "link": "non-fungible-token.html"
+    "link": "nitelikli-fikri-tapu.html"
   },
   {
     "name": "nonce",
@@ -1049,23 +1049,23 @@
   },
   {
     "name": "zincir dışı",
-    "link": "off-chain.html"
+    "link": "zincir-d.html"
   },
   {
     "name": "off-ramp",
-    "link": "off-ramp.html"
+    "link": "offramp.html"
   },
   {
     "name": "ommer blok",
-    "link": "ommer-block.html"
+    "link": "ommer-blok.html"
   },
   {
     "name": "zincir içi",
-    "link": "on-chain.html"
+    "link": "zincir-ii.html"
   },
   {
     "name": "on-ramp",
-    "link": "on-ramp.html"
+    "link": "onramp.html"
   },
   {
     "name": "ONE",
@@ -1085,7 +1085,7 @@
   },
   {
     "name": "optimistik rollup",
-    "link": "optimistic-rollup.html"
+    "link": "optimistik-rollup.html"
   },
   {
     "name": "Oracle",
@@ -1105,19 +1105,19 @@
   },
   {
     "name": "parite",
-    "link": "parity.html"
+    "link": "parite.html"
   },
   {
     "name": "parola",
-    "link": "passphrase.html"
+    "link": "parola.html"
   },
   {
     "name": "şifre",
-    "link": "password.html"
+    "link": "ifre.html"
   },
   {
     "name": "şifre yöneticisi",
-    "link": "password-manager.html"
+    "link": "ifre-yneticisi.html"
   },
   {
     "name": "PayPal",
@@ -1125,15 +1125,15 @@
   },
   {
     "name": "eşler arası",
-    "link": "peer-to-peer.html"
+    "link": "eler-aras.html"
   },
   {
     "name": "izinli kayıt defteri",
-    "link": "permissioned-ledger.html"
+    "link": "izinli-kayt-defteri.html"
   },
   {
     "name": "kimlik avı",
-    "link": "phishing.html"
+    "link": "kimlik-av.html"
   },
   {
     "name": "PKI",
@@ -1141,11 +1141,11 @@
   },
   {
     "name": "Plazma",
-    "link": "plasma.html"
+    "link": "plazma.html"
   },
   {
     "name": "Yetki İspatı",
-    "link": "poa.html"
+    "link": "yetki-spat.html"
   },
   {
     "name": "Polygon",
@@ -1161,47 +1161,47 @@
   },
   {
     "name": "özel blokzinciri",
-    "link": "private-blockchain.html"
+    "link": "zel-blokzinciri.html"
   },
   {
     "name": "özel para birimi",
-    "link": "private-currency.html"
+    "link": "zel-para-birimi.html"
   },
   {
     "name": "özel anahtar",
-    "link": "private-key.html"
+    "link": "zel-anahtar.html"
   },
   {
     "name": "Hisse İspatı",
-    "link": "proof-of-stake.html"
+    "link": "hisse-spat.html"
   },
   {
     "name": "İş İspatı",
-    "link": "proof-of-work.html"
+    "link": "spat.html"
   },
   {
     "name": "protokol",
-    "link": "protocol.html"
+    "link": "protokol.html"
   },
   {
     "name": "genel adres",
-    "link": "public-address.html"
+    "link": "genel-adres.html"
   },
   {
     "name": "genel blokzinciri",
-    "link": "public-blockchain.html"
+    "link": "genel-blokzinciri.html"
   },
   {
     "name": "genel anahtar",
-    "link": "public-key.html"
+    "link": "genel-anahtar.html"
   },
   {
     "name": "açık anahtarlı şifreleme",
-    "link": "public-key-cryptography.html"
+    "link": "ak-anahtarl-ifreleme.html"
   },
   {
     "name": "QR kodu",
-    "link": "qr-code.html"
+    "link": "qr-kodu.html"
   },
   {
     "name": "Quorum",
@@ -1213,11 +1213,11 @@
   },
   {
     "name": "düzenleyici",
-    "link": "relayer.html"
+    "link": "dzenleyici.html"
   },
   {
     "name": "Uzak Yordam Çağrısı",
-    "link": "remote-procedure-call.html"
+    "link": "uzak-yordam-ars.html"
   },
   {
     "name": "Rinkeby",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "yol haritası",
-    "link": "roadmap.html"
+    "link": "yol-haritas.html"
   },
   {
     "name": "Rocket Pool",
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "rolluplar",
-    "link": "rollups.html"
+    "link": "rolluplar.html"
   },
   {
     "name": "Ropsten",
@@ -1245,7 +1245,7 @@
   },
   {
     "name": "halı çekme",
-    "link": "rug-pull.html"
+    "link": "hal-ekme.html"
   },
   {
     "name": "Safeheron",
@@ -1269,15 +1269,15 @@
   },
   {
     "name": "ölçeklendirilebilirlik",
-    "link": "scalability.html"
+    "link": "leklendirilebilirlik.html"
   },
   {
     "name": "ölçeklendirme",
-    "link": "scaling.html"
+    "link": "leklendirme.html"
   },
   {
     "name": "dolandırıcılık",
-    "link": "scam.html"
+    "link": "dolandrclk.html"
   },
   {
     "name": "Scrypt",
@@ -1289,31 +1289,31 @@
   },
   {
     "name": "arama motoru",
-    "link": "search-engine.html"
+    "link": "arama-motoru.html"
   },
   {
     "name": "Gizli Kurtarma İfadesi",
-    "link": "secret-recovery-phrase.html"
+    "link": "gizli-kurtarma-fadesi.html"
   },
   {
     "name": "Menkul Kıymet Tokeni",
-    "link": "security-token.html"
+    "link": "menkul-kymet-tokeni.html"
   },
   {
     "name": "Menkul Kıymet Token Arzı",
-    "link": "security-token-offering.html"
+    "link": "menkul-kymet-token-arz.html"
   },
   {
     "name": "anahtar cümle",
-    "link": "seed-phrase.html"
+    "link": "anahtar-cmle.html"
   },
   {
     "name": "self-custody",
-    "link": "self-custody.html"
+    "link": "selfcustody.html"
   },
   {
     "name": "kendiliğinden uygulanan",
-    "link": "self-executing.html"
+    "link": "kendiliinden-uygulanan.html"
   },
   {
     "name": "Sepolia",
@@ -1325,31 +1325,31 @@
   },
   {
     "name": "serileştirme",
-    "link": "serialization.html"
+    "link": "seriletirme.html"
   },
   {
     "name": "parça zincir",
-    "link": "shard-chain.html"
+    "link": "para-zincir.html"
   },
   {
     "name": "bölme",
-    "link": "sharding.html"
+    "link": "blme.html"
   },
   {
     "name": "korumalı işlem",
-    "link": "shielded-transaction.html"
+    "link": "korumal-ilem.html"
   },
   {
     "name": "yan zincir",
-    "link": "sidechain.html"
+    "link": "yan-zincir.html"
   },
   {
     "name": "slashing ceza durumu",
-    "link": "slashing-condition.html"
+    "link": "slashing-ceza-durumu.html"
   },
   {
     "name": "kayma",
-    "link": "slippage.html"
+    "link": "kayma.html"
   },
   {
     "name": "slot",
@@ -1357,11 +1357,11 @@
   },
   {
     "name": "akıllı sözleşme",
-    "link": "smart-contract.html"
+    "link": "akll-szleme.html"
   },
   {
     "name": "yumuşak çatal",
-    "link": "soft-fork.html"
+    "link": "yumuak-atal.html"
   },
   {
     "name": "Solidity",
@@ -1369,7 +1369,7 @@
   },
   {
     "name": "stabil kripto para",
-    "link": "stablecoin.html"
+    "link": "stabil-kripto-para.html"
   },
   {
     "name": "stake",
@@ -1377,15 +1377,15 @@
   },
   {
     "name": "stake etme",
-    "link": "staking.html"
+    "link": "stake-etme.html"
   },
   {
     "name": "durum",
-    "link": "state.html"
+    "link": "durum.html"
   },
   {
     "name": "durum kanalları",
-    "link": "state-channels.html"
+    "link": "durum-kanallar.html"
   },
   {
     "name": "STO",
@@ -1397,7 +1397,7 @@
   },
   {
     "name": "swap işlemi yapmak--gerçekleştirmek",
-    "link": "swap.html"
+    "link": "swap-ilemi-yapmakgerekletirmek.html"
   },
   {
     "name": "szabo",
@@ -1413,7 +1413,7 @@
   },
   {
     "name": "test ağı",
-    "link": "testnet.html"
+    "link": "test-a.html"
   },
   {
     "name": "Testnet Kovan",
@@ -1433,7 +1433,7 @@
   },
   {
     "name": "token kilitlenmesi",
-    "link": "token-lockup.html"
+    "link": "token-kilitlenmesi.html"
   },
   {
     "name": "Token standardı",
@@ -1441,23 +1441,23 @@
   },
   {
     "name": "işlem",
-    "link": "transaction.html"
+    "link": "ilem.html"
   },
   {
     "name": "işlem bloku",
-    "link": "transaction-block.html"
+    "link": "ilem-bloku.html"
   },
   {
     "name": "işlem ücreti",
-    "link": "transaction-fee.html"
+    "link": "ilem-creti.html"
   },
   {
     "name": "işlem kimliği",
-    "link": "transaction-id.html"
+    "link": "ilem-kimlii.html"
   },
   {
     "name": "işlem havuzu",
-    "link": "transaction-pool.html"
+    "link": "ilem-havuzu.html"
   },
   {
     "name": "Transak",
@@ -1473,15 +1473,15 @@
   },
   {
     "name": "güvensiz",
-    "link": "trustless.html"
+    "link": "gvensiz.html"
   },
   {
     "name": "Turing bütünlüğü",
-    "link": "turing-complete.html"
+    "link": "turing-btnl.html"
   },
   {
     "name": "Kilitli Toplam Değer",
-    "link": "tvl.html"
+    "link": "kilitli-toplam-deer.html"
   },
   {
     "name": "TXID",
@@ -1489,11 +1489,11 @@
   },
   {
     "name": "Evrensel 2. Faktör",
-    "link": "u2f.html"
+    "link": "evrensel-2-faktr.html"
   },
   {
     "name": "şifrelenmemiş anahtar",
-    "link": "unencrypted-key.html"
+    "link": "ifrelenmemi-anahtar.html"
   },
   {
     "name": "Uniswap",
@@ -1501,15 +1501,15 @@
   },
   {
     "name": "harcanmamış işlem çıktısı",
-    "link": "unspent-transaction-output.html"
+    "link": "harcanmam-ilem-kts.html"
   },
   {
     "name": "unstake etmek",
-    "link": "unstake.html"
+    "link": "unstake-etmek.html"
   },
   {
     "name": "yükselt",
-    "link": "upgrade.html"
+    "link": "ykselt.html"
   },
   {
     "name": "URL",
@@ -1525,11 +1525,11 @@
   },
   {
     "name": "doğrulayıcı",
-    "link": "validator.html"
+    "link": "dorulayc.html"
   },
   {
     "name": "geçerlilik ispatı",
-    "link": "validity-proof.html"
+    "link": "geerlilik-ispat.html"
   },
   {
     "name": "vesting",
@@ -1541,11 +1541,11 @@
   },
   {
     "name": "cüzdan",
-    "link": "wallet.html"
+    "link": "czdan.html"
   },
   {
     "name": "cüzdan adresi",
-    "link": "wallet-address.html"
+    "link": "czdan-adresi.html"
   },
   {
     "name": "WalletConnect",
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Web 3.0",
-    "link": "web-3.0.html"
+    "link": "web-30.html"
   },
   {
     "name": "web3",
@@ -1565,7 +1565,7 @@
   },
   {
     "name": "web kancası",
-    "link": "webhook.html"
+    "link": "web-kancas.html"
   },
   {
     "name": "WebSocket",
@@ -1577,11 +1577,11 @@
   },
   {
     "name": "teknik doküman",
-    "link": "whitepaper.html"
+    "link": "teknik-dokman.html"
   },
   {
     "name": "Sarma",
-    "link": "wrapping.html"
+    "link": "sarma.html"
   },
   {
     "name": "Wyre",
@@ -1589,11 +1589,11 @@
   },
   {
     "name": "Genişletilmiş Özel Anahtar",
-    "link": "xpriv.html"
+    "link": "geniletilmi-zel-anahtar.html"
   },
   {
     "name": "Genişletilmiş Genel Anahtar",
-    "link": "xpub.html"
+    "link": "geniletilmi-genel-anahtar.html"
   },
   {
     "name": "yield farming",
@@ -1601,23 +1601,23 @@
   },
   {
     "name": "gelir üreten token",
-    "link": "yield-bearing-tokens.html"
+    "link": "gelir-reten-token.html"
   },
   {
     "name": "zero adres",
-    "link": "zero-address.html"
+    "link": "zero-adres.html"
   },
   {
     "name": "sıfır bilgi ispatı",
-    "link": "zero-knowledge-proof.html"
+    "link": "sfr-bilgi-ispat.html"
   },
   {
     "name": "sıfır bilgi rollup",
-    "link": "zero-knowledge-rollup.html"
+    "link": "sfr-bilgi-rollup.html"
   },
   {
     "name": "zk-SNARK'lar",
-    "link": "zk-snarks.html"
+    "link": "zksnarklar.html"
   },
   {
     "name": "0xplain",

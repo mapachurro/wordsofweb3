@@ -17,7 +17,7 @@
   },
   {
     "name": "serangan 51%",
-    "link": "51%-attack.html"
+    "link": "serangan-51.html"
   },
   {
     "name": "Aave",
@@ -25,19 +25,19 @@
   },
   {
     "name": "akaun",
-    "link": "account.html"
+    "link": "akaun.html"
   },
   {
     "name": "Pemindahan ACH",
-    "link": "ach-transfer.html"
+    "link": "pemindahan-ach.html"
   },
   {
     "name": "alamat",
-    "link": "address.html"
+    "link": "alamat.html"
   },
   {
     "name": "pengagregat",
-    "link": "aggregator.html"
+    "link": "pengagregat.html"
   },
   {
     "name": "Agoric",
@@ -45,7 +45,7 @@
   },
   {
     "name": "air-gapping",
-    "link": "air-gapping.html"
+    "link": "airgapping.html"
   },
   {
     "name": "airdrop",
@@ -61,7 +61,7 @@
   },
   {
     "name": "algoritma",
-    "link": "algorithm.html"
+    "link": "algoritma.html"
   },
   {
     "name": "altcoin",
@@ -93,11 +93,11 @@
   },
   {
     "name": "asal aset",
-    "link": "asset-provenance.html"
+    "link": "asal-aset.html"
   },
   {
     "name": "pengesahan",
-    "link": "attestation.html"
+    "link": "pengesahan.html"
   },
   {
     "name": "Aurora",
@@ -137,7 +137,7 @@
   },
   {
     "name": "blok",
-    "link": "block.html"
+    "link": "blok.html"
   },
   {
     "name": "block explorer",
@@ -145,15 +145,15 @@
   },
   {
     "name": "ketinggian blok",
-    "link": "block-height.html"
+    "link": "ketinggian-blok.html"
   },
   {
     "name": "ganjaran blok",
-    "link": "block-reward.html"
+    "link": "ganjaran-blok.html"
   },
   {
     "name": "masa blok",
-    "link": "block-time.html"
+    "link": "masa-blok.html"
   },
   {
     "name": "Blockaid",
@@ -161,7 +161,7 @@
   },
   {
     "name": "rantaian blok",
-    "link": "blockchain.html"
+    "link": "rantaian-blok.html"
   },
   {
     "name": "blockchain explorer",
@@ -169,7 +169,7 @@
   },
   {
     "name": "trilema rantaian blok",
-    "link": "blockchain-trilemma.html"
+    "link": "trilema-rantaian-blok.html"
   },
   {
     "name": "BNB",
@@ -181,11 +181,11 @@
   },
   {
     "name": "ganjaran",
-    "link": "bounty.html"
+    "link": "ganjaran.html"
   },
   {
     "name": "dompet otak",
-    "link": "brain-wallet.html"
+    "link": "dompet-otak.html"
   },
   {
     "name": "Brave",
@@ -193,7 +193,7 @@
   },
   {
     "name": "jambatan",
-    "link": "bridge.html"
+    "link": "jambatan.html"
   },
   {
     "name": "BTC",
@@ -201,11 +201,11 @@
   },
   {
     "name": "kod bait",
-    "link": "bytecode.html"
+    "link": "kod-bait.html"
   },
   {
     "name": "toleransi kesalahan byzantine",
-    "link": "byzantine-fault-tolerance.html"
+    "link": "toleransi-kesalahan-byzantine.html"
   },
   {
     "name": "Byzantium fork",
@@ -217,7 +217,7 @@
   },
   {
     "name": "pertukaran berpusat",
-    "link": "centralized-exchange.html"
+    "link": "pertukaran-berpusat.html"
   },
   {
     "name": "CEX",
@@ -225,7 +225,7 @@
   },
   {
     "name": "ID rantaian",
-    "link": "chain-id.html"
+    "link": "id-rantaian.html"
   },
   {
     "name": "Chrome",
@@ -233,7 +233,7 @@
   },
   {
     "name": "klien",
-    "link": "client.html"
+    "link": "klien.html"
   },
   {
     "name": "Codefi",
@@ -253,15 +253,15 @@
   },
   {
     "name": "simpanan sejuk",
-    "link": "cold-storage.html"
+    "link": "simpanan-sejuk.html"
   },
   {
     "name": "dompet sejuk",
-    "link": "cold-wallet.html"
+    "link": "dompet-sejuk.html"
   },
   {
     "name": "susun",
-    "link": "compile.html"
+    "link": "susun.html"
   },
   {
     "name": "Compound",
@@ -269,23 +269,23 @@
   },
   {
     "name": "pengesahan",
-    "link": "confirmation.html"
+    "link": "pengesahan.html"
   },
   {
     "name": "konsensus",
-    "link": "consensus.html"
+    "link": "konsensus.html"
   },
   {
     "name": "klien konsensus",
-    "link": "consensus-client.html"
+    "link": "klien-konsensus.html"
   },
   {
     "name": "lapisan konsensus",
-    "link": "consensus-layer.html"
+    "link": "lapisan-konsensus.html"
   },
   {
     "name": "mekanisme konsensus",
-    "link": "consensus-mechanism.html"
+    "link": "mekanisme-konsensus.html"
   },
   {
     "name": "Consensys",
@@ -297,11 +297,11 @@
   },
   {
     "name": "kontrak",
-    "link": "contract.html"
+    "link": "kontrak.html"
   },
   {
     "name": "akaun kontrak",
-    "link": "contract-account.html"
+    "link": "akaun-kontrak.html"
   },
   {
     "name": "CoolWallet",
@@ -309,27 +309,27 @@
   },
   {
     "name": "ganjaran kripto",
-    "link": "crypto-bounties.html"
+    "link": "ganjaran-kripto.html"
   },
   {
     "name": "dana kripto",
-    "link": "crypto-fund.html"
+    "link": "dana-kripto.html"
   },
   {
     "name": "dompet kripto",
-    "link": "crypto-wallet.html"
+    "link": "dompet-kripto.html"
   },
   {
     "name": "kripto-",
-    "link": "crypto-.html"
+    "link": "kripto.html"
   },
   {
     "name": "aset kripto",
-    "link": "crypto-asset.html"
+    "link": "aset-kripto.html"
   },
   {
     "name": "pematuhan kripto",
-    "link": "crypto-compliance.html"
+    "link": "pematuhan-kripto.html"
   },
   {
     "name": "CryptoCompare",
@@ -337,15 +337,15 @@
   },
   {
     "name": "mata wang kripto",
-    "link": "cryptocurrency.html"
+    "link": "mata-wang-kripto.html"
   },
   {
     "name": "kriptoekonomi",
-    "link": "cryptoeconomics.html"
+    "link": "kriptoekonomi.html"
   },
   {
     "name": "kriptografi",
-    "link": "cryptography.html"
+    "link": "kriptografi.html"
   },
   {
     "name": "Curve",
@@ -353,11 +353,11 @@
   },
   {
     "name": "jagaan",
-    "link": "custody.html"
+    "link": "jagaan.html"
   },
   {
     "name": "D'CENT",
-    "link": "d'cent.html"
+    "link": "dcent.html"
   },
   {
     "name": "DAI",
@@ -377,27 +377,27 @@
   },
   {
     "name": "desentralisasi",
-    "link": "decentralization.html"
+    "link": "desentralisasi.html"
   },
   {
     "name": "aplikasi terdesentralisasi",
-    "link": "decentralized-application.html"
+    "link": "aplikasi-terdesentralisasi.html"
   },
   {
     "name": "Pertubuhan Autonomi Terpencar",
-    "link": "decentralized-autonomous-organization.html"
+    "link": "pertubuhan-autonomi-terpencar.html"
   },
   {
     "name": "pertukaran terdesentralisasi",
-    "link": "decentralized-exchange.html"
+    "link": "pertukaran-terdesentralisasi.html"
   },
   {
     "name": "kewangan terdesentralisasi",
-    "link": "decentralized-finance.html"
+    "link": "kewangan-terdesentralisasi.html"
   },
   {
     "name": "web terdesentralisasi",
-    "link": "decentralized-web.html"
+    "link": "web-terdesentralisasi.html"
   },
   {
     "name": "DeFi",
@@ -405,11 +405,11 @@
   },
   {
     "name": "Bukti pegangan yang terdelegasi (DPoS)",
-    "link": "delegated-proof-of-stake-(dpos).html"
+    "link": "bukti-pegangan-yang-terdelegasi-dpos.html"
   },
   {
     "name": "denominasi",
-    "link": "denominations.html"
+    "link": "denominasi.html"
   },
   {
     "name": "deposit",
@@ -417,7 +417,7 @@
   },
   {
     "name": "terbit",
-    "link": "derive.html"
+    "link": "terbit.html"
   },
   {
     "name": "dev",
@@ -429,7 +429,7 @@
   },
   {
     "name": "pembangun",
-    "link": "developer.html"
+    "link": "pembangun.html"
   },
   {
     "name": "DEX",
@@ -437,23 +437,23 @@
   },
   {
     "name": "kesukaran",
-    "link": "difficulty.html"
+    "link": "kesukaran.html"
   },
   {
     "name": "bom kesukaran",
-    "link": "difficulty-bomb.html"
+    "link": "bom-kesukaran.html"
   },
   {
     "name": "aset digital",
-    "link": "digital-asset.html"
+    "link": "aset-digital.html"
   },
   {
     "name": "identiti digital",
-    "link": "digital-identity.html"
+    "link": "identiti-digital.html"
   },
   {
     "name": "tandatangan digital",
-    "link": "digital-signature.html"
+    "link": "tandatangan-digital.html"
   },
   {
     "name": "Diligence",
@@ -461,7 +461,7 @@
   },
   {
     "name": "Teknologi Lejar Teragih",
-    "link": "distributed-ledger-technology.html"
+    "link": "teknologi-lejar-teragih.html"
   },
   {
     "name": "DLT",
@@ -469,11 +469,11 @@
   },
   {
     "name": "perbelanjaan berganda",
-    "link": "double-spend.html"
+    "link": "perbelanjaan-berganda.html"
   },
   {
     "name": "ekosistem",
-    "link": "ecosystem.html"
+    "link": "ekosistem.html"
   },
   {
     "name": "EEA",
@@ -481,15 +481,15 @@
   },
   {
     "name": "EIP-1559",
-    "link": "eip-1559.html"
+    "link": "eip1559.html"
   },
   {
     "name": "kunci terenkripsi",
-    "link": "encrypted-key.html"
+    "link": "kunci-terenkripsi.html"
   },
   {
     "name": "enkripsi",
-    "link": "encryption.html"
+    "link": "enkripsi.html"
   },
   {
     "name": "ENS",
@@ -497,7 +497,7 @@
   },
   {
     "name": "entropi",
-    "link": "entropy.html"
+    "link": "entropi.html"
   },
   {
     "name": "epoch",
@@ -509,15 +509,15 @@
   },
   {
     "name": "ERC-1155",
-    "link": "erc-1155.html"
+    "link": "erc1155.html"
   },
   {
     "name": "ERC-20",
-    "link": "erc-20.html"
+    "link": "erc20.html"
   },
   {
     "name": "ERC-721",
-    "link": "erc-721.html"
+    "link": "erc721.html"
   },
   {
     "name": "ETH",
@@ -533,11 +533,11 @@
   },
   {
     "name": "Ethereum 2.0",
-    "link": "ethereum-2.0.html"
+    "link": "ethereum-20.html"
   },
   {
     "name": "Cadangan Penambahbaikan Ethereum",
-    "link": "ethereum-improvement-proposal.html"
+    "link": "cadangan-penambahbaikan-ethereum.html"
   },
   {
     "name": "Ethereum Mainnet",
@@ -545,11 +545,11 @@
   },
   {
     "name": "Perkhidmatan Nama Ethereum",
-    "link": "ethereum-name-service.html"
+    "link": "perkhidmatan-nama-ethereum.html"
   },
   {
     "name": "Mesin Maya Ethereum",
-    "link": "ethereum-virtual-machine.html"
+    "link": "mesin-maya-ethereum.html"
   },
   {
     "name": "Etherscan",
@@ -565,15 +565,15 @@
   },
   {
     "name": "pertukaran",
-    "link": "exchange.html"
+    "link": "pertukaran.html"
   },
   {
     "name": "klien pelaksanaan",
-    "link": "execution-client.html"
+    "link": "klien-pelaksanaan.html"
   },
   {
     "name": "lapisan pelaksanaan",
-    "link": "execution-layer.html"
+    "link": "lapisan-pelaksanaan.html"
   },
   {
     "name": "Fantom",
@@ -585,23 +585,23 @@
   },
   {
     "name": "tahan ralat",
-    "link": "fault-tolerant.html"
+    "link": "tahan-ralat.html"
   },
   {
     "name": "mata wang fiat",
-    "link": "fiat-currency.html"
+    "link": "mata-wang-fiat.html"
   },
   {
     "name": "muktamad",
-    "link": "finality.html"
+    "link": "muktamad.html"
   },
   {
     "name": "kadar kemuktamadan",
-    "link": "finality-rate.html"
+    "link": "kadar-kemuktamadan.html"
   },
   {
     "name": "teknologi kewangan",
-    "link": "financial-technology.html"
+    "link": "teknologi-kewangan.html"
   },
   {
     "name": "finney",
@@ -613,11 +613,11 @@
   },
   {
     "name": "tembok api",
-    "link": "firewall.html"
+    "link": "tembok-api.html"
   },
   {
     "name": "perisian tegar",
-    "link": "firmware.html"
+    "link": "perisian-tegar.html"
   },
   {
     "name": "fork",
@@ -625,11 +625,11 @@
   },
   {
     "name": "pemilikan pecahan",
-    "link": "fractional-ownership.html"
+    "link": "pemilikan-pecahan.html"
   },
   {
     "name": "kalis penipuan",
-    "link": "fraud-proof.html"
+    "link": "kalis-penipuan.html"
   },
   {
     "name": "FTM",
@@ -637,7 +637,7 @@
   },
   {
     "name": "nod penuh",
-    "link": "full-node.html"
+    "link": "nod-penuh.html"
   },
   {
     "name": "Ganache",
@@ -649,15 +649,15 @@
   },
   {
     "name": "bayaran gas",
-    "link": "gas-fee.html"
+    "link": "bayaran-gas.html"
   },
   {
     "name": "had gas",
-    "link": "gas-limit.html"
+    "link": "had-gas.html"
   },
   {
     "name": "harga gas",
-    "link": "gas-price.html"
+    "link": "harga-gas.html"
   },
   {
     "name": "Gas Station Network",
@@ -669,7 +669,7 @@
   },
   {
     "name": "blok genesis",
-    "link": "genesis-block.html"
+    "link": "blok-genesis.html"
   },
   {
     "name": "Gitcoin",
@@ -685,7 +685,7 @@
   },
   {
     "name": "tadbir urus",
-    "link": "governance.html"
+    "link": "tadbir-urus.html"
   },
   {
     "name": "GSN",
@@ -705,7 +705,7 @@
   },
   {
     "name": "dompet perkakasan",
-    "link": "hardware-wallet.html"
+    "link": "dompet-perkakasan.html"
   },
   {
     "name": "Harmony",
@@ -717,23 +717,23 @@
   },
   {
     "name": "dompet HD",
-    "link": "hd-wallet.html"
+    "link": "dompet-hd.html"
   },
   {
     "name": "داده‌های هگز",
-    "link": "hex-data.html"
+    "link": ".html"
   },
   {
     "name": "simpanan panas",
-    "link": "hot-storage.html"
+    "link": "simpanan-panas.html"
   },
   {
     "name": "dompet panas",
-    "link": "hot-wallet.html"
+    "link": "dompet-panas.html"
   },
   {
     "name": "rangkaian hibrid",
-    "link": "hybrid-network.html"
+    "link": "rangkaian-hibrid.html"
   },
   {
     "name": "Hyperledger",
@@ -753,7 +753,7 @@
   },
   {
     "name": "tidak berubah",
-    "link": "immutability.html"
+    "link": "tidak-berubah.html"
   },
   {
     "name": "Infura",
@@ -761,23 +761,23 @@
   },
   {
     "name": "perdagangan orang dalam",
-    "link": "insider-trading.html"
+    "link": "perdagangan-orang-dalam.html"
   },
   {
     "name": "transaksi dalaman",
-    "link": "internal-transaction.html"
+    "link": "transaksi-dalaman.html"
   },
   {
     "name": "saling boleh kendali",
-    "link": "interoperability.html"
+    "link": "saling-boleh-kendali.html"
   },
   {
     "name": "Sistem Fail Antara Planet (IPFS)",
-    "link": "interplanetary-file-system-(ipfs).html"
+    "link": "sistem-fail-antara-planet-ipfs.html"
   },
   {
     "name": "alamat IP",
-    "link": "ip-address.html"
+    "link": "alamat-ip.html"
   },
   {
     "name": "IPFS",
@@ -789,23 +789,23 @@
   },
   {
     "name": "fail JSON",
-    "link": "json-file.html"
+    "link": "fail-json.html"
   },
   {
     "name": "JSON-RPC",
-    "link": "json-rpc.html"
+    "link": "jsonrpc.html"
   },
   {
     "name": "fail keystore",
-    "link": "keystore-file.html"
+    "link": "fail-keystore.html"
   },
   {
     "name": "Kenali Pelanggan Anda",
-    "link": "know-your-customer.html"
+    "link": "kenali-pelanggan-anda.html"
   },
   {
     "name": "Ketahui Transaksi Anda",
-    "link": "know-your-transaction.html"
+    "link": "ketahui-transaksi-anda.html"
   },
   {
     "name": "Kovan",
@@ -829,11 +829,11 @@
   },
   {
     "name": "lapisan 1",
-    "link": "layer-1.html"
+    "link": "lapisan-1.html"
   },
   {
     "name": "lapisan 2",
-    "link": "layer-2.html"
+    "link": "lapisan-2.html"
   },
   {
     "name": "Ledger",
@@ -845,11 +845,11 @@
   },
   {
     "name": "Aplikasi Ledger Live",
-    "link": "ledger-live-app.html"
+    "link": "aplikasi-ledger-live.html"
   },
   {
     "name": "Perpustakaan",
-    "link": "library.html"
+    "link": "perpustakaan.html"
   },
   {
     "name": "Lido",
@@ -857,11 +857,11 @@
   },
   {
     "name": "klien ringan",
-    "link": "light-client.html"
+    "link": "klien-ringan.html"
   },
   {
     "name": "Rangkaian Kilat",
-    "link": "lightning-network.html"
+    "link": "rangkaian-kilat.html"
   },
   {
     "name": "Linea",
@@ -869,19 +869,19 @@
   },
   {
     "name": "pembubaran",
-    "link": "liquidation.html"
+    "link": "pembubaran.html"
   },
   {
     "name": "kecairan",
-    "link": "liquidity.html"
+    "link": "kecairan.html"
   },
   {
     "name": "kolam kecairan",
-    "link": "liquidity-pool.html"
+    "link": "kolam-kecairan.html"
   },
   {
     "name": "staking kecairan",
-    "link": "liquidity-staking.html"
+    "link": "staking-kecairan.html"
   },
   {
     "name": "mainnet",
@@ -889,15 +889,15 @@
   },
   {
     "name": "Protokol Maker",
-    "link": "maker-protocol.html"
+    "link": "protokol-maker.html"
   },
   {
     "name": "Perisian Hasad",
-    "link": "malware.html"
+    "link": "perisian-hasad.html"
   },
   {
     "name": "modal pasaran",
-    "link": "market-cap.html"
+    "link": "modal-pasaran.html"
   },
   {
     "name": "MATIC",
@@ -905,7 +905,7 @@
   },
   {
     "name": "kolam memori",
-    "link": "memory-pool.html"
+    "link": "kolam-memori.html"
   },
   {
     "name": "mempool",
@@ -917,7 +917,7 @@
   },
   {
     "name": "Penggabungan",
-    "link": "merge.html"
+    "link": "penggabungan.html"
   },
   {
     "name": "Merkle Patricia trie",
@@ -965,15 +965,15 @@
   },
   {
     "name": "pelombong",
-    "link": "miner.html"
+    "link": "pelombong.html"
   },
   {
     "name": "bayaran pelombong",
-    "link": "miner-tip.html"
+    "link": "bayaran-pelombong.html"
   },
   {
     "name": "melombong",
-    "link": "mining.html"
+    "link": "melombong.html"
   },
   {
     "name": "mint",
@@ -981,7 +981,7 @@
   },
   {
     "name": "frasa mnemonik",
-    "link": "mnemonic-phrase.html"
+    "link": "frasa-mnemonik.html"
   },
   {
     "name": "MobiKwik",
@@ -989,7 +989,7 @@
   },
   {
     "name": "rantaian blok modular",
-    "link": "modular-blockchain.html"
+    "link": "rantaian-blok-modular.html"
   },
   {
     "name": "MoonPay",
@@ -997,23 +997,23 @@
   },
   {
     "name": "multi-sig",
-    "link": "multi-sig.html"
+    "link": "multisig.html"
   },
   {
     "name": "dompet berbilang tandatangan",
-    "link": "multi-signature-wallet.html"
+    "link": "dompet-berbilang-tandatangan.html"
   },
   {
     "name": "rantaian blok bersarang",
-    "link": "nested-blockchain.html"
+    "link": "rantaian-blok-bersarang.html"
   },
   {
     "name": "rangkaian",
-    "link": "network.html"
+    "link": "rangkaian.html"
   },
   {
     "name": "kesesakan rangkaian",
-    "link": "network-congestion.html"
+    "link": "kesesakan-rangkaian.html"
   },
   {
     "name": "NFC",
@@ -1025,7 +1025,7 @@
   },
   {
     "name": "Agregator NFT",
-    "link": "nft-aggregator.html"
+    "link": "agregator-nft.html"
   },
   {
     "name": "NFT drop",
@@ -1037,11 +1037,11 @@
   },
   {
     "name": "nod",
-    "link": "node.html"
+    "link": "nod.html"
   },
   {
     "name": "token tidak sepiawai",
-    "link": "non-fungible-token.html"
+    "link": "token-tidak-sepiawai.html"
   },
   {
     "name": "nonce",
@@ -1049,11 +1049,11 @@
   },
   {
     "name": "luar rantaian",
-    "link": "off-chain.html"
+    "link": "luar-rantaian.html"
   },
   {
     "name": "off-ramp",
-    "link": "off-ramp.html"
+    "link": "offramp.html"
   },
   {
     "name": "ommer block",
@@ -1061,11 +1061,11 @@
   },
   {
     "name": "dalam rantaian",
-    "link": "on-chain.html"
+    "link": "dalam-rantaian.html"
   },
   {
     "name": "on-ramp",
-    "link": "on-ramp.html"
+    "link": "onramp.html"
   },
   {
     "name": "ONE",
@@ -1085,7 +1085,7 @@
   },
   {
     "name": "penggulungan optimistik",
-    "link": "optimistic-rollup.html"
+    "link": "penggulungan-optimistik.html"
   },
   {
     "name": "Oracle",
@@ -1105,19 +1105,19 @@
   },
   {
     "name": "pariti",
-    "link": "parity.html"
+    "link": "pariti.html"
   },
   {
     "name": "Frasa laluan",
-    "link": "passphrase.html"
+    "link": "frasa-laluan.html"
   },
   {
     "name": "Kata laluan",
-    "link": "password.html"
+    "link": "kata-laluan.html"
   },
   {
     "name": "pengurus kata laluan",
-    "link": "password-manager.html"
+    "link": "pengurus-kata-laluan.html"
   },
   {
     "name": "PayPal",
@@ -1125,15 +1125,15 @@
   },
   {
     "name": "perangkai padan",
-    "link": "peer-to-peer.html"
+    "link": "perangkai-padan.html"
   },
   {
     "name": "lejar dibenarkan",
-    "link": "permissioned-ledger.html"
+    "link": "lejar-dibenarkan.html"
   },
   {
     "name": "pancingan data",
-    "link": "phishing.html"
+    "link": "pancingan-data.html"
   },
   {
     "name": "PKI",
@@ -1161,51 +1161,51 @@
   },
   {
     "name": "rantaian blok peribadi",
-    "link": "private-blockchain.html"
+    "link": "rantaian-blok-peribadi.html"
   },
   {
     "name": "mata wang peribadi",
-    "link": "private-currency.html"
+    "link": "mata-wang-peribadi.html"
   },
   {
     "name": "kunci peribadi",
-    "link": "private-key.html"
+    "link": "kunci-peribadi.html"
   },
   {
     "name": "Bukti Kepentingan",
-    "link": "proof-of-stake.html"
+    "link": "bukti-kepentingan.html"
   },
   {
     "name": "Bukti Kerja",
-    "link": "proof-of-work.html"
+    "link": "bukti-kerja.html"
   },
   {
     "name": "protokol",
-    "link": "protocol.html"
+    "link": "protokol.html"
   },
   {
     "name": "alamat awam",
-    "link": "public-address.html"
+    "link": "alamat-awam.html"
   },
   {
     "name": "rantaian blok awam",
-    "link": "public-blockchain.html"
+    "link": "rantaian-blok-awam.html"
   },
   {
     "name": "kunci awam",
-    "link": "public-key.html"
+    "link": "kunci-awam.html"
   },
   {
     "name": "kriptografi kunci awam",
-    "link": "public-key-cryptography.html"
+    "link": "kriptografi-kunci-awam.html"
   },
   {
     "name": "Infrastruktur Kunci Awam",
-    "link": "qr-code.html"
+    "link": "infrastruktur-kunci-awam.html"
   },
   {
     "name": "kod QR",
-    "link": "quorum.html"
+    "link": "kod-qr.html"
   },
   {
     "name": "Rarible",
@@ -1213,11 +1213,11 @@
   },
   {
     "name": "penyampai",
-    "link": "relayer.html"
+    "link": "penyampai.html"
   },
   {
     "name": "Panggilan Prosedur Jauh",
-    "link": "remote-procedure-call.html"
+    "link": "panggilan-prosedur-jauh.html"
   },
   {
     "name": "Rinkeby",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "pelan hala tuju",
-    "link": "roadmap.html"
+    "link": "pelan-hala-tuju.html"
   },
   {
     "name": "Rocket Pool",
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "penggulungan",
-    "link": "rollups.html"
+    "link": "penggulungan.html"
   },
   {
     "name": "Ropsten",
@@ -1245,7 +1245,7 @@
   },
   {
     "name": "tarik permaidani",
-    "link": "rug-pull.html"
+    "link": "tarik-permaidani.html"
   },
   {
     "name": "Safeheron",
@@ -1257,7 +1257,7 @@
   },
   {
     "name": "kotak pasir",
-    "link": "sandbox.html"
+    "link": "kotak-pasir.html"
   },
   {
     "name": "Sardine",
@@ -1269,15 +1269,15 @@
   },
   {
     "name": "kebolehskalaan",
-    "link": "scalability.html"
+    "link": "kebolehskalaan.html"
   },
   {
     "name": "penskalaan",
-    "link": "scaling.html"
+    "link": "penskalaan.html"
   },
   {
     "name": "penipuan",
-    "link": "scam.html"
+    "link": "penipuan.html"
   },
   {
     "name": "Scrypt",
@@ -1289,31 +1289,31 @@
   },
   {
     "name": "enjin carian",
-    "link": "search-engine.html"
+    "link": "enjin-carian.html"
   },
   {
     "name": "Frasa Pemulihan Rahsia",
-    "link": "secret-recovery-phrase.html"
+    "link": "frasa-pemulihan-rahsia.html"
   },
   {
     "name": "Token Keselamatan",
-    "link": "security-token.html"
+    "link": "token-keselamatan.html"
   },
   {
     "name": "Tawaran Token Keselamatan",
-    "link": "security-token-offering.html"
+    "link": "tawaran-token-keselamatan.html"
   },
   {
     "name": "frasa benih",
-    "link": "seed-phrase.html"
+    "link": "frasa-benih.html"
   },
   {
     "name": "jagaan sendiri",
-    "link": "self-custody.html"
+    "link": "jagaan-sendiri.html"
   },
   {
     "name": "melaksanakan sendiri",
-    "link": "self-executing.html"
+    "link": "melaksanakan-sendiri.html"
   },
   {
     "name": "Sepolia",
@@ -1325,11 +1325,11 @@
   },
   {
     "name": "serialisasi",
-    "link": "serialization.html"
+    "link": "serialisasi.html"
   },
   {
     "name": "rantai shard",
-    "link": "shard-chain.html"
+    "link": "rantai-shard.html"
   },
   {
     "name": "sharding",
@@ -1337,19 +1337,19 @@
   },
   {
     "name": "transaksi terlindung",
-    "link": "shielded-transaction.html"
+    "link": "transaksi-terlindung.html"
   },
   {
     "name": "rantaian sampingan",
-    "link": "sidechain.html"
+    "link": "rantaian-sampingan.html"
   },
   {
     "name": "keadaan slashing",
-    "link": "slashing-condition.html"
+    "link": "keadaan-slashing.html"
   },
   {
     "name": "gelinciran",
-    "link": "slippage.html"
+    "link": "gelinciran.html"
   },
   {
     "name": "slot",
@@ -1357,7 +1357,7 @@
   },
   {
     "name": "kontrak pintar",
-    "link": "smart-contract.html"
+    "link": "kontrak-pintar.html"
   },
   {
     "name": "soft fork",
@@ -1385,7 +1385,7 @@
   },
   {
     "name": "saluran state",
-    "link": "state-channels.html"
+    "link": "saluran-state.html"
   },
   {
     "name": "STO",
@@ -1393,11 +1393,11 @@
   },
   {
     "name": "penstriman",
-    "link": "streaming.html"
+    "link": "penstriman.html"
   },
   {
     "name": "tukar",
-    "link": "swap.html"
+    "link": "tukar.html"
   },
   {
     "name": "szabo",
@@ -1433,31 +1433,31 @@
   },
   {
     "name": "penguncian token",
-    "link": "token-lockup.html"
+    "link": "penguncian-token.html"
   },
   {
     "name": "piawaian token",
-    "link": "token-standard.html"
+    "link": "piawaian-token.html"
   },
   {
     "name": "transaksi",
-    "link": "transaction.html"
+    "link": "transaksi.html"
   },
   {
     "name": "blok transaksi",
-    "link": "transaction-block.html"
+    "link": "blok-transaksi.html"
   },
   {
     "name": "bayaran transaksi",
-    "link": "transaction-fee.html"
+    "link": "bayaran-transaksi.html"
   },
   {
     "name": "ID transaksi",
-    "link": "transaction-id.html"
+    "link": "id-transaksi.html"
   },
   {
     "name": "kolam transaksi",
-    "link": "transaction-pool.html"
+    "link": "kolam-transaksi.html"
   },
   {
     "name": "Transak",
@@ -1477,7 +1477,7 @@
   },
   {
     "name": "Lengkap Turing",
-    "link": "turing-complete.html"
+    "link": "lengkap-turing.html"
   },
   {
     "name": "TVL",
@@ -1493,7 +1493,7 @@
   },
   {
     "name": "kunci tidak terenkripsi",
-    "link": "unencrypted-key.html"
+    "link": "kunci-tidak-terenkripsi.html"
   },
   {
     "name": "Uniswap",
@@ -1501,15 +1501,15 @@
   },
   {
     "name": "output transaksi tidak dibelanjakan",
-    "link": "unspent-transaction-output.html"
+    "link": "output-transaksi-tidak-dibelanjakan.html"
   },
   {
     "name": "menarik balik pegangan",
-    "link": "unstake.html"
+    "link": "menarik-balik-pegangan.html"
   },
   {
     "name": "naik taraf",
-    "link": "upgrade.html"
+    "link": "naik-taraf.html"
   },
   {
     "name": "URL",
@@ -1525,15 +1525,15 @@
   },
   {
     "name": "pengesah",
-    "link": "validator.html"
+    "link": "pengesah.html"
   },
   {
     "name": "bukti kesahihan",
-    "link": "validity-proof.html"
+    "link": "bukti-kesahihan.html"
   },
   {
     "name": "pemegangan berperingkat",
-    "link": "vesting.html"
+    "link": "pemegangan-berperingkat.html"
   },
   {
     "name": "VillageDAO",
@@ -1541,11 +1541,11 @@
   },
   {
     "name": "dompet",
-    "link": "wallet.html"
+    "link": "dompet.html"
   },
   {
     "name": "alamat dompet",
-    "link": "wallet-address.html"
+    "link": "alamat-dompet.html"
   },
   {
     "name": "WalletConnect",
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Web 3.0",
-    "link": "web-3.0.html"
+    "link": "web-30.html"
   },
   {
     "name": "web3",
@@ -1565,7 +1565,7 @@
   },
   {
     "name": "cangkuk web",
-    "link": "webhook.html"
+    "link": "cangkuk-web.html"
   },
   {
     "name": "WebSocket",
@@ -1577,11 +1577,11 @@
   },
   {
     "name": "kertas putih",
-    "link": "whitepaper.html"
+    "link": "kertas-putih.html"
   },
   {
     "name": "membalut",
-    "link": "wrapping.html"
+    "link": "membalut.html"
   },
   {
     "name": "Wyre",
@@ -1597,27 +1597,27 @@
   },
   {
     "name": "pertanian hasil",
-    "link": "yield-farming.html"
+    "link": "pertanian-hasil.html"
   },
   {
     "name": "token memberi hasil",
-    "link": "yield-bearing-tokens.html"
+    "link": "token-memberi-hasil.html"
   },
   {
     "name": "alamat nol",
-    "link": "zero-address.html"
+    "link": "alamat-nol.html"
   },
   {
     "name": "bukti tanpa pengetahuan",
-    "link": "zero-knowledge-proof.html"
+    "link": "bukti-tanpa-pengetahuan.html"
   },
   {
     "name": "penggabungan tanpa pengetahuan",
-    "link": "zero-knowledge-rollup.html"
+    "link": "penggabungan-tanpa-pengetahuan.html"
   },
   {
     "name": "zk-SNARKs",
-    "link": "zk-snarks.html"
+    "link": "zksnarks.html"
   },
   {
     "name": "0xplain",

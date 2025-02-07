@@ -51,13 +51,17 @@ function generateIndexForDirectory(directoryPath, locale, outputPath) {
     }
 
     const indexData = Object.entries(termsData).map(([termKey, termObject]) => {
-        const termName = termObject.term || termKey; // Use the localized term name if available, else fallback to the termKey
-        logToFile(`Processing term '${termKey}': Display name '${termName}'`); // Log each term and its name
+        const termName = termObject.term && termObject.term.trim() ? termObject.term : termKey; // Ensure termName is correct
+        const sanitizedTermName = termName.replace(/[^a-zA-Z0-9 ]+/g, "").trim(); // Preserve spaces but remove special chars
+        const safeLink = sanitizedTermName.replace(/\s+/g, "-").toLowerCase() + ".html";
+    
+        logToFile(`Processing term '${termKey}': Display name '${termName}', Link: '${safeLink}'`);
+    
         return {
-            name: termName, // Use "term" value from JSON instead of key
-            link: `${termKey.replace(/\s+/g, "-").toLowerCase()}.html` // Safe link based on the termKey
+            name: termName, // Corrected name
+            link: safeLink // Link is based on readable termName, not termKey
         };
-    });
+    });    
 
     try {
         fs.writeFileSync(outputPath, JSON.stringify(indexData, null, 2), "utf-8");

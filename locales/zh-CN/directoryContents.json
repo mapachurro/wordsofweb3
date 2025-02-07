@@ -21,7 +21,7 @@
   },
   {
     "name": "51%攻击",
-    "link": "51%-attack.html"
+    "link": "51.html"
   },
   {
     "name": "Aave",
@@ -33,11 +33,11 @@
   },
   {
     "name": "账户",
-    "link": "account.html"
+    "link": ".html"
   },
   {
     "name": "ACH 转账",
-    "link": "ach-transfer.html"
+    "link": "ach.html"
   },
   {
     "name": "Active Management",
@@ -45,7 +45,7 @@
   },
   {
     "name": "主动验证服务 (AVS)",
-    "link": "actively-validated-services-avs.html"
+    "link": "avs.html"
   },
   {
     "name": "Ad Hoc",
@@ -53,11 +53,11 @@
   },
   {
     "name": "链上地址",
-    "link": "address.html"
+    "link": ".html"
   },
   {
     "name": "聚合器",
-    "link": "aggregator.html"
+    "link": ".html"
   },
   {
     "name": "Agoric",
@@ -65,11 +65,11 @@
   },
   {
     "name": "气隙隔离",
-    "link": "air-gapping.html"
+    "link": ".html"
   },
   {
     "name": "空投",
-    "link": "airdrop.html"
+    "link": ".html"
   },
   {
     "name": "AirGap Vault",
@@ -81,15 +81,15 @@
   },
   {
     "name": "算法",
-    "link": "algorithm.html"
+    "link": ".html"
   },
   {
     "name": "All or None Order (AON)",
-    "link": "all-or-none-order.html"
+    "link": "all-or-none-order-aon.html"
   },
   {
     "name": "All-Time High (ATH)",
-    "link": "all-time-high.html"
+    "link": "alltime-high-ath.html"
   },
   {
     "name": "Allocation",
@@ -101,11 +101,11 @@
   },
   {
     "name": "山寨币",
-    "link": "altcoin.html"
+    "link": ".html"
   },
   {
     "name": "反洗钱",
-    "link": "aml.html"
+    "link": ".html"
   },
   {
     "name": "Angel Investor",
@@ -113,7 +113,7 @@
   },
   {
     "name": "反洗钱 (AML)",
-    "link": "anti-money-laundering.html"
+    "link": "aml.html"
   },
   {
     "name": "API",
@@ -121,7 +121,7 @@
   },
   {
     "name": "应用链",
-    "link": "appchain.html"
+    "link": ".html"
   },
   {
     "name": "Apple Pay",
@@ -129,15 +129,15 @@
   },
   {
     "name": "Application Programming Interface (API)",
-    "link": "application-programming-interface.html"
+    "link": "application-programming-interface-api.html"
   },
   {
     "name": "Application-Specific Integrated Circuit (ASIC)",
-    "link": "application-specific-integrated-circuit.html"
+    "link": "applicationspecific-integrated-circuit-asic.html"
   },
   {
     "name": "套利交易",
-    "link": "arbitrage.html"
+    "link": ".html"
   },
   {
     "name": "Arbitrum",
@@ -145,11 +145,11 @@
   },
   {
     "name": "ARC-20",
-    "link": "arc-20.html"
+    "link": "arc20.html"
   },
   {
     "name": "人工智能(AI)",
-    "link": "artificial-intelligence-ai.html"
+    "link": "ai.html"
   },
   {
     "name": "ASIC（专用集成电路）",
@@ -157,11 +157,11 @@
   },
   {
     "name": "ASIC-resistant",
-    "link": "asic-resistant.html"
+    "link": "asicresistant.html"
   },
   {
     "name": "Ask Price",
-    "link": "asking-price.html"
+    "link": "ask-price.html"
   },
   {
     "name": "Asset Management",
@@ -169,11 +169,11 @@
   },
   {
     "name": "资产来源",
-    "link": "asset-provenance.html"
+    "link": ".html"
   },
   {
     "name": "资产管理规模(AUM)",
-    "link": "assets-under-management-aum.html"
+    "link": "aum.html"
   },
   {
     "name": "Asynchronous",
@@ -189,7 +189,7 @@
   },
   {
     "name": "见证",
-    "link": "attestation.html"
+    "link": ".html"
   },
   {
     "name": "Auction",
@@ -201,7 +201,7 @@
   },
   {
     "name": "自动做市商(AMM)",
-    "link": "automated-market-maker-amm.html"
+    "link": "amm.html"
   },
   {
     "name": "Avalanche",
@@ -217,7 +217,7 @@
   },
   {
     "name": "B-Token",
-    "link": "b-tokens.html"
+    "link": "btoken.html"
   },
   {
     "name": "Bags",
@@ -229,7 +229,7 @@
   },
   {
     "name": "信标链",
-    "link": "beacon-chain.html"
+    "link": ".html"
   },
   {
     "name": "Bear Market",
@@ -241,19 +241,19 @@
   },
   {
     "name": "BEP-1155",
-    "link": "bep-1155.html"
+    "link": "bep1155.html"
   },
   {
     "name": "BEP-20",
-    "link": "bep-20.html"
+    "link": "bep20.html"
   },
   {
     "name": "BEP-721",
-    "link": "bep-721.html"
+    "link": "bep721.html"
   },
   {
     "name": "BEP-95",
-    "link": "bep-95.html"
+    "link": "bep95.html"
   },
   {
     "name": "Besu",
@@ -269,11 +269,11 @@
   },
   {
     "name": "Bid-Ask Spread",
-    "link": "bid-ask-spread.html"
+    "link": "bidask-spread.html"
   },
   {
     "name": "This site can’t be reached",
-    "link": "bid-price.html"
+    "link": "this-site-cant-be-reached.html"
   },
   {
     "name": "Binance",
@@ -281,19 +281,19 @@
   },
   {
     "name": "Blockchain Charity Foundation",
-    "link": "binance-blockchain-charity-foundation.html"
+    "link": "blockchain-charity-foundation.html"
   },
   {
     "name": "Binance Ecosystem Fund (BEF)",
-    "link": "binance-ecosystem-fund.html"
+    "link": "binance-ecosystem-fund-bef.html"
   },
   {
     "name": "币安用户",
-    "link": "binancian.html"
+    "link": ".html"
   },
   {
     "name": "比特币",
-    "link": "bitcoin.html"
+    "link": ".html"
   },
   {
     "name": "Bitcoin Core",
@@ -305,7 +305,7 @@
   },
   {
     "name": "唯比特币主义者",
-    "link": "bitcoin-maximalists.html"
+    "link": ".html"
   },
   {
     "name": "Bitcoin Pizza",
@@ -317,11 +317,11 @@
   },
   {
     "name": "区块",
-    "link": "block.html"
+    "link": ".html"
   },
   {
     "name": "区块浏览器",
-    "link": "block-explorer.html"
+    "link": ".html"
   },
   {
     "name": "Block header",
@@ -329,15 +329,15 @@
   },
   {
     "name": "区块高度",
-    "link": "block-height.html"
+    "link": ".html"
   },
   {
     "name": "区块奖励",
-    "link": "block-reward.html"
+    "link": ".html"
   },
   {
     "name": "区块间隔",
-    "link": "block-time.html"
+    "link": ".html"
   },
   {
     "name": "Blockaid",
@@ -345,15 +345,15 @@
   },
   {
     "name": "区块链",
-    "link": "blockchain.html"
+    "link": ".html"
   },
   {
     "name": "区块链浏览器",
-    "link": "blockchain-explorer.html"
+    "link": ".html"
   },
   {
     "name": "区块链三难困境",
-    "link": "blockchain-trilemma.html"
+    "link": ".html"
   },
   {
     "name": "Bloom Filter",
@@ -361,7 +361,7 @@
   },
   {
     "name": "蓝筹代币",
-    "link": "blue-chip-token.html"
+    "link": ".html"
   },
   {
     "name": "BNB",
@@ -381,15 +381,15 @@
   },
   {
     "name": "债券",
-    "link": "bond.html"
+    "link": ".html"
   },
   {
     "name": "赏金",
-    "link": "bounty.html"
+    "link": ".html"
   },
   {
     "name": "脑钱包",
-    "link": "brain-wallet.html"
+    "link": ".html"
   },
   {
     "name": "Brave",
@@ -397,11 +397,11 @@
   },
   {
     "name": "BRC-20代币",
-    "link": "brc-20-tokens.html"
+    "link": "brc20.html"
   },
   {
     "name": "Break-Even Point (BEP)",
-    "link": "break-even-point.html"
+    "link": "breakeven-point-bep.html"
   },
   {
     "name": "Breakeven Multiple",
@@ -413,7 +413,7 @@
   },
   {
     "name": "跨链桥",
-    "link": "bridge.html"
+    "link": ".html"
   },
   {
     "name": "BscScan",
@@ -425,7 +425,7 @@
   },
   {
     "name": "BTC 钱包地址",
-    "link": "btc-wallet-address.html"
+    "link": "btc.html"
   },
   {
     "name": "BUIDL",
@@ -437,7 +437,7 @@
   },
   {
     "name": "Burner 钱包介绍",
-    "link": "burner-wallet.html"
+    "link": "burner.html"
   },
   {
     "name": "Buy Wall",
@@ -445,19 +445,19 @@
   },
   {
     "name": "字节码",
-    "link": "bytecode.html"
+    "link": ".html"
   },
   {
     "name": "拜占庭容错",
-    "link": "byzantine-fault-tolerance.html"
+    "link": ".html"
   },
   {
     "name": "拜占庭分叉",
-    "link": "byzantium-fork.html"
+    "link": ".html"
   },
   {
     "name": "候选区块",
-    "link": "candidate-block.html"
+    "link": ".html"
   },
   {
     "name": "Candlestick",
@@ -473,7 +473,7 @@
   },
   {
     "name": "Censorship-resistance",
-    "link": "censorship-resistance.html"
+    "link": "censorshipresistance.html"
   },
   {
     "name": "Central Bank",
@@ -481,11 +481,11 @@
   },
   {
     "name": "中央银行数字货币(CBDC)",
-    "link": "central-bank-digital-currency-cbdc.html"
+    "link": "cbdc.html"
   },
   {
     "name": "Central Processing Unit (CPU)",
-    "link": "central-processing-unit.html"
+    "link": "central-processing-unit-cpu.html"
   },
   {
     "name": "Centralized",
@@ -493,7 +493,7 @@
   },
   {
     "name": "中心化交易所",
-    "link": "centralized-exchange.html"
+    "link": ".html"
   },
   {
     "name": "CEX",
@@ -501,7 +501,7 @@
   },
   {
     "name": "链 ID",
-    "link": "chain-id.html"
+    "link": "id.html"
   },
   {
     "name": "ChatGPT",
@@ -521,7 +521,7 @@
   },
   {
     "name": "客户端",
-    "link": "client.html"
+    "link": ".html"
   },
   {
     "name": "Cloud",
@@ -533,7 +533,7 @@
   },
   {
     "name": "代币",
-    "link": "coin.html"
+    "link": ".html"
   },
   {
     "name": "Coinbase Pay",
@@ -545,11 +545,11 @@
   },
   {
     "name": "冷存储",
-    "link": "cold-storage.html"
+    "link": ".html"
   },
   {
     "name": "冷钱包 -- 冷存储",
-    "link": "cold-wallet.html"
+    "link": ".html"
   },
   {
     "name": "Collateral",
@@ -561,11 +561,11 @@
   },
   {
     "name": "Commodity Futures Trading Commission (CFTC)",
-    "link": "commodity-futures-trading-commission.html"
+    "link": "commodity-futures-trading-commission-cftc.html"
   },
   {
     "name": "编译",
-    "link": "compile.html"
+    "link": ".html"
   },
   {
     "name": "Compound",
@@ -573,15 +573,15 @@
   },
   {
     "name": "复利",
-    "link": "compound-interest.html"
+    "link": ".html"
   },
   {
     "name": "确认",
-    "link": "confirmation.html"
+    "link": ".html"
   },
   {
     "name": "确认时间",
-    "link": "confirmation-time.html"
+    "link": ".html"
   },
   {
     "name": "Confluence",
@@ -589,23 +589,23 @@
   },
   {
     "name": "共识",
-    "link": "consensus.html"
+    "link": ".html"
   },
   {
     "name": "共识算法",
-    "link": "consensus-algorithm.html"
+    "link": ".html"
   },
   {
     "name": "共识层客户端",
-    "link": "consensus-client.html"
+    "link": ".html"
   },
   {
     "name": "共识层",
-    "link": "consensus-layer.html"
+    "link": ".html"
   },
   {
     "name": "共识机制",
-    "link": "consensus-mechanism.html"
+    "link": ".html"
   },
   {
     "name": "Consensys",
@@ -613,23 +613,23 @@
   },
   {
     "name": "君士坦丁堡分叉",
-    "link": "constantinople-fork.html"
+    "link": ".html"
   },
   {
     "name": "Consumer Price Index (CPI)",
-    "link": "consumer-price-index-(cpi).html"
+    "link": "consumer-price-index-cpi.html"
   },
   {
     "name": "期货溢价和现货溢价",
-    "link": "contango-and-backwardation.html"
+    "link": ".html"
   },
   {
     "name": "合约",
-    "link": "contract.html"
+    "link": ".html"
   },
   {
     "name": "合约账户",
-    "link": "contract-account.html"
+    "link": ".html"
   },
   {
     "name": "CoolWallet",
@@ -637,11 +637,11 @@
   },
   {
     "name": "跟单交易",
-    "link": "copy-trading.html"
+    "link": ".html"
   },
   {
     "name": "交易对手风险",
-    "link": "counterparty-risk.html"
+    "link": ".html"
   },
   {
     "name": "Credentials",
@@ -649,47 +649,47 @@
   },
   {
     "name": "跨链桥",
-    "link": "cross-chain-bridges.html"
+    "link": ".html"
   },
   {
     "name": "加密-",
-    "link": "crypto-.html"
+    "link": ".html"
   },
   {
     "name": "加密资产",
-    "link": "crypto-asset.html"
+    "link": ".html"
   },
   {
     "name": "加密货币赏金",
-    "link": "crypto-bounties.html"
+    "link": ".html"
   },
   {
     "name": "加密-合规",
-    "link": "crypto-compliance.html"
+    "link": ".html"
   },
   {
     "name": "加密货币ETF",
-    "link": "crypto-etfs.html"
+    "link": "etf.html"
   },
   {
     "name": "加密货币恐惧和贪婪指数",
-    "link": "crypto-fear-and-greed-index.html"
+    "link": ".html"
   },
   {
     "name": "加密货币基金",
-    "link": "crypto-fund.html"
+    "link": ".html"
   },
   {
     "name": "加密货币协议",
-    "link": "crypto-protocol.html"
+    "link": ".html"
   },
   {
     "name": "加密货币钱包",
-    "link": "crypto-wallet.html"
+    "link": ".html"
   },
   {
     "name": "加密货币寒冬",
-    "link": "crypto-winter.html"
+    "link": ".html"
   },
   {
     "name": "CryptoCompare",
@@ -697,15 +697,15 @@
   },
   {
     "name": "加密货币",
-    "link": "cryptocurrency.html"
+    "link": ".html"
   },
   {
     "name": "加密经济",
-    "link": "cryptoeconomics.html"
+    "link": ".html"
   },
   {
     "name": "加密学",
-    "link": "cryptography.html"
+    "link": ".html"
   },
   {
     "name": "Curve",
@@ -713,11 +713,11 @@
   },
   {
     "name": "托管",
-    "link": "custody.html"
+    "link": ".html"
   },
   {
     "name": "D'CENT",
-    "link": "d'cent.html"
+    "link": "dcent.html"
   },
   {
     "name": "Daemon",
@@ -749,39 +749,39 @@
   },
   {
     "name": "死亡交叉",
-    "link": "death-cross.html"
+    "link": ".html"
   },
   {
     "name": "去中心化",
-    "link": "decentralization.html"
+    "link": ".html"
   },
   {
     "name": "去中心化应用",
-    "link": "decentralized-application.html"
+    "link": ".html"
   },
   {
     "name": "Decentralized Autonomous Cooperative (DAC)",
-    "link": "decentralized-autonomous-cooperative.html"
+    "link": "decentralized-autonomous-cooperative-dac.html"
   },
   {
     "name": "去中心化自治组织",
-    "link": "decentralized-autonomous-organization.html"
+    "link": ".html"
   },
   {
     "name": "去中心化交易所",
-    "link": "decentralized-exchange.html"
+    "link": ".html"
   },
   {
     "name": "去中心化金融",
-    "link": "decentralized-finance.html"
+    "link": ".html"
   },
   {
     "name": "去中心化指数",
-    "link": "decentralized-indexes.html"
+    "link": ".html"
   },
   {
     "name": "去中心化网络",
-    "link": "decentralized-web.html"
+    "link": ".html"
   },
   {
     "name": "Decryption",
@@ -793,11 +793,11 @@
   },
   {
     "name": "去中心化金融",
-    "link": "defi.html"
+    "link": ".html"
   },
   {
     "name": "权益授权证明（DPoS）",
-    "link": "delegated-proof-of-stake-(dpos).html"
+    "link": "dpos.html"
   },
   {
     "name": "Delisting",
@@ -805,23 +805,23 @@
   },
   {
     "name": "面额",
-    "link": "denominations.html"
+    "link": ".html"
   },
   {
     "name": "脱钩",
-    "link": "depeg.html"
+    "link": ".html"
   },
   {
     "name": "保证金",
-    "link": "deposit.html"
+    "link": ".html"
   },
   {
     "name": "经济萧条",
-    "link": "depression.html"
+    "link": ".html"
   },
   {
     "name": "衍生品",
-    "link": "derive.html"
+    "link": ".html"
   },
   {
     "name": "Design Flaw Attack",
@@ -829,7 +829,7 @@
   },
   {
     "name": "开发者",
-    "link": "dev.html"
+    "link": ".html"
   },
   {
     "name": "Devcon",
@@ -837,35 +837,35 @@
   },
   {
     "name": "开发者",
-    "link": "developer.html"
+    "link": ".html"
   },
   {
     "name": "去中心化交易所",
-    "link": "dex.html"
+    "link": ".html"
   },
   {
     "name": "钻石手",
-    "link": "diamond-hands.html"
+    "link": ".html"
   },
   {
     "name": "难度",
-    "link": "difficulty.html"
+    "link": ".html"
   },
   {
     "name": "难度炸弹",
-    "link": "difficulty-bomb.html"
+    "link": ".html"
   },
   {
     "name": "数字资产",
-    "link": "digital-asset.html"
+    "link": ".html"
   },
   {
     "name": "数字身份",
-    "link": "digital-identity.html"
+    "link": ".html"
   },
   {
     "name": "电子签名",
-    "link": "digital-signature.html"
+    "link": ".html"
   },
   {
     "name": "Diligence",
@@ -873,11 +873,11 @@
   },
   {
     "name": "直接市场接入 (DMA)",
-    "link": "direct-market-access-dma.html"
+    "link": "dma.html"
   },
   {
     "name": "分布式账本技术",
-    "link": "distributed-ledger-technology.html"
+    "link": ".html"
   },
   {
     "name": "Divergence",
@@ -893,19 +893,19 @@
   },
   {
     "name": "Do Your Own Research (DYOR)",
-    "link": "do-your-own-research.html"
+    "link": "do-your-own-research-dyor.html"
   },
   {
     "name": "Dollar Cost Averaging (DCA)",
-    "link": "dollar-cost-averaging.html"
+    "link": "dollar-cost-averaging-dca.html"
   },
   {
     "name": "点图",
-    "link": "dot-plot.html"
+    "link": ".html"
   },
   {
     "name": "双重支付",
-    "link": "double-spend.html"
+    "link": ".html"
   },
   {
     "name": "Double Spending",
@@ -917,11 +917,11 @@
   },
   {
     "name": "生态系统",
-    "link": "ecosystem.html"
+    "link": ".html"
   },
   {
     "name": "以太坊企业联盟",
-    "link": "eea.html"
+    "link": ".html"
   },
   {
     "name": "Efficient Market Hypothesis (EMH)",
@@ -937,39 +937,39 @@
   },
   {
     "name": "Ethereum 改进提议（EIP）-1559",
-    "link": "eip-1559.html"
+    "link": "ethereum-eip1559.html"
   },
   {
     "name": "EIP-3074",
-    "link": "eip-3074.html"
+    "link": "eip3074.html"
   },
   {
     "name": "EIP-4844",
-    "link": "eip-4844.html"
+    "link": "eip4844.html"
   },
   {
     "name": "EIP-7251",
-    "link": "eip-7251.html"
+    "link": "eip7251.html"
   },
   {
     "name": "EIP-7702",
-    "link": "eip-7702.html"
+    "link": "eip7702.html"
   },
   {
     "name": "弹性",
-    "link": "elasticity.html"
+    "link": ".html"
   },
   {
     "name": "加密密钥",
-    "link": "encrypted-key.html"
+    "link": ".html"
   },
   {
     "name": "加密",
-    "link": "encryption.html"
+    "link": ".html"
   },
   {
     "name": "内生变量",
-    "link": "endogenous-variable.html"
+    "link": ".html"
   },
   {
     "name": "ENS",
@@ -977,31 +977,31 @@
   },
   {
     "name": "熵",
-    "link": "entropy.html"
+    "link": ".html"
   },
   {
     "name": "时段",
-    "link": "epoch.html"
+    "link": ".html"
   },
   {
     "name": "Ethereum 征求修正意见书（ERC）",
-    "link": "erc.html"
+    "link": "ethereum-erc.html"
   },
   {
     "name": "ERC-1155",
-    "link": "erc-1155.html"
+    "link": "erc1155.html"
   },
   {
     "name": "ERC-20",
-    "link": "erc-20.html"
+    "link": "erc20.html"
   },
   {
     "name": "ERC-404",
-    "link": "erc-404.html"
+    "link": "erc404.html"
   },
   {
     "name": "ERC-721",
-    "link": "erc-721.html"
+    "link": "erc721.html"
   },
   {
     "name": "交易所交易基金（ETF）",
@@ -1013,27 +1013,27 @@
   },
   {
     "name": "以太币",
-    "link": "ether.html"
+    "link": ".html"
   },
   {
     "name": "以太坊",
-    "link": "ethereum.html"
+    "link": ".html"
   },
   {
     "name": "以太坊 2.0",
-    "link": "ethereum-2.0.html"
+    "link": "20.html"
   },
   {
     "name": "以太坊经典",
-    "link": "ethereum-classic.html"
+    "link": ".html"
   },
   {
     "name": "以太坊基金会",
-    "link": "ethereum-foundation.html"
+    "link": ".html"
   },
   {
     "name": "以太坊改进提议（EIP）",
-    "link": "ethereum-improvement-proposal.html"
+    "link": "eip.html"
   },
   {
     "name": "Ethereum Mainnet",
@@ -1041,15 +1041,15 @@
   },
   {
     "name": "以太坊域名服务",
-    "link": "ethereum-name-service.html"
+    "link": ".html"
   },
   {
     "name": "Ethereum 虚拟机",
-    "link": "ethereum-virtual-machine.html"
+    "link": "ethereum.html"
   },
   {
     "name": "以太坊虚拟机(EVM)",
-    "link": "ethereum-virtual-machine-evm.html"
+    "link": "evm.html"
   },
   {
     "name": "Etherscan",
@@ -1065,27 +1065,27 @@
   },
   {
     "name": "交易所",
-    "link": "exchange.html"
+    "link": ".html"
   },
   {
     "name": "执行客户端",
-    "link": "execution-client.html"
+    "link": ".html"
   },
   {
     "name": "执行层",
-    "link": "execution-layer.html"
+    "link": ".html"
   },
   {
     "name": "外生变量",
-    "link": "exogenous-variable.html"
+    "link": ".html"
   },
   {
     "name": "指数移动平均线 (EMA)",
-    "link": "exponential-moving-average-ema.html"
+    "link": "ema.html"
   },
   {
     "name": "外部账户 (EOA)",
-    "link": "externally-owned-account-eoa.html"
+    "link": "eoa.html"
   },
   {
     "name": "Fakeout",
@@ -1105,19 +1105,19 @@
   },
   {
     "name": "水龙头",
-    "link": "faucet.html"
+    "link": ".html"
   },
   {
     "name": "容错",
-    "link": "fault-tolerant.html"
+    "link": ".html"
   },
   {
     "name": "Fear Of Missing Out (FOMO)",
-    "link": "fear-of-missing-out.html"
+    "link": "fear-of-missing-out-fomo.html"
   },
   {
     "name": "Fear, Uncertainty and Doubt (FUD)",
-    "link": "fear-uncertainty-and-doubt.html"
+    "link": "fear-uncertainty-and-doubt-fud.html"
   },
   {
     "name": "Fiat",
@@ -1125,7 +1125,7 @@
   },
   {
     "name": "法币",
-    "link": "fiat-currency.html"
+    "link": ".html"
   },
   {
     "name": "Fibonacci Retracement",
@@ -1133,23 +1133,23 @@
   },
   {
     "name": "Fill Or Kill Order (FOK)",
-    "link": "fill-or-kill-order.html"
+    "link": "fill-or-kill-order-fok.html"
   },
   {
     "name": "最终性",
-    "link": "finality.html"
+    "link": ".html"
   },
   {
     "name": "最终性概率",
-    "link": "finality-rate.html"
+    "link": ".html"
   },
   {
     "name": "金融科技",
-    "link": "financial-technology.html"
+    "link": ".html"
   },
   {
     "name": "芬尼",
-    "link": "finney.html"
+    "link": ".html"
   },
   {
     "name": "Firefox",
@@ -1157,19 +1157,19 @@
   },
   {
     "name": "防火墙",
-    "link": "firewall.html"
+    "link": ".html"
   },
   {
     "name": "固件",
-    "link": "firmware.html"
+    "link": ".html"
   },
   {
     "name": "First-Mover Advantage (FMA)",
-    "link": "first-mover-advantage.html"
+    "link": "firstmover-advantage-fma.html"
   },
   {
     "name": "财政政策",
-    "link": "fiscal-policy.html"
+    "link": ".html"
   },
   {
     "name": "Flappening",
@@ -1185,7 +1185,7 @@
   },
   {
     "name": "流量变量",
-    "link": "flow-variable.html"
+    "link": ".html"
   },
   {
     "name": "Forced Liquidation",
@@ -1197,7 +1197,7 @@
   },
   {
     "name": "分叉",
-    "link": "fork.html"
+    "link": ".html"
   },
   {
     "name": "Formal Verification",
@@ -1205,11 +1205,11 @@
   },
   {
     "name": "部分所有权",
-    "link": "fractional-ownership.html"
+    "link": ".html"
   },
   {
     "name": "欺诈证明",
-    "link": "fraud-proof.html"
+    "link": ".html"
   },
   {
     "name": "Fren",
@@ -1221,7 +1221,7 @@
   },
   {
     "name": "全节点",
-    "link": "full-node.html"
+    "link": ".html"
   },
   {
     "name": "Fully Diluted Valuation (FDV)",
@@ -1229,11 +1229,11 @@
   },
   {
     "name": "Fundamental Analysis (FA)",
-    "link": "fundamental-analysis.html"
+    "link": "fundamental-analysis-fa.html"
   },
   {
     "name": "资金费用",
-    "link": "funding-fees.html"
+    "link": ".html"
   },
   {
     "name": "Fungibility",
@@ -1253,19 +1253,19 @@
   },
   {
     "name": "燃料",
-    "link": "gas.html"
+    "link": ".html"
   },
   {
     "name": "燃料费",
-    "link": "gas-fee.html"
+    "link": ".html"
   },
   {
     "name": "燃料限制",
-    "link": "gas-limit.html"
+    "link": ".html"
   },
   {
     "name": "燃料价格",
-    "link": "gas-price.html"
+    "link": ".html"
   },
   {
     "name": "Gas Station Network",
@@ -1277,7 +1277,7 @@
   },
   {
     "name": "GDP 平减指数",
-    "link": "gdp-deflator.html"
+    "link": "gdp.html"
   },
   {
     "name": "General Public License",
@@ -1285,7 +1285,7 @@
   },
   {
     "name": "创世区块",
-    "link": "genesis-block.html"
+    "link": ".html"
   },
   {
     "name": "Gitcoin",
@@ -1297,7 +1297,7 @@
   },
   {
     "name": "早上好(GM)",
-    "link": "gm-good-morning.html"
+    "link": "gm.html"
   },
   {
     "name": "Goerli",
@@ -1309,11 +1309,11 @@
   },
   {
     "name": "黄金比例",
-    "link": "golden-ratio.html"
+    "link": ".html"
   },
   {
     "name": "金发姑娘定律",
-    "link": "goldilocks.html"
+    "link": ".html"
   },
   {
     "name": "Gossip Protocol",
@@ -1321,11 +1321,11 @@
   },
   {
     "name": "治理",
-    "link": "governance.html"
+    "link": ".html"
   },
   {
     "name": "国内生产总值 (GDP) 介绍",
-    "link": "gross-domestic-product-gdp.html"
+    "link": "gdp.html"
   },
   {
     "name": "GSN",
@@ -1349,7 +1349,7 @@
   },
   {
     "name": "减半",
-    "link": "halving.html"
+    "link": ".html"
   },
   {
     "name": "Hard Cap",
@@ -1357,15 +1357,15 @@
   },
   {
     "name": "硬分叉",
-    "link": "hard-fork.html"
+    "link": ".html"
   },
   {
     "name": "硬着陆",
-    "link": "hard-landing.html"
+    "link": ".html"
   },
   {
     "name": "硬件钱包",
-    "link": "hardware-wallet.html"
+    "link": ".html"
   },
   {
     "name": "Harmony",
@@ -1373,7 +1373,7 @@
   },
   {
     "name": "哈希",
-    "link": "hash.html"
+    "link": ".html"
   },
   {
     "name": "Hash Rate",
@@ -1381,23 +1381,23 @@
   },
   {
     "name": "Hashed TimeLock Contract (HTLC)",
-    "link": "hashed-timelock-contract.html"
+    "link": "hashed-timelock-contract-htlc.html"
   },
   {
     "name": "分层确定性（HD）钱包",
-    "link": "hd-wallet.html"
+    "link": "hd.html"
   },
   {
     "name": "羊群心理",
-    "link": "herd-instinct.html"
+    "link": ".html"
   },
   {
     "name": "十六进制数据",
-    "link": "hex-data.html"
+    "link": ".html"
   },
   {
     "name": "High-Frequency Trading (HFT)",
-    "link": "high-frequency-trading-hft.html"
+    "link": "highfrequency-trading-hft.html"
   },
   {
     "name": "HODL",
@@ -1409,19 +1409,19 @@
   },
   {
     "name": "热存储",
-    "link": "hot-storage.html"
+    "link": ".html"
   },
   {
     "name": "热钱包",
-    "link": "hot-wallet.html"
+    "link": ".html"
   },
   {
     "name": "混合网络",
-    "link": "hybrid-network.html"
+    "link": ".html"
   },
   {
     "name": "超级账本",
-    "link": "hyperledger.html"
+    "link": ".html"
   },
   {
     "name": "跨链通信（IBC）",
@@ -1441,11 +1441,11 @@
   },
   {
     "name": "不可篡改性",
-    "link": "immutability.html"
+    "link": ".html"
   },
   {
     "name": "指数基金",
-    "link": "index-funds.html"
+    "link": ".html"
   },
   {
     "name": "Infura",
@@ -1453,47 +1453,47 @@
   },
   {
     "name": "Initial Coin Offering (ICO)",
-    "link": "initial-coin-offering.html"
+    "link": "initial-coin-offering-ico.html"
   },
   {
     "name": "首次去中心化交易所发行(IDO)",
-    "link": "initial-dex-offering-ido.html"
+    "link": "ido.html"
   },
   {
     "name": "Initial Exchange Offering (IEO)",
-    "link": "initial-exchange-offering.html"
+    "link": "initial-exchange-offering-ieo.html"
   },
   {
     "name": "Initial Public Offering (IPO)",
-    "link": "initial-public-offering.html"
+    "link": "initial-public-offering-ipo.html"
   },
   {
     "name": "铭文",
-    "link": "inscription.html"
+    "link": ".html"
   },
   {
     "name": "内幕交易",
-    "link": "insider-trading.html"
+    "link": ".html"
   },
   {
     "name": "Integrated Circuit (IC)",
-    "link": "integrated-circuit.html"
+    "link": "integrated-circuit-ic.html"
   },
   {
     "name": "利率",
-    "link": "interest-rates.html"
+    "link": ".html"
   },
   {
     "name": "内部交易",
-    "link": "internal-transaction.html"
+    "link": ".html"
   },
   {
     "name": "互操作性",
-    "link": "interoperability.html"
+    "link": ".html"
   },
   {
     "name": "星际文件系统（IPFS）",
-    "link": "interplanetary-file-system-(ipfs).html"
+    "link": "ipfs.html"
   },
   {
     "name": "InterPlanetary File System (IPFS)",
@@ -1501,11 +1501,11 @@
   },
   {
     "name": "欠条",
-    "link": "iou.html"
+    "link": ".html"
   },
   {
     "name": "IP 地址",
-    "link": "ip-address.html"
+    "link": "ip.html"
   },
   {
     "name": "IPFS",
@@ -1525,11 +1525,11 @@
   },
   {
     "name": "JSON 文件",
-    "link": "json-file.html"
+    "link": "json.html"
   },
   {
     "name": "JSON-RPC",
-    "link": "json-rpc.html"
+    "link": "jsonrpc.html"
   },
   {
     "name": "Keccak",
@@ -1537,15 +1537,15 @@
   },
   {
     "name": "密钥库文件",
-    "link": "keystore-file.html"
+    "link": ".html"
   },
   {
     "name": "实名认证",
-    "link": "know-your-customer.html"
+    "link": ".html"
   },
   {
     "name": "交易监控",
-    "link": "know-your-transaction.html"
+    "link": ".html"
   },
   {
     "name": "Kovan",
@@ -1561,7 +1561,7 @@
   },
   {
     "name": "拉氏指数",
-    "link": "laspeyres-index.html"
+    "link": ".html"
   },
   {
     "name": "Latency",
@@ -1581,11 +1581,11 @@
   },
   {
     "name": "一层公链",
-    "link": "layer-1.html"
+    "link": ".html"
   },
   {
     "name": "二层公链",
-    "link": "layer-2.html"
+    "link": ".html"
   },
   {
     "name": "Ledger",
@@ -1597,7 +1597,7 @@
   },
   {
     "name": "Ledger Live 应用程序",
-    "link": "ledger-live-app.html"
+    "link": "ledger-live.html"
   },
   {
     "name": "Leveraged Tokens",
@@ -1605,7 +1605,7 @@
   },
   {
     "name": "软件库",
-    "link": "library.html"
+    "link": ".html"
   },
   {
     "name": "Lido",
@@ -1613,7 +1613,7 @@
   },
   {
     "name": "轻客户端",
-    "link": "light-client.html"
+    "link": ".html"
   },
   {
     "name": "Lightning Network",
@@ -1621,7 +1621,7 @@
   },
   {
     "name": "限价单",
-    "link": "limit-order.html"
+    "link": ".html"
   },
   {
     "name": "Linea",
@@ -1633,39 +1633,39 @@
   },
   {
     "name": "流动性质押",
-    "link": "liquid-staking.html"
+    "link": ".html"
   },
   {
     "name": "流动性质押代币 (LST)",
-    "link": "liquid-staking-token-lst.html"
+    "link": "lst.html"
   },
   {
     "name": "清算",
-    "link": "liquidation.html"
+    "link": ".html"
   },
   {
     "name": "流动性",
-    "link": "liquidity.html"
+    "link": ".html"
   },
   {
     "name": "流动性危机",
-    "link": "liquidity-crisis.html"
+    "link": ".html"
   },
   {
     "name": "流动性池",
-    "link": "liquidity-pool.html"
+    "link": ".html"
   },
   {
     "name": "流动性供应商",
-    "link": "liquidity-provider.html"
+    "link": ".html"
   },
   {
     "name": "流动性比率",
-    "link": "liquidity-ratios.html"
+    "link": ".html"
   },
   {
     "name": "流动性质押",
-    "link": "liquidity-staking.html"
+    "link": ".html"
   },
   {
     "name": "Listing",
@@ -1673,7 +1673,7 @@
   },
   {
     "name": "主网",
-    "link": "mainnet.html"
+    "link": ".html"
   },
   {
     "name": "Mainnet Swap",
@@ -1685,11 +1685,11 @@
   },
   {
     "name": "稳定币协议",
-    "link": "maker-protocol.html"
+    "link": ".html"
   },
   {
     "name": "恶意软件",
-    "link": "malware.html"
+    "link": ".html"
   },
   {
     "name": "Margin Trading",
@@ -1697,11 +1697,11 @@
   },
   {
     "name": "市值",
-    "link": "market-cap.html"
+    "link": ".html"
   },
   {
     "name": "市值",
-    "link": "market-capitalization.html"
+    "link": ".html"
   },
   {
     "name": "Market Momentum",
@@ -1709,7 +1709,7 @@
   },
   {
     "name": "市价单",
-    "link": "market-order.html"
+    "link": ".html"
   },
   {
     "name": "Masternode",
@@ -1717,7 +1717,7 @@
   },
   {
     "name": "匹配引擎",
-    "link": "matching-engine.html"
+    "link": ".html"
   },
   {
     "name": "MATIC",
@@ -1729,7 +1729,7 @@
   },
   {
     "name": "内存池",
-    "link": "memory-pool.html"
+    "link": ".html"
   },
   {
     "name": "mempool",
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "合并",
-    "link": "merge.html"
+    "link": ".html"
   },
   {
     "name": "Merged Mining",
@@ -1749,11 +1749,11 @@
   },
   {
     "name": "梅克尔树",
-    "link": "merkle-patricia-trie.html"
+    "link": ".html"
   },
   {
     "name": "默克尔树",
-    "link": "merkle-tree.html"
+    "link": ".html"
   },
   {
     "name": "Mesh",
@@ -1761,7 +1761,7 @@
   },
   {
     "name": "元数据",
-    "link": "metadata.html"
+    "link": ".html"
   },
   {
     "name": "MetaMask",
@@ -1785,7 +1785,7 @@
   },
   {
     "name": "元宇宙",
-    "link": "metaverse.html"
+    "link": ".html"
   },
   {
     "name": "最大可提取价值（MEV）",
@@ -1797,19 +1797,19 @@
   },
   {
     "name": "微交易",
-    "link": "microtransactions.html"
+    "link": ".html"
   },
   {
     "name": "矿工",
-    "link": "miner.html"
+    "link": ".html"
   },
   {
     "name": "矿工费",
-    "link": "miner-tip.html"
+    "link": ".html"
   },
   {
     "name": "挖矿",
-    "link": "mining.html"
+    "link": ".html"
   },
   {
     "name": "Mining Farm",
@@ -1817,11 +1817,11 @@
   },
   {
     "name": "铸币",
-    "link": "mint.html"
+    "link": ".html"
   },
   {
     "name": "助记词",
-    "link": "mnemonic-phrase.html"
+    "link": ".html"
   },
   {
     "name": "MobiKwik",
@@ -1829,19 +1829,19 @@
   },
   {
     "name": "模块化区块链",
-    "link": "modular-blockchain.html"
+    "link": ".html"
   },
   {
     "name": "货币政策",
-    "link": "monetary-policy.html"
+    "link": ".html"
   },
   {
     "name": "货币市场",
-    "link": "money-markets.html"
+    "link": ".html"
   },
   {
     "name": "观察标签",
-    "link": "monitoring-tag.html"
+    "link": ".html"
   },
   {
     "name": "Moon",
@@ -1853,11 +1853,11 @@
   },
   {
     "name": "移动平均线包络线",
-    "link": "moving-average-envelopes.html"
+    "link": ".html"
   },
   {
     "name": "移动平均带",
-    "link": "moving-average-ribbon.html"
+    "link": ".html"
   },
   {
     "name": "Mt. Gox",
@@ -1865,11 +1865,11 @@
   },
   {
     "name": "多重签名",
-    "link": "multi-sig.html"
+    "link": ".html"
   },
   {
     "name": "多重签名钱包（multisig）",
-    "link": "multi-signature-wallet.html"
+    "link": "multisig.html"
   },
   {
     "name": "Multisignature",
@@ -1877,23 +1877,23 @@
   },
   {
     "name": "中本聪共识",
-    "link": "nakamoto-consensus.html"
+    "link": ".html"
   },
   {
     "name": "嵌套区块链",
-    "link": "nested-blockchain.html"
+    "link": ".html"
   },
   {
     "name": "资产净值 (NAV)",
-    "link": "net-asset-value-nav.html"
+    "link": "nav.html"
   },
   {
     "name": "网络",
-    "link": "network.html"
+    "link": ".html"
   },
   {
     "name": "网络拥塞",
-    "link": "network-congestion.html"
+    "link": ".html"
   },
   {
     "name": "近距离无线通讯（NFC）",
@@ -1905,15 +1905,15 @@
   },
   {
     "name": "NFT 聚合器",
-    "link": "nft-aggregator.html"
+    "link": "nft.html"
   },
   {
     "name": "NFT 投放",
-    "link": "nft-drop.html"
+    "link": "nft.html"
   },
   {
     "name": "NFT地板价",
-    "link": "nft-floor-prices.html"
+    "link": "nft.html"
   },
   {
     "name": "NFT Mystery Boxes",
@@ -1929,19 +1929,19 @@
   },
   {
     "name": "节点",
-    "link": "node.html"
+    "link": ".html"
   },
   {
     "name": "非同质化代币",
-    "link": "non-fungible-token.html"
+    "link": ".html"
   },
   {
     "name": "非同质化代币 (NFT)",
-    "link": "non-fungible-token-nft.html"
+    "link": "nft.html"
   },
   {
     "name": "唯一交易标识号",
-    "link": "nonce.html"
+    "link": ".html"
   },
   {
     "name": "OCO Order",
@@ -1949,11 +1949,11 @@
   },
   {
     "name": "链下",
-    "link": "off-chain.html"
+    "link": ".html"
   },
   {
     "name": "充值，提现",
-    "link": "off-ramp.html"
+    "link": ".html"
   },
   {
     "name": "Offline Signing Orchestrator (OSO)",
@@ -1965,15 +1965,15 @@
   },
   {
     "name": "ommer 区块",
-    "link": "ommer-block.html"
+    "link": "ommer.html"
   },
   {
     "name": "链上",
-    "link": "on-chain.html"
+    "link": ".html"
   },
   {
     "name": "充值",
-    "link": "on-ramp.html"
+    "link": ".html"
   },
   {
     "name": "ONE",
@@ -1985,7 +1985,7 @@
   },
   {
     "name": "Open-Source Software (OSS)",
-    "link": "open-source-software-oss.html"
+    "link": "opensource-software-oss.html"
   },
   {
     "name": "OpenSea",
@@ -1997,7 +1997,7 @@
   },
   {
     "name": "机会成本",
-    "link": "opportunity-cost.html"
+    "link": ".html"
   },
   {
     "name": "Optimism",
@@ -2005,23 +2005,23 @@
   },
   {
     "name": "乐观性扩容方案（ORU）",
-    "link": "optimistic-rollup.html"
+    "link": "oru.html"
   },
   {
     "name": "预言机",
-    "link": "oracle.html"
+    "link": ".html"
   },
   {
     "name": "ORC-20代币",
-    "link": "orc-20-tokens.html"
+    "link": "orc20.html"
   },
   {
     "name": "订单簿",
-    "link": "order-book.html"
+    "link": ".html"
   },
   {
     "name": "Ordinal",
-    "link": "ordinals.html"
+    "link": "ordinal.html"
   },
   {
     "name": "Orphan Block",
@@ -2045,7 +2045,7 @@
   },
   {
     "name": "并行化",
-    "link": "parallelization.html"
+    "link": ".html"
   },
   {
     "name": "ParaSwap",
@@ -2053,7 +2053,7 @@
   },
   {
     "name": "对等性",
-    "link": "parity.html"
+    "link": ".html"
   },
   {
     "name": "Passive Management",
@@ -2061,15 +2061,15 @@
   },
   {
     "name": "密语",
-    "link": "passphrase.html"
+    "link": ".html"
   },
   {
     "name": "密码",
-    "link": "password.html"
+    "link": ".html"
   },
   {
     "name": "密码管理工具",
-    "link": "password-manager.html"
+    "link": ".html"
   },
   {
     "name": "PayPal",
@@ -2077,23 +2077,23 @@
   },
   {
     "name": "点对点",
-    "link": "peer-to-peer.html"
+    "link": ".html"
   },
   {
     "name": "挂钩货币",
-    "link": "pegged-currency.html"
+    "link": ".html"
   },
   {
     "name": "许可账本",
-    "link": "permissioned-ledger.html"
+    "link": ".html"
   },
   {
     "name": "非许可型区块链",
-    "link": "permissionless-blockchain.html"
+    "link": ".html"
   },
   {
     "name": "网络钓鱼",
-    "link": "phishing.html"
+    "link": ".html"
   },
   {
     "name": "公钥基础设施（PKI）",
@@ -2129,7 +2129,7 @@
   },
   {
     "name": "预挖矿",
-    "link": "premining.html"
+    "link": ".html"
   },
   {
     "name": "Price Action",
@@ -2141,15 +2141,15 @@
   },
   {
     "name": "私有区块链",
-    "link": "private-blockchain.html"
+    "link": ".html"
   },
   {
     "name": "私人货币",
-    "link": "private-currency.html"
+    "link": ".html"
   },
   {
     "name": "私钥",
-    "link": "private-key.html"
+    "link": ".html"
   },
   {
     "name": "Private Sale",
@@ -2157,7 +2157,7 @@
   },
   {
     "name": "Progressive Web application (PWA)",
-    "link": "progressive-web-application.html"
+    "link": "progressive-web-application-pwa.html"
   },
   {
     "name": "Proof of Attendance Protocol (POAP)",
@@ -2165,31 +2165,31 @@
   },
   {
     "name": "储备金证明(PoR)",
-    "link": "proof-of-reserves-por.html"
+    "link": "por.html"
   },
   {
     "name": "权益证明",
-    "link": "proof-of-stake.html"
+    "link": ".html"
   },
   {
     "name": "权威权益证明(PoSA)",
-    "link": "proof-of-staked-authority-posa.html"
+    "link": "posa.html"
   },
   {
     "name": "工作量证明",
-    "link": "proof-of-work.html"
+    "link": ".html"
   },
   {
     "name": "Proposer-Builder Separation (PBS)",
-    "link": "proposer-builder-separation-pbs.html"
+    "link": "proposerbuilder-separation-pbs.html"
   },
   {
     "name": "Proto-Danksharding",
-    "link": "proto-danksharding.html"
+    "link": "protodanksharding.html"
   },
   {
     "name": "协议",
-    "link": "protocol.html"
+    "link": ".html"
   },
   {
     "name": "Pseudorandom",
@@ -2197,35 +2197,35 @@
   },
   {
     "name": "公钥",
-    "link": "public-address.html"
+    "link": ".html"
   },
   {
     "name": "公共区块链",
-    "link": "public-blockchain.html"
+    "link": ".html"
   },
   {
     "name": "公钥",
-    "link": "public-key.html"
+    "link": ".html"
   },
   {
     "name": "公钥加密",
-    "link": "public-key-cryptography.html"
+    "link": ".html"
   },
   {
     "name": "哄抬价格",
-    "link": "pump-and-dump.html"
+    "link": ".html"
   },
   {
     "name": "二维码",
-    "link": "qr-code.html"
+    "link": ".html"
   },
   {
     "name": "量化宽松 (QE) 介绍",
-    "link": "quantitative-easing-qe.html"
+    "link": "qe.html"
   },
   {
     "name": "量化紧缩 (QT)",
-    "link": "quantitative-tightening-qt.html"
+    "link": "qt.html"
   },
   {
     "name": "Quantum Computing",
@@ -2249,15 +2249,15 @@
   },
   {
     "name": "现实世界资产(RWA)",
-    "link": "real-world-assets-rwas.html"
+    "link": "rwa.html"
   },
   {
     "name": "经济衰退",
-    "link": "recession.html"
+    "link": ".html"
   },
   {
     "name": "递归铭文",
-    "link": "recursive-inscription.html"
+    "link": ".html"
   },
   {
     "name": "Rekt",
@@ -2265,15 +2265,15 @@
   },
   {
     "name": "Relative Strength Index (RSI)",
-    "link": "relative-strength-index.html"
+    "link": "relative-strength-index-rsi.html"
   },
   {
     "name": "中继器",
-    "link": "relayer.html"
+    "link": ".html"
   },
   {
     "name": "远程过程调用",
-    "link": "remote-procedure-call.html"
+    "link": ".html"
   },
   {
     "name": "Resistance",
@@ -2281,11 +2281,11 @@
   },
   {
     "name": "Return on Investment (ROI)",
-    "link": "return-on-investment.html"
+    "link": "return-on-investment-roi.html"
   },
   {
     "name": "报复性交易",
-    "link": "revenge-trading.html"
+    "link": ".html"
   },
   {
     "name": "Rinkeby",
@@ -2293,11 +2293,11 @@
   },
   {
     "name": "风险溢价",
-    "link": "risk-premium.html"
+    "link": ".html"
   },
   {
     "name": "路线图",
-    "link": "roadmap.html"
+    "link": ".html"
   },
   {
     "name": "Rocket Pool",
@@ -2305,7 +2305,7 @@
   },
   {
     "name": "扩容方案",
-    "link": "rollups.html"
+    "link": ".html"
   },
   {
     "name": "Ropsten",
@@ -2321,7 +2321,7 @@
   },
   {
     "name": "跑路",
-    "link": "rug-pull.html"
+    "link": ".html"
   },
   {
     "name": "Safeheron",
@@ -2329,7 +2329,7 @@
   },
   {
     "name": "萨姆法则",
-    "link": "sahm-rule.html"
+    "link": ".html"
   },
   {
     "name": "Samsung Pay",
@@ -2337,11 +2337,11 @@
   },
   {
     "name": "沙盒",
-    "link": "sandbox.html"
+    "link": ".html"
   },
   {
     "name": "三明治交易",
-    "link": "sandwich-trading.html"
+    "link": ".html"
   },
   {
     "name": "Sardine",
@@ -2353,19 +2353,19 @@
   },
   {
     "name": "中本聪",
-    "link": "satoshi-nakamoto.html"
+    "link": ".html"
   },
   {
     "name": "可扩展性",
-    "link": "scalability.html"
+    "link": ".html"
   },
   {
     "name": "扩容",
-    "link": "scaling.html"
+    "link": ".html"
   },
   {
     "name": "欺诈",
-    "link": "scam.html"
+    "link": ".html"
   },
   {
     "name": "Scrypt 挖掘算法",
@@ -2377,19 +2377,19 @@
   },
   {
     "name": "搜索引擎",
-    "link": "search-engine.html"
+    "link": ".html"
   },
   {
     "name": "私钥助记词",
-    "link": "secret-recovery-phrase.html"
+    "link": ".html"
   },
   {
     "name": "用户资产安全基金 (SAFU)",
-    "link": "secure-asset-fund-for-users.html"
+    "link": "safu.html"
   },
   {
     "name": "证券交易委员会 (SEC)",
-    "link": "securities-and-exchange-commission.html"
+    "link": "sec.html"
   },
   {
     "name": "Security Audit",
@@ -2397,35 +2397,35 @@
   },
   {
     "name": "证券型代币",
-    "link": "security-token.html"
+    "link": ".html"
   },
   {
     "name": "证券型代币发行",
-    "link": "security-token-offering.html"
+    "link": ".html"
   },
   {
     "name": "证券型代币发行 (STO)",
-    "link": "security-token-offering-sto.html"
+    "link": "sto.html"
   },
   {
     "name": "助记词",
-    "link": "seed-phrase.html"
+    "link": ".html"
   },
   {
     "name": "种子标签",
-    "link": "seed-tag.html"
+    "link": ".html"
   },
   {
     "name": "隔离见证(SegWit)",
-    "link": "segregated-witness.html"
+    "link": "segwit.html"
   },
   {
     "name": "自主托管",
-    "link": "self-custody.html"
+    "link": ".html"
   },
   {
     "name": "自动执行",
-    "link": "self-executing.html"
+    "link": ".html"
   },
   {
     "name": "Selfish Mining",
@@ -2449,15 +2449,15 @@
   },
   {
     "name": "序列化",
-    "link": "serialization.html"
+    "link": ".html"
   },
   {
     "name": "分片区块链",
-    "link": "shard-chain.html"
+    "link": ".html"
   },
   {
     "name": "分片",
-    "link": "sharding.html"
+    "link": ".html"
   },
   {
     "name": "Sharpe Ratio",
@@ -2465,31 +2465,31 @@
   },
   {
     "name": "隐私交易",
-    "link": "shielded-transaction.html"
+    "link": ".html"
   },
   {
     "name": "侧链",
-    "link": "sidechain.html"
+    "link": ".html"
   },
   {
     "name": "侧链",
-    "link": "sidechains.html"
+    "link": ".html"
   },
   {
     "name": "简单移动平均线 (SMA)",
-    "link": "simple-moving-average-sma.html"
+    "link": "sma.html"
   },
   {
     "name": "罚没",
-    "link": "slashing.html"
+    "link": ".html"
   },
   {
     "name": "削减条件",
-    "link": "slashing-condition.html"
+    "link": ".html"
   },
   {
     "name": "滑移",
-    "link": "slippage.html"
+    "link": ".html"
   },
   {
     "name": "时间间隔（Slot）",
@@ -2497,11 +2497,11 @@
   },
   {
     "name": "智能合约",
-    "link": "smart-contract.html"
+    "link": ".html"
   },
   {
     "name": "智能合约钱包",
-    "link": "smart-contract-wallet.html"
+    "link": ".html"
   },
   {
     "name": "Snapshot",
@@ -2509,11 +2509,11 @@
   },
   {
     "name": "社交恢复钱包",
-    "link": "social-recovery-wallet.html"
+    "link": ".html"
   },
   {
     "name": "社交交易",
-    "link": "social-trading.html"
+    "link": ".html"
   },
   {
     "name": "SocialFi",
@@ -2521,11 +2521,11 @@
   },
   {
     "name": "软分叉",
-    "link": "soft-fork.html"
+    "link": ".html"
   },
   {
     "name": "软着陆",
-    "link": "soft-landing.html"
+    "link": ".html"
   },
   {
     "name": "Solidity",
@@ -2541,23 +2541,23 @@
   },
   {
     "name": "SRC-20代币",
-    "link": "src-20-tokens.html"
+    "link": "src20.html"
   },
   {
     "name": "稳定币",
-    "link": "stablecoin.html"
+    "link": ".html"
   },
   {
     "name": "滞胀",
-    "link": "stagflation.html"
+    "link": ".html"
   },
   {
     "name": "权益",
-    "link": "stake.html"
+    "link": ".html"
   },
   {
     "name": "质押",
-    "link": "staking.html"
+    "link": ".html"
   },
   {
     "name": "Staking Pool",
@@ -2565,7 +2565,7 @@
   },
   {
     "name": "状态",
-    "link": "state.html"
+    "link": ".html"
   },
   {
     "name": "State Channel",
@@ -2573,7 +2573,7 @@
   },
   {
     "name": "状态通道",
-    "link": "state-channels.html"
+    "link": ".html"
   },
   {
     "name": "stETH",
@@ -2585,7 +2585,7 @@
   },
   {
     "name": "存量变量",
-    "link": "stock-variable.html"
+    "link": ".html"
   },
   {
     "name": "Store of Value",
@@ -2593,7 +2593,7 @@
   },
   {
     "name": "资金流",
-    "link": "streaming.html"
+    "link": ".html"
   },
   {
     "name": "Supercomputer",
@@ -2609,11 +2609,11 @@
   },
   {
     "name": "兑换",
-    "link": "swap.html"
+    "link": ".html"
   },
   {
     "name": "女巫攻击",
-    "link": "sybil-attack.html"
+    "link": ".html"
   },
   {
     "name": "szabo",
@@ -2637,7 +2637,7 @@
   },
   {
     "name": "测试网",
-    "link": "testnet.html"
+    "link": ".html"
   },
   {
     "name": "Testnet Kovan",
@@ -2661,19 +2661,19 @@
   },
   {
     "name": "代币",
-    "link": "token.html"
+    "link": ".html"
   },
   {
     "name": "代币生成活动(TGE)",
-    "link": "token-generation-event-tge.html"
+    "link": "tge.html"
   },
   {
     "name": "代币锁定",
-    "link": "token-lockup.html"
+    "link": ".html"
   },
   {
     "name": "代币合并",
-    "link": "token-merge.html"
+    "link": ".html"
   },
   {
     "name": "Token Sale",
@@ -2681,19 +2681,19 @@
   },
   {
     "name": "代币标准",
-    "link": "token-standard.html"
+    "link": ".html"
   },
   {
     "name": "代币标准",
-    "link": "token-standards.html"
+    "link": ".html"
   },
   {
     "name": "代币化",
-    "link": "tokenization.html"
+    "link": ".html"
   },
   {
     "name": "代币经济学",
-    "link": "tokenomics.html"
+    "link": ".html"
   },
   {
     "name": "Total Supply",
@@ -2701,7 +2701,7 @@
   },
   {
     "name": "总锁定价值(TVL)",
-    "link": "total-value-locked-tvl.html"
+    "link": "tvl.html"
   },
   {
     "name": "TradFi",
@@ -2709,23 +2709,23 @@
   },
   {
     "name": "交易",
-    "link": "transaction.html"
+    "link": ".html"
   },
   {
     "name": "交易区块",
-    "link": "transaction-block.html"
+    "link": ".html"
   },
   {
     "name": "交易费用",
-    "link": "transaction-fee.html"
+    "link": ".html"
   },
   {
     "name": "交易 ID",
-    "link": "transaction-id.html"
+    "link": "id.html"
   },
   {
     "name": "交易池",
-    "link": "transaction-pool.html"
+    "link": ".html"
   },
   {
     "name": "Transactions Per Second (TPS)",
@@ -2737,7 +2737,7 @@
   },
   {
     "name": "国库券 (T-bill)",
-    "link": "treasury-bills-t-bills.html"
+    "link": "tbill.html"
   },
   {
     "name": "Trezor",
@@ -2753,11 +2753,11 @@
   },
   {
     "name": "去信任",
-    "link": "trustless.html"
+    "link": ".html"
   },
   {
     "name": "图灵完备",
-    "link": "turing-complete.html"
+    "link": ".html"
   },
   {
     "name": "总锁仓价值（TVL）",
@@ -2765,7 +2765,7 @@
   },
   {
     "name": "交易 ID",
-    "link": "txid.html"
+    "link": "id.html"
   },
   {
     "name": "U2F（通用第二因素）",
@@ -2773,11 +2773,11 @@
   },
   {
     "name": "赵长鹏(CZ)推文中的“4”有何含义",
-    "link": "understanding-cz-s-number-4.html"
+    "link": "cz4.html"
   },
   {
     "name": "未加密密钥",
-    "link": "unencrypted-key.html"
+    "link": ".html"
   },
   {
     "name": "Uniswap",
@@ -2789,7 +2789,7 @@
   },
   {
     "name": "未花费的交易输出",
-    "link": "unspent-transaction-output.html"
+    "link": ".html"
   },
   {
     "name": "Unspent Transaction Output (UTXO)",
@@ -2797,11 +2797,11 @@
   },
   {
     "name": "解除质押",
-    "link": "unstake.html"
+    "link": ".html"
   },
   {
     "name": "升级",
-    "link": "upgrade.html"
+    "link": ".html"
   },
   {
     "name": "URL",
@@ -2813,11 +2813,11 @@
   },
   {
     "name": "User Interface (UI)",
-    "link": "user-interface.html"
+    "link": "user-interface-ui.html"
   },
   {
     "name": "效用代币",
-    "link": "utility-token.html"
+    "link": ".html"
   },
   {
     "name": "UTXO",
@@ -2825,11 +2825,11 @@
   },
   {
     "name": "验证器",
-    "link": "validator.html"
+    "link": ".html"
   },
   {
     "name": "有效性证明",
-    "link": "validity-proof.html"
+    "link": ".html"
   },
   {
     "name": "Verification Code",
@@ -2837,7 +2837,7 @@
   },
   {
     "name": "等待行权",
-    "link": "vesting.html"
+    "link": ".html"
   },
   {
     "name": "VillageDAO",
@@ -2865,11 +2865,11 @@
   },
   {
     "name": "钱包",
-    "link": "wallet.html"
+    "link": ".html"
   },
   {
     "name": "钱包地址",
-    "link": "wallet-address.html"
+    "link": ".html"
   },
   {
     "name": "WalletConnect",
@@ -2877,7 +2877,7 @@
   },
   {
     "name": "刷单交易",
-    "link": "wash-trading.html"
+    "link": ".html"
   },
   {
     "name": "Weak Hands",
@@ -2889,11 +2889,11 @@
   },
   {
     "name": "Web 1.0",
-    "link": "web-1.html"
+    "link": "web-10.html"
   },
   {
     "name": "Web 3.0",
-    "link": "web-3.0.html"
+    "link": "web-30.html"
   },
   {
     "name": "Web3",
@@ -2905,7 +2905,7 @@
   },
   {
     "name": "网络钩子",
-    "link": "webhook.html"
+    "link": ".html"
   },
   {
     "name": "WebSocket",
@@ -2917,7 +2917,7 @@
   },
   {
     "name": "加权移动平均线 (WMA)",
-    "link": "weighted-moving-average-wma.html"
+    "link": "wma.html"
   },
   {
     "name": "Whale",
@@ -2933,7 +2933,7 @@
   },
   {
     "name": "白皮书",
-    "link": "whitepaper.html"
+    "link": ".html"
   },
   {
     "name": "Wick",
@@ -2941,19 +2941,19 @@
   },
   {
     "name": "胜率",
-    "link": "win-rate.html"
+    "link": ".html"
   },
   {
     "name": "Wrapped Ether (WETH)",
-    "link": "wrapped-ether.html"
+    "link": "wrapped-ether-weth.html"
   },
   {
     "name": "包装",
-    "link": "wrapping.html"
+    "link": ".html"
   },
   {
     "name": "威科夫方法",
-    "link": "wyckoff.html"
+    "link": ".html"
   },
   {
     "name": "Wyre",
@@ -2969,38 +2969,38 @@
   },
   {
     "name": "收益代币",
-    "link": "yield-bearing-tokens.html"
+    "link": ".html"
   },
   {
     "name": "收益挖矿",
-    "link": "yield-farming.html"
+    "link": ".html"
   },
   {
     "name": "0地址",
-    "link": "zero-address.html"
+    "link": "0.html"
   },
   {
     "name": "零知识证明",
-    "link": "zero-knowledge-proof.html"
+    "link": ".html"
   },
   {
     "name": "零知识证明",
-    "link": "zero-knowledge-proofs.html"
+    "link": ".html"
   },
   {
     "name": "零知识汇总",
-    "link": "zero-knowledge-rollup.html"
+    "link": ".html"
   },
   {
     "name": "零知识汇总",
-    "link": "zk-rollup.html"
+    "link": ".html"
   },
   {
     "name": "零知识简洁非交互知识论证（zk-SNARK）",
-    "link": "zk-snarks.html"
+    "link": "zksnark.html"
   },
   {
     "name": "zk-STARK",
-    "link": "zk-starks.html"
+    "link": "zkstark.html"
   }
 ]

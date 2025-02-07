@@ -17,7 +17,7 @@
   },
   {
     "name": "51% pag-atake",
-    "link": "51%-attack.html"
+    "link": "51-pagatake.html"
   },
   {
     "name": "Aave",
@@ -45,7 +45,7 @@
   },
   {
     "name": "air-gapping",
-    "link": "air-gapping.html"
+    "link": "airgapping.html"
   },
   {
     "name": "airdrop",
@@ -61,7 +61,7 @@
   },
   {
     "name": "algoritmo",
-    "link": "algorithm.html"
+    "link": "algoritmo.html"
   },
   {
     "name": "altcoin",
@@ -93,11 +93,11 @@
   },
   {
     "name": "pinagmulan ng asset",
-    "link": "asset-provenance.html"
+    "link": "pinagmulan-ng-asset.html"
   },
   {
     "name": "pagpapatunay",
-    "link": "attestation.html"
+    "link": "pagpapatunay.html"
   },
   {
     "name": "Aurora",
@@ -145,15 +145,15 @@
   },
   {
     "name": "taas ng block",
-    "link": "block-height.html"
+    "link": "taas-ng-block.html"
   },
   {
     "name": "gantimpala ng block",
-    "link": "block-reward.html"
+    "link": "gantimpala-ng-block.html"
   },
   {
     "name": "oras ng block",
-    "link": "block-time.html"
+    "link": "oras-ng-block.html"
   },
   {
     "name": "Blockaid",
@@ -225,7 +225,7 @@
   },
   {
     "name": "ID ng chain",
-    "link": "chain-id.html"
+    "link": "id-ng-chain.html"
   },
   {
     "name": "Chrome",
@@ -233,7 +233,7 @@
   },
   {
     "name": "kliyente",
-    "link": "client.html"
+    "link": "kliyente.html"
   },
   {
     "name": "Codefi",
@@ -261,7 +261,7 @@
   },
   {
     "name": "pagsama-samahin",
-    "link": "compile.html"
+    "link": "pagsamasamahin.html"
   },
   {
     "name": "Compound",
@@ -269,11 +269,11 @@
   },
   {
     "name": "kumpirmasyon",
-    "link": "confirmation.html"
+    "link": "kumpirmasyon.html"
   },
   {
     "name": "pinagkasunduan",
-    "link": "consensus.html"
+    "link": "pinagkasunduan.html"
   },
   {
     "name": "consensus client",
@@ -281,11 +281,11 @@
   },
   {
     "name": "layer ng consensus",
-    "link": "consensus-layer.html"
+    "link": "layer-ng-consensus.html"
   },
   {
     "name": "mekanismo ng consensus",
-    "link": "consensus-mechanism.html"
+    "link": "mekanismo-ng-consensus.html"
   },
   {
     "name": "Consensys",
@@ -297,11 +297,11 @@
   },
   {
     "name": "kontrata",
-    "link": "contract.html"
+    "link": "kontrata.html"
   },
   {
     "name": "account ng kontrata",
-    "link": "contract-account.html"
+    "link": "account-ng-kontrata.html"
   },
   {
     "name": "CoolWallet",
@@ -309,27 +309,27 @@
   },
   {
     "name": "mga pabuya ng crypto",
-    "link": "crypto-bounties.html"
+    "link": "mga-pabuya-ng-crypto.html"
   },
   {
     "name": "pondo ng crypto",
-    "link": "crypto-fund.html"
+    "link": "pondo-ng-crypto.html"
   },
   {
     "name": "wallet ng crypto",
-    "link": "crypto-wallet.html"
+    "link": "wallet-ng-crypto.html"
   },
   {
     "name": "crypto-",
-    "link": "crypto-.html"
+    "link": "crypto.html"
   },
   {
     "name": "crypto na asset",
-    "link": "crypto-asset.html"
+    "link": "crypto-na-asset.html"
   },
   {
     "name": "crypto-compliance",
-    "link": "crypto-compliance.html"
+    "link": "cryptocompliance.html"
   },
   {
     "name": "CryptoCompare",
@@ -345,7 +345,7 @@
   },
   {
     "name": "kriptograpiya",
-    "link": "cryptography.html"
+    "link": "kriptograpiya.html"
   },
   {
     "name": "Curve",
@@ -353,11 +353,11 @@
   },
   {
     "name": "kustodiya",
-    "link": "custody.html"
+    "link": "kustodiya.html"
   },
   {
     "name": "D'CENT",
-    "link": "d'cent.html"
+    "link": "dcent.html"
   },
   {
     "name": "DAI",
@@ -377,7 +377,7 @@
   },
   {
     "name": "desentralisasyon",
-    "link": "decentralization.html"
+    "link": "desentralisasyon.html"
   },
   {
     "name": "decentralized application",
@@ -397,7 +397,7 @@
   },
   {
     "name": "desentralisadong web",
-    "link": "decentralized-web.html"
+    "link": "desentralisadong-web.html"
   },
   {
     "name": "DeFi",
@@ -405,19 +405,19 @@
   },
   {
     "name": "Delegated proof of stake (DPoS)",
-    "link": "delegated-proof-of-stake-(dpos).html"
+    "link": "delegated-proof-of-stake-dpos.html"
   },
   {
     "name": "mga denominasyon",
-    "link": "denominations.html"
+    "link": "mga-denominasyon.html"
   },
   {
     "name": "deposito",
-    "link": "deposit.html"
+    "link": "deposito.html"
   },
   {
     "name": "nagmula -- pinagmulan",
-    "link": "derive.html"
+    "link": "nagmula-pinagmulan.html"
   },
   {
     "name": "dev",
@@ -437,7 +437,7 @@
   },
   {
     "name": "kahirapan",
-    "link": "difficulty.html"
+    "link": "kahirapan.html"
   },
   {
     "name": "difficulty bomb",
@@ -445,15 +445,15 @@
   },
   {
     "name": "digital na asset",
-    "link": "digital-asset.html"
+    "link": "digital-na-asset.html"
   },
   {
     "name": "digital na pagkakakilanlan",
-    "link": "digital-identity.html"
+    "link": "digital-na-pagkakakilanlan.html"
   },
   {
     "name": "digital na lagda",
-    "link": "digital-signature.html"
+    "link": "digital-na-lagda.html"
   },
   {
     "name": "Diligence",
@@ -469,11 +469,11 @@
   },
   {
     "name": "dobleng paggasta",
-    "link": "double-spend.html"
+    "link": "dobleng-paggasta.html"
   },
   {
     "name": "ekosistema",
-    "link": "ecosystem.html"
+    "link": "ekosistema.html"
   },
   {
     "name": "EEA",
@@ -481,15 +481,15 @@
   },
   {
     "name": "EIP-1559",
-    "link": "eip-1559.html"
+    "link": "eip1559.html"
   },
   {
     "name": "mga naka-encrypt na key",
-    "link": "encrypted-key.html"
+    "link": "mga-nakaencrypt-na-key.html"
   },
   {
     "name": "pag-encrypt",
-    "link": "encryption.html"
+    "link": "pagencrypt.html"
   },
   {
     "name": "ENS",
@@ -501,7 +501,7 @@
   },
   {
     "name": "kapanahunan",
-    "link": "epoch.html"
+    "link": "kapanahunan.html"
   },
   {
     "name": "ERC",
@@ -509,15 +509,15 @@
   },
   {
     "name": "ERC-1155",
-    "link": "erc-1155.html"
+    "link": "erc1155.html"
   },
   {
     "name": "ERC-20",
-    "link": "erc-20.html"
+    "link": "erc20.html"
   },
   {
     "name": "ERC-721",
-    "link": "erc-721.html"
+    "link": "erc721.html"
   },
   {
     "name": "ETH",
@@ -533,7 +533,7 @@
   },
   {
     "name": "Ethereum 2.0",
-    "link": "ethereum-2.0.html"
+    "link": "ethereum-20.html"
   },
   {
     "name": "Ethereum Improvement Proposal",
@@ -541,7 +541,7 @@
   },
   {
     "name": "Mainnet ng Ethereum",
-    "link": "ethereum-mainnet.html"
+    "link": "mainnet-ng-ethereum.html"
   },
   {
     "name": "Ethereum Name Service",
@@ -565,15 +565,15 @@
   },
   {
     "name": "palitan",
-    "link": "exchange.html"
+    "link": "palitan.html"
   },
   {
     "name": "kliyente sa pagpapatupad",
-    "link": "execution-client.html"
+    "link": "kliyente-sa-pagpapatupad.html"
   },
   {
     "name": "layer ng pagpapatupad",
-    "link": "execution-layer.html"
+    "link": "layer-ng-pagpapatupad.html"
   },
   {
     "name": "Fantom",
@@ -585,19 +585,19 @@
   },
   {
     "name": "fault-tolerant",
-    "link": "fault-tolerant.html"
+    "link": "faulttolerant.html"
   },
   {
     "name": "fiat na salapi",
-    "link": "fiat-currency.html"
+    "link": "fiat-na-salapi.html"
   },
   {
     "name": "wakas, pangwakas",
-    "link": "finality.html"
+    "link": "wakas-pangwakas.html"
   },
   {
     "name": "rate ng pangwakas",
-    "link": "finality-rate.html"
+    "link": "rate-ng-pangwakas.html"
   },
   {
     "name": "financial technology",
@@ -625,11 +625,11 @@
   },
   {
     "name": "fractional na pagmamay-ari",
-    "link": "fractional-ownership.html"
+    "link": "fractional-na-pagmamayari.html"
   },
   {
     "name": "patunay ng panloloko",
-    "link": "fraud-proof.html"
+    "link": "patunay-ng-panloloko.html"
   },
   {
     "name": "FTM",
@@ -637,7 +637,7 @@
   },
   {
     "name": "ganap na node",
-    "link": "full-node.html"
+    "link": "ganap-na-node.html"
   },
   {
     "name": "Ganache",
@@ -649,15 +649,15 @@
   },
   {
     "name": "bayad sa gas",
-    "link": "gas-fee.html"
+    "link": "bayad-sa-gas.html"
   },
   {
     "name": "limitasyon ng gas",
-    "link": "gas-limit.html"
+    "link": "limitasyon-ng-gas.html"
   },
   {
     "name": "presyo ng gas",
-    "link": "gas-price.html"
+    "link": "presyo-ng-gas.html"
   },
   {
     "name": "Gas Station Network",
@@ -685,7 +685,7 @@
   },
   {
     "name": "pamamahala",
-    "link": "governance.html"
+    "link": "pamamahala.html"
   },
   {
     "name": "GSN",
@@ -697,7 +697,7 @@
   },
   {
     "name": "paghati",
-    "link": "halving.html"
+    "link": "paghati.html"
   },
   {
     "name": "hard fork",
@@ -705,7 +705,7 @@
   },
   {
     "name": "wallet na hardware",
-    "link": "hardware-wallet.html"
+    "link": "wallet-na-hardware.html"
   },
   {
     "name": "Harmony",
@@ -721,15 +721,15 @@
   },
   {
     "name": "datos hexadecimales",
-    "link": "hex-data.html"
+    "link": "datos-hexadecimales.html"
   },
   {
     "name": "mainit na imbakan",
-    "link": "hot-storage.html"
+    "link": "mainit-na-imbakan.html"
   },
   {
     "name": "mainit na wallet",
-    "link": "hot-wallet.html"
+    "link": "mainit-na-wallet.html"
   },
   {
     "name": "hybrid network",
@@ -753,7 +753,7 @@
   },
   {
     "name": "kawalan ng pagbabago",
-    "link": "immutability.html"
+    "link": "kawalan-ng-pagbabago.html"
   },
   {
     "name": "Infura",
@@ -765,7 +765,7 @@
   },
   {
     "name": "panloob na transaksyon",
-    "link": "internal-transaction.html"
+    "link": "panloob-na-transaksyon.html"
   },
   {
     "name": "interoperability",
@@ -773,7 +773,7 @@
   },
   {
     "name": "InterPlanetary File System (IPFS)",
-    "link": "interplanetary-file-system-(ipfs).html"
+    "link": "interplanetary-file-system-ipfs.html"
   },
   {
     "name": "IP address",
@@ -789,15 +789,15 @@
   },
   {
     "name": "file na JSON",
-    "link": "json-file.html"
+    "link": "file-na-json.html"
   },
   {
     "name": "JSON-RPC",
-    "link": "json-rpc.html"
+    "link": "jsonrpc.html"
   },
   {
     "name": "file ng keystore",
-    "link": "keystore-file.html"
+    "link": "file-ng-keystore.html"
   },
   {
     "name": "Know Your Customer",
@@ -857,7 +857,7 @@
   },
   {
     "name": "magaan na kliyente",
-    "link": "light-client.html"
+    "link": "magaan-na-kliyente.html"
   },
   {
     "name": "Lightning Network",
@@ -877,11 +877,11 @@
   },
   {
     "name": "pool ng liquidity",
-    "link": "liquidity-pool.html"
+    "link": "pool-ng-liquidity.html"
   },
   {
     "name": "pagtaya ng liquidity",
-    "link": "liquidity-staking.html"
+    "link": "pagtaya-ng-liquidity.html"
   },
   {
     "name": "mainnet",
@@ -965,15 +965,15 @@
   },
   {
     "name": "minero",
-    "link": "miner.html"
+    "link": "minero.html"
   },
   {
     "name": "tip ng minero",
-    "link": "miner-tip.html"
+    "link": "tip-ng-minero.html"
   },
   {
     "name": "pagmimina",
-    "link": "mining.html"
+    "link": "pagmimina.html"
   },
   {
     "name": "mint",
@@ -981,7 +981,7 @@
   },
   {
     "name": "mnemonic na parirala",
-    "link": "mnemonic-phrase.html"
+    "link": "mnemonic-na-parirala.html"
   },
   {
     "name": "MobiKwik",
@@ -989,7 +989,7 @@
   },
   {
     "name": "modular na blockchain",
-    "link": "modular-blockchain.html"
+    "link": "modular-na-blockchain.html"
   },
   {
     "name": "MoonPay",
@@ -997,15 +997,15 @@
   },
   {
     "name": "multi-sig",
-    "link": "multi-sig.html"
+    "link": "multisig.html"
   },
   {
     "name": "multi-signature na wallet",
-    "link": "multi-signature-wallet.html"
+    "link": "multisignature-na-wallet.html"
   },
   {
     "name": "nested na blockchain",
-    "link": "nested-blockchain.html"
+    "link": "nested-na-blockchain.html"
   },
   {
     "name": "network",
@@ -1013,7 +1013,7 @@
   },
   {
     "name": "pagsisikip ng network",
-    "link": "network-congestion.html"
+    "link": "pagsisikip-ng-network.html"
   },
   {
     "name": "NFC",
@@ -1029,7 +1029,7 @@
   },
   {
     "name": "Paglaglag ng NFT",
-    "link": "nft-drop.html"
+    "link": "paglaglag-ng-nft.html"
   },
   {
     "name": "Ngrave",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "non-fungible token",
-    "link": "non-fungible-token.html"
+    "link": "nonfungible-token.html"
   },
   {
     "name": "nonce",
@@ -1049,11 +1049,11 @@
   },
   {
     "name": "wala sa chain",
-    "link": "off-chain.html"
+    "link": "wala-sa-chain.html"
   },
   {
     "name": "wala sa rampa",
-    "link": "off-ramp.html"
+    "link": "wala-sa-rampa.html"
   },
   {
     "name": "ommer block",
@@ -1061,11 +1061,11 @@
   },
   {
     "name": "nasa chain",
-    "link": "on-chain.html"
+    "link": "nasa-chain.html"
   },
   {
     "name": "nasa rampa",
-    "link": "on-ramp.html"
+    "link": "nasa-rampa.html"
   },
   {
     "name": "ONE",
@@ -1089,7 +1089,7 @@
   },
   {
     "name": "Orakulo",
-    "link": "oracle.html"
+    "link": "orakulo.html"
   },
   {
     "name": "P2P",
@@ -1105,7 +1105,7 @@
   },
   {
     "name": "pagkakapantay-pantay",
-    "link": "parity.html"
+    "link": "pagkakapantaypantay.html"
   },
   {
     "name": "passphrase",
@@ -1117,7 +1117,7 @@
   },
   {
     "name": "tagapamahala ng password",
-    "link": "password-manager.html"
+    "link": "tagapamahala-ng-password.html"
   },
   {
     "name": "PayPal",
@@ -1125,11 +1125,11 @@
   },
   {
     "name": "peer-to-peer",
-    "link": "peer-to-peer.html"
+    "link": "peertopeer.html"
   },
   {
     "name": "pinahintulutang ledger",
-    "link": "permissioned-ledger.html"
+    "link": "pinahintulutang-ledger.html"
   },
   {
     "name": "phishing",
@@ -1161,15 +1161,15 @@
   },
   {
     "name": "pribadong blockchain",
-    "link": "private-blockchain.html"
+    "link": "pribadong-blockchain.html"
   },
   {
     "name": "pribadong salapi",
-    "link": "private-currency.html"
+    "link": "pribadong-salapi.html"
   },
   {
     "name": "pribadong key",
-    "link": "private-key.html"
+    "link": "pribadong-key.html"
   },
   {
     "name": "Proof of Stake",
@@ -1185,19 +1185,19 @@
   },
   {
     "name": "pampublikong address",
-    "link": "public-address.html"
+    "link": "pampublikong-address.html"
   },
   {
     "name": "pampublikong blockchain",
-    "link": "public-blockchain.html"
+    "link": "pampublikong-blockchain.html"
   },
   {
     "name": "pampublikong key",
-    "link": "public-key.html"
+    "link": "pampublikong-key.html"
   },
   {
     "name": "pampublikong key na kriptograpiya",
-    "link": "public-key-cryptography.html"
+    "link": "pampublikong-key-na-kriptograpiya.html"
   },
   {
     "name": "QR code",
@@ -1213,7 +1213,7 @@
   },
   {
     "name": "tagapaghatid",
-    "link": "relayer.html"
+    "link": "tagapaghatid.html"
   },
   {
     "name": "Remote Procedure Call",
@@ -1277,7 +1277,7 @@
   },
   {
     "name": "panloloko",
-    "link": "scam.html"
+    "link": "panloloko.html"
   },
   {
     "name": "Scrypt",
@@ -1293,11 +1293,11 @@
   },
   {
     "name": "Lihim na Parirala sa Pagbawi",
-    "link": "secret-recovery-phrase.html"
+    "link": "lihim-na-parirala-sa-pagbawi.html"
   },
   {
     "name": "Token ng Seguridad",
-    "link": "security-token.html"
+    "link": "token-ng-seguridad.html"
   },
   {
     "name": "Security Token Offering",
@@ -1305,15 +1305,15 @@
   },
   {
     "name": "pariralang binhi",
-    "link": "seed-phrase.html"
+    "link": "pariralang-binhi.html"
   },
   {
     "name": "sariling kustodiya",
-    "link": "self-custody.html"
+    "link": "sariling-kustodiya.html"
   },
   {
     "name": "sariling pagpapatupad",
-    "link": "self-executing.html"
+    "link": "sariling-pagpapatupad.html"
   },
   {
     "name": "Sepolia",
@@ -1325,19 +1325,19 @@
   },
   {
     "name": "pagse-serye",
-    "link": "serialization.html"
+    "link": "pagseserye.html"
   },
   {
     "name": "chain ng pagpipira-piraso",
-    "link": "shard-chain.html"
+    "link": "chain-ng-pagpipirapiraso.html"
   },
   {
     "name": "pagpipira-piraso",
-    "link": "sharding.html"
+    "link": "pagpipirapiraso.html"
   },
   {
     "name": "shielded na transaksyon",
-    "link": "shielded-transaction.html"
+    "link": "shielded-na-transaksyon.html"
   },
   {
     "name": "sidechain",
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "kondisyon ng paglaslas",
-    "link": "slashing-condition.html"
+    "link": "kondisyon-ng-paglaslas.html"
   },
   {
     "name": "slippage",
@@ -1353,11 +1353,11 @@
   },
   {
     "name": "puwang",
-    "link": "slot.html"
+    "link": "puwang.html"
   },
   {
     "name": "smart na kontrata",
-    "link": "smart-contract.html"
+    "link": "smart-na-kontrata.html"
   },
   {
     "name": "soft fork",
@@ -1373,19 +1373,19 @@
   },
   {
     "name": "pagkakataya",
-    "link": "stake.html"
+    "link": "pagkakataya.html"
   },
   {
     "name": "pagtataya",
-    "link": "staking.html"
+    "link": "pagtataya.html"
   },
   {
     "name": "estado",
-    "link": "state.html"
+    "link": "estado.html"
   },
   {
     "name": "mga channel ng estado",
-    "link": "state-channels.html"
+    "link": "mga-channel-ng-estado.html"
   },
   {
     "name": "STO",
@@ -1397,7 +1397,7 @@
   },
   {
     "name": "i-swap",
-    "link": "swap.html"
+    "link": "iswap.html"
   },
   {
     "name": "szabo",
@@ -1433,31 +1433,31 @@
   },
   {
     "name": "pag-lock ng token",
-    "link": "token-lockup.html"
+    "link": "paglock-ng-token.html"
   },
   {
     "name": "pamantayan ng token",
-    "link": "token-standard.html"
+    "link": "pamantayan-ng-token.html"
   },
   {
     "name": "transaksyon",
-    "link": "transaction.html"
+    "link": "transaksyon.html"
   },
   {
     "name": "block ng transaksyon",
-    "link": "transaction-block.html"
+    "link": "block-ng-transaksyon.html"
   },
   {
     "name": "bayad sa transaksyon",
-    "link": "transaction-fee.html"
+    "link": "bayad-sa-transaksyon.html"
   },
   {
     "name": "ID ng transaksyon",
-    "link": "transaction-id.html"
+    "link": "id-ng-transaksyon.html"
   },
   {
     "name": "pool ng transaksyon",
-    "link": "transaction-pool.html"
+    "link": "pool-ng-transaksyon.html"
   },
   {
     "name": "Transak",
@@ -1473,11 +1473,11 @@
   },
   {
     "name": "hindi kailangan ng tiwala",
-    "link": "trustless.html"
+    "link": "hindi-kailangan-ng-tiwala.html"
   },
   {
     "name": "Turing-kumpleto",
-    "link": "turing-complete.html"
+    "link": "turingkumpleto.html"
   },
   {
     "name": "TVL",
@@ -1493,7 +1493,7 @@
   },
   {
     "name": "hindi naka-encrypt na key",
-    "link": "unencrypted-key.html"
+    "link": "hindi-nakaencrypt-na-key.html"
   },
   {
     "name": "Uniswap",
@@ -1505,11 +1505,11 @@
   },
   {
     "name": "tanggalin sa pagkakataya",
-    "link": "unstake.html"
+    "link": "tanggalin-sa-pagkakataya.html"
   },
   {
     "name": "mag-upgrade",
-    "link": "upgrade.html"
+    "link": "magupgrade.html"
   },
   {
     "name": "URL",
@@ -1525,11 +1525,11 @@
   },
   {
     "name": "nagpapatibay",
-    "link": "validator.html"
+    "link": "nagpapatibay.html"
   },
   {
     "name": "katibayan ng bisa",
-    "link": "validity-proof.html"
+    "link": "katibayan-ng-bisa.html"
   },
   {
     "name": "vesting",
@@ -1545,7 +1545,7 @@
   },
   {
     "name": "address ng wallet",
-    "link": "wallet-address.html"
+    "link": "address-ng-wallet.html"
   },
   {
     "name": "WalletConnect",
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Web 3.0",
-    "link": "web-3.0.html"
+    "link": "web-30.html"
   },
   {
     "name": "web3",
@@ -1597,11 +1597,11 @@
   },
   {
     "name": "paglilinang ng ani",
-    "link": "yield-farming.html"
+    "link": "paglilinang-ng-ani.html"
   },
   {
     "name": "mga token na nagbubunga",
-    "link": "yield-bearing-tokens.html"
+    "link": "mga-token-na-nagbubunga.html"
   },
   {
     "name": "zero address",
@@ -1609,15 +1609,15 @@
   },
   {
     "name": "patunay na hindi magbibigay ng kaalaman",
-    "link": "zero-knowledge-proof.html"
+    "link": "patunay-na-hindi-magbibigay-ng-kaalaman.html"
   },
   {
     "name": "rollup na hindi magbibigay ng kaalaman",
-    "link": "zero-knowledge-rollup.html"
+    "link": "rollup-na-hindi-magbibigay-ng-kaalaman.html"
   },
   {
     "name": "zk-SNARKs",
-    "link": "zk-snarks.html"
+    "link": "zksnarks.html"
   },
   {
     "name": "0xplain",

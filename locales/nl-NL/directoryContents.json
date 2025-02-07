@@ -9,7 +9,7 @@
   },
   {
     "name": "verificatie in twee stappen",
-    "link": "2fa.html"
+    "link": "verificatie-in-twee-stappen.html"
   },
   {
     "name": "3Box Labs",
@@ -17,7 +17,7 @@
   },
   {
     "name": "51%-aanval",
-    "link": "51%-attack.html"
+    "link": "51aanval.html"
   },
   {
     "name": "Aave",
@@ -29,11 +29,11 @@
   },
   {
     "name": "ACH-transactie",
-    "link": "ach-transfer.html"
+    "link": "achtransactie.html"
   },
   {
     "name": "adres",
-    "link": "address.html"
+    "link": "adres.html"
   },
   {
     "name": "aggregator",
@@ -45,7 +45,7 @@
   },
   {
     "name": "air-gapping",
-    "link": "air-gapping.html"
+    "link": "airgapping.html"
   },
   {
     "name": "airdrop",
@@ -61,7 +61,7 @@
   },
   {
     "name": "algoritme",
-    "link": "algorithm.html"
+    "link": "algoritme.html"
   },
   {
     "name": "altcoin",
@@ -69,7 +69,7 @@
   },
   {
     "name": "witwasbestrijding",
-    "link": "aml.html"
+    "link": "witwasbestrijding.html"
   },
   {
     "name": "API",
@@ -93,11 +93,11 @@
   },
   {
     "name": "herkomst van asset",
-    "link": "asset-provenance.html"
+    "link": "herkomst-van-asset.html"
   },
   {
     "name": "attestatie",
-    "link": "attestation.html"
+    "link": "attestatie.html"
   },
   {
     "name": "Aurora",
@@ -137,23 +137,23 @@
   },
   {
     "name": "blok",
-    "link": "block.html"
+    "link": "blok.html"
   },
   {
     "name": "blokverkenner",
-    "link": "block-explorer.html"
+    "link": "blokverkenner.html"
   },
   {
     "name": "blokhoogte",
-    "link": "block-height.html"
+    "link": "blokhoogte.html"
   },
   {
     "name": "blokbeloning",
-    "link": "block-reward.html"
+    "link": "blokbeloning.html"
   },
   {
     "name": "bloktijd",
-    "link": "block-time.html"
+    "link": "bloktijd.html"
   },
   {
     "name": "Blockaid",
@@ -165,11 +165,11 @@
   },
   {
     "name": "blockchain-verkenner",
-    "link": "blockchain-explorer.html"
+    "link": "blockchainverkenner.html"
   },
   {
     "name": "blockchain-trilemma",
-    "link": "blockchain-trilemma.html"
+    "link": "blockchaintrilemma.html"
   },
   {
     "name": "BNB",
@@ -185,7 +185,7 @@
   },
   {
     "name": "brainwallet",
-    "link": "brain-wallet.html"
+    "link": "brainwallet.html"
   },
   {
     "name": "Brave",
@@ -193,7 +193,7 @@
   },
   {
     "name": "brug",
-    "link": "bridge.html"
+    "link": "brug.html"
   },
   {
     "name": "BTC",
@@ -205,7 +205,7 @@
   },
   {
     "name": "Byzantijnse fouttolerantie",
-    "link": "byzantine-fault-tolerance.html"
+    "link": "byzantijnse-fouttolerantie.html"
   },
   {
     "name": "Byzantium fork",
@@ -217,7 +217,7 @@
   },
   {
     "name": "centrale exchange",
-    "link": "centralized-exchange.html"
+    "link": "centrale-exchange.html"
   },
   {
     "name": "CEX",
@@ -225,7 +225,7 @@
   },
   {
     "name": "chain-ID",
-    "link": "chain-id.html"
+    "link": "chainid.html"
   },
   {
     "name": "Chrome",
@@ -241,7 +241,7 @@
   },
   {
     "name": "coin—cryptomunt",
-    "link": "coin.html"
+    "link": "coincryptomunt.html"
   },
   {
     "name": "Coinbase Pay",
@@ -253,15 +253,15 @@
   },
   {
     "name": "koude opslag—cold storage",
-    "link": "cold-storage.html"
+    "link": "koude-opslagcold-storage.html"
   },
   {
     "name": "koude wallet",
-    "link": "cold-wallet.html"
+    "link": "koude-wallet.html"
   },
   {
     "name": "compileren",
-    "link": "compile.html"
+    "link": "compileren.html"
   },
   {
     "name": "Compound",
@@ -269,7 +269,7 @@
   },
   {
     "name": "bevestiging",
-    "link": "confirmation.html"
+    "link": "bevestiging.html"
   },
   {
     "name": "consensus",
@@ -277,15 +277,15 @@
   },
   {
     "name": "consensus-client",
-    "link": "consensus-client.html"
+    "link": "consensusclient.html"
   },
   {
     "name": "consensuslaag",
-    "link": "consensus-layer.html"
+    "link": "consensuslaag.html"
   },
   {
     "name": "consensusmechanisme",
-    "link": "consensus-mechanism.html"
+    "link": "consensusmechanisme.html"
   },
   {
     "name": "Consensys",
@@ -301,7 +301,7 @@
   },
   {
     "name": "contract-account",
-    "link": "contract-account.html"
+    "link": "contractaccount.html"
   },
   {
     "name": "CoolWallet",
@@ -309,27 +309,27 @@
   },
   {
     "name": "cryptobounty's",
-    "link": "crypto-bounties.html"
+    "link": "cryptobountys.html"
   },
   {
     "name": "cryptofonds",
-    "link": "crypto-fund.html"
+    "link": "cryptofonds.html"
   },
   {
     "name": "cryptowallet",
-    "link": "crypto-wallet.html"
+    "link": "cryptowallet.html"
   },
   {
     "name": "crypto-",
-    "link": "crypto-.html"
+    "link": "crypto.html"
   },
   {
     "name": "crypto-asset",
-    "link": "crypto-asset.html"
+    "link": "cryptoasset.html"
   },
   {
     "name": "crypto-compliance",
-    "link": "crypto-compliance.html"
+    "link": "cryptocompliance.html"
   },
   {
     "name": "CryptoCompare",
@@ -337,15 +337,15 @@
   },
   {
     "name": "cryptocurrency—cryptomunt",
-    "link": "cryptocurrency.html"
+    "link": "cryptocurrencycryptomunt.html"
   },
   {
     "name": "crypto-economie",
-    "link": "cryptoeconomics.html"
+    "link": "cryptoeconomie.html"
   },
   {
     "name": "cryptografie",
-    "link": "cryptography.html"
+    "link": "cryptografie.html"
   },
   {
     "name": "Curve",
@@ -353,11 +353,11 @@
   },
   {
     "name": "custody—bewaring--beheer",
-    "link": "custody.html"
+    "link": "custodybewaringbeheer.html"
   },
   {
     "name": "D'CENT",
-    "link": "d'cent.html"
+    "link": "dcent.html"
   },
   {
     "name": "DAI",
@@ -377,19 +377,19 @@
   },
   {
     "name": "decentralisatie",
-    "link": "decentralization.html"
+    "link": "decentralisatie.html"
   },
   {
     "name": "decentrale app",
-    "link": "decentralized-application.html"
+    "link": "decentrale-app.html"
   },
   {
     "name": "Decentrale autonome organisatie",
-    "link": "decentralized-autonomous-organization.html"
+    "link": "decentrale-autonome-organisatie.html"
   },
   {
     "name": "decentrale exchange",
-    "link": "decentralized-exchange.html"
+    "link": "decentrale-exchange.html"
   },
   {
     "name": "decentralized finance",
@@ -397,7 +397,7 @@
   },
   {
     "name": "gedecentraliseerd web",
-    "link": "decentralized-web.html"
+    "link": "gedecentraliseerd-web.html"
   },
   {
     "name": "DeFi",
@@ -405,23 +405,23 @@
   },
   {
     "name": "DPoS (delegated proof-of-stake)",
-    "link": "delegated-proof-of-stake-(dpos).html"
+    "link": "dpos-delegated-proofofstake.html"
   },
   {
     "name": "denominaties",
-    "link": "denominations.html"
+    "link": "denominaties.html"
   },
   {
     "name": "storten",
-    "link": "deposit.html"
+    "link": "storten.html"
   },
   {
     "name": "afleiden",
-    "link": "derive.html"
+    "link": "afleiden.html"
   },
   {
     "name": "ontwikkelaar",
-    "link": "dev.html"
+    "link": "ontwikkelaar.html"
   },
   {
     "name": "Devcon",
@@ -429,7 +429,7 @@
   },
   {
     "name": "ontwikkelaar",
-    "link": "developer.html"
+    "link": "ontwikkelaar.html"
   },
   {
     "name": "DEX",
@@ -437,7 +437,7 @@
   },
   {
     "name": "difficulty--moeilijkheid",
-    "link": "difficulty.html"
+    "link": "difficultymoeilijkheid.html"
   },
   {
     "name": "difficulty bomb",
@@ -445,15 +445,15 @@
   },
   {
     "name": "digitale asset",
-    "link": "digital-asset.html"
+    "link": "digitale-asset.html"
   },
   {
     "name": "digitale identiteit",
-    "link": "digital-identity.html"
+    "link": "digitale-identiteit.html"
   },
   {
     "name": "digitale handtekening",
-    "link": "digital-signature.html"
+    "link": "digitale-handtekening.html"
   },
   {
     "name": "Diligence",
@@ -469,11 +469,11 @@
   },
   {
     "name": "double-spending",
-    "link": "double-spend.html"
+    "link": "doublespending.html"
   },
   {
     "name": "ecosysteem",
-    "link": "ecosystem.html"
+    "link": "ecosysteem.html"
   },
   {
     "name": "EEA",
@@ -481,15 +481,15 @@
   },
   {
     "name": "EIP-1559",
-    "link": "eip-1559.html"
+    "link": "eip1559.html"
   },
   {
     "name": "sleutel met encryptie",
-    "link": "encrypted-key.html"
+    "link": "sleutel-met-encryptie.html"
   },
   {
     "name": "encryptie--versleuteling",
-    "link": "encryption.html"
+    "link": "encryptieversleuteling.html"
   },
   {
     "name": "ENS",
@@ -497,7 +497,7 @@
   },
   {
     "name": "entropie",
-    "link": "entropy.html"
+    "link": "entropie.html"
   },
   {
     "name": "epoch",
@@ -509,15 +509,15 @@
   },
   {
     "name": "ERC-1155",
-    "link": "erc-1155.html"
+    "link": "erc1155.html"
   },
   {
     "name": "ERC-20",
-    "link": "erc-20.html"
+    "link": "erc20.html"
   },
   {
     "name": "ERC-721",
-    "link": "erc-721.html"
+    "link": "erc721.html"
   },
   {
     "name": "ETH",
@@ -533,7 +533,7 @@
   },
   {
     "name": "Ethereum 2.0",
-    "link": "ethereum-2.0.html"
+    "link": "ethereum-20.html"
   },
   {
     "name": "Ethereum Improvement Proposal",
@@ -565,15 +565,15 @@
   },
   {
     "name": "exchange--cryptobeurs",
-    "link": "exchange.html"
+    "link": "exchangecryptobeurs.html"
   },
   {
     "name": "uitvoeringsclient",
-    "link": "execution-client.html"
+    "link": "uitvoeringsclient.html"
   },
   {
     "name": "uitvoeringslaag",
-    "link": "execution-layer.html"
+    "link": "uitvoeringslaag.html"
   },
   {
     "name": "Fantom",
@@ -585,23 +585,23 @@
   },
   {
     "name": "fouttolerant",
-    "link": "fault-tolerant.html"
+    "link": "fouttolerant.html"
   },
   {
     "name": "fiatgeld--fiduciair geld",
-    "link": "fiat-currency.html"
+    "link": "fiatgeldfiduciair-geld.html"
   },
   {
     "name": "finaliteit",
-    "link": "finality.html"
+    "link": "finaliteit.html"
   },
   {
     "name": "snelheid van finaliteit",
-    "link": "finality-rate.html"
+    "link": "snelheid-van-finaliteit.html"
   },
   {
     "name": "financiële technologie",
-    "link": "financial-technology.html"
+    "link": "financile-technologie.html"
   },
   {
     "name": "finney",
@@ -625,11 +625,11 @@
   },
   {
     "name": "fractioneel eigendom",
-    "link": "fractional-ownership.html"
+    "link": "fractioneel-eigendom.html"
   },
   {
     "name": "fraudebestendig",
-    "link": "fraud-proof.html"
+    "link": "fraudebestendig.html"
   },
   {
     "name": "FTM",
@@ -649,11 +649,11 @@
   },
   {
     "name": "transactiekosten--gas fee",
-    "link": "gas-fee.html"
+    "link": "transactiekostengas-fee.html"
   },
   {
     "name": "maximale transactiekosten--gas limit",
-    "link": "gas-limit.html"
+    "link": "maximale-transactiekostengas-limit.html"
   },
   {
     "name": "gas price",
@@ -669,7 +669,7 @@
   },
   {
     "name": "genesisblok",
-    "link": "genesis-block.html"
+    "link": "genesisblok.html"
   },
   {
     "name": "Gitcoin",
@@ -697,7 +697,7 @@
   },
   {
     "name": "halveren",
-    "link": "halving.html"
+    "link": "halveren.html"
   },
   {
     "name": "hard fork",
@@ -705,7 +705,7 @@
   },
   {
     "name": "hardwarewallet",
-    "link": "hardware-wallet.html"
+    "link": "hardwarewallet.html"
   },
   {
     "name": "Harmony",
@@ -717,23 +717,23 @@
   },
   {
     "name": "HD-wallet (hierarchical deterministic wallet)",
-    "link": "hd-wallet.html"
+    "link": "hdwallet-hierarchical-deterministic-wallet.html"
   },
   {
     "name": "hexadecimale data",
-    "link": "hex-data.html"
+    "link": "hexadecimale-data.html"
   },
   {
     "name": "warme opslag--hot storage",
-    "link": "hot-storage.html"
+    "link": "warme-opslaghot-storage.html"
   },
   {
     "name": "warme wallet--warme opslag--hot wallet",
-    "link": "hot-wallet.html"
+    "link": "warme-walletwarme-opslaghot-wallet.html"
   },
   {
     "name": "hybride netwerk",
-    "link": "hybrid-network.html"
+    "link": "hybride-netwerk.html"
   },
   {
     "name": "Hyperledger",
@@ -741,7 +741,7 @@
   },
   {
     "name": "IBC-protocol (inter-blockchain communication)",
-    "link": "ibc.html"
+    "link": "ibcprotocol-interblockchain-communication.html"
   },
   {
     "name": "ICO",
@@ -753,7 +753,7 @@
   },
   {
     "name": "onveranderlijkheid",
-    "link": "immutability.html"
+    "link": "onveranderlijkheid.html"
   },
   {
     "name": "Infura",
@@ -761,23 +761,23 @@
   },
   {
     "name": "handel met voorkennis",
-    "link": "insider-trading.html"
+    "link": "handel-met-voorkennis.html"
   },
   {
     "name": "interne transactie",
-    "link": "internal-transaction.html"
+    "link": "interne-transactie.html"
   },
   {
     "name": "interoperabiliteit",
-    "link": "interoperability.html"
+    "link": "interoperabiliteit.html"
   },
   {
     "name": "IPFS (InterPlanetary File System)",
-    "link": "interplanetary-file-system-(ipfs).html"
+    "link": "ipfs-interplanetary-file-system.html"
   },
   {
     "name": "IP-adres",
-    "link": "ip-address.html"
+    "link": "ipadres.html"
   },
   {
     "name": "IPFS",
@@ -789,15 +789,15 @@
   },
   {
     "name": "JSON-bestand",
-    "link": "json-file.html"
+    "link": "jsonbestand.html"
   },
   {
     "name": "JSON-RPC",
-    "link": "json-rpc.html"
+    "link": "jsonrpc.html"
   },
   {
     "name": "keystore-bestand",
-    "link": "keystore-file.html"
+    "link": "keystorebestand.html"
   },
   {
     "name": "Know Your Customer",
@@ -829,11 +829,11 @@
   },
   {
     "name": "laag 1",
-    "link": "layer-1.html"
+    "link": "laag-1.html"
   },
   {
     "name": "laag 2",
-    "link": "layer-2.html"
+    "link": "laag-2.html"
   },
   {
     "name": "Ledger",
@@ -849,7 +849,7 @@
   },
   {
     "name": "bibliotheek",
-    "link": "library.html"
+    "link": "bibliotheek.html"
   },
   {
     "name": "Lido",
@@ -869,19 +869,19 @@
   },
   {
     "name": "liquidatie",
-    "link": "liquidation.html"
+    "link": "liquidatie.html"
   },
   {
     "name": "liquiditeit",
-    "link": "liquidity.html"
+    "link": "liquiditeit.html"
   },
   {
     "name": "liquiditeitspool",
-    "link": "liquidity-pool.html"
+    "link": "liquiditeitspool.html"
   },
   {
     "name": "liquiditeit staken",
-    "link": "liquidity-staking.html"
+    "link": "liquiditeit-staken.html"
   },
   {
     "name": "mainnet",
@@ -897,7 +897,7 @@
   },
   {
     "name": "marktkapitalisatie",
-    "link": "market-cap.html"
+    "link": "marktkapitalisatie.html"
   },
   {
     "name": "MATIC",
@@ -921,7 +921,7 @@
   },
   {
     "name": "Merkle Patricia-trie",
-    "link": "merkle-patricia-trie.html"
+    "link": "merkle-patriciatrie.html"
   },
   {
     "name": "Mesh",
@@ -957,7 +957,7 @@
   },
   {
     "name": "MEV (maximal extractable value)",
-    "link": "mev.html"
+    "link": "mev-maximal-extractable-value.html"
   },
   {
     "name": "MFA",
@@ -977,7 +977,7 @@
   },
   {
     "name": "minten",
-    "link": "mint.html"
+    "link": "minten.html"
   },
   {
     "name": "mnemonic phrase",
@@ -989,7 +989,7 @@
   },
   {
     "name": "modulaire blockchain",
-    "link": "modular-blockchain.html"
+    "link": "modulaire-blockchain.html"
   },
   {
     "name": "MoonPay",
@@ -997,11 +997,11 @@
   },
   {
     "name": "multi-sig",
-    "link": "multi-sig.html"
+    "link": "multisig.html"
   },
   {
     "name": "multi-signature wallet (multisig)",
-    "link": "multi-signature-wallet.html"
+    "link": "multisignature-wallet-multisig.html"
   },
   {
     "name": "nested blockchain",
@@ -1009,15 +1009,15 @@
   },
   {
     "name": "netwerk",
-    "link": "network.html"
+    "link": "netwerk.html"
   },
   {
     "name": "netwerkcongestie",
-    "link": "network-congestion.html"
+    "link": "netwerkcongestie.html"
   },
   {
     "name": "NFC (near-field communication)",
-    "link": "nfc.html"
+    "link": "nfc-nearfield-communication.html"
   },
   {
     "name": "NFT",
@@ -1025,11 +1025,11 @@
   },
   {
     "name": "NFT-aggregator",
-    "link": "nft-aggregator.html"
+    "link": "nftaggregator.html"
   },
   {
     "name": "NFT-drop",
-    "link": "nft-drop.html"
+    "link": "nftdrop.html"
   },
   {
     "name": "Ngrave",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "non-fungible token",
-    "link": "non-fungible-token.html"
+    "link": "nonfungible-token.html"
   },
   {
     "name": "nonce",
@@ -1049,23 +1049,23 @@
   },
   {
     "name": "off-chain",
-    "link": "off-chain.html"
+    "link": "offchain.html"
   },
   {
     "name": "off-ramp",
-    "link": "off-ramp.html"
+    "link": "offramp.html"
   },
   {
     "name": "ommerblock",
-    "link": "ommer-block.html"
+    "link": "ommerblock.html"
   },
   {
     "name": "on-chain",
-    "link": "on-chain.html"
+    "link": "onchain.html"
   },
   {
     "name": "on-ramp",
-    "link": "on-ramp.html"
+    "link": "onramp.html"
   },
   {
     "name": "ONE",
@@ -1105,19 +1105,19 @@
   },
   {
     "name": "pariteit",
-    "link": "parity.html"
+    "link": "pariteit.html"
   },
   {
     "name": "wachtwoordzin",
-    "link": "passphrase.html"
+    "link": "wachtwoordzin.html"
   },
   {
     "name": "wachtwoord",
-    "link": "password.html"
+    "link": "wachtwoord.html"
   },
   {
     "name": "wachtwoordmanager",
-    "link": "password-manager.html"
+    "link": "wachtwoordmanager.html"
   },
   {
     "name": "PayPal",
@@ -1125,7 +1125,7 @@
   },
   {
     "name": "peer-to-peer",
-    "link": "peer-to-peer.html"
+    "link": "peertopeer.html"
   },
   {
     "name": "permissioned ledger",
@@ -1169,7 +1169,7 @@
   },
   {
     "name": "privésleutel",
-    "link": "private-key.html"
+    "link": "privsleutel.html"
   },
   {
     "name": "Proof of Stake",
@@ -1185,23 +1185,23 @@
   },
   {
     "name": "openbaar adres",
-    "link": "public-address.html"
+    "link": "openbaar-adres.html"
   },
   {
     "name": "openbare blockchain--public blockchain",
-    "link": "public-blockchain.html"
+    "link": "openbare-blockchainpublic-blockchain.html"
   },
   {
     "name": "publieke sleutel--public key",
-    "link": "public-key.html"
+    "link": "publieke-sleutelpublic-key.html"
   },
   {
     "name": "asymmetrische cryptografie--publieke-sleutelcryptografie",
-    "link": "public-key-cryptography.html"
+    "link": "asymmetrische-cryptografiepubliekesleutelcryptografie.html"
   },
   {
     "name": "QR-code",
-    "link": "qr-code.html"
+    "link": "qrcode.html"
   },
   {
     "name": "Quorum",
@@ -1269,15 +1269,15 @@
   },
   {
     "name": "schaalbaarheid",
-    "link": "scalability.html"
+    "link": "schaalbaarheid.html"
   },
   {
     "name": "opschalen",
-    "link": "scaling.html"
+    "link": "opschalen.html"
   },
   {
     "name": "scam--oplichting",
-    "link": "scam.html"
+    "link": "scamoplichting.html"
   },
   {
     "name": "scrypt",
@@ -1289,15 +1289,15 @@
   },
   {
     "name": "zoekmachine",
-    "link": "search-engine.html"
+    "link": "zoekmachine.html"
   },
   {
     "name": "Geheime herstelzin",
-    "link": "secret-recovery-phrase.html"
+    "link": "geheime-herstelzin.html"
   },
   {
     "name": "Beveiligingstoken",
-    "link": "security-token.html"
+    "link": "beveiligingstoken.html"
   },
   {
     "name": "Security Token Offering",
@@ -1309,11 +1309,11 @@
   },
   {
     "name": "self-custody--zelfbewaring--eigen beheer",
-    "link": "self-custody.html"
+    "link": "selfcustodyzelfbewaringeigen-beheer.html"
   },
   {
     "name": "zelfuitvoerend",
-    "link": "self-executing.html"
+    "link": "zelfuitvoerend.html"
   },
   {
     "name": "Sepolia",
@@ -1325,7 +1325,7 @@
   },
   {
     "name": "serialisatie",
-    "link": "serialization.html"
+    "link": "serialisatie.html"
   },
   {
     "name": "shard chain",
@@ -1337,7 +1337,7 @@
   },
   {
     "name": "afgeschermde transactie",
-    "link": "shielded-transaction.html"
+    "link": "afgeschermde-transactie.html"
   },
   {
     "name": "sidechain",
@@ -1357,7 +1357,7 @@
   },
   {
     "name": "slim contract",
-    "link": "smart-contract.html"
+    "link": "slim-contract.html"
   },
   {
     "name": "soft fork",
@@ -1373,7 +1373,7 @@
   },
   {
     "name": "staken",
-    "link": "stake.html"
+    "link": "staken.html"
   },
   {
     "name": "staking",
@@ -1381,11 +1381,11 @@
   },
   {
     "name": "status",
-    "link": "state.html"
+    "link": "status.html"
   },
   {
     "name": "statuskanalen",
-    "link": "state-channels.html"
+    "link": "statuskanalen.html"
   },
   {
     "name": "STO",
@@ -1397,7 +1397,7 @@
   },
   {
     "name": "swappen",
-    "link": "swap.html"
+    "link": "swappen.html"
   },
   {
     "name": "szabo",
@@ -1433,31 +1433,31 @@
   },
   {
     "name": "token-lock-up",
-    "link": "token-lockup.html"
+    "link": "tokenlockup.html"
   },
   {
     "name": "tokenstandaard",
-    "link": "token-standard.html"
+    "link": "tokenstandaard.html"
   },
   {
     "name": "transactie",
-    "link": "transaction.html"
+    "link": "transactie.html"
   },
   {
     "name": "transactieblok",
-    "link": "transaction-block.html"
+    "link": "transactieblok.html"
   },
   {
     "name": "transactiekosten",
-    "link": "transaction-fee.html"
+    "link": "transactiekosten.html"
   },
   {
     "name": "transactie-ID",
-    "link": "transaction-id.html"
+    "link": "transactieid.html"
   },
   {
     "name": "transactiepool",
-    "link": "transaction-pool.html"
+    "link": "transactiepool.html"
   },
   {
     "name": "Transak",
@@ -1477,7 +1477,7 @@
   },
   {
     "name": "Turingvolledig",
-    "link": "turing-complete.html"
+    "link": "turingvolledig.html"
   },
   {
     "name": "TVL",
@@ -1493,7 +1493,7 @@
   },
   {
     "name": "sleutel zonder encryptie",
-    "link": "unencrypted-key.html"
+    "link": "sleutel-zonder-encryptie.html"
   },
   {
     "name": "Uniswap",
@@ -1505,11 +1505,11 @@
   },
   {
     "name": "unstaken",
-    "link": "unstake.html"
+    "link": "unstaken.html"
   },
   {
     "name": "upgraden",
-    "link": "upgrade.html"
+    "link": "upgraden.html"
   },
   {
     "name": "URL",
@@ -1529,11 +1529,11 @@
   },
   {
     "name": "bewijs van geldigheid",
-    "link": "validity-proof.html"
+    "link": "bewijs-van-geldigheid.html"
   },
   {
     "name": "vesting--wacht-",
-    "link": "vesting.html"
+    "link": "vestingwacht.html"
   },
   {
     "name": "VillageDAO",
@@ -1545,7 +1545,7 @@
   },
   {
     "name": "walletadres",
-    "link": "wallet-address.html"
+    "link": "walletadres.html"
   },
   {
     "name": "WalletConnect",
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Web 3.0",
-    "link": "web-3.0.html"
+    "link": "web-30.html"
   },
   {
     "name": "web3",
@@ -1581,7 +1581,7 @@
   },
   {
     "name": "verpakken",
-    "link": "wrapping.html"
+    "link": "verpakken.html"
   },
   {
     "name": "Wyre",
@@ -1589,11 +1589,11 @@
   },
   {
     "name": "XPRIV (Extended Private Key)",
-    "link": "xpriv.html"
+    "link": "xpriv-extended-private-key.html"
   },
   {
     "name": "XPUB (Extended Public Key)",
-    "link": "xpub.html"
+    "link": "xpub-extended-public-key.html"
   },
   {
     "name": "yield farming",
@@ -1601,23 +1601,23 @@
   },
   {
     "name": "yield-bearing tokens",
-    "link": "yield-bearing-tokens.html"
+    "link": "yieldbearing-tokens.html"
   },
   {
     "name": "nuladres",
-    "link": "zero-address.html"
+    "link": "nuladres.html"
   },
   {
     "name": "zero-knowledge proof",
-    "link": "zero-knowledge-proof.html"
+    "link": "zeroknowledge-proof.html"
   },
   {
     "name": "zero-knowledge rollup",
-    "link": "zero-knowledge-rollup.html"
+    "link": "zeroknowledge-rollup.html"
   },
   {
     "name": "zk-SNARK's",
-    "link": "zk-snarks.html"
+    "link": "zksnarks.html"
   },
   {
     "name": "0xplain",

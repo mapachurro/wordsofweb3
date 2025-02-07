@@ -17,7 +17,7 @@
   },
   {
     "name": "51% attack",
-    "link": "51%-attack.html"
+    "link": "51-attack.html"
   },
   {
     "name": "Aave",
@@ -29,7 +29,7 @@
   },
   {
     "name": "BACS transfer",
-    "link": "ach-transfer.html"
+    "link": "bacs-transfer.html"
   },
   {
     "name": "address",
@@ -45,7 +45,7 @@
   },
   {
     "name": "air-gapping",
-    "link": "air-gapping.html"
+    "link": "airgapping.html"
   },
   {
     "name": "airdrop",
@@ -217,7 +217,7 @@
   },
   {
     "name": "centralised exchange",
-    "link": "centralized-exchange.html"
+    "link": "centralised-exchange.html"
   },
   {
     "name": "CEX",
@@ -321,15 +321,15 @@
   },
   {
     "name": "crypto-",
-    "link": "crypto-.html"
+    "link": "crypto.html"
   },
   {
     "name": "crypto-asset",
-    "link": "crypto-asset.html"
+    "link": "cryptoasset.html"
   },
   {
     "name": "crypto-compliance",
-    "link": "crypto-compliance.html"
+    "link": "cryptocompliance.html"
   },
   {
     "name": "CryptoCompare",
@@ -357,7 +357,7 @@
   },
   {
     "name": "D'CENT",
-    "link": "d'cent.html"
+    "link": "dcent.html"
   },
   {
     "name": "DAI",
@@ -377,27 +377,27 @@
   },
   {
     "name": "decentralisation",
-    "link": "decentralization.html"
+    "link": "decentralisation.html"
   },
   {
     "name": "decentralised application",
-    "link": "decentralized-application.html"
+    "link": "decentralised-application.html"
   },
   {
     "name": "Decentralised Autonomous Organisation",
-    "link": "decentralized-autonomous-organization.html"
+    "link": "decentralised-autonomous-organisation.html"
   },
   {
     "name": "decentralised exchange",
-    "link": "decentralized-exchange.html"
+    "link": "decentralised-exchange.html"
   },
   {
     "name": "decentralised finance",
-    "link": "decentralized-finance.html"
+    "link": "decentralised-finance.html"
   },
   {
     "name": "decentralised web",
-    "link": "decentralized-web.html"
+    "link": "decentralised-web.html"
   },
   {
     "name": "DeFi",
@@ -405,7 +405,7 @@
   },
   {
     "name": "Delegated proof of stake (DPoS)",
-    "link": "delegated-proof-of-stake-(dpos).html"
+    "link": "delegated-proof-of-stake-dpos.html"
   },
   {
     "name": "denominations",
@@ -481,7 +481,7 @@
   },
   {
     "name": "EIP-1559",
-    "link": "eip-1559.html"
+    "link": "eip1559.html"
   },
   {
     "name": "encrypted key",
@@ -509,15 +509,15 @@
   },
   {
     "name": "ERC-1155",
-    "link": "erc-1155.html"
+    "link": "erc1155.html"
   },
   {
     "name": "ERC-20",
-    "link": "erc-20.html"
+    "link": "erc20.html"
   },
   {
     "name": "ERC-721",
-    "link": "erc-721.html"
+    "link": "erc721.html"
   },
   {
     "name": "ETH",
@@ -533,7 +533,7 @@
   },
   {
     "name": "Ethereum 2.0",
-    "link": "ethereum-2.0.html"
+    "link": "ethereum-20.html"
   },
   {
     "name": "Ethereum Improvement Proposal",
@@ -585,7 +585,7 @@
   },
   {
     "name": "fault-tolerant",
-    "link": "fault-tolerant.html"
+    "link": "faulttolerant.html"
   },
   {
     "name": "fiat currency",
@@ -721,7 +721,7 @@
   },
   {
     "name": "dữ liệu thập lục phân",
-    "link": "hex-data.html"
+    "link": "d-liu-thp-lc-phn.html"
   },
   {
     "name": "hot storage",
@@ -773,7 +773,7 @@
   },
   {
     "name": "InterPlanetary File System (IPFS)",
-    "link": "interplanetary-file-system-(ipfs).html"
+    "link": "interplanetary-file-system-ipfs.html"
   },
   {
     "name": "IP address",
@@ -793,7 +793,7 @@
   },
   {
     "name": "JSON-RPC",
-    "link": "json-rpc.html"
+    "link": "jsonrpc.html"
   },
   {
     "name": "keystore file",
@@ -997,11 +997,11 @@
   },
   {
     "name": "multi-sig",
-    "link": "multi-sig.html"
+    "link": "multisig.html"
   },
   {
     "name": "multi-signature wallet",
-    "link": "multi-signature-wallet.html"
+    "link": "multisignature-wallet.html"
   },
   {
     "name": "nested blockchain",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "non-fungible token",
-    "link": "non-fungible-token.html"
+    "link": "nonfungible-token.html"
   },
   {
     "name": "nonce",
@@ -1049,11 +1049,11 @@
   },
   {
     "name": "off-chain",
-    "link": "off-chain.html"
+    "link": "offchain.html"
   },
   {
     "name": "off-ramp",
-    "link": "off-ramp.html"
+    "link": "offramp.html"
   },
   {
     "name": "ommer block",
@@ -1061,11 +1061,11 @@
   },
   {
     "name": "on-chain",
-    "link": "on-chain.html"
+    "link": "onchain.html"
   },
   {
     "name": "on-ramp",
-    "link": "on-ramp.html"
+    "link": "onramp.html"
   },
   {
     "name": "ONE",
@@ -1125,7 +1125,7 @@
   },
   {
     "name": "peer-to-peer",
-    "link": "peer-to-peer.html"
+    "link": "peertopeer.html"
   },
   {
     "name": "permissioned ledger",
@@ -1197,7 +1197,7 @@
   },
   {
     "name": "public-key cryptography",
-    "link": "public-key-cryptography.html"
+    "link": "publickey-cryptography.html"
   },
   {
     "name": "QR code",
@@ -1309,11 +1309,11 @@
   },
   {
     "name": "self-custody",
-    "link": "self-custody.html"
+    "link": "selfcustody.html"
   },
   {
     "name": "self-executing",
-    "link": "self-executing.html"
+    "link": "selfexecuting.html"
   },
   {
     "name": "Sepolia",
@@ -1325,7 +1325,7 @@
   },
   {
     "name": "serialisation",
-    "link": "serialization.html"
+    "link": "serialisation.html"
   },
   {
     "name": "shard chain",
@@ -1477,7 +1477,7 @@
   },
   {
     "name": "Turing-complete",
-    "link": "turing-complete.html"
+    "link": "turingcomplete.html"
   },
   {
     "name": "TVL",
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Web 3.0",
-    "link": "web-3.0.html"
+    "link": "web-30.html"
   },
   {
     "name": "web3",
@@ -1601,7 +1601,7 @@
   },
   {
     "name": "yield-bearing tokens",
-    "link": "yield-bearing-tokens.html"
+    "link": "yieldbearing-tokens.html"
   },
   {
     "name": "zero address",
@@ -1609,15 +1609,15 @@
   },
   {
     "name": "zero-knowledge proof",
-    "link": "zero-knowledge-proof.html"
+    "link": "zeroknowledge-proof.html"
   },
   {
     "name": "zero-knowledge rollup",
-    "link": "zero-knowledge-rollup.html"
+    "link": "zeroknowledge-rollup.html"
   },
   {
     "name": "zk-SNARKs",
-    "link": "zk-snarks.html"
+    "link": "zksnarks.html"
   },
   {
     "name": "0xplain",

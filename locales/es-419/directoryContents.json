@@ -13,7 +13,7 @@
   },
   {
     "name": "autenticación de dos factores",
-    "link": "2fa.html"
+    "link": "autenticacin-de-dos-factores.html"
   },
   {
     "name": "3Box Labs",
@@ -21,7 +21,7 @@
   },
   {
     "name": "ataque de 51 %",
-    "link": "51%-attack.html"
+    "link": "ataque-de-51.html"
   },
   {
     "name": "Aave",
@@ -33,11 +33,11 @@
   },
   {
     "name": "cuenta",
-    "link": "account.html"
+    "link": "cuenta.html"
   },
   {
     "name": "transferencia ACH",
-    "link": "ach-transfer.html"
+    "link": "transferencia-ach.html"
   },
   {
     "name": "Active Management",
@@ -45,7 +45,7 @@
   },
   {
     "name": "Servicios Validados Activamente (AVS)",
-    "link": "actively-validated-services-avs.html"
+    "link": "servicios-validados-activamente-avs.html"
   },
   {
     "name": "Ad Hoc",
@@ -53,11 +53,11 @@
   },
   {
     "name": "dirección",
-    "link": "address.html"
+    "link": "direccin.html"
   },
   {
     "name": "agregador",
-    "link": "aggregator.html"
+    "link": "agregador.html"
   },
   {
     "name": "Agoric",
@@ -65,7 +65,7 @@
   },
   {
     "name": "separación física entre sistemas (air gap)",
-    "link": "air-gapping.html"
+    "link": "separacin-fsica-entre-sistemas-air-gap.html"
   },
   {
     "name": "airdrop",
@@ -81,15 +81,15 @@
   },
   {
     "name": "algoritmo",
-    "link": "algorithm.html"
+    "link": "algoritmo.html"
   },
   {
     "name": "All or None Order (AON)",
-    "link": "all-or-none-order.html"
+    "link": "all-or-none-order-aon.html"
   },
   {
     "name": "All-Time High (ATH)",
-    "link": "all-time-high.html"
+    "link": "alltime-high-ath.html"
   },
   {
     "name": "Allocation",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Antilavado de dinero (AML)",
-    "link": "anti-money-laundering.html"
+    "link": "antilavado-de-dinero-aml.html"
   },
   {
     "name": "API",
@@ -129,15 +129,15 @@
   },
   {
     "name": "Application Programming Interface (API)",
-    "link": "application-programming-interface.html"
+    "link": "application-programming-interface-api.html"
   },
   {
     "name": "Application-Specific Integrated Circuit (ASIC)",
-    "link": "application-specific-integrated-circuit.html"
+    "link": "applicationspecific-integrated-circuit-asic.html"
   },
   {
     "name": "Arbitraje",
-    "link": "arbitrage.html"
+    "link": "arbitraje.html"
   },
   {
     "name": "Arbitrum",
@@ -145,23 +145,23 @@
   },
   {
     "name": "ARC-20",
-    "link": "arc-20.html"
+    "link": "arc20.html"
   },
   {
     "name": "Inteligencia artificial (IA)",
-    "link": "artificial-intelligence-ai.html"
+    "link": "inteligencia-artificial-ia.html"
   },
   {
     "name": "Circuito integrado de aplicación específica",
-    "link": "asic.html"
+    "link": "circuito-integrado-de-aplicacin-especfica.html"
   },
   {
     "name": "ASIC-resistant",
-    "link": "asic-resistant.html"
+    "link": "asicresistant.html"
   },
   {
     "name": "Ask Price",
-    "link": "asking-price.html"
+    "link": "ask-price.html"
   },
   {
     "name": "Asset Management",
@@ -169,11 +169,11 @@
   },
   {
     "name": "procedencia de los activos",
-    "link": "asset-provenance.html"
+    "link": "procedencia-de-los-activos.html"
   },
   {
     "name": "Activos en gestión (AUM)",
-    "link": "assets-under-management-aum.html"
+    "link": "activos-en-gestin-aum.html"
   },
   {
     "name": "Asynchronous",
@@ -189,7 +189,7 @@
   },
   {
     "name": "atestación",
-    "link": "attestation.html"
+    "link": "atestacin.html"
   },
   {
     "name": "Auction",
@@ -217,7 +217,7 @@
   },
   {
     "name": "B-Tokens",
-    "link": "b-tokens.html"
+    "link": "btokens.html"
   },
   {
     "name": "Bags",
@@ -229,7 +229,7 @@
   },
   {
     "name": "cadena Beacon",
-    "link": "beacon-chain.html"
+    "link": "cadena-beacon.html"
   },
   {
     "name": "Bear Market",
@@ -241,19 +241,19 @@
   },
   {
     "name": "BEP-1155",
-    "link": "bep-1155.html"
+    "link": "bep1155.html"
   },
   {
     "name": "BEP-20",
-    "link": "bep-20.html"
+    "link": "bep20.html"
   },
   {
     "name": "BEP-721",
-    "link": "bep-721.html"
+    "link": "bep721.html"
   },
   {
     "name": "BEP-95",
-    "link": "bep-95.html"
+    "link": "bep95.html"
   },
   {
     "name": "Besu",
@@ -269,7 +269,7 @@
   },
   {
     "name": "Bid-Ask Spread",
-    "link": "bid-ask-spread.html"
+    "link": "bidask-spread.html"
   },
   {
     "name": "Bid Price",
@@ -281,11 +281,11 @@
   },
   {
     "name": "Blockchain Charity Foundation",
-    "link": "binance-blockchain-charity-foundation.html"
+    "link": "blockchain-charity-foundation.html"
   },
   {
     "name": "Binance Ecosystem Fund (BEF)",
-    "link": "binance-ecosystem-fund.html"
+    "link": "binance-ecosystem-fund-bef.html"
   },
   {
     "name": "Binancian",
@@ -305,7 +305,7 @@
   },
   {
     "name": "Maximalistas de Bitcoin",
-    "link": "bitcoin-maximalists.html"
+    "link": "maximalistas-de-bitcoin.html"
   },
   {
     "name": "Bitcoin Pizza",
@@ -317,11 +317,11 @@
   },
   {
     "name": "bloque",
-    "link": "block.html"
+    "link": "bloque.html"
   },
   {
     "name": "explorador de bloques",
-    "link": "block-explorer.html"
+    "link": "explorador-de-bloques.html"
   },
   {
     "name": "Block header",
@@ -329,15 +329,15 @@
   },
   {
     "name": "altura del bloque",
-    "link": "block-height.html"
+    "link": "altura-del-bloque.html"
   },
   {
     "name": "recompensa por bloque",
-    "link": "block-reward.html"
+    "link": "recompensa-por-bloque.html"
   },
   {
     "name": "tiempo del bloque",
-    "link": "block-time.html"
+    "link": "tiempo-del-bloque.html"
   },
   {
     "name": "Blockaid",
@@ -345,15 +345,15 @@
   },
   {
     "name": "cadena de bloques",
-    "link": "blockchain.html"
+    "link": "cadena-de-bloques.html"
   },
   {
     "name": "explorador de cadenas de bloques",
-    "link": "blockchain-explorer.html"
+    "link": "explorador-de-cadenas-de-bloques.html"
   },
   {
     "name": "trilema de la cadenas de bloques",
-    "link": "blockchain-trilemma.html"
+    "link": "trilema-de-la-cadenas-de-bloques.html"
   },
   {
     "name": "Bloom Filter",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Token blue-chip",
-    "link": "blue-chip-token.html"
+    "link": "token-bluechip.html"
   },
   {
     "name": "BNB",
@@ -381,15 +381,15 @@
   },
   {
     "name": "Bono",
-    "link": "bond.html"
+    "link": "bono.html"
   },
   {
     "name": "recompensa",
-    "link": "bounty.html"
+    "link": "recompensa.html"
   },
   {
     "name": "monedero memorizado",
-    "link": "brain-wallet.html"
+    "link": "monedero-memorizado.html"
   },
   {
     "name": "Brave",
@@ -397,11 +397,11 @@
   },
   {
     "name": "Tokens BRC-20",
-    "link": "brc-20-tokens.html"
+    "link": "tokens-brc20.html"
   },
   {
     "name": "Break-Even Point (BEP)",
-    "link": "break-even-point.html"
+    "link": "breakeven-point-bep.html"
   },
   {
     "name": "Breakeven Multiple",
@@ -413,7 +413,7 @@
   },
   {
     "name": "puente",
-    "link": "bridge.html"
+    "link": "puente.html"
   },
   {
     "name": "BscScan",
@@ -425,7 +425,7 @@
   },
   {
     "name": "Dirección de billetera de BTC",
-    "link": "btc-wallet-address.html"
+    "link": "direccin-de-billetera-de-btc.html"
   },
   {
     "name": "BUIDL",
@@ -445,19 +445,19 @@
   },
   {
     "name": "código de bytes",
-    "link": "bytecode.html"
+    "link": "cdigo-de-bytes.html"
   },
   {
     "name": "Tolerancia a fallas bizantinas",
-    "link": "byzantine-fault-tolerance.html"
+    "link": "tolerancia-a-fallas-bizantinas.html"
   },
   {
     "name": "Actualización Byzantium",
-    "link": "byzantium-fork.html"
+    "link": "actualizacin-byzantium.html"
   },
   {
     "name": "Bloque candidato",
-    "link": "candidate-block.html"
+    "link": "bloque-candidato.html"
   },
   {
     "name": "Candlestick",
@@ -473,7 +473,7 @@
   },
   {
     "name": "Censorship-resistance",
-    "link": "censorship-resistance.html"
+    "link": "censorshipresistance.html"
   },
   {
     "name": "Central Bank",
@@ -481,11 +481,11 @@
   },
   {
     "name": "Monedas Digitales de Banco Central (CBDC)",
-    "link": "central-bank-digital-currency-cbdc.html"
+    "link": "monedas-digitales-de-banco-central-cbdc.html"
   },
   {
     "name": "Central Processing Unit (CPU)",
-    "link": "central-processing-unit.html"
+    "link": "central-processing-unit-cpu.html"
   },
   {
     "name": "Centralized",
@@ -493,7 +493,7 @@
   },
   {
     "name": "cambio centralizado",
-    "link": "centralized-exchange.html"
+    "link": "cambio-centralizado.html"
   },
   {
     "name": "CEX",
@@ -501,7 +501,7 @@
   },
   {
     "name": "ID de cadena",
-    "link": "chain-id.html"
+    "link": "id-de-cadena.html"
   },
   {
     "name": "ChatGPT",
@@ -521,7 +521,7 @@
   },
   {
     "name": "cliente",
-    "link": "client.html"
+    "link": "cliente.html"
   },
   {
     "name": "Cloud",
@@ -533,7 +533,7 @@
   },
   {
     "name": "moneda",
-    "link": "coin.html"
+    "link": "moneda.html"
   },
   {
     "name": "Coinbase Pay",
@@ -545,11 +545,11 @@
   },
   {
     "name": "almacenamiento en frío",
-    "link": "cold-storage.html"
+    "link": "almacenamiento-en-fro.html"
   },
   {
     "name": "monedero en frío",
-    "link": "cold-wallet.html"
+    "link": "monedero-en-fro.html"
   },
   {
     "name": "Collateral",
@@ -561,11 +561,11 @@
   },
   {
     "name": "Commodity Futures Trading Commission (CFTC)",
-    "link": "commodity-futures-trading-commission.html"
+    "link": "commodity-futures-trading-commission-cftc.html"
   },
   {
     "name": "compilación",
-    "link": "compile.html"
+    "link": "compilacin.html"
   },
   {
     "name": "Compound",
@@ -573,15 +573,15 @@
   },
   {
     "name": "Interés Compuesto",
-    "link": "compound-interest.html"
+    "link": "inters-compuesto.html"
   },
   {
     "name": "confirmación",
-    "link": "confirmation.html"
+    "link": "confirmacin.html"
   },
   {
     "name": "Hora de confirmación",
-    "link": "confirmation-time.html"
+    "link": "hora-de-confirmacin.html"
   },
   {
     "name": "Confluence",
@@ -589,23 +589,23 @@
   },
   {
     "name": "consenso",
-    "link": "consensus.html"
+    "link": "consenso.html"
   },
   {
     "name": "Algoritmo de consenso",
-    "link": "consensus-algorithm.html"
+    "link": "algoritmo-de-consenso.html"
   },
   {
     "name": "cliente de consenso",
-    "link": "consensus-client.html"
+    "link": "cliente-de-consenso.html"
   },
   {
     "name": "capa de consenso",
-    "link": "consensus-layer.html"
+    "link": "capa-de-consenso.html"
   },
   {
     "name": "mecanismo de consenso",
-    "link": "consensus-mechanism.html"
+    "link": "mecanismo-de-consenso.html"
   },
   {
     "name": "Consensys",
@@ -613,23 +613,23 @@
   },
   {
     "name": "Actualización Constantinople",
-    "link": "constantinople-fork.html"
+    "link": "actualizacin-constantinople.html"
   },
   {
     "name": "Consumer Price Index (CPI)",
-    "link": "consumer-price-index-(cpi).html"
+    "link": "consumer-price-index-cpi.html"
   },
   {
     "name": "Contango y backwardation",
-    "link": "contango-and-backwardation.html"
+    "link": "contango-y-backwardation.html"
   },
   {
     "name": "contrato",
-    "link": "contract.html"
+    "link": "contrato.html"
   },
   {
     "name": "cuenta de contrato",
-    "link": "contract-account.html"
+    "link": "cuenta-de-contrato.html"
   },
   {
     "name": "CoolWallet",
@@ -641,7 +641,7 @@
   },
   {
     "name": "Riesgos de la contraparte",
-    "link": "counterparty-risk.html"
+    "link": "riesgos-de-la-contraparte.html"
   },
   {
     "name": "Credentials",
@@ -649,47 +649,47 @@
   },
   {
     "name": "Puentes cross-chain",
-    "link": "cross-chain-bridges.html"
+    "link": "puentes-crosschain.html"
   },
   {
     "name": "cripto-",
-    "link": "crypto-.html"
+    "link": "cripto.html"
   },
   {
     "name": "criptoactivo",
-    "link": "crypto-asset.html"
+    "link": "criptoactivo.html"
   },
   {
     "name": "recompensas criptográficas",
-    "link": "crypto-bounties.html"
+    "link": "recompensas-criptogrficas.html"
   },
   {
     "name": "cumplimiento en materia de criptoactivos",
-    "link": "crypto-compliance.html"
+    "link": "cumplimiento-en-materia-de-criptoactivos.html"
   },
   {
     "name": "ETF de criptomonedas",
-    "link": "crypto-etfs.html"
+    "link": "etf-de-criptomonedas.html"
   },
   {
     "name": "Índice de miedo y codicia de las criptomonedas",
-    "link": "crypto-fear-and-greed-index.html"
+    "link": "ndice-de-miedo-y-codicia-de-las-criptomonedas.html"
   },
   {
     "name": "criptofondo",
-    "link": "crypto-fund.html"
+    "link": "criptofondo.html"
   },
   {
     "name": "Protocolo Cripto",
-    "link": "crypto-protocol.html"
+    "link": "protocolo-cripto.html"
   },
   {
     "name": "criptomonedero",
-    "link": "crypto-wallet.html"
+    "link": "criptomonedero.html"
   },
   {
     "name": "Invierno Cripto",
-    "link": "crypto-winter.html"
+    "link": "invierno-cripto.html"
   },
   {
     "name": "CryptoCompare",
@@ -697,15 +697,15 @@
   },
   {
     "name": "criptomoneda",
-    "link": "cryptocurrency.html"
+    "link": "criptomoneda.html"
   },
   {
     "name": "criptoeconomía",
-    "link": "cryptoeconomics.html"
+    "link": "criptoeconoma.html"
   },
   {
     "name": "criptografía",
-    "link": "cryptography.html"
+    "link": "criptografa.html"
   },
   {
     "name": "Curve",
@@ -713,11 +713,11 @@
   },
   {
     "name": "custodia",
-    "link": "custody.html"
+    "link": "custodia.html"
   },
   {
     "name": "D'CENT",
-    "link": "d'cent.html"
+    "link": "dcent.html"
   },
   {
     "name": "Daemon",
@@ -749,39 +749,39 @@
   },
   {
     "name": "Cruce de la muerte",
-    "link": "death-cross.html"
+    "link": "cruce-de-la-muerte.html"
   },
   {
     "name": "descentralización",
-    "link": "decentralization.html"
+    "link": "descentralizacin.html"
   },
   {
     "name": "aplicación descentralizada",
-    "link": "decentralized-application.html"
+    "link": "aplicacin-descentralizada.html"
   },
   {
     "name": "Decentralized Autonomous Cooperative (DAC)",
-    "link": "decentralized-autonomous-cooperative.html"
+    "link": "decentralized-autonomous-cooperative-dac.html"
   },
   {
     "name": "organización autónoma descentralizada",
-    "link": "decentralized-autonomous-organization.html"
+    "link": "organizacin-autnoma-descentralizada.html"
   },
   {
     "name": "cambio descentralizado",
-    "link": "decentralized-exchange.html"
+    "link": "cambio-descentralizado.html"
   },
   {
     "name": "finanzas descentralizadas",
-    "link": "decentralized-finance.html"
+    "link": "finanzas-descentralizadas.html"
   },
   {
     "name": "Índices descentralizados",
-    "link": "decentralized-indexes.html"
+    "link": "ndices-descentralizados.html"
   },
   {
     "name": "web descentralizada",
-    "link": "decentralized-web.html"
+    "link": "web-descentralizada.html"
   },
   {
     "name": "Decryption",
@@ -797,7 +797,7 @@
   },
   {
     "name": "DPoS",
-    "link": "delegated-proof-of-stake-(dpos).html"
+    "link": "dpos.html"
   },
   {
     "name": "Delisting",
@@ -805,23 +805,23 @@
   },
   {
     "name": "denominaciones",
-    "link": "denominations.html"
+    "link": "denominaciones.html"
   },
   {
     "name": "Pérdida de paridad: desvinculación",
-    "link": "depeg.html"
+    "link": "prdida-de-paridad-desvinculacin.html"
   },
   {
     "name": "depósito",
-    "link": "deposit.html"
+    "link": "depsito.html"
   },
   {
     "name": "Depresión",
-    "link": "depression.html"
+    "link": "depresin.html"
   },
   {
     "name": "derivar",
-    "link": "derive.html"
+    "link": "derivar.html"
   },
   {
     "name": "Design Flaw Attack",
@@ -829,7 +829,7 @@
   },
   {
     "name": "desarrollador",
-    "link": "dev.html"
+    "link": "desarrollador.html"
   },
   {
     "name": "Devcon",
@@ -837,7 +837,7 @@
   },
   {
     "name": "desarrollador",
-    "link": "developer.html"
+    "link": "desarrollador.html"
   },
   {
     "name": "DEX",
@@ -845,27 +845,27 @@
   },
   {
     "name": "Manos de diamantes",
-    "link": "diamond-hands.html"
+    "link": "manos-de-diamantes.html"
   },
   {
     "name": "dificultad",
-    "link": "difficulty.html"
+    "link": "dificultad.html"
   },
   {
     "name": "bomba de dificultad",
-    "link": "difficulty-bomb.html"
+    "link": "bomba-de-dificultad.html"
   },
   {
     "name": "activo digital",
-    "link": "digital-asset.html"
+    "link": "activo-digital.html"
   },
   {
     "name": "identidad digital",
-    "link": "digital-identity.html"
+    "link": "identidad-digital.html"
   },
   {
     "name": "firma digital",
-    "link": "digital-signature.html"
+    "link": "firma-digital.html"
   },
   {
     "name": "Diligence",
@@ -873,11 +873,11 @@
   },
   {
     "name": "Acceso directo al mercado (DMA)",
-    "link": "direct-market-access-dma.html"
+    "link": "acceso-directo-al-mercado-dma.html"
   },
   {
     "name": "Tecnología de registro distribuido",
-    "link": "distributed-ledger-technology.html"
+    "link": "tecnologa-de-registro-distribuido.html"
   },
   {
     "name": "Divergence",
@@ -893,19 +893,19 @@
   },
   {
     "name": "Do Your Own Research (DYOR)",
-    "link": "do-your-own-research.html"
+    "link": "do-your-own-research-dyor.html"
   },
   {
     "name": "Dollar Cost Averaging (DCA)",
-    "link": "dollar-cost-averaging.html"
+    "link": "dollar-cost-averaging-dca.html"
   },
   {
     "name": "Diagrama de puntos",
-    "link": "dot-plot.html"
+    "link": "diagrama-de-puntos.html"
   },
   {
     "name": "doble gasto",
-    "link": "double-spend.html"
+    "link": "doble-gasto.html"
   },
   {
     "name": "Double Spending",
@@ -917,7 +917,7 @@
   },
   {
     "name": "ecosistema",
-    "link": "ecosystem.html"
+    "link": "ecosistema.html"
   },
   {
     "name": "EEA",
@@ -937,39 +937,39 @@
   },
   {
     "name": "EIP-1559",
-    "link": "eip-1559.html"
+    "link": "eip1559.html"
   },
   {
     "name": "EIP-3074",
-    "link": "eip-3074.html"
+    "link": "eip3074.html"
   },
   {
     "name": "EIP-4844",
-    "link": "eip-4844.html"
+    "link": "eip4844.html"
   },
   {
     "name": "EIP-7251",
-    "link": "eip-7251.html"
+    "link": "eip7251.html"
   },
   {
     "name": "EIP-7702",
-    "link": "eip-7702.html"
+    "link": "eip7702.html"
   },
   {
     "name": "Elasticidad",
-    "link": "elasticity.html"
+    "link": "elasticidad.html"
   },
   {
     "name": "clave cifrada",
-    "link": "encrypted-key.html"
+    "link": "clave-cifrada.html"
   },
   {
     "name": "cifrado",
-    "link": "encryption.html"
+    "link": "cifrado.html"
   },
   {
     "name": "Variable endógena",
-    "link": "endogenous-variable.html"
+    "link": "variable-endgena.html"
   },
   {
     "name": "ENS",
@@ -977,11 +977,11 @@
   },
   {
     "name": "entropía",
-    "link": "entropy.html"
+    "link": "entropa.html"
   },
   {
     "name": "época",
-    "link": "epoch.html"
+    "link": "poca.html"
   },
   {
     "name": "ERC",
@@ -989,19 +989,19 @@
   },
   {
     "name": "ERC-1155",
-    "link": "erc-1155.html"
+    "link": "erc1155.html"
   },
   {
     "name": "ERC-20",
-    "link": "erc-20.html"
+    "link": "erc20.html"
   },
   {
     "name": "ERC-404",
-    "link": "erc-404.html"
+    "link": "erc404.html"
   },
   {
     "name": "ERC-721",
-    "link": "erc-721.html"
+    "link": "erc721.html"
   },
   {
     "name": "ETF",
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "Ethereum 2.0",
-    "link": "ethereum-2.0.html"
+    "link": "ethereum-20.html"
   },
   {
     "name": "Ethereum Classic",
@@ -1029,23 +1029,23 @@
   },
   {
     "name": "Fundación Ethereum",
-    "link": "ethereum-foundation.html"
+    "link": "fundacin-ethereum.html"
   },
   {
     "name": "Propuesta de mejora de Ethereum",
-    "link": "ethereum-improvement-proposal.html"
+    "link": "propuesta-de-mejora-de-ethereum.html"
   },
   {
     "name": "Red principal de Ethereum",
-    "link": "ethereum-mainnet.html"
+    "link": "red-principal-de-ethereum.html"
   },
   {
     "name": "Servicio de nombres de Ethereum",
-    "link": "ethereum-name-service.html"
+    "link": "servicio-de-nombres-de-ethereum.html"
   },
   {
     "name": "Máquina virtual de Ethereum",
-    "link": "ethereum-virtual-machine.html"
+    "link": "mquina-virtual-de-ethereum.html"
   },
   {
     "name": "Ethereum Virtual Machine (EVM)",
@@ -1065,27 +1065,27 @@
   },
   {
     "name": "cambio",
-    "link": "exchange.html"
+    "link": "cambio.html"
   },
   {
     "name": "cliente de ejecución",
-    "link": "execution-client.html"
+    "link": "cliente-de-ejecucin.html"
   },
   {
     "name": "capa de ejecución",
-    "link": "execution-layer.html"
+    "link": "capa-de-ejecucin.html"
   },
   {
     "name": "Variable exógena",
-    "link": "exogenous-variable.html"
+    "link": "variable-exgena.html"
   },
   {
     "name": "Media móvil exponencial (EMA)",
-    "link": "exponential-moving-average-ema.html"
+    "link": "media-mvil-exponencial-ema.html"
   },
   {
     "name": "Cuenta de propiedad externa (EOA)",
-    "link": "externally-owned-account-eoa.html"
+    "link": "cuenta-de-propiedad-externa-eoa.html"
   },
   {
     "name": "Fakeout",
@@ -1105,19 +1105,19 @@
   },
   {
     "name": "grifo",
-    "link": "faucet.html"
+    "link": "grifo.html"
   },
   {
     "name": "tolerante a fallos",
-    "link": "fault-tolerant.html"
+    "link": "tolerante-a-fallos.html"
   },
   {
     "name": "Fear Of Missing Out (FOMO)",
-    "link": "fear-of-missing-out.html"
+    "link": "fear-of-missing-out-fomo.html"
   },
   {
     "name": "Fear, Uncertainty and Doubt (FUD)",
-    "link": "fear-uncertainty-and-doubt.html"
+    "link": "fear-uncertainty-and-doubt-fud.html"
   },
   {
     "name": "Fiat",
@@ -1125,7 +1125,7 @@
   },
   {
     "name": "moneda fiduciaria",
-    "link": "fiat-currency.html"
+    "link": "moneda-fiduciaria.html"
   },
   {
     "name": "Fibonacci Retracement",
@@ -1133,19 +1133,19 @@
   },
   {
     "name": "Fill Or Kill Order (FOK)",
-    "link": "fill-or-kill-order.html"
+    "link": "fill-or-kill-order-fok.html"
   },
   {
     "name": "finalidad",
-    "link": "finality.html"
+    "link": "finalidad.html"
   },
   {
     "name": "velocidad de finalidad",
-    "link": "finality-rate.html"
+    "link": "velocidad-de-finalidad.html"
   },
   {
     "name": "tecnología financiera",
-    "link": "financial-technology.html"
+    "link": "tecnologa-financiera.html"
   },
   {
     "name": "finney",
@@ -1157,7 +1157,7 @@
   },
   {
     "name": "cortafuegos",
-    "link": "firewall.html"
+    "link": "cortafuegos.html"
   },
   {
     "name": "firmware",
@@ -1165,11 +1165,11 @@
   },
   {
     "name": "First-Mover Advantage (FMA)",
-    "link": "first-mover-advantage.html"
+    "link": "firstmover-advantage-fma.html"
   },
   {
     "name": "Política fiscal",
-    "link": "fiscal-policy.html"
+    "link": "poltica-fiscal.html"
   },
   {
     "name": "Flappening",
@@ -1185,7 +1185,7 @@
   },
   {
     "name": "Variable de flujo",
-    "link": "flow-variable.html"
+    "link": "variable-de-flujo.html"
   },
   {
     "name": "Forced Liquidation",
@@ -1197,7 +1197,7 @@
   },
   {
     "name": "bifurcación",
-    "link": "fork.html"
+    "link": "bifurcacin.html"
   },
   {
     "name": "Formal Verification",
@@ -1205,11 +1205,11 @@
   },
   {
     "name": "titularidad fraccionaria",
-    "link": "fractional-ownership.html"
+    "link": "titularidad-fraccionaria.html"
   },
   {
     "name": "a prueba de fraude",
-    "link": "fraud-proof.html"
+    "link": "a-prueba-de-fraude.html"
   },
   {
     "name": "Fren",
@@ -1221,7 +1221,7 @@
   },
   {
     "name": "nodo completo",
-    "link": "full-node.html"
+    "link": "nodo-completo.html"
   },
   {
     "name": "Fully Diluted Valuation (FDV)",
@@ -1229,11 +1229,11 @@
   },
   {
     "name": "Análisis fundamental (FA)",
-    "link": "fundamental-analysis.html"
+    "link": "anlisis-fundamental-fa.html"
   },
   {
     "name": "Comisiones de financiación",
-    "link": "funding-fees.html"
+    "link": "comisiones-de-financiacin.html"
   },
   {
     "name": "Fungibility",
@@ -1257,15 +1257,15 @@
   },
   {
     "name": "tarifa de gas",
-    "link": "gas-fee.html"
+    "link": "tarifa-de-gas.html"
   },
   {
     "name": "límite de gas",
-    "link": "gas-limit.html"
+    "link": "lmite-de-gas.html"
   },
   {
     "name": "precio del gas",
-    "link": "gas-price.html"
+    "link": "precio-del-gas.html"
   },
   {
     "name": "Gas Station Network",
@@ -1277,7 +1277,7 @@
   },
   {
     "name": "Deflactor del PIB",
-    "link": "gdp-deflator.html"
+    "link": "deflactor-del-pib.html"
   },
   {
     "name": "General Public License",
@@ -1285,7 +1285,7 @@
   },
   {
     "name": "bloque génesis",
-    "link": "genesis-block.html"
+    "link": "bloque-gnesis.html"
   },
   {
     "name": "Gitcoin",
@@ -1309,11 +1309,11 @@
   },
   {
     "name": "Proporción áurea",
-    "link": "golden-ratio.html"
+    "link": "proporcin-urea.html"
   },
   {
     "name": "Ricitos de oro",
-    "link": "goldilocks.html"
+    "link": "ricitos-de-oro.html"
   },
   {
     "name": "Gossip Protocol",
@@ -1321,11 +1321,11 @@
   },
   {
     "name": "gobernanza",
-    "link": "governance.html"
+    "link": "gobernanza.html"
   },
   {
     "name": "Producto Interno Bruto (PIB)",
-    "link": "gross-domestic-product-gdp.html"
+    "link": "producto-interno-bruto-pib.html"
   },
   {
     "name": "GSN",
@@ -1349,7 +1349,7 @@
   },
   {
     "name": "reducción a la mitad",
-    "link": "halving.html"
+    "link": "reduccin-a-la-mitad.html"
   },
   {
     "name": "Hard Cap",
@@ -1357,15 +1357,15 @@
   },
   {
     "name": "bifurcación dura",
-    "link": "hard-fork.html"
+    "link": "bifurcacin-dura.html"
   },
   {
     "name": "Aterrizaje forzoso",
-    "link": "hard-landing.html"
+    "link": "aterrizaje-forzoso.html"
   },
   {
     "name": "monedero físico",
-    "link": "hardware-wallet.html"
+    "link": "monedero-fsico.html"
   },
   {
     "name": "Harmony",
@@ -1381,23 +1381,23 @@
   },
   {
     "name": "Hashed TimeLock Contract (HTLC)",
-    "link": "hashed-timelock-contract.html"
+    "link": "hashed-timelock-contract-htlc.html"
   },
   {
     "name": "monedero determinista jerárquico (HD)",
-    "link": "hd-wallet.html"
+    "link": "monedero-determinista-jerrquico-hd.html"
   },
   {
     "name": "Mentalidad de rebaño",
-    "link": "herd-instinct.html"
+    "link": "mentalidad-de-rebao.html"
   },
   {
     "name": "datos hexadécimos",
-    "link": "hex-data.html"
+    "link": "datos-hexadcimos.html"
   },
   {
     "name": "High-Frequency Trading (HFT)",
-    "link": "high-frequency-trading-hft.html"
+    "link": "highfrequency-trading-hft.html"
   },
   {
     "name": "HODL",
@@ -1409,15 +1409,15 @@
   },
   {
     "name": "almacenamiento en caliente",
-    "link": "hot-storage.html"
+    "link": "almacenamiento-en-caliente.html"
   },
   {
     "name": "monedero en caliente",
-    "link": "hot-wallet.html"
+    "link": "monedero-en-caliente.html"
   },
   {
     "name": "red híbrida",
-    "link": "hybrid-network.html"
+    "link": "red-hbrida.html"
   },
   {
     "name": "Hyperledger",
@@ -1441,11 +1441,11 @@
   },
   {
     "name": "inmutabilidad",
-    "link": "immutability.html"
+    "link": "inmutabilidad.html"
   },
   {
     "name": "Fondos indexado",
-    "link": "index-funds.html"
+    "link": "fondos-indexado.html"
   },
   {
     "name": "Infura",
@@ -1453,47 +1453,47 @@
   },
   {
     "name": "Initial Coin Offering (ICO)",
-    "link": "initial-coin-offering.html"
+    "link": "initial-coin-offering-ico.html"
   },
   {
     "name": "Oferta Inicial de DEX (IDO)",
-    "link": "initial-dex-offering-ido.html"
+    "link": "oferta-inicial-de-dex-ido.html"
   },
   {
     "name": "Initial Exchange Offering (IEO)",
-    "link": "initial-exchange-offering.html"
+    "link": "initial-exchange-offering-ieo.html"
   },
   {
     "name": "Initial Public Offering (IPO)",
-    "link": "initial-public-offering.html"
+    "link": "initial-public-offering-ipo.html"
   },
   {
     "name": "Inscripción",
-    "link": "inscription.html"
+    "link": "inscripcin.html"
   },
   {
     "name": "abuso de información privilegiada",
-    "link": "insider-trading.html"
+    "link": "abuso-de-informacin-privilegiada.html"
   },
   {
     "name": "Integrated Circuit (IC)",
-    "link": "integrated-circuit.html"
+    "link": "integrated-circuit-ic.html"
   },
   {
     "name": "Tasas de interés",
-    "link": "interest-rates.html"
+    "link": "tasas-de-inters.html"
   },
   {
     "name": "transacción interna",
-    "link": "internal-transaction.html"
+    "link": "transaccin-interna.html"
   },
   {
     "name": "interoperabilidad",
-    "link": "interoperability.html"
+    "link": "interoperabilidad.html"
   },
   {
     "name": "Sistema de archivos interplanetario (IPFS)",
-    "link": "interplanetary-file-system-(ipfs).html"
+    "link": "sistema-de-archivos-interplanetario-ipfs.html"
   },
   {
     "name": "InterPlanetary File System (IPFS)",
@@ -1501,11 +1501,11 @@
   },
   {
     "name": "Pagaré (IOU)",
-    "link": "iou.html"
+    "link": "pagar-iou.html"
   },
   {
     "name": "Dirección IP",
-    "link": "ip-address.html"
+    "link": "direccin-ip.html"
   },
   {
     "name": "IPFS",
@@ -1525,11 +1525,11 @@
   },
   {
     "name": "archivo JSON",
-    "link": "json-file.html"
+    "link": "archivo-json.html"
   },
   {
     "name": "JSON-RPC",
-    "link": "json-rpc.html"
+    "link": "jsonrpc.html"
   },
   {
     "name": "Keccak",
@@ -1537,15 +1537,15 @@
   },
   {
     "name": "archivo keystore",
-    "link": "keystore-file.html"
+    "link": "archivo-keystore.html"
   },
   {
     "name": "conozca a su cliente",
-    "link": "know-your-customer.html"
+    "link": "conozca-a-su-cliente.html"
   },
   {
     "name": "conozca su transacción",
-    "link": "know-your-transaction.html"
+    "link": "conozca-su-transaccin.html"
   },
   {
     "name": "Kovan",
@@ -1561,7 +1561,7 @@
   },
   {
     "name": "Índice de Laspeyres",
-    "link": "laspeyres-index.html"
+    "link": "ndice-de-laspeyres.html"
   },
   {
     "name": "Latency",
@@ -1581,11 +1581,11 @@
   },
   {
     "name": "capa 1",
-    "link": "layer-1.html"
+    "link": "capa-1.html"
   },
   {
     "name": "capa 2",
-    "link": "layer-2.html"
+    "link": "capa-2.html"
   },
   {
     "name": "Ledger",
@@ -1605,7 +1605,7 @@
   },
   {
     "name": "biblioteca",
-    "link": "library.html"
+    "link": "biblioteca.html"
   },
   {
     "name": "Lido",
@@ -1613,7 +1613,7 @@
   },
   {
     "name": "cliente ligero",
-    "link": "light-client.html"
+    "link": "cliente-ligero.html"
   },
   {
     "name": "Lightning Network",
@@ -1621,7 +1621,7 @@
   },
   {
     "name": "Orden limit",
-    "link": "limit-order.html"
+    "link": "orden-limit.html"
   },
   {
     "name": "Linea",
@@ -1633,39 +1633,39 @@
   },
   {
     "name": "Staking líquido",
-    "link": "liquid-staking.html"
+    "link": "staking-lquido.html"
   },
   {
     "name": "Token de staking líquido (LST)",
-    "link": "liquid-staking-token-lst.html"
+    "link": "token-de-staking-lquido-lst.html"
   },
   {
     "name": "liquidación",
-    "link": "liquidation.html"
+    "link": "liquidacin.html"
   },
   {
     "name": "liquidez",
-    "link": "liquidity.html"
+    "link": "liquidez.html"
   },
   {
     "name": "Crisis de liquidez",
-    "link": "liquidity-crisis.html"
+    "link": "crisis-de-liquidez.html"
   },
   {
     "name": "fondo de liquidez",
-    "link": "liquidity-pool.html"
+    "link": "fondo-de-liquidez.html"
   },
   {
     "name": "Proveedor de liquidez",
-    "link": "liquidity-provider.html"
+    "link": "proveedor-de-liquidez.html"
   },
   {
     "name": "Ratios de liquidez",
-    "link": "liquidity-ratios.html"
+    "link": "ratios-de-liquidez.html"
   },
   {
     "name": "staking de liquidez",
-    "link": "liquidity-staking.html"
+    "link": "staking-de-liquidez.html"
   },
   {
     "name": "Listing",
@@ -1673,7 +1673,7 @@
   },
   {
     "name": "red principal",
-    "link": "mainnet.html"
+    "link": "red-principal.html"
   },
   {
     "name": "Mainnet Swap",
@@ -1685,11 +1685,11 @@
   },
   {
     "name": "Protocolo Maker",
-    "link": "maker-protocol.html"
+    "link": "protocolo-maker.html"
   },
   {
     "name": "software malicioso",
-    "link": "malware.html"
+    "link": "software-malicioso.html"
   },
   {
     "name": "Margin Trading",
@@ -1697,11 +1697,11 @@
   },
   {
     "name": "capitalización bursátil",
-    "link": "market-cap.html"
+    "link": "capitalizacin-burstil.html"
   },
   {
     "name": "Capitalización de mercado",
-    "link": "market-capitalization.html"
+    "link": "capitalizacin-de-mercado.html"
   },
   {
     "name": "Market Momentum",
@@ -1709,7 +1709,7 @@
   },
   {
     "name": "Orden market",
-    "link": "market-order.html"
+    "link": "orden-market.html"
   },
   {
     "name": "Masternode",
@@ -1717,7 +1717,7 @@
   },
   {
     "name": "Motor de coincidencia",
-    "link": "matching-engine.html"
+    "link": "motor-de-coincidencia.html"
   },
   {
     "name": "MATIC",
@@ -1729,7 +1729,7 @@
   },
   {
     "name": "cola de transacciones",
-    "link": "memory-pool.html"
+    "link": "cola-de-transacciones.html"
   },
   {
     "name": "Mempool",
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "Fusión",
-    "link": "merge.html"
+    "link": "fusin.html"
   },
   {
     "name": "Merged Mining",
@@ -1749,11 +1749,11 @@
   },
   {
     "name": "árbol de Merkle Patricia trie",
-    "link": "merkle-patricia-trie.html"
+    "link": "rbol-de-merkle-patricia-trie.html"
   },
   {
     "name": "Árbol de Merkle",
-    "link": "merkle-tree.html"
+    "link": "rbol-de-merkle.html"
   },
   {
     "name": "Mesh",
@@ -1761,7 +1761,7 @@
   },
   {
     "name": "metadatos",
-    "link": "metadata.html"
+    "link": "metadatos.html"
   },
   {
     "name": "MetaMask",
@@ -1785,11 +1785,11 @@
   },
   {
     "name": "metaverso",
-    "link": "metaverse.html"
+    "link": "metaverso.html"
   },
   {
     "name": "Valor máximo extraíble",
-    "link": "mev.html"
+    "link": "valor-mximo-extrable.html"
   },
   {
     "name": "MFA",
@@ -1797,19 +1797,19 @@
   },
   {
     "name": "Microtransacciones",
-    "link": "microtransactions.html"
+    "link": "microtransacciones.html"
   },
   {
     "name": "minero",
-    "link": "miner.html"
+    "link": "minero.html"
   },
   {
     "name": "propina del minero",
-    "link": "miner-tip.html"
+    "link": "propina-del-minero.html"
   },
   {
     "name": "minería",
-    "link": "mining.html"
+    "link": "minera.html"
   },
   {
     "name": "Mining Farm",
@@ -1817,11 +1817,11 @@
   },
   {
     "name": "acuñar",
-    "link": "mint.html"
+    "link": "acuar.html"
   },
   {
     "name": "frase mnemotécnica",
-    "link": "mnemonic-phrase.html"
+    "link": "frase-mnemotcnica.html"
   },
   {
     "name": "MobiKwik",
@@ -1829,19 +1829,19 @@
   },
   {
     "name": "cadena de bloques modular",
-    "link": "modular-blockchain.html"
+    "link": "cadena-de-bloques-modular.html"
   },
   {
     "name": "Política monetaria",
-    "link": "monetary-policy.html"
+    "link": "poltica-monetaria.html"
   },
   {
     "name": "Mercados monetarios",
-    "link": "money-markets.html"
+    "link": "mercados-monetarios.html"
   },
   {
     "name": "Etiqueta En Observación",
-    "link": "monitoring-tag.html"
+    "link": "etiqueta-en-observacin.html"
   },
   {
     "name": "Moon",
@@ -1853,11 +1853,11 @@
   },
   {
     "name": "Envolventes de medias móviles",
-    "link": "moving-average-envelopes.html"
+    "link": "envolventes-de-medias-mviles.html"
   },
   {
     "name": "Cinta de medias móviles",
-    "link": "moving-average-ribbon.html"
+    "link": "cinta-de-medias-mviles.html"
   },
   {
     "name": "Mt. Gox",
@@ -1865,11 +1865,11 @@
   },
   {
     "name": "multifirma",
-    "link": "multi-sig.html"
+    "link": "multifirma.html"
   },
   {
     "name": "monadero multifirma",
-    "link": "multi-signature-wallet.html"
+    "link": "monadero-multifirma.html"
   },
   {
     "name": "Multisignature",
@@ -1877,27 +1877,27 @@
   },
   {
     "name": "Consenso de Nakamoto",
-    "link": "nakamoto-consensus.html"
+    "link": "consenso-de-nakamoto.html"
   },
   {
     "name": "cadena de bloques anidada",
-    "link": "nested-blockchain.html"
+    "link": "cadena-de-bloques-anidada.html"
   },
   {
     "name": "Valor liquidativo (NAV)",
-    "link": "net-asset-value-nav.html"
+    "link": "valor-liquidativo-nav.html"
   },
   {
     "name": "red",
-    "link": "network.html"
+    "link": "red.html"
   },
   {
     "name": "congestión de red",
-    "link": "network-congestion.html"
+    "link": "congestin-de-red.html"
   },
   {
     "name": "comunicación de campo cercano",
-    "link": "nfc.html"
+    "link": "comunicacin-de-campo-cercano.html"
   },
   {
     "name": "NFT",
@@ -1905,15 +1905,15 @@
   },
   {
     "name": "agregador de NFT",
-    "link": "nft-aggregator.html"
+    "link": "agregador-de-nft.html"
   },
   {
     "name": "drop de NFT",
-    "link": "nft-drop.html"
+    "link": "drop-de-nft.html"
   },
   {
     "name": "Precios mínimos de los NFT",
-    "link": "nft-floor-prices.html"
+    "link": "precios-mnimos-de-los-nft.html"
   },
   {
     "name": "NFT Mystery Boxes",
@@ -1929,15 +1929,15 @@
   },
   {
     "name": "nodo",
-    "link": "node.html"
+    "link": "nodo.html"
   },
   {
     "name": "token no fungible",
-    "link": "non-fungible-token.html"
+    "link": "token-no-fungible.html"
   },
   {
     "name": "Token no fungible (NFT)",
-    "link": "non-fungible-token-nft.html"
+    "link": "token-no-fungible-nft.html"
   },
   {
     "name": "nonce",
@@ -1949,11 +1949,11 @@
   },
   {
     "name": "fuera de cadena",
-    "link": "off-chain.html"
+    "link": "fuera-de-cadena.html"
   },
   {
     "name": "rampa de salida",
-    "link": "off-ramp.html"
+    "link": "rampa-de-salida.html"
   },
   {
     "name": "Offline Signing Orchestrator (OSO)",
@@ -1965,15 +1965,15 @@
   },
   {
     "name": "bloque ommer",
-    "link": "ommer-block.html"
+    "link": "bloque-ommer.html"
   },
   {
     "name": "en cadena",
-    "link": "on-chain.html"
+    "link": "en-cadena.html"
   },
   {
     "name": "rampa de acceso",
-    "link": "on-ramp.html"
+    "link": "rampa-de-acceso.html"
   },
   {
     "name": "ONE",
@@ -1985,7 +1985,7 @@
   },
   {
     "name": "Open-Source Software (OSS)",
-    "link": "open-source-software-oss.html"
+    "link": "opensource-software-oss.html"
   },
   {
     "name": "OpenSea",
@@ -1997,7 +1997,7 @@
   },
   {
     "name": "Costo de oportunidad",
-    "link": "opportunity-cost.html"
+    "link": "costo-de-oportunidad.html"
   },
   {
     "name": "Optimism",
@@ -2005,19 +2005,19 @@
   },
   {
     "name": "rollup optimista",
-    "link": "optimistic-rollup.html"
+    "link": "rollup-optimista.html"
   },
   {
     "name": "Oráculo",
-    "link": "oracle.html"
+    "link": "orculo.html"
   },
   {
     "name": "Tokens ORC-20",
-    "link": "orc-20-tokens.html"
+    "link": "tokens-orc20.html"
   },
   {
     "name": "Libro de órdenes",
-    "link": "order-book.html"
+    "link": "libro-de-rdenes.html"
   },
   {
     "name": "Ordinals",
@@ -2045,7 +2045,7 @@
   },
   {
     "name": "Paralelización",
-    "link": "parallelization.html"
+    "link": "paralelizacin.html"
   },
   {
     "name": "ParaSwap",
@@ -2053,7 +2053,7 @@
   },
   {
     "name": "paridad",
-    "link": "parity.html"
+    "link": "paridad.html"
   },
   {
     "name": "Passive Management",
@@ -2061,15 +2061,15 @@
   },
   {
     "name": "frase de contraseña",
-    "link": "passphrase.html"
+    "link": "frase-de-contrasea.html"
   },
   {
     "name": "contraseña",
-    "link": "password.html"
+    "link": "contrasea.html"
   },
   {
     "name": "gestor de contraseñas",
-    "link": "password-manager.html"
+    "link": "gestor-de-contraseas.html"
   },
   {
     "name": "PayPal",
@@ -2077,23 +2077,23 @@
   },
   {
     "name": "entre pares",
-    "link": "peer-to-peer.html"
+    "link": "entre-pares.html"
   },
   {
     "name": "Moneda vinculada",
-    "link": "pegged-currency.html"
+    "link": "moneda-vinculada.html"
   },
   {
     "name": "registro de acceso restringido",
-    "link": "permissioned-ledger.html"
+    "link": "registro-de-acceso-restringido.html"
   },
   {
     "name": "Blockchain sin permiso",
-    "link": "permissionless-blockchain.html"
+    "link": "blockchain-sin-permiso.html"
   },
   {
     "name": "suplantación de identidad",
-    "link": "phishing.html"
+    "link": "suplantacin-de-identidad.html"
   },
   {
     "name": "PKI",
@@ -2105,7 +2105,7 @@
   },
   {
     "name": "Prueba de autoridad",
-    "link": "poa.html"
+    "link": "prueba-de-autoridad.html"
   },
   {
     "name": "Polkadot Crowdloan",
@@ -2129,7 +2129,7 @@
   },
   {
     "name": "Preminería",
-    "link": "premining.html"
+    "link": "preminera.html"
   },
   {
     "name": "Price Action",
@@ -2141,15 +2141,15 @@
   },
   {
     "name": "cadena de bloques privada",
-    "link": "private-blockchain.html"
+    "link": "cadena-de-bloques-privada.html"
   },
   {
     "name": "moneda privada",
-    "link": "private-currency.html"
+    "link": "moneda-privada.html"
   },
   {
     "name": "clave privada",
-    "link": "private-key.html"
+    "link": "clave-privada.html"
   },
   {
     "name": "Private Sale",
@@ -2157,7 +2157,7 @@
   },
   {
     "name": "Progressive Web application (PWA)",
-    "link": "progressive-web-application.html"
+    "link": "progressive-web-application-pwa.html"
   },
   {
     "name": "Proof of Attendance Protocol (POAP)",
@@ -2165,11 +2165,11 @@
   },
   {
     "name": "Prueba de Reservas (PoR)",
-    "link": "proof-of-reserves-por.html"
+    "link": "prueba-de-reservas-por.html"
   },
   {
     "name": "Prueba de participación",
-    "link": "proof-of-stake.html"
+    "link": "prueba-de-participacin.html"
   },
   {
     "name": "Proof of Staked Authority (PoSA)",
@@ -2177,19 +2177,19 @@
   },
   {
     "name": "Prueba de trabajo",
-    "link": "proof-of-work.html"
+    "link": "prueba-de-trabajo.html"
   },
   {
     "name": "Proposer-Builder Separation (PBS)",
-    "link": "proposer-builder-separation-pbs.html"
+    "link": "proposerbuilder-separation-pbs.html"
   },
   {
     "name": "Proto-danksharding",
-    "link": "proto-danksharding.html"
+    "link": "protodanksharding.html"
   },
   {
     "name": "protocolo",
-    "link": "protocol.html"
+    "link": "protocolo.html"
   },
   {
     "name": "Pseudorandom",
@@ -2197,35 +2197,35 @@
   },
   {
     "name": "dirección pública",
-    "link": "public-address.html"
+    "link": "direccin-pblica.html"
   },
   {
     "name": "cadena de bloques pública",
-    "link": "public-blockchain.html"
+    "link": "cadena-de-bloques-pblica.html"
   },
   {
     "name": "clave pública",
-    "link": "public-key.html"
+    "link": "clave-pblica.html"
   },
   {
     "name": "criptografía de clave pública",
-    "link": "public-key-cryptography.html"
+    "link": "criptografa-de-clave-pblica.html"
   },
   {
     "name": "Pump-and-dump",
-    "link": "pump-and-dump.html"
+    "link": "pumpanddump.html"
   },
   {
     "name": "código QR",
-    "link": "qr-code.html"
+    "link": "cdigo-qr.html"
   },
   {
     "name": "Expansión cuantitativa (QE)",
-    "link": "quantitative-easing-qe.html"
+    "link": "expansin-cuantitativa-qe.html"
   },
   {
     "name": "Contracción cuantitativa (QT)",
-    "link": "quantitative-tightening-qt.html"
+    "link": "contraccin-cuantitativa-qt.html"
   },
   {
     "name": "Quantum Computing",
@@ -2249,15 +2249,15 @@
   },
   {
     "name": "Activos del mundo real (RWA)",
-    "link": "real-world-assets-rwas.html"
+    "link": "activos-del-mundo-real-rwa.html"
   },
   {
     "name": "Recesión",
-    "link": "recession.html"
+    "link": "recesin.html"
   },
   {
     "name": "Inscripción recursiva",
-    "link": "recursive-inscription.html"
+    "link": "inscripcin-recursiva.html"
   },
   {
     "name": "Rekt",
@@ -2265,15 +2265,15 @@
   },
   {
     "name": "Relative Strength Index (RSI)",
-    "link": "relative-strength-index.html"
+    "link": "relative-strength-index-rsi.html"
   },
   {
     "name": "repetidor",
-    "link": "relayer.html"
+    "link": "repetidor.html"
   },
   {
     "name": "Llamada a procedimiento remoto",
-    "link": "remote-procedure-call.html"
+    "link": "llamada-a-procedimiento-remoto.html"
   },
   {
     "name": "Resistance",
@@ -2281,11 +2281,11 @@
   },
   {
     "name": "Return on Investment (ROI)",
-    "link": "return-on-investment.html"
+    "link": "return-on-investment-roi.html"
   },
   {
     "name": "Trading por venganza (revenge trading)",
-    "link": "revenge-trading.html"
+    "link": "trading-por-venganza-revenge-trading.html"
   },
   {
     "name": "Rinkeby",
@@ -2293,11 +2293,11 @@
   },
   {
     "name": "Prima de riesgo",
-    "link": "risk-premium.html"
+    "link": "prima-de-riesgo.html"
   },
   {
     "name": "hoja de ruta",
-    "link": "roadmap.html"
+    "link": "hoja-de-ruta.html"
   },
   {
     "name": "Rocket Pool",
@@ -2321,7 +2321,7 @@
   },
   {
     "name": "tirón de alfombra",
-    "link": "rug-pull.html"
+    "link": "tirn-de-alfombra.html"
   },
   {
     "name": "Safeheron",
@@ -2329,7 +2329,7 @@
   },
   {
     "name": "Regla de Sahm",
-    "link": "sahm-rule.html"
+    "link": "regla-de-sahm.html"
   },
   {
     "name": "Samsung Pay",
@@ -2337,11 +2337,11 @@
   },
   {
     "name": "entorno de pruebas",
-    "link": "sandbox.html"
+    "link": "entorno-de-pruebas.html"
   },
   {
     "name": "Trading sándwich",
-    "link": "sandwich-trading.html"
+    "link": "trading-sndwich.html"
   },
   {
     "name": "Sardine",
@@ -2357,15 +2357,15 @@
   },
   {
     "name": "escalabilidad",
-    "link": "scalability.html"
+    "link": "escalabilidad.html"
   },
   {
     "name": "escalado",
-    "link": "scaling.html"
+    "link": "escalado.html"
   },
   {
     "name": "estafa",
-    "link": "scam.html"
+    "link": "estafa.html"
   },
   {
     "name": "scrypt",
@@ -2377,19 +2377,19 @@
   },
   {
     "name": "motor de búsqueda",
-    "link": "search-engine.html"
+    "link": "motor-de-bsqueda.html"
   },
   {
     "name": "Frase secreta de recuperación",
-    "link": "secret-recovery-phrase.html"
+    "link": "frase-secreta-de-recuperacin.html"
   },
   {
     "name": "Secure Asset fund for Users (SAFU)",
-    "link": "secure-asset-fund-for-users.html"
+    "link": "secure-asset-fund-for-users-safu.html"
   },
   {
     "name": "Comisión de Bolsa y Valores (SEC)",
-    "link": "securities-and-exchange-commission.html"
+    "link": "comisin-de-bolsa-y-valores-sec.html"
   },
   {
     "name": "Security Audit",
@@ -2397,35 +2397,35 @@
   },
   {
     "name": "Token de seguridad",
-    "link": "security-token.html"
+    "link": "token-de-seguridad.html"
   },
   {
     "name": "Oferta de tokens de seguridad",
-    "link": "security-token-offering.html"
+    "link": "oferta-de-tokens-de-seguridad.html"
   },
   {
     "name": "Oferta de Tokens de Valores (STO)",
-    "link": "security-token-offering-sto.html"
+    "link": "oferta-de-tokens-de-valores-sto.html"
   },
   {
     "name": "frase semilla",
-    "link": "seed-phrase.html"
+    "link": "frase-semilla.html"
   },
   {
     "name": "Etiqueta Semilla",
-    "link": "seed-tag.html"
+    "link": "etiqueta-semilla.html"
   },
   {
     "name": "Segregated Witness (SegWit)",
-    "link": "segregated-witness.html"
+    "link": "segregated-witness-segwit.html"
   },
   {
     "name": "autocustodia",
-    "link": "self-custody.html"
+    "link": "autocustodia.html"
   },
   {
     "name": "autoejecutable",
-    "link": "self-executing.html"
+    "link": "autoejecutable.html"
   },
   {
     "name": "Selfish Mining",
@@ -2449,15 +2449,15 @@
   },
   {
     "name": "serialización",
-    "link": "serialization.html"
+    "link": "serializacin.html"
   },
   {
     "name": "cadena de fragmentos",
-    "link": "shard-chain.html"
+    "link": "cadena-de-fragmentos.html"
   },
   {
     "name": "fragmentación",
-    "link": "sharding.html"
+    "link": "fragmentacin.html"
   },
   {
     "name": "Sharpe Ratio",
@@ -2465,11 +2465,11 @@
   },
   {
     "name": "transacción blindada",
-    "link": "shielded-transaction.html"
+    "link": "transaccin-blindada.html"
   },
   {
     "name": "cadena lateral",
-    "link": "sidechain.html"
+    "link": "cadena-lateral.html"
   },
   {
     "name": "Sidechains",
@@ -2477,7 +2477,7 @@
   },
   {
     "name": "Media Móvil Simple (SMA)",
-    "link": "simple-moving-average-sma.html"
+    "link": "media-mvil-simple-sma.html"
   },
   {
     "name": "Slashing",
@@ -2485,23 +2485,23 @@
   },
   {
     "name": "condición de corte",
-    "link": "slashing-condition.html"
+    "link": "condicin-de-corte.html"
   },
   {
     "name": "deslizamiento",
-    "link": "slippage.html"
+    "link": "deslizamiento.html"
   },
   {
     "name": "ranura",
-    "link": "slot.html"
+    "link": "ranura.html"
   },
   {
     "name": "contrato inteligente",
-    "link": "smart-contract.html"
+    "link": "contrato-inteligente.html"
   },
   {
     "name": "Una billetera de contratos inteligentes",
-    "link": "smart-contract-wallet.html"
+    "link": "una-billetera-de-contratos-inteligentes.html"
   },
   {
     "name": "Snapshot",
@@ -2509,11 +2509,11 @@
   },
   {
     "name": "Billetera de recuperación social",
-    "link": "social-recovery-wallet.html"
+    "link": "billetera-de-recuperacin-social.html"
   },
   {
     "name": "Trading Social",
-    "link": "social-trading.html"
+    "link": "trading-social.html"
   },
   {
     "name": "SocialFi",
@@ -2521,11 +2521,11 @@
   },
   {
     "name": "bifurcación suave",
-    "link": "soft-fork.html"
+    "link": "bifurcacin-suave.html"
   },
   {
     "name": "Aterrizaje suave",
-    "link": "soft-landing.html"
+    "link": "aterrizaje-suave.html"
   },
   {
     "name": "Solidity",
@@ -2541,15 +2541,15 @@
   },
   {
     "name": "Tokens SRC-20",
-    "link": "src-20-tokens.html"
+    "link": "tokens-src20.html"
   },
   {
     "name": "moneda estable",
-    "link": "stablecoin.html"
+    "link": "moneda-estable.html"
   },
   {
     "name": "Estanflación",
-    "link": "stagflation.html"
+    "link": "estanflacin.html"
   },
   {
     "name": "stake",
@@ -2565,7 +2565,7 @@
   },
   {
     "name": "estado",
-    "link": "state.html"
+    "link": "estado.html"
   },
   {
     "name": "State Channel",
@@ -2573,7 +2573,7 @@
   },
   {
     "name": "canales de estado",
-    "link": "state-channels.html"
+    "link": "canales-de-estado.html"
   },
   {
     "name": "stETH",
@@ -2585,7 +2585,7 @@
   },
   {
     "name": "Variable stock",
-    "link": "stock-variable.html"
+    "link": "variable-stock.html"
   },
   {
     "name": "Store of Value",
@@ -2593,7 +2593,7 @@
   },
   {
     "name": "flujo",
-    "link": "streaming.html"
+    "link": "flujo.html"
   },
   {
     "name": "Supercomputer",
@@ -2609,11 +2609,11 @@
   },
   {
     "name": "intercambiar",
-    "link": "swap.html"
+    "link": "intercambiar.html"
   },
   {
     "name": "Ataque Sybil",
-    "link": "sybil-attack.html"
+    "link": "ataque-sybil.html"
   },
   {
     "name": "szabo",
@@ -2637,19 +2637,19 @@
   },
   {
     "name": "red de pruebas",
-    "link": "testnet.html"
+    "link": "red-de-pruebas.html"
   },
   {
     "name": "Red de pruebas Kovan",
-    "link": "testnet-kovan.html"
+    "link": "red-de-pruebas-kovan.html"
   },
   {
     "name": "Red de pruebas Rinkeby",
-    "link": "testnet-rinkeby.html"
+    "link": "red-de-pruebas-rinkeby.html"
   },
   {
     "name": "Red de pruebas Ropsten",
-    "link": "testnet-ropsten.html"
+    "link": "red-de-pruebas-ropsten.html"
   },
   {
     "name": "Ticker",
@@ -2657,7 +2657,7 @@
   },
   {
     "name": "Símbolo de ticker",
-    "link": "ticker-symbol.html"
+    "link": "smbolo-de-ticker.html"
   },
   {
     "name": "token",
@@ -2665,15 +2665,15 @@
   },
   {
     "name": "Evento de generación de tokens (TGE)",
-    "link": "token-generation-event-tge.html"
+    "link": "evento-de-generacin-de-tokens-tge.html"
   },
   {
     "name": "bloqueo de tokens",
-    "link": "token-lockup.html"
+    "link": "bloqueo-de-tokens.html"
   },
   {
     "name": "Fusión de tokens",
-    "link": "token-merge.html"
+    "link": "fusin-de-tokens.html"
   },
   {
     "name": "Token Sale",
@@ -2681,15 +2681,15 @@
   },
   {
     "name": "estándar de tokens",
-    "link": "token-standard.html"
+    "link": "estndar-de-tokens.html"
   },
   {
     "name": "Estándares de token",
-    "link": "token-standards.html"
+    "link": "estndares-de-token.html"
   },
   {
     "name": "Tokenización",
-    "link": "tokenization.html"
+    "link": "tokenizacin.html"
   },
   {
     "name": "Tokenomics",
@@ -2701,7 +2701,7 @@
   },
   {
     "name": "Valor Total Bloqueado (TVL)",
-    "link": "total-value-locked-tvl.html"
+    "link": "valor-total-bloqueado-tvl.html"
   },
   {
     "name": "TradFi",
@@ -2709,23 +2709,23 @@
   },
   {
     "name": "transacción",
-    "link": "transaction.html"
+    "link": "transaccin.html"
   },
   {
     "name": "bloque de transacciones",
-    "link": "transaction-block.html"
+    "link": "bloque-de-transacciones.html"
   },
   {
     "name": "tarifa de transacción",
-    "link": "transaction-fee.html"
+    "link": "tarifa-de-transaccin.html"
   },
   {
     "name": "ID de transacción",
-    "link": "transaction-id.html"
+    "link": "id-de-transaccin.html"
   },
   {
     "name": "grupo de transacciones",
-    "link": "transaction-pool.html"
+    "link": "grupo-de-transacciones.html"
   },
   {
     "name": "Transactions Per Second (TPS)",
@@ -2737,7 +2737,7 @@
   },
   {
     "name": "Letras del Tesoro (<em>T-Bills</em>)",
-    "link": "treasury-bills-t-bills.html"
+    "link": "letras-del-tesoro-emtbillsem.html"
   },
   {
     "name": "Trezor",
@@ -2753,19 +2753,19 @@
   },
   {
     "name": "sin verificación de confianza",
-    "link": "trustless.html"
+    "link": "sin-verificacin-de-confianza.html"
   },
   {
     "name": "Turing completo",
-    "link": "turing-complete.html"
+    "link": "turing-completo.html"
   },
   {
     "name": "Valor total bloqueado",
-    "link": "tvl.html"
+    "link": "valor-total-bloqueado.html"
   },
   {
     "name": "ID de transacción",
-    "link": "txid.html"
+    "link": "id-de-transaccin.html"
   },
   {
     "name": "U2F",
@@ -2773,11 +2773,11 @@
   },
   {
     "name": "Cómo entender el número 4 de CZ",
-    "link": "understanding-cz-s-number-4.html"
+    "link": "cmo-entender-el-nmero-4-de-cz.html"
   },
   {
     "name": "clave no cifrada",
-    "link": "unencrypted-key.html"
+    "link": "clave-no-cifrada.html"
   },
   {
     "name": "Uniswap",
@@ -2789,7 +2789,7 @@
   },
   {
     "name": "salida de transacción no gastada",
-    "link": "unspent-transaction-output.html"
+    "link": "salida-de-transaccin-no-gastada.html"
   },
   {
     "name": "Unspent Transaction Output (UTXO)",
@@ -2797,11 +2797,11 @@
   },
   {
     "name": "dejar de hacer staking",
-    "link": "unstake.html"
+    "link": "dejar-de-hacer-staking.html"
   },
   {
     "name": "actualizar",
-    "link": "upgrade.html"
+    "link": "actualizar.html"
   },
   {
     "name": "URL",
@@ -2813,11 +2813,11 @@
   },
   {
     "name": "User Interface (UI)",
-    "link": "user-interface.html"
+    "link": "user-interface-ui.html"
   },
   {
     "name": "Token de utilidad",
-    "link": "utility-token.html"
+    "link": "token-de-utilidad.html"
   },
   {
     "name": "UTXO",
@@ -2825,11 +2825,11 @@
   },
   {
     "name": "validador",
-    "link": "validator.html"
+    "link": "validador.html"
   },
   {
     "name": "prueba de validez",
-    "link": "validity-proof.html"
+    "link": "prueba-de-validez.html"
   },
   {
     "name": "Verification Code",
@@ -2837,7 +2837,7 @@
   },
   {
     "name": "bloqueo de tokens",
-    "link": "vesting.html"
+    "link": "bloqueo-de-tokens.html"
   },
   {
     "name": "VillageDAO",
@@ -2865,11 +2865,11 @@
   },
   {
     "name": "billetera",
-    "link": "wallet.html"
+    "link": "billetera.html"
   },
   {
     "name": "dirección de monedero",
-    "link": "wallet-address.html"
+    "link": "direccin-de-monedero.html"
   },
   {
     "name": "WalletConnect",
@@ -2877,7 +2877,7 @@
   },
   {
     "name": "Volumen falso (wash trading)",
-    "link": "wash-trading.html"
+    "link": "volumen-falso-wash-trading.html"
   },
   {
     "name": "Weak Hands",
@@ -2889,11 +2889,11 @@
   },
   {
     "name": "Web 1.0",
-    "link": "web-1.html"
+    "link": "web-10.html"
   },
   {
     "name": "Web 3.0",
-    "link": "web-3.0.html"
+    "link": "web-30.html"
   },
   {
     "name": "web3",
@@ -2917,7 +2917,7 @@
   },
   {
     "name": "Media móvil ponderada (WMA)",
-    "link": "weighted-moving-average-wma.html"
+    "link": "media-mvil-ponderada-wma.html"
   },
   {
     "name": "Whale",
@@ -2933,7 +2933,7 @@
   },
   {
     "name": "libro blanco",
-    "link": "whitepaper.html"
+    "link": "libro-blanco.html"
   },
   {
     "name": "Wick",
@@ -2941,19 +2941,19 @@
   },
   {
     "name": "Tasa de trades ganadores",
-    "link": "win-rate.html"
+    "link": "tasa-de-trades-ganadores.html"
   },
   {
     "name": "Wrapped Ether (WETH)",
-    "link": "wrapped-ether.html"
+    "link": "wrapped-ether-weth.html"
   },
   {
     "name": "envolver",
-    "link": "wrapping.html"
+    "link": "envolver.html"
   },
   {
     "name": "El Método Wyckoff",
-    "link": "wyckoff.html"
+    "link": "el-mtodo-wyckoff.html"
   },
   {
     "name": "Wyre",
@@ -2965,11 +2965,11 @@
   },
   {
     "name": "clave pública extendida",
-    "link": "xpub.html"
+    "link": "clave-pblica-extendida.html"
   },
   {
     "name": "tokens de yield farming",
-    "link": "yield-bearing-tokens.html"
+    "link": "tokens-de-yield-farming.html"
   },
   {
     "name": "yield farming",
@@ -2977,30 +2977,30 @@
   },
   {
     "name": "dirección cero",
-    "link": "zero-address.html"
+    "link": "direccin-cero.html"
   },
   {
     "name": "prueba de conocimiento cero",
-    "link": "zero-knowledge-proof.html"
+    "link": "prueba-de-conocimiento-cero.html"
   },
   {
     "name": "Zero-Knowledge Proofs",
-    "link": "zero-knowledge-proofs.html"
+    "link": "zeroknowledge-proofs.html"
   },
   {
     "name": "rollup de conocimiento cero",
-    "link": "zero-knowledge-rollup.html"
+    "link": "rollup-de-conocimiento-cero.html"
   },
   {
     "name": "ZK-rollup",
-    "link": "zk-rollup.html"
+    "link": "zkrollup.html"
   },
   {
     "name": "zk-SNARKs",
-    "link": "zk-snarks.html"
+    "link": "zksnarks.html"
   },
   {
     "name": "zk-Stark",
-    "link": "zk-starks.html"
+    "link": "zkstark.html"
   }
 ]

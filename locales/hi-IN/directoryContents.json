@@ -9,7 +9,7 @@
   },
   {
     "name": "टू-फैक्टर ऑथेंटिकेशन",
-    "link": "2fa.html"
+    "link": ".html"
   },
   {
     "name": "3Box Labs",
@@ -17,7 +17,7 @@
   },
   {
     "name": "51% अटैक",
-    "link": "51%-attack.html"
+    "link": "51.html"
   },
   {
     "name": "Aave",
@@ -25,19 +25,19 @@
   },
   {
     "name": "अकाउंट",
-    "link": "account.html"
+    "link": ".html"
   },
   {
     "name": "ACH ट्रांसफ़र",
-    "link": "ach-transfer.html"
+    "link": "ach.html"
   },
   {
     "name": "एड्रेस",
-    "link": "address.html"
+    "link": ".html"
   },
   {
     "name": "एग्रीगेटर",
-    "link": "aggregator.html"
+    "link": ".html"
   },
   {
     "name": "Agoric",
@@ -45,11 +45,11 @@
   },
   {
     "name": "एयर-गैपिंग",
-    "link": "air-gapping.html"
+    "link": ".html"
   },
   {
     "name": "एयरड्रॉप",
-    "link": "airdrop.html"
+    "link": ".html"
   },
   {
     "name": "AirGap Vault",
@@ -61,11 +61,11 @@
   },
   {
     "name": "एल्गोरिथम",
-    "link": "algorithm.html"
+    "link": ".html"
   },
   {
     "name": "ऑल्टकॉइन",
-    "link": "altcoin.html"
+    "link": ".html"
   },
   {
     "name": "AML",
@@ -93,11 +93,11 @@
   },
   {
     "name": "एसेट प्रोवेनेंस",
-    "link": "asset-provenance.html"
+    "link": ".html"
   },
   {
     "name": "अटेस्टेशन",
-    "link": "attestation.html"
+    "link": ".html"
   },
   {
     "name": "Aurora",
@@ -121,7 +121,7 @@
   },
   {
     "name": "बीकन चेन",
-    "link": "beacon-chain.html"
+    "link": ".html"
   },
   {
     "name": "Besu",
@@ -137,23 +137,23 @@
   },
   {
     "name": "ब्लॉक",
-    "link": "block.html"
+    "link": ".html"
   },
   {
     "name": "ब्लॉक एक्सप्लोरर",
-    "link": "block-explorer.html"
+    "link": ".html"
   },
   {
     "name": "ब्लॉक हाइट",
-    "link": "block-height.html"
+    "link": ".html"
   },
   {
     "name": "ब्लॉक रिवॉर्ड",
-    "link": "block-reward.html"
+    "link": ".html"
   },
   {
     "name": "ब्लॉक टाइम",
-    "link": "block-time.html"
+    "link": ".html"
   },
   {
     "name": "Blockaid",
@@ -161,15 +161,15 @@
   },
   {
     "name": "ब्लॉकचेन",
-    "link": "blockchain.html"
+    "link": ".html"
   },
   {
     "name": "ब्लॉकचेन एक्सप्लोरर",
-    "link": "blockchain-explorer.html"
+    "link": ".html"
   },
   {
     "name": "ब्लॉकचेन ट्राइलेमा",
-    "link": "blockchain-trilemma.html"
+    "link": ".html"
   },
   {
     "name": "BNB",
@@ -181,11 +181,11 @@
   },
   {
     "name": "बाउंटी",
-    "link": "bounty.html"
+    "link": ".html"
   },
   {
     "name": "ब्रेन वॉलेट",
-    "link": "brain-wallet.html"
+    "link": ".html"
   },
   {
     "name": "Brave",
@@ -193,7 +193,7 @@
   },
   {
     "name": "ब्रिज",
-    "link": "bridge.html"
+    "link": ".html"
   },
   {
     "name": "BTC",
@@ -201,15 +201,15 @@
   },
   {
     "name": "बाइटकोड",
-    "link": "bytecode.html"
+    "link": ".html"
   },
   {
     "name": "बायजैंटाइन फॉल्ट टॉलरेंस",
-    "link": "byzantine-fault-tolerance.html"
+    "link": ".html"
   },
   {
     "name": "बायजैंटियम फोर्क",
-    "link": "byzantium-fork.html"
+    "link": ".html"
   },
   {
     "name": "Celo",
@@ -217,7 +217,7 @@
   },
   {
     "name": "सेंट्रलाइज्ड एक्सचेंज",
-    "link": "centralized-exchange.html"
+    "link": ".html"
   },
   {
     "name": "CEX",
@@ -225,7 +225,7 @@
   },
   {
     "name": "चेन ID",
-    "link": "chain-id.html"
+    "link": "id.html"
   },
   {
     "name": "Chrome",
@@ -233,7 +233,7 @@
   },
   {
     "name": "क्लाइंट",
-    "link": "client.html"
+    "link": ".html"
   },
   {
     "name": "Codefi",
@@ -241,7 +241,7 @@
   },
   {
     "name": "कॉइन",
-    "link": "coin.html"
+    "link": ".html"
   },
   {
     "name": "Coinbase Pay",
@@ -253,15 +253,15 @@
   },
   {
     "name": "कोल्ड स्टोरेज",
-    "link": "cold-storage.html"
+    "link": ".html"
   },
   {
     "name": "कोल्ड वॉलेट",
-    "link": "cold-wallet.html"
+    "link": ".html"
   },
   {
     "name": "कम्पाइल",
-    "link": "compile.html"
+    "link": ".html"
   },
   {
     "name": "Compound",
@@ -269,23 +269,23 @@
   },
   {
     "name": "कन्फर्मेशन",
-    "link": "confirmation.html"
+    "link": ".html"
   },
   {
     "name": "कन्सेन्सस",
-    "link": "consensus.html"
+    "link": ".html"
   },
   {
     "name": "कन्सेन्सस क्लाइंट",
-    "link": "consensus-client.html"
+    "link": ".html"
   },
   {
     "name": "कन्सेन्सस लेयर",
-    "link": "consensus-layer.html"
+    "link": ".html"
   },
   {
     "name": "कन्सेन्सस मैकेनिज्म",
-    "link": "consensus-mechanism.html"
+    "link": ".html"
   },
   {
     "name": "Consensys",
@@ -293,15 +293,15 @@
   },
   {
     "name": "कॉन्स्टेंटिनोपल फोर्क",
-    "link": "constantinople-fork.html"
+    "link": ".html"
   },
   {
     "name": "कॉन्ट्रैक्ट",
-    "link": "contract.html"
+    "link": ".html"
   },
   {
     "name": "कॉन्ट्रैक्ट अकाउंट",
-    "link": "contract-account.html"
+    "link": ".html"
   },
   {
     "name": "CoolWallet",
@@ -309,27 +309,27 @@
   },
   {
     "name": "क्रिप्टो बाउन्टीज़",
-    "link": "crypto-bounties.html"
+    "link": ".html"
   },
   {
     "name": "क्रिप्टो फंड",
-    "link": "crypto-fund.html"
+    "link": ".html"
   },
   {
     "name": "क्रिप्टो वॉलेट",
-    "link": "crypto-wallet.html"
+    "link": ".html"
   },
   {
     "name": "क्रिप्टो-",
-    "link": "crypto-.html"
+    "link": ".html"
   },
   {
     "name": "क्रिप्टो एसेट",
-    "link": "crypto-asset.html"
+    "link": ".html"
   },
   {
     "name": "क्रिप्टो-कंप्लायंस",
-    "link": "crypto-compliance.html"
+    "link": ".html"
   },
   {
     "name": "CryptoCompare",
@@ -337,15 +337,15 @@
   },
   {
     "name": "क्रिप्टोकरेंसी",
-    "link": "cryptocurrency.html"
+    "link": ".html"
   },
   {
     "name": "क्रिप्टोइकोनॉमिक्स",
-    "link": "cryptoeconomics.html"
+    "link": ".html"
   },
   {
     "name": "क्रिप्टोग्राफी",
-    "link": "cryptography.html"
+    "link": ".html"
   },
   {
     "name": "Curve",
@@ -353,11 +353,11 @@
   },
   {
     "name": "कस्टडी",
-    "link": "custody.html"
+    "link": ".html"
   },
   {
     "name": "D'CENT",
-    "link": "d'cent.html"
+    "link": "dcent.html"
   },
   {
     "name": "DAI",
@@ -377,11 +377,11 @@
   },
   {
     "name": "डीसेंट्रलाइज़ेशन",
-    "link": "decentralization.html"
+    "link": ".html"
   },
   {
     "name": "डीसेंट्रलाइज्ड एप्लीकेशन",
-    "link": "decentralized-application.html"
+    "link": ".html"
   },
   {
     "name": "Decentralized Autonomous Organization",
@@ -389,15 +389,15 @@
   },
   {
     "name": "डीसेंट्रलाइज्ड एक्सचेंज",
-    "link": "decentralized-exchange.html"
+    "link": ".html"
   },
   {
     "name": "डीसेंट्रलाइज्ड फाइनेंस",
-    "link": "decentralized-finance.html"
+    "link": ".html"
   },
   {
     "name": "डीसेंट्रलाइज्ड वेब",
-    "link": "decentralized-web.html"
+    "link": ".html"
   },
   {
     "name": "DeFi",
@@ -405,23 +405,23 @@
   },
   {
     "name": "डेलिगेटेड प्रूफ ऑफ़ स्टेक (DPoS)",
-    "link": "delegated-proof-of-stake-(dpos).html"
+    "link": "dpos.html"
   },
   {
     "name": "डीनॉमिनेशन्स",
-    "link": "denominations.html"
+    "link": ".html"
   },
   {
     "name": "डिपॉज़िट",
-    "link": "deposit.html"
+    "link": ".html"
   },
   {
     "name": "डीराइव",
-    "link": "derive.html"
+    "link": ".html"
   },
   {
     "name": "डेव",
-    "link": "dev.html"
+    "link": ".html"
   },
   {
     "name": "Devcon",
@@ -429,7 +429,7 @@
   },
   {
     "name": "डेवलपर",
-    "link": "developer.html"
+    "link": ".html"
   },
   {
     "name": "DEX",
@@ -437,23 +437,23 @@
   },
   {
     "name": "डिफीकल्टी",
-    "link": "difficulty.html"
+    "link": ".html"
   },
   {
     "name": "डिफीकल्टी बॉम्ब",
-    "link": "difficulty-bomb.html"
+    "link": ".html"
   },
   {
     "name": "डिजिटल एसेट",
-    "link": "digital-asset.html"
+    "link": ".html"
   },
   {
     "name": "डिजिटल आइडेंटिटी",
-    "link": "digital-identity.html"
+    "link": ".html"
   },
   {
     "name": "डिजिटल सिग्नेचर",
-    "link": "digital-signature.html"
+    "link": ".html"
   },
   {
     "name": "Diligence",
@@ -461,7 +461,7 @@
   },
   {
     "name": "डिस्ट्रिब्यूटेड लेजर टेक्नोलॉजी",
-    "link": "distributed-ledger-technology.html"
+    "link": ".html"
   },
   {
     "name": "DLT",
@@ -469,11 +469,11 @@
   },
   {
     "name": "डबल स्पेंड",
-    "link": "double-spend.html"
+    "link": ".html"
   },
   {
     "name": "इकोसिस्टम",
-    "link": "ecosystem.html"
+    "link": ".html"
   },
   {
     "name": "EEA",
@@ -481,15 +481,15 @@
   },
   {
     "name": "EIP-1559",
-    "link": "eip-1559.html"
+    "link": "eip1559.html"
   },
   {
     "name": "एन्क्रिप्टेड की",
-    "link": "encrypted-key.html"
+    "link": ".html"
   },
   {
     "name": "एन्क्रिप्शन",
-    "link": "encryption.html"
+    "link": ".html"
   },
   {
     "name": "ENS",
@@ -497,7 +497,7 @@
   },
   {
     "name": "एन्ट्रॉपी",
-    "link": "entropy.html"
+    "link": ".html"
   },
   {
     "name": "एपोच (epoch)",
@@ -509,15 +509,15 @@
   },
   {
     "name": "ERC-1155",
-    "link": "erc-1155.html"
+    "link": "erc1155.html"
   },
   {
     "name": "ERC-20",
-    "link": "erc-20.html"
+    "link": "erc20.html"
   },
   {
     "name": "ERC-721",
-    "link": "erc-721.html"
+    "link": "erc721.html"
   },
   {
     "name": "ETH",
@@ -533,23 +533,23 @@
   },
   {
     "name": "Ethereum 2.0",
-    "link": "ethereum-2.0.html"
+    "link": "ethereum-20.html"
   },
   {
     "name": "एथेरियम इम्प्रूवमेंट प्रपोज़ल",
-    "link": "ethereum-improvement-proposal.html"
+    "link": ".html"
   },
   {
     "name": "एथेरियम मेननेट",
-    "link": "ethereum-mainnet.html"
+    "link": ".html"
   },
   {
     "name": "एथेरियम नेम सर्विस",
-    "link": "ethereum-name-service.html"
+    "link": ".html"
   },
   {
     "name": "एथेरियम वर्चुअल मशीन",
-    "link": "ethereum-virtual-machine.html"
+    "link": ".html"
   },
   {
     "name": "Etherscan",
@@ -565,15 +565,15 @@
   },
   {
     "name": "एक्सचेंज",
-    "link": "exchange.html"
+    "link": ".html"
   },
   {
     "name": "एक्सीक्यूशन क्लाइंट",
-    "link": "execution-client.html"
+    "link": ".html"
   },
   {
     "name": "एक्सीक्यूशन लेयर",
-    "link": "execution-layer.html"
+    "link": ".html"
   },
   {
     "name": "Fantom",
@@ -581,27 +581,27 @@
   },
   {
     "name": "फॉसेट",
-    "link": "faucet.html"
+    "link": ".html"
   },
   {
     "name": "ग़लती को सहन करने वाला",
-    "link": "fault-tolerant.html"
+    "link": ".html"
   },
   {
     "name": "फिएट करेंसी",
-    "link": "fiat-currency.html"
+    "link": ".html"
   },
   {
     "name": "फाइनलिटी",
-    "link": "finality.html"
+    "link": ".html"
   },
   {
     "name": "फाइनलिटी रेट",
-    "link": "finality-rate.html"
+    "link": ".html"
   },
   {
     "name": "फाइनेंसियल टेक्नोलॉजी",
-    "link": "financial-technology.html"
+    "link": ".html"
   },
   {
     "name": "finney",
@@ -613,11 +613,11 @@
   },
   {
     "name": "फायरवॉल",
-    "link": "firewall.html"
+    "link": ".html"
   },
   {
     "name": "फर्मवेयर",
-    "link": "firmware.html"
+    "link": ".html"
   },
   {
     "name": "फोर्क (fork)",
@@ -625,11 +625,11 @@
   },
   {
     "name": "फ्रेक्शनल ओनरशिप",
-    "link": "fractional-ownership.html"
+    "link": ".html"
   },
   {
     "name": "फ्रॉड प्रूफ",
-    "link": "fraud-proof.html"
+    "link": ".html"
   },
   {
     "name": "FTM",
@@ -637,7 +637,7 @@
   },
   {
     "name": "फुल नोड",
-    "link": "full-node.html"
+    "link": ".html"
   },
   {
     "name": "Ganache",
@@ -645,19 +645,19 @@
   },
   {
     "name": "गैस",
-    "link": "gas.html"
+    "link": ".html"
   },
   {
     "name": "गैस फीस",
-    "link": "gas-fee.html"
+    "link": ".html"
   },
   {
     "name": "गैस लिमिट",
-    "link": "gas-limit.html"
+    "link": ".html"
   },
   {
     "name": "गैस प्राइस",
-    "link": "gas-price.html"
+    "link": ".html"
   },
   {
     "name": "Gas Station Network",
@@ -669,7 +669,7 @@
   },
   {
     "name": "जेनेसिस ब्लॉक",
-    "link": "genesis-block.html"
+    "link": ".html"
   },
   {
     "name": "Gitcoin",
@@ -685,7 +685,7 @@
   },
   {
     "name": "गवर्नेस",
-    "link": "governance.html"
+    "link": ".html"
   },
   {
     "name": "GSN",
@@ -701,11 +701,11 @@
   },
   {
     "name": "हार्ड फोर्क",
-    "link": "hard-fork.html"
+    "link": ".html"
   },
   {
     "name": "हार्डवेयर वॉलेट",
-    "link": "hardware-wallet.html"
+    "link": ".html"
   },
   {
     "name": "Harmony",
@@ -713,27 +713,27 @@
   },
   {
     "name": "हैश",
-    "link": "hash.html"
+    "link": ".html"
   },
   {
     "name": "HD वॉलेट",
-    "link": "hd-wallet.html"
+    "link": "hd.html"
   },
   {
     "name": " 'Bayanan lamba goma sha shida'",
-    "link": "hex-data.html"
+    "link": "bayanan-lamba-goma-sha-shida.html"
   },
   {
     "name": "हॉट स्टोरेज",
-    "link": "hot-storage.html"
+    "link": ".html"
   },
   {
     "name": "हॉट वॉलेट",
-    "link": "hot-wallet.html"
+    "link": ".html"
   },
   {
     "name": "हाइब्रिड नेटवर्क",
-    "link": "hybrid-network.html"
+    "link": ".html"
   },
   {
     "name": "हाइपरलेजर (Hyperledger)",
@@ -753,7 +753,7 @@
   },
   {
     "name": "इमम्यूटेबिलिटी",
-    "link": "immutability.html"
+    "link": ".html"
   },
   {
     "name": "Infura",
@@ -761,23 +761,23 @@
   },
   {
     "name": "इनसाइडर ट्रेडिंग",
-    "link": "insider-trading.html"
+    "link": ".html"
   },
   {
     "name": "इंटरनल ट्रांसेक्शन",
-    "link": "internal-transaction.html"
+    "link": ".html"
   },
   {
     "name": "इंटरऑपरेबिल्टी",
-    "link": "interoperability.html"
+    "link": ".html"
   },
   {
     "name": "इंटरप्लेनेटरी फाइल सिस्टम (IPFS)",
-    "link": "interplanetary-file-system-(ipfs).html"
+    "link": "ipfs.html"
   },
   {
     "name": "आईपी ​​एड्रेस",
-    "link": "ip-address.html"
+    "link": ".html"
   },
   {
     "name": "IPFS",
@@ -789,23 +789,23 @@
   },
   {
     "name": "JSON फ़ाइल",
-    "link": "json-file.html"
+    "link": "json.html"
   },
   {
     "name": "JSON-RPC",
-    "link": "json-rpc.html"
+    "link": "jsonrpc.html"
   },
   {
     "name": "कीस्टोर फ़ाइल",
-    "link": "keystore-file.html"
+    "link": ".html"
   },
   {
     "name": "अपने ग्राहक को जानें",
-    "link": "know-your-customer.html"
+    "link": ".html"
   },
   {
     "name": "अपने ट्रांसेक्शन को जानें",
-    "link": "know-your-transaction.html"
+    "link": ".html"
   },
   {
     "name": "Kovan",
@@ -825,15 +825,15 @@
   },
   {
     "name": "लॉन्चपैड",
-    "link": "launchpad.html"
+    "link": ".html"
   },
   {
     "name": "लेयर 1",
-    "link": "layer-1.html"
+    "link": "1.html"
   },
   {
     "name": "लेयर 2",
-    "link": "layer-2.html"
+    "link": "2.html"
   },
   {
     "name": "Ledger",
@@ -845,11 +845,11 @@
   },
   {
     "name": "Ledger Live ऐप",
-    "link": "ledger-live-app.html"
+    "link": "ledger-live.html"
   },
   {
     "name": "लाइब्रेरी",
-    "link": "library.html"
+    "link": ".html"
   },
   {
     "name": "Lido",
@@ -857,7 +857,7 @@
   },
   {
     "name": "लाइट क्लाइंट",
-    "link": "light-client.html"
+    "link": ".html"
   },
   {
     "name": "Lightning Network",
@@ -869,19 +869,19 @@
   },
   {
     "name": "लिक्विडेशन",
-    "link": "liquidation.html"
+    "link": ".html"
   },
   {
     "name": "लिक्विडिटी",
-    "link": "liquidity.html"
+    "link": ".html"
   },
   {
     "name": "लिक्विडिटी पूल",
-    "link": "liquidity-pool.html"
+    "link": ".html"
   },
   {
     "name": "लिक्विडिटी स्टेकिंग",
-    "link": "liquidity-staking.html"
+    "link": ".html"
   },
   {
     "name": "मेननेट (mainnet)",
@@ -889,15 +889,15 @@
   },
   {
     "name": "मेकर प्रोटोकॉल",
-    "link": "maker-protocol.html"
+    "link": ".html"
   },
   {
     "name": "मालवेयर",
-    "link": "malware.html"
+    "link": ".html"
   },
   {
     "name": "मार्केट कैप",
-    "link": "market-cap.html"
+    "link": ".html"
   },
   {
     "name": "MATIC",
@@ -905,7 +905,7 @@
   },
   {
     "name": "मेमोरी पूल",
-    "link": "memory-pool.html"
+    "link": ".html"
   },
   {
     "name": "mempool",
@@ -917,11 +917,11 @@
   },
   {
     "name": "मर्ज",
-    "link": "merge.html"
+    "link": ".html"
   },
   {
     "name": "मर्कल पेट्रीसिया ट्राई",
-    "link": "merkle-patricia-trie.html"
+    "link": ".html"
   },
   {
     "name": "Mesh",
@@ -929,7 +929,7 @@
   },
   {
     "name": "मेटाडाटा",
-    "link": "metadata.html"
+    "link": ".html"
   },
   {
     "name": "MetaMask",
@@ -969,19 +969,19 @@
   },
   {
     "name": "माइनर (miner) टिप",
-    "link": "miner-tip.html"
+    "link": "miner.html"
   },
   {
     "name": "माइनिंग",
-    "link": "mining.html"
+    "link": ".html"
   },
   {
     "name": "मिंट",
-    "link": "mint.html"
+    "link": ".html"
   },
   {
     "name": "नेमोनिक फ्रेज़",
-    "link": "mnemonic-phrase.html"
+    "link": ".html"
   },
   {
     "name": "MobiKwik",
@@ -989,7 +989,7 @@
   },
   {
     "name": "मॉड्यूलर ब्लॉकचेन",
-    "link": "modular-blockchain.html"
+    "link": ".html"
   },
   {
     "name": "MoonPay",
@@ -997,23 +997,23 @@
   },
   {
     "name": "multi-sig",
-    "link": "multi-sig.html"
+    "link": "multisig.html"
   },
   {
     "name": "मल्टी-सिग्नेचर वॉलेट",
-    "link": "multi-signature-wallet.html"
+    "link": ".html"
   },
   {
     "name": "नेस्टेड ब्लॉकचेन",
-    "link": "nested-blockchain.html"
+    "link": ".html"
   },
   {
     "name": "नेटवर्क",
-    "link": "network.html"
+    "link": ".html"
   },
   {
     "name": "नेटवर्क कंजेस्शन",
-    "link": "network-congestion.html"
+    "link": ".html"
   },
   {
     "name": "NFC",
@@ -1025,11 +1025,11 @@
   },
   {
     "name": "NFT एग्रीगेटर",
-    "link": "nft-aggregator.html"
+    "link": "nft.html"
   },
   {
     "name": "NFT ड्रॉप",
-    "link": "nft-drop.html"
+    "link": "nft.html"
   },
   {
     "name": "Ngrave",
@@ -1037,35 +1037,35 @@
   },
   {
     "name": "नोड",
-    "link": "node.html"
+    "link": ".html"
   },
   {
     "name": "नॉन-फंजिबिल टोकन",
-    "link": "non-fungible-token.html"
+    "link": ".html"
   },
   {
     "name": "नोन्स",
-    "link": "nonce.html"
+    "link": ".html"
   },
   {
     "name": "ऑफ-चेन",
-    "link": "off-chain.html"
+    "link": ".html"
   },
   {
     "name": "ऑफ-रैंप",
-    "link": "off-ramp.html"
+    "link": ".html"
   },
   {
     "name": "ओमेर (ommer) ब्लॉक",
-    "link": "ommer-block.html"
+    "link": "ommer.html"
   },
   {
     "name": "ऑन-चेन",
-    "link": "on-chain.html"
+    "link": ".html"
   },
   {
     "name": "ऑन-रैंप",
-    "link": "on-ramp.html"
+    "link": ".html"
   },
   {
     "name": "ONE",
@@ -1085,7 +1085,7 @@
   },
   {
     "name": "ऑप्टिमिस्टिक रॉलअप",
-    "link": "optimistic-rollup.html"
+    "link": ".html"
   },
   {
     "name": "Oracle",
@@ -1105,19 +1105,19 @@
   },
   {
     "name": "पैरिटी",
-    "link": "parity.html"
+    "link": ".html"
   },
   {
     "name": "पासफ्रेज़",
-    "link": "passphrase.html"
+    "link": ".html"
   },
   {
     "name": "पासवर्ड",
-    "link": "password.html"
+    "link": ".html"
   },
   {
     "name": "पासवर्ड मैनेजर",
-    "link": "password-manager.html"
+    "link": ".html"
   },
   {
     "name": "PayPal",
@@ -1125,15 +1125,15 @@
   },
   {
     "name": "पियर-टू-पियर",
-    "link": "peer-to-peer.html"
+    "link": ".html"
   },
   {
     "name": "परमिशंड लेजर",
-    "link": "permissioned-ledger.html"
+    "link": ".html"
   },
   {
     "name": "फ़िशिंग",
-    "link": "phishing.html"
+    "link": ".html"
   },
   {
     "name": "PKI",
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "प्लाज़्मा",
-    "link": "plasma.html"
+    "link": ".html"
   },
   {
     "name": "PoA",
@@ -1161,47 +1161,47 @@
   },
   {
     "name": "प्राइवेट ब्लॉकचेन",
-    "link": "private-blockchain.html"
+    "link": ".html"
   },
   {
     "name": "प्राइवेट करेंसी",
-    "link": "private-currency.html"
+    "link": ".html"
   },
   {
     "name": "प्राइवेट की (key)",
-    "link": "private-key.html"
+    "link": "key.html"
   },
   {
     "name": "प्रूफ ऑफ स्टेक",
-    "link": "proof-of-stake.html"
+    "link": ".html"
   },
   {
     "name": "प्रूफ ऑफ वर्क",
-    "link": "proof-of-work.html"
+    "link": ".html"
   },
   {
     "name": "प्रोटोकॉल",
-    "link": "protocol.html"
+    "link": ".html"
   },
   {
     "name": "पब्लिक एड्रेस",
-    "link": "public-address.html"
+    "link": ".html"
   },
   {
     "name": "पब्लिक ब्लॉकचेन",
-    "link": "public-blockchain.html"
+    "link": ".html"
   },
   {
     "name": "पब्लिक की (key)",
-    "link": "public-key.html"
+    "link": "key.html"
   },
   {
     "name": "पब्लिक-की क्रिप्टोग्राफी",
-    "link": "public-key-cryptography.html"
+    "link": ".html"
   },
   {
     "name": "QR कोड",
-    "link": "qr-code.html"
+    "link": "qr.html"
   },
   {
     "name": "Quorum",
@@ -1217,7 +1217,7 @@
   },
   {
     "name": "रिमोट प्रोसीजर कॉल",
-    "link": "remote-procedure-call.html"
+    "link": ".html"
   },
   {
     "name": "Rinkeby",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "रोडमैप",
-    "link": "roadmap.html"
+    "link": ".html"
   },
   {
     "name": "Rocket Pool",
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "रॉलअप्स",
-    "link": "rollups.html"
+    "link": ".html"
   },
   {
     "name": "Ropsten",
@@ -1257,7 +1257,7 @@
   },
   {
     "name": "सैंडबॉक्स",
-    "link": "sandbox.html"
+    "link": ".html"
   },
   {
     "name": "Sardine",
@@ -1265,19 +1265,19 @@
   },
   {
     "name": "सातोशी नाकामोटो",
-    "link": "satoshi-nakamoto.html"
+    "link": ".html"
   },
   {
     "name": "स्केलेबिल्टी",
-    "link": "scalability.html"
+    "link": ".html"
   },
   {
     "name": "स्केलिंग",
-    "link": "scaling.html"
+    "link": ".html"
   },
   {
     "name": "स्कैम",
-    "link": "scam.html"
+    "link": ".html"
   },
   {
     "name": "Scrypt",
@@ -1289,31 +1289,31 @@
   },
   {
     "name": "सर्च इंजन",
-    "link": "search-engine.html"
+    "link": ".html"
   },
   {
     "name": "सीक्रेट रिकवरी फ्रेज़",
-    "link": "secret-recovery-phrase.html"
+    "link": ".html"
   },
   {
     "name": "सिक्यूरिटी टोकन",
-    "link": "security-token.html"
+    "link": ".html"
   },
   {
     "name": "सिक्यूरिटी टोकन ऑफरिंग",
-    "link": "security-token-offering.html"
+    "link": ".html"
   },
   {
     "name": "सीड फ्रेज़",
-    "link": "seed-phrase.html"
+    "link": ".html"
   },
   {
     "name": "सेल्फ-कस्टडी",
-    "link": "self-custody.html"
+    "link": ".html"
   },
   {
     "name": "सेल्फ-एक्सीक्यूटिंग",
-    "link": "self-executing.html"
+    "link": ".html"
   },
   {
     "name": "Sepolia",
@@ -1325,27 +1325,27 @@
   },
   {
     "name": "सीरियलाइज़ेशन",
-    "link": "serialization.html"
+    "link": ".html"
   },
   {
     "name": "शार्ड चेन",
-    "link": "shard-chain.html"
+    "link": ".html"
   },
   {
     "name": "शार्डिंग",
-    "link": "sharding.html"
+    "link": ".html"
   },
   {
     "name": "शील्डेड ट्रांसेक्शन",
-    "link": "shielded-transaction.html"
+    "link": ".html"
   },
   {
     "name": "साइडचेन",
-    "link": "sidechain.html"
+    "link": ".html"
   },
   {
     "name": "स्लैशिंग (slashing) कंडीशन",
-    "link": "slashing-condition.html"
+    "link": "slashing.html"
   },
   {
     "name": "स्लिपेज (slippage)",
@@ -1353,15 +1353,15 @@
   },
   {
     "name": "स्लॉट",
-    "link": "slot.html"
+    "link": ".html"
   },
   {
     "name": "स्मार्ट कॉन्ट्रैक्ट",
-    "link": "smart-contract.html"
+    "link": ".html"
   },
   {
     "name": "सॉफ्ट फोर्क",
-    "link": "soft-fork.html"
+    "link": ".html"
   },
   {
     "name": "Solidity",
@@ -1369,23 +1369,23 @@
   },
   {
     "name": "स्टेबलकॉइन",
-    "link": "stablecoin.html"
+    "link": ".html"
   },
   {
     "name": "स्टेकिं",
-    "link": "stake.html"
+    "link": ".html"
   },
   {
     "name": "स्टेकिंग",
-    "link": "staking.html"
+    "link": ".html"
   },
   {
     "name": "स्टेट",
-    "link": "state.html"
+    "link": ".html"
   },
   {
     "name": "स्टेट चैनल्स",
-    "link": "state-channels.html"
+    "link": ".html"
   },
   {
     "name": "STO",
@@ -1393,11 +1393,11 @@
   },
   {
     "name": "स्ट्रीमिंग",
-    "link": "streaming.html"
+    "link": ".html"
   },
   {
     "name": "स्वैप",
-    "link": "swap.html"
+    "link": ".html"
   },
   {
     "name": "szabo",
@@ -1417,47 +1417,47 @@
   },
   {
     "name": "टैस्टनेट Kovan",
-    "link": "testnet-kovan.html"
+    "link": "kovan.html"
   },
   {
     "name": "टैस्टनेट Rinkeby",
-    "link": "testnet-rinkeby.html"
+    "link": "rinkeby.html"
   },
   {
     "name": "टैस्टनेट Ropsten",
-    "link": "testnet-ropsten.html"
+    "link": "ropsten.html"
   },
   {
     "name": "टोकन",
-    "link": "token.html"
+    "link": ".html"
   },
   {
     "name": "टोकन लॉकअप",
-    "link": "token-lockup.html"
+    "link": ".html"
   },
   {
     "name": "टोकन स्टैंडर्ड",
-    "link": "token-standard.html"
+    "link": ".html"
   },
   {
     "name": "ट्रांसेक्शन",
-    "link": "transaction.html"
+    "link": ".html"
   },
   {
     "name": "ट्रांसेक्शन ब्लॉक",
-    "link": "transaction-block.html"
+    "link": ".html"
   },
   {
     "name": "ट्रांसेक्शन फीस",
-    "link": "transaction-fee.html"
+    "link": ".html"
   },
   {
     "name": "ट्रांसेक्शन आईडी",
-    "link": "transaction-id.html"
+    "link": ".html"
   },
   {
     "name": "ट्रांसेक्शन पूल",
-    "link": "transaction-pool.html"
+    "link": ".html"
   },
   {
     "name": "Transak",
@@ -1473,11 +1473,11 @@
   },
   {
     "name": "ट्रस्टलैस",
-    "link": "trustless.html"
+    "link": ".html"
   },
   {
     "name": "ट्यूरिंग (Turing)-कम्पलीट",
-    "link": "turing-complete.html"
+    "link": "turing.html"
   },
   {
     "name": "TVL",
@@ -1493,7 +1493,7 @@
   },
   {
     "name": "अनएनक्रिप्टेड की",
-    "link": "unencrypted-key.html"
+    "link": ".html"
   },
   {
     "name": "Uniswap",
@@ -1501,15 +1501,15 @@
   },
   {
     "name": "अनस्पेंट ट्रांसेक्शन आउटपुट",
-    "link": "unspent-transaction-output.html"
+    "link": ".html"
   },
   {
     "name": "अनस्टेक",
-    "link": "unstake.html"
+    "link": ".html"
   },
   {
     "name": "अपग्रेड",
-    "link": "upgrade.html"
+    "link": ".html"
   },
   {
     "name": "URL",
@@ -1525,15 +1525,15 @@
   },
   {
     "name": "वैलिडेटर",
-    "link": "validator.html"
+    "link": ".html"
   },
   {
     "name": "वैलिडिटी प्रूफ",
-    "link": "validity-proof.html"
+    "link": ".html"
   },
   {
     "name": "वेस्टिंग",
-    "link": "vesting.html"
+    "link": ".html"
   },
   {
     "name": "VillageDAO",
@@ -1541,11 +1541,11 @@
   },
   {
     "name": "वॉलेट",
-    "link": "wallet.html"
+    "link": ".html"
   },
   {
     "name": "वॉलेट एड्रेस",
-    "link": "wallet-address.html"
+    "link": ".html"
   },
   {
     "name": "WalletConnect",
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Web 3.0",
-    "link": "web-3.0.html"
+    "link": "web-30.html"
   },
   {
     "name": "web3",
@@ -1569,7 +1569,7 @@
   },
   {
     "name": "वेबसॉकेट",
-    "link": "websocket.html"
+    "link": ".html"
   },
   {
     "name": "wei",
@@ -1577,11 +1577,11 @@
   },
   {
     "name": "वाइटपेपर",
-    "link": "whitepaper.html"
+    "link": ".html"
   },
   {
     "name": "रैपिंग",
-    "link": "wrapping.html"
+    "link": ".html"
   },
   {
     "name": "Wyre",
@@ -1597,27 +1597,27 @@
   },
   {
     "name": "यील्ड फार्मिंग",
-    "link": "yield-farming.html"
+    "link": ".html"
   },
   {
     "name": "यील्ड-बियरिंग टोकन्स",
-    "link": "yield-bearing-tokens.html"
+    "link": ".html"
   },
   {
     "name": "ज़ीरो एड्रेस",
-    "link": "zero-address.html"
+    "link": ".html"
   },
   {
     "name": "ज़ीरो-नॉलेज प्रूफ",
-    "link": "zero-knowledge-proof.html"
+    "link": ".html"
   },
   {
     "name": "ज़ीरो-नॉलेज रॉलअप",
-    "link": "zero-knowledge-rollup.html"
+    "link": ".html"
   },
   {
     "name": "zk-SNARKs",
-    "link": "zk-snarks.html"
+    "link": "zksnarks.html"
   },
   {
     "name": "0xplain",
