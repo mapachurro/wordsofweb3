@@ -72,21 +72,30 @@ const collator = new Intl.Collator(safeLocale);
 
     console.log("Sorted directory contents:", sortedLinks);
 
-    // Create term links
-    sortedLinks.forEach((link) => {
-      const termLink = document.createElement("a");
-      termLink.href = `./${link.link}`;
+// Helper function to sanitize filenames
+// const sanitizeFilename = (name) => name
+//     .replace(/[^\w\s-().]/g, "") // Keep parentheses and dots, remove other special characters
+//     .replace(/\s+/g, "-") // Replace spaces with hyphens
+//     .toLowerCase();
 
-      // DEBUGGING: Log the exact assignment
-      console.log("Appending to Explore section:", {
+// Create term links
+sortedLinks.forEach((link) => {
+    const termLink = document.createElement("a");
+
+    // Directly use the existing "link" field from directoryContents.json
+    termLink.href = `./${link.link}`; 
+
+    // DEBUGGING: Log the exact assignment
+    console.log("Appending to Explore section:", {
         href: termLink.href,
         nameUsed: link.name
-      });
-
-      termLink.textContent = link.name; // Should use `name`
-      termLink.className = "term-link col-12 col-md-4";
-      exploreContainer.appendChild(termLink);
     });
+
+    termLink.textContent = link.name; // Use the readable name
+    termLink.className = "term-link col-12 col-md-4";
+    exploreContainer.appendChild(termLink);
+});
+
   } catch (error) {
     console.error("Error loading directoryContents.json:", error);
   }

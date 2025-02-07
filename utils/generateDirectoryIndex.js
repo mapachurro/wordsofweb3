@@ -45,10 +45,19 @@ function generateIndexForLocale(locale) {
     return;
   }
 
-  const indexData = Object.entries(termsData).map(([termKey, termObject]) => ({
-    name: termObject.term || termKey, // Use the `term` field if available
-    link: `${termKey.replace(/\s+/g, "-").toLowerCase()}.html`,
-  }));
+  const sanitizeFilename = (name) => name
+    .replace(/[^\w\s-()]/g, "") // Keep parentheses, but remove other special characters
+    .replace(/\s+/g, "-") // Replace spaces with hyphens
+    .toLowerCase();
+
+    const indexData = Object.entries(termsData).map(([termKey, termObject]) => {
+        const termName = termObject.term || termKey; // Human-readable name
+        return {
+            name: termName,
+            link: `${sanitizeFilename(termName)}.html`, // Ensure parentheses are retained
+        };
+    });
+    
 
   fs.mkdirSync(outputDir, { recursive: true });
 
