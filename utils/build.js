@@ -2,9 +2,13 @@
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import { initializeLanguageCodes, convertLocaleFormat } from "../src/js/l10n.js";
+import {
+  initializeLanguageCodes,
+  convertLocaleFormat,
+} from "../src/js/l10n.js";
 // Import scripts that handle different parts of the build process
 // import { updateTemplateWithLocales } from "./build-dropdown.js";
+import { generateDirectoryIndex } from "./generateDirectoryIndex.js";
 import buildPages from "./build-pages.js";
 import buildHomepages from "./build-homepages.js";
 import intertextualLinks from "./intertextual.js";
@@ -18,7 +22,7 @@ const __dirname = path.dirname(__filename);
 const staticDir = path.join(__dirname, "../static/");
 const buildDir = path.join(__dirname, "../build");
 const publicDir = path.join(__dirname, "../public");
-const localesDir = path.join(__dirname, "../locales");
+// const localesDir = path.join(__dirname, "../locales");
 const srcJsDir = path.join(__dirname, "../src/js");
 // const navbarTemplatePath = path.join(__dirname, '../navbar-template.html'); // Define path to navbar-template.html
 // const indexTemplatePath = path.join(__dirname, '../utils/index-template.html'); // Define path to index-template.html
@@ -26,24 +30,29 @@ const srcJsDir = path.join(__dirname, "../src/js");
 // Ensure language codes are initialized
 await initializeLanguageCodes();
 
-if (fs.existsSync(localesDir)) {
-    fs.readdirSync(localesDir).forEach((locale) => {
-      const humanReadableName = convertLocaleFormat(locale, "fourLetterDash", "slug") || locale;
-        const sourceFile = path.join(localesDir, locale, "directoryContents.json");
-        const targetDir = path.join(buildDir, humanReadableName);
-        const targetFile = path.join(targetDir, "directoryContents.json");
+// if (fs.existsSync(staticDir)) {
+//   fs.readdirSync(staticDir).forEach((locale) => {
+//     const humanReadableName =
+//       convertLocaleFormat(locale, "fourLetterDash", "slug") || locale;
+//     const sourceFile = path.join(staticDir, locale, "directoryContents.json");
+//     const targetDir = path.join(buildDir, humanReadableName);
+//     const targetFile = path.join(targetDir, "directoryContents.json");
 
-        if (fs.existsSync(sourceFile)) {
-            fs.mkdirSync(targetDir, { recursive: true });
-            fs.copyFileSync(sourceFile, targetFile);
-            console.log(`Copied directoryContents.json for ${locale} → ${humanReadableName}`);
-        } else {
-            console.warn(`directoryContents.json missing for ${locale}, skipping...`);
-        }
-    });
-} else {
-    console.warn("Locales directory not found, skipping directoryContents.json copying.");
-}
+//     if (fs.existsSync(sourceFile)) {
+//       fs.mkdirSync(targetDir, { recursive: true });
+//       fs.copyFileSync(sourceFile, targetFile);
+//       console.log(
+//         `Copied directoryContents.json for ${locale} → ${humanReadableName}`,
+//       );
+//     } else {
+//       console.warn(`directoryContents.json missing for ${locale}, skipping...`);
+//     }
+//   });
+// } else {
+//   console.warn(
+//     "Locales directory not found, skipping directoryContents.json copying.",
+//   );
+// }
 
 // Function to copy files
 function copyFileSync(source, target) {
@@ -100,6 +109,11 @@ async function build() {
     await buildHomepages();
     console.log("Built homepages for each locale.");
 
+    // Generate the directoryContents files
+    console.log("Generating directory index...");
+    await generateDirectoryIndex();
+    console.log("Directory index generated.");
+
     // Create the 'Resources' page
     console.log("Generating resources page...");
     await buildResourcesPage();
@@ -130,7 +144,7 @@ async function build() {
       console.log("CSS files copied to assets/css.");
     }
 
-    // Copy directoryContents.json files from locales to the build directory
+    // Copy directoryContents.json files to the build directory
     const localesDir = path.join(__dirname, "../locales");
     if (fs.existsSync(localesDir)) {
       fs.readdirSync(localesDir).forEach((locale) => {
@@ -141,7 +155,7 @@ async function build() {
         );
         const targetFile = path.join(
           buildDir,
-          locale,
+          convertLocaleFormat(locale, "fourLetterDash", "slug"),
           "directoryContents.json",
         );
 

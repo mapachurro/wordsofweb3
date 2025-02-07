@@ -39,9 +39,8 @@ function getValidLocale(locale) {
 
 const validLocale = getValidLocale(locale);
 console.log(`Using locale: ${validLocale} for sorting`);
-const collator = new Intl.Collator(validLocale);
-
-
+const safeLocale = validLocale.replace("_", "-");
+const collator = new Intl.Collator(safeLocale);
 
     // Function to determine the script of a term
     function getScript(text) {
