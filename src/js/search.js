@@ -1,4 +1,6 @@
 export default function initSearch(directoryContents) {
+  console.log("Loaded search index:", directoryContents);
+
   const searchButton = document.getElementById("search-button");
   const searchInput = document.getElementById("search-input");
   const resultsContainer = document.getElementById("results-container");
@@ -12,7 +14,7 @@ export default function initSearch(directoryContents) {
     const query = searchInput.value.trim().toLowerCase();
     console.log("Search initiated for query:", query);
     if (!query) {
-      resultsContainer.style.display = "none"; // Hide results if no query
+      resultsContainer.style.display = "none";
       return;
     }
     fetchSearchResults(query);
@@ -20,12 +22,15 @@ export default function initSearch(directoryContents) {
 
   function fetchSearchResults(query) {
     const results = searchIndex(directoryContents, query);
+    console.log("Search results:", results); // Debug log
     displayResults(results);
-    console.log("search results: ", results);
   }
 
   function searchIndex(index, query) {
-    return index.filter(item => item.name.toLowerCase().includes(query));
+    return index.filter(item => {
+      console.log(`Checking item: ${item.name}, Searching for: ${query}`);
+      return item.name.toLowerCase().includes(query);
+    });
   }
 
   function displayResults(results) {
@@ -42,7 +47,7 @@ export default function initSearch(directoryContents) {
     results.forEach(result => {
       const listItem = document.createElement("li");
       const resultUrl = `./${result.link}`;
-      listItem.innerHTML = `<a href="${resultUrl}">${result.name}</a>`;
+      listItem.innerHTML = `<a href="${resultUrl}">${result.name}</a>`; // Use `name` instead of the slug
       list.appendChild(listItem);
     });
     resultsContainer.appendChild(list);

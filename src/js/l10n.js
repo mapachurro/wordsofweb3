@@ -1,4 +1,4 @@
-//l10n.js: this leverages ./l10n/language-codes.json, and provides a set of functions for you to e.g.
+//l10n.js: this leverages ./public/assets/language-codes.json, and provides a set of functions for you to e.g.
 // switch between locale code formats.
 
 // Detect the environment
@@ -22,12 +22,12 @@ export async function initializeLanguageCodes(fromRoot = false) {
     const __dirname = path.dirname(__filename);
     const languageCodesPath = path.join(
       __dirname,
-      "../../l10n/language-codes.json",
+      "../../public/assets/language-codes.json",
     );
 
     languageCodes = JSON.parse(fs.readFileSync(languageCodesPath, "utf-8"));
   } else {
-    const path = fromRoot ? "./l10n/language-codes.json" : "../l10n/language-codes.json"
+    const path = fromRoot ? "./assets/language-codes.json" : "../assets/language-codes.json"
     const response = await fetch(path);
     if (!response.ok) {
       throw new Error("Failed to load language codes");

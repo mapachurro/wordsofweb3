@@ -2,8 +2,13 @@
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import {
+  initializeLanguageCodes,
+  convertLocaleFormat,
+} from "../src/js/l10n.js";
 // Import scripts that handle different parts of the build process
 // import { updateTemplateWithLocales } from "./build-dropdown.js";
+import { generateDirectoryIndex } from "./generateDirectoryIndex.js";
 import buildPages from "./build-pages.js";
 import buildHomepages from "./build-homepages.js";
 import intertextualLinks from "./intertextual.js";
@@ -17,10 +22,37 @@ const __dirname = path.dirname(__filename);
 const staticDir = path.join(__dirname, "../static/");
 const buildDir = path.join(__dirname, "../build");
 const publicDir = path.join(__dirname, "../public");
-const l10nDir = path.join(__dirname, "../l10n");
+// const localesDir = path.join(__dirname, "../locales");
 const srcJsDir = path.join(__dirname, "../src/js");
 // const navbarTemplatePath = path.join(__dirname, '../navbar-template.html'); // Define path to navbar-template.html
 // const indexTemplatePath = path.join(__dirname, '../utils/index-template.html'); // Define path to index-template.html
+
+// Ensure language codes are initialized
+await initializeLanguageCodes();
+
+// if (fs.existsSync(staticDir)) {
+//   fs.readdirSync(staticDir).forEach((locale) => {
+//     const humanReadableName =
+//       convertLocaleFormat(locale, "fourLetterDash", "slug") || locale;
+//     const sourceFile = path.join(staticDir, locale, "directoryContents.json");
+//     const targetDir = path.join(buildDir, humanReadableName);
+//     const targetFile = path.join(targetDir, "directoryContents.json");
+
+//     if (fs.existsSync(sourceFile)) {
+//       fs.mkdirSync(targetDir, { recursive: true });
+//       fs.copyFileSync(sourceFile, targetFile);
+//       console.log(
+//         `Copied directoryContents.json for ${locale} → ${humanReadableName}`,
+//       );
+//     } else {
+//       console.warn(`directoryContents.json missing for ${locale}, skipping...`);
+//     }
+//   });
+// } else {
+//   console.warn(
+//     "Locales directory not found, skipping directoryContents.json copying.",
+//   );
+// }
 
 // Function to copy files
 function copyFileSync(source, target) {
@@ -59,29 +91,6 @@ function copyFolderRecursiveSync(source, target) {
   }
 }
 
-// Function to generate directory index JSON files
-function generateDirectoryIndex(directoryPath) {
-  console.log("Generate index files")
-  const locales = fs
-    .readdirSync(directoryPath)
-    .filter((dir) => fs.lstatSync(path.join(directoryPath, dir)).isDirectory());
-  locales.forEach((locale) => {
-    const localePath = path.join(directoryPath, locale);
-    const outputPath = path.join(localePath, "directoryContents.json");
-
-    const files = fs
-      .readdirSync(localePath)
-      .filter((file) => file.endsWith(".html"));
-    const indexData = files.map((file) => ({
-      name: path.basename(file, ".html"),
-      link: file,
-    }));
-
-    fs.writeFileSync(outputPath, JSON.stringify(indexData, null, 2));
-    console.log(`Index generated at ${outputPath}`);
-  });
-}
-
 // Main build function to ensure proper sequencing of tasks
 async function build() {
   try {
@@ -91,28 +100,24 @@ async function build() {
     }
     fs.mkdirSync(buildDir, { recursive: true });
 
-    // Generate the locale switcher dropdown based on locales available in language-codes.json
-    // updateTemplateWithLocales(navbarTemplatePath);
-    // updateTemplateWithLocales(indexTemplatePath);
-
     // Run the entry page generation process
     await buildPages();
     console.log("Pages built.");
 
     // Run the homepage generation process
-    console.log("Beginning index.html generation for all locales")
+    console.log("Beginning index.html generation for all locales");
     await buildHomepages();
     console.log("Built homepages for each locale.");
+
+    // Generate the directoryContents files
+    console.log("Generating directory index...");
+    await generateDirectoryIndex();
+    console.log("Directory index generated.");
 
     // Create the 'Resources' page
     console.log("Generating resources page...");
     await buildResourcesPage();
     console.log("Resources page built.");
-
-    // Generate directory index files
-    console.log("Beginning generation of page indices for all locales")
-    await generateDirectoryIndex(staticDir);
-    console.log("Directory indices generated.");
 
     // Run the intertextual hyperlink creation process (await since it's async)
     await intertextualLinks();
@@ -139,15 +144,47 @@ async function build() {
       console.log("CSS files copied to assets/css.");
     }
 
-    // Copy search indices to 'assets/search-indices'
-    const searchIndicesDir = path.join(publicDir, "assets/search-indices");
-    if (fs.existsSync(searchIndicesDir)) {
-      copyFolderRecursiveSync(
-        searchIndicesDir,
-        path.join(buildDir, "assets/search-indices"),
+    // Copy directoryContents.json files to the build directory
+    const localesDir = path.join(__dirname, "../locales");
+    if (fs.existsSync(localesDir)) {
+      fs.readdirSync(localesDir).forEach((locale) => {
+        const sourceFile = path.join(
+          localesDir,
+          locale,
+          "directoryContents.json",
+        );
+        const targetFile = path.join(
+          buildDir,
+          convertLocaleFormat(locale, "fourLetterDash", "slug"),
+          "directoryContents.json",
+        );
+
+        if (fs.existsSync(sourceFile)) {
+          // Ensure locale directory exists in build
+          fs.mkdirSync(path.dirname(targetFile), { recursive: true });
+          copyFileSync(sourceFile, targetFile);
+          console.log(`Copied directoryContents.json for ${locale}`);
+        } else {
+          console.warn(
+            `directoryContents.json missing for ${locale}, skipping...`,
+          );
+        }
+      });
+    } else {
+      console.warn(
+        "Locales directory not found, skipping directoryContents.json copying.",
       );
-      console.log("Search indices copied to assets/search-indices.");
     }
+
+    // Copy search indices to 'assets/search-indices'
+    // const searchIndicesDir = path.join(publicDir, "assets/search-indices");
+    // if (fs.existsSync(searchIndicesDir)) {
+    //   copyFolderRecursiveSync(
+    //     searchIndicesDir,
+    //     path.join(buildDir, "assets/search-indices"),
+    //   );
+    //   console.log("Search indices copied to assets/search-indices.");
+    // }
 
     // Copy JavaScript files to 'js'
     if (fs.existsSync(srcJsDir)) {
@@ -156,23 +193,17 @@ async function build() {
     }
 
     // Copy other public assets (e.g., images, favicon) directly to 'assets'
-    ["favicon.ico", "education-dao-circle.png"].forEach((file) => {
-      const filePath = path.join(publicDir, `assets/${file}`);
-      if (fs.existsSync(filePath)) {
-        copyFileSync(filePath, path.join(buildDir, "assets", file));
-        console.log(`${file} copied to assets.`);
-      } else {
-        console.warn(`${file} not found in public/assets.`);
-      }
-    });
-
-    // Copy l10n assets to 'l10n' in build directory
-    if (fs.existsSync(l10nDir)) {
-      copyFolderRecursiveSync(l10nDir, path.join(buildDir, "l10n"));
-      console.log("l10n assets copied.");
-    } else {
-      console.warn("l10n directory not found.");
-    }
+    ["favicon.ico", "education-dao-circle.png", "language-codes.json"].forEach(
+      (file) => {
+        const filePath = path.join(publicDir, `assets/${file}`);
+        if (fs.existsSync(filePath)) {
+          copyFileSync(filePath, path.join(buildDir, "assets", file));
+          console.log(`${file} copied to assets.`);
+        } else {
+          console.warn(`${file} not found in public/assets.`);
+        }
+      },
+    );
 
     // Copy index.html to root build directory
     ["index.html", "navbar-template.html"].forEach((file) => {

@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "टू-फैक्टर ऑथेंटिकेशन",
+    "link": ".html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "51% अटैक",
+    "link": "51.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "अकाउंट",
+    "link": ".html"
+  },
+  {
+    "name": "ACH ट्रांसफ़र",
+    "link": "ach.html"
+  },
+  {
+    "name": "एड्रेस",
+    "link": ".html"
+  },
+  {
+    "name": "एग्रीगेटर",
+    "link": ".html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "एयर-गैपिंग",
+    "link": ".html"
+  },
+  {
+    "name": "एयरड्रॉप",
+    "link": ".html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "एल्गोरिथम",
+    "link": ".html"
+  },
+  {
+    "name": "ऑल्टकॉइन",
+    "link": ".html"
+  },
+  {
+    "name": "AML",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ASIC",
+    "link": "asic.html"
+  },
+  {
+    "name": "एसेट प्रोवेनेंस",
+    "link": ".html"
+  },
+  {
+    "name": "अटेस्टेशन",
+    "link": ".html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "बीकन चेन",
+    "link": ".html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "ब्लॉक",
+    "link": ".html"
+  },
+  {
+    "name": "ब्लॉक एक्सप्लोरर",
+    "link": ".html"
+  },
+  {
+    "name": "ब्लॉक हाइट",
+    "link": ".html"
+  },
+  {
+    "name": "ब्लॉक रिवॉर्ड",
+    "link": ".html"
+  },
+  {
+    "name": "ब्लॉक टाइम",
+    "link": ".html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "ब्लॉकचेन",
+    "link": ".html"
+  },
+  {
+    "name": "ब्लॉकचेन एक्सप्लोरर",
+    "link": ".html"
+  },
+  {
+    "name": "ब्लॉकचेन ट्राइलेमा",
+    "link": ".html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "बाउंटी",
+    "link": ".html"
+  },
+  {
+    "name": "ब्रेन वॉलेट",
+    "link": ".html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "ब्रिज",
+    "link": ".html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "बाइटकोड",
+    "link": ".html"
+  },
+  {
+    "name": "बायजैंटाइन फॉल्ट टॉलरेंस",
+    "link": ".html"
+  },
+  {
+    "name": "बायजैंटियम फोर्क",
+    "link": ".html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "सेंट्रलाइज्ड एक्सचेंज",
+    "link": ".html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "चेन ID",
+    "link": "id.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "क्लाइंट",
+    "link": ".html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "कॉइन",
+    "link": ".html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "कोल्ड स्टोरेज",
+    "link": ".html"
+  },
+  {
+    "name": "कोल्ड वॉलेट",
+    "link": ".html"
+  },
+  {
+    "name": "कम्पाइल",
+    "link": ".html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "कन्फर्मेशन",
+    "link": ".html"
+  },
+  {
+    "name": "कन्सेन्सस",
+    "link": ".html"
+  },
+  {
+    "name": "कन्सेन्सस क्लाइंट",
+    "link": ".html"
+  },
+  {
+    "name": "कन्सेन्सस लेयर",
+    "link": ".html"
+  },
+  {
+    "name": "कन्सेन्सस मैकेनिज्म",
+    "link": ".html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "कॉन्स्टेंटिनोपल फोर्क",
+    "link": ".html"
+  },
+  {
+    "name": "कॉन्ट्रैक्ट",
+    "link": ".html"
+  },
+  {
+    "name": "कॉन्ट्रैक्ट अकाउंट",
+    "link": ".html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "क्रिप्टो बाउन्टीज़",
+    "link": ".html"
+  },
+  {
+    "name": "क्रिप्टो फंड",
+    "link": ".html"
+  },
+  {
+    "name": "क्रिप्टो वॉलेट",
+    "link": ".html"
+  },
+  {
+    "name": "क्रिप्टो-",
+    "link": ".html"
+  },
+  {
+    "name": "क्रिप्टो एसेट",
+    "link": ".html"
+  },
+  {
+    "name": "क्रिप्टो-कंप्लायंस",
+    "link": ".html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "क्रिप्टोकरेंसी",
+    "link": ".html"
+  },
+  {
+    "name": "क्रिप्टोइकोनॉमिक्स",
+    "link": ".html"
+  },
+  {
+    "name": "क्रिप्टोग्राफी",
+    "link": ".html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "कस्टडी",
+    "link": ".html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "dcent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "डिनायल ऑफ सर्विस (DDoS)",
+    "link": "ddos.html"
+  },
+  {
+    "name": "डीसेंट्रलाइज़ेशन",
+    "link": ".html"
+  },
+  {
+    "name": "डीसेंट्रलाइज्ड एप्लीकेशन",
+    "link": ".html"
+  },
+  {
+    "name": "Decentralized Autonomous Organization",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "डीसेंट्रलाइज्ड एक्सचेंज",
+    "link": ".html"
+  },
+  {
+    "name": "डीसेंट्रलाइज्ड फाइनेंस",
+    "link": ".html"
+  },
+  {
+    "name": "डीसेंट्रलाइज्ड वेब",
+    "link": ".html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "डेलिगेटेड प्रूफ ऑफ़ स्टेक (DPoS)",
+    "link": "dpos.html"
+  },
+  {
+    "name": "डीनॉमिनेशन्स",
+    "link": ".html"
+  },
+  {
+    "name": "डिपॉज़िट",
+    "link": ".html"
+  },
+  {
+    "name": "डीराइव",
+    "link": ".html"
+  },
+  {
+    "name": "डेव",
+    "link": ".html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "डेवलपर",
+    "link": ".html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "डिफीकल्टी",
+    "link": ".html"
+  },
+  {
+    "name": "डिफीकल्टी बॉम्ब",
+    "link": ".html"
+  },
+  {
+    "name": "डिजिटल एसेट",
+    "link": ".html"
+  },
+  {
+    "name": "डिजिटल आइडेंटिटी",
+    "link": ".html"
+  },
+  {
+    "name": "डिजिटल सिग्नेचर",
+    "link": ".html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "डिस्ट्रिब्यूटेड लेजर टेक्नोलॉजी",
+    "link": ".html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "डबल स्पेंड",
+    "link": ".html"
+  },
+  {
+    "name": "इकोसिस्टम",
+    "link": ".html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip1559.html"
+  },
+  {
+    "name": "एन्क्रिप्टेड की",
+    "link": ".html"
+  },
+  {
+    "name": "एन्क्रिप्शन",
+    "link": ".html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "एन्ट्रॉपी",
+    "link": ".html"
+  },
+  {
+    "name": "एपोच (epoch)",
+    "link": "epoch.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-20.html"
+  },
+  {
+    "name": "एथेरियम इम्प्रूवमेंट प्रपोज़ल",
+    "link": ".html"
+  },
+  {
+    "name": "एथेरियम मेननेट",
+    "link": ".html"
+  },
+  {
+    "name": "एथेरियम नेम सर्विस",
+    "link": ".html"
+  },
+  {
+    "name": "एथेरियम वर्चुअल मशीन",
+    "link": ".html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "एक्सचेंज",
+    "link": ".html"
+  },
+  {
+    "name": "एक्सीक्यूशन क्लाइंट",
+    "link": ".html"
+  },
+  {
+    "name": "एक्सीक्यूशन लेयर",
+    "link": ".html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "फॉसेट",
+    "link": ".html"
+  },
+  {
+    "name": "ग़लती को सहन करने वाला",
+    "link": ".html"
+  },
+  {
+    "name": "फिएट करेंसी",
+    "link": ".html"
+  },
+  {
+    "name": "फाइनलिटी",
+    "link": ".html"
+  },
+  {
+    "name": "फाइनलिटी रेट",
+    "link": ".html"
+  },
+  {
+    "name": "फाइनेंसियल टेक्नोलॉजी",
+    "link": ".html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "फायरवॉल",
+    "link": ".html"
+  },
+  {
+    "name": "फर्मवेयर",
+    "link": ".html"
+  },
+  {
+    "name": "फोर्क (fork)",
+    "link": "fork.html"
+  },
+  {
+    "name": "फ्रेक्शनल ओनरशिप",
+    "link": ".html"
+  },
+  {
+    "name": "फ्रॉड प्रूफ",
+    "link": ".html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "फुल नोड",
+    "link": ".html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "गैस",
+    "link": ".html"
+  },
+  {
+    "name": "गैस फीस",
+    "link": ".html"
+  },
+  {
+    "name": "गैस लिमिट",
+    "link": ".html"
+  },
+  {
+    "name": "गैस प्राइस",
+    "link": ".html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "जेनेसिस ब्लॉक",
+    "link": ".html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "गवर्नेस",
+    "link": ".html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "आधा करना (halving)",
+    "link": "halving.html"
+  },
+  {
+    "name": "हार्ड फोर्क",
+    "link": ".html"
+  },
+  {
+    "name": "हार्डवेयर वॉलेट",
+    "link": ".html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "हैश",
+    "link": ".html"
+  },
+  {
+    "name": "HD वॉलेट",
+    "link": "hd.html"
+  },
+  {
+    "name": " 'Bayanan lamba goma sha shida'",
+    "link": "bayanan-lamba-goma-sha-shida.html"
+  },
+  {
+    "name": "हॉट स्टोरेज",
+    "link": ".html"
+  },
+  {
+    "name": "हॉट वॉलेट",
+    "link": ".html"
+  },
+  {
+    "name": "हाइब्रिड नेटवर्क",
+    "link": ".html"
+  },
+  {
+    "name": "हाइपरलेजर (Hyperledger)",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "इमम्यूटेबिलिटी",
+    "link": ".html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "इनसाइडर ट्रेडिंग",
+    "link": ".html"
+  },
+  {
+    "name": "इंटरनल ट्रांसेक्शन",
+    "link": ".html"
+  },
+  {
+    "name": "इंटरऑपरेबिल्टी",
+    "link": ".html"
+  },
+  {
+    "name": "इंटरप्लेनेटरी फाइल सिस्टम (IPFS)",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "आईपी ​​एड्रेस",
+    "link": ".html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "JSON फ़ाइल",
+    "link": "json.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "jsonrpc.html"
+  },
+  {
+    "name": "कीस्टोर फ़ाइल",
+    "link": ".html"
+  },
+  {
+    "name": "अपने ग्राहक को जानें",
+    "link": ".html"
+  },
+  {
+    "name": "अपने ट्रांसेक्शन को जानें",
+    "link": ".html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "लॉन्चपैड",
+    "link": ".html"
+  },
+  {
+    "name": "लेयर 1",
+    "link": "1.html"
+  },
+  {
+    "name": "लेयर 2",
+    "link": "2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Ledger Live ऐप",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "लाइब्रेरी",
+    "link": ".html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "लाइट क्लाइंट",
+    "link": ".html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "लिक्विडेशन",
+    "link": ".html"
+  },
+  {
+    "name": "लिक्विडिटी",
+    "link": ".html"
+  },
+  {
+    "name": "लिक्विडिटी पूल",
+    "link": ".html"
+  },
+  {
+    "name": "लिक्विडिटी स्टेकिंग",
+    "link": ".html"
+  },
+  {
+    "name": "मेननेट (mainnet)",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "मेकर प्रोटोकॉल",
+    "link": ".html"
+  },
+  {
+    "name": "मालवेयर",
+    "link": ".html"
+  },
+  {
+    "name": "मार्केट कैप",
+    "link": ".html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "मेमोरी पूल",
+    "link": ".html"
+  },
+  {
+    "name": "mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "मर्ज",
+    "link": ".html"
+  },
+  {
+    "name": "मर्कल पेट्रीसिया ट्राई",
+    "link": ".html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "मेटाडाटा",
+    "link": ".html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metaverse",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "MEV",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "माइनर (miner)",
+    "link": "miner.html"
+  },
+  {
+    "name": "माइनर (miner) टिप",
+    "link": "miner.html"
+  },
+  {
+    "name": "माइनिंग",
+    "link": ".html"
+  },
+  {
+    "name": "मिंट",
+    "link": ".html"
+  },
+  {
+    "name": "नेमोनिक फ्रेज़",
+    "link": ".html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "मॉड्यूलर ब्लॉकचेन",
+    "link": ".html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "multi-sig",
+    "link": "multisig.html"
+  },
+  {
+    "name": "मल्टी-सिग्नेचर वॉलेट",
+    "link": ".html"
+  },
+  {
+    "name": "नेस्टेड ब्लॉकचेन",
+    "link": ".html"
+  },
+  {
+    "name": "नेटवर्क",
+    "link": ".html"
+  },
+  {
+    "name": "नेटवर्क कंजेस्शन",
+    "link": ".html"
+  },
+  {
+    "name": "NFC",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT एग्रीगेटर",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT ड्रॉप",
+    "link": "nft.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "नोड",
+    "link": ".html"
+  },
+  {
+    "name": "नॉन-फंजिबिल टोकन",
+    "link": ".html"
+  },
+  {
+    "name": "नोन्स",
+    "link": ".html"
+  },
+  {
+    "name": "ऑफ-चेन",
+    "link": ".html"
+  },
+  {
+    "name": "ऑफ-रैंप",
+    "link": ".html"
+  },
+  {
+    "name": "ओमेर (ommer) ब्लॉक",
+    "link": "ommer.html"
+  },
+  {
+    "name": "ऑन-चेन",
+    "link": ".html"
+  },
+  {
+    "name": "ऑन-रैंप",
+    "link": ".html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "ऑप्टिमिस्टिक रॉलअप",
+    "link": ".html"
+  },
+  {
+    "name": "Oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "पैरिटी",
+    "link": ".html"
+  },
+  {
+    "name": "पासफ्रेज़",
+    "link": ".html"
+  },
+  {
+    "name": "पासवर्ड",
+    "link": ".html"
+  },
+  {
+    "name": "पासवर्ड मैनेजर",
+    "link": ".html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "पियर-टू-पियर",
+    "link": ".html"
+  },
+  {
+    "name": "परमिशंड लेजर",
+    "link": ".html"
+  },
+  {
+    "name": "फ़िशिंग",
+    "link": ".html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "प्लाज़्मा",
+    "link": ".html"
+  },
+  {
+    "name": "PoA",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "प्राइवेट ब्लॉकचेन",
+    "link": ".html"
+  },
+  {
+    "name": "प्राइवेट करेंसी",
+    "link": ".html"
+  },
+  {
+    "name": "प्राइवेट की (key)",
+    "link": "key.html"
+  },
+  {
+    "name": "प्रूफ ऑफ स्टेक",
+    "link": ".html"
+  },
+  {
+    "name": "प्रूफ ऑफ वर्क",
+    "link": ".html"
+  },
+  {
+    "name": "प्रोटोकॉल",
+    "link": ".html"
+  },
+  {
+    "name": "पब्लिक एड्रेस",
+    "link": ".html"
+  },
+  {
+    "name": "पब्लिक ब्लॉकचेन",
+    "link": ".html"
+  },
+  {
+    "name": "पब्लिक की (key)",
+    "link": "key.html"
+  },
+  {
+    "name": "पब्लिक-की क्रिप्टोग्राफी",
+    "link": ".html"
+  },
+  {
+    "name": "QR कोड",
+    "link": "qr.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "रीलेयर (relayer)",
+    "link": "relayer.html"
+  },
+  {
+    "name": "रिमोट प्रोसीजर कॉल",
+    "link": ".html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "रोडमैप",
+    "link": ".html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "रॉलअप्स",
+    "link": ".html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "रग पुल (rug pull)",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "सैंडबॉक्स",
+    "link": ".html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "सातोशी नाकामोटो",
+    "link": ".html"
+  },
+  {
+    "name": "स्केलेबिल्टी",
+    "link": ".html"
+  },
+  {
+    "name": "स्केलिंग",
+    "link": ".html"
+  },
+  {
+    "name": "स्कैम",
+    "link": ".html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "सर्च इंजन",
+    "link": ".html"
+  },
+  {
+    "name": "सीक्रेट रिकवरी फ्रेज़",
+    "link": ".html"
+  },
+  {
+    "name": "सिक्यूरिटी टोकन",
+    "link": ".html"
+  },
+  {
+    "name": "सिक्यूरिटी टोकन ऑफरिंग",
+    "link": ".html"
+  },
+  {
+    "name": "सीड फ्रेज़",
+    "link": ".html"
+  },
+  {
+    "name": "सेल्फ-कस्टडी",
+    "link": ".html"
+  },
+  {
+    "name": "सेल्फ-एक्सीक्यूटिंग",
+    "link": ".html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "सीरियलाइज़ेशन",
+    "link": ".html"
+  },
+  {
+    "name": "शार्ड चेन",
+    "link": ".html"
+  },
+  {
+    "name": "शार्डिंग",
+    "link": ".html"
+  },
+  {
+    "name": "शील्डेड ट्रांसेक्शन",
+    "link": ".html"
+  },
+  {
+    "name": "साइडचेन",
+    "link": ".html"
+  },
+  {
+    "name": "स्लैशिंग (slashing) कंडीशन",
+    "link": "slashing.html"
+  },
+  {
+    "name": "स्लिपेज (slippage)",
+    "link": "slippage.html"
+  },
+  {
+    "name": "स्लॉट",
+    "link": ".html"
+  },
+  {
+    "name": "स्मार्ट कॉन्ट्रैक्ट",
+    "link": ".html"
+  },
+  {
+    "name": "सॉफ्ट फोर्क",
+    "link": ".html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "स्टेबलकॉइन",
+    "link": ".html"
+  },
+  {
+    "name": "स्टेकिं",
+    "link": ".html"
+  },
+  {
+    "name": "स्टेकिंग",
+    "link": ".html"
+  },
+  {
+    "name": "स्टेट",
+    "link": ".html"
+  },
+  {
+    "name": "स्टेट चैनल्स",
+    "link": ".html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "स्ट्रीमिंग",
+    "link": ".html"
+  },
+  {
+    "name": "स्वैप",
+    "link": ".html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "टैस्टनेट (testnet)",
+    "link": "testnet.html"
+  },
+  {
+    "name": "टैस्टनेट Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "टैस्टनेट Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "टैस्टनेट Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "टोकन",
+    "link": ".html"
+  },
+  {
+    "name": "टोकन लॉकअप",
+    "link": ".html"
+  },
+  {
+    "name": "टोकन स्टैंडर्ड",
+    "link": ".html"
+  },
+  {
+    "name": "ट्रांसेक्शन",
+    "link": ".html"
+  },
+  {
+    "name": "ट्रांसेक्शन ब्लॉक",
+    "link": ".html"
+  },
+  {
+    "name": "ट्रांसेक्शन फीस",
+    "link": ".html"
+  },
+  {
+    "name": "ट्रांसेक्शन आईडी",
+    "link": ".html"
+  },
+  {
+    "name": "ट्रांसेक्शन पूल",
+    "link": ".html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "ट्रस्टलैस",
+    "link": ".html"
+  },
+  {
+    "name": "ट्यूरिंग (Turing)-कम्पलीट",
+    "link": "turing.html"
+  },
+  {
+    "name": "TVL",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "अनएनक्रिप्टेड की",
+    "link": ".html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "अनस्पेंट ट्रांसेक्शन आउटपुट",
+    "link": ".html"
+  },
+  {
+    "name": "अनस्टेक",
+    "link": ".html"
+  },
+  {
+    "name": "अपग्रेड",
+    "link": ".html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "वैलिडेटर",
+    "link": ".html"
+  },
+  {
+    "name": "वैलिडिटी प्रूफ",
+    "link": ".html"
+  },
+  {
+    "name": "वेस्टिंग",
+    "link": ".html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "वॉलेट",
+    "link": ".html"
+  },
+  {
+    "name": "वॉलेट एड्रेस",
+    "link": ".html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-30.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
+  },
+  {
+    "name": "वेबसॉकेट",
+    "link": ".html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "वाइटपेपर",
+    "link": ".html"
+  },
+  {
+    "name": "रैपिंग",
+    "link": ".html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "XPUB",
+    "link": "xpub.html"
+  },
+  {
+    "name": "यील्ड फार्मिंग",
+    "link": ".html"
+  },
+  {
+    "name": "यील्ड-बियरिंग टोकन्स",
+    "link": ".html"
+  },
+  {
+    "name": "ज़ीरो एड्रेस",
+    "link": ".html"
+  },
+  {
+    "name": "ज़ीरो-नॉलेज प्रूफ",
+    "link": ".html"
+  },
+  {
+    "name": "ज़ीरो-नॉलेज रॉलअप",
+    "link": ".html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zksnarks.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

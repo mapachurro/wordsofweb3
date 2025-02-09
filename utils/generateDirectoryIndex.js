@@ -1,83 +1,78 @@
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+import { initializeLanguageCodes, convertLocaleFormat } from "../src/js/l10n.js";
 
 // Create equivalent of `__dirname`
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Ensure language codes are initialized
+await initializeLanguageCodes();
+
 // Paths
-const languageCodesPath = path.join(__dirname, '../l10n/language-codes.json');
-const logFilePath = path.join(__dirname, './directoryOutput.txt');
+const localesDir = path.join(__dirname, "../locales");
+const staticDir = path.join(__dirname, "../static");
 
-// Helper function to log messages to a file
-function logToFile(message) {
-    const timestamp = new Date().toISOString();
-    fs.appendFileSync(logFilePath, `${timestamp} - ${message}\n`, "utf-8");
-}
+// Read locale directories
+const locales = fs.readdirSync(localesDir);
 
-// Clear log file at start
-fs.writeFileSync(logFilePath, "", "utf-8");
+// Function to generate the directory index
+function generateIndexForLocale(locale) {
+  const localeFile = path.join(localesDir, locale, `${locale}.json`);
 
-// Load the language codes JSON file
-function loadLanguageCodes() {
-    try {
-        const languageCodes = fs.readFileSync(languageCodesPath, 'utf8');
-        logToFile(`Loaded language codes from ${languageCodesPath}`);
-        return JSON.parse(languageCodes);
-    } catch (err) {
-        logToFile(`Error loading language codes from ${languageCodesPath}: ${err.message}`);
-        console.error(`Error loading language codes:`, err);
-        return null;
-    }
-}
+  if (!fs.existsSync(localeFile)) {
+    console.warn(`Skipping ${locale}: No JSON file found at ${localeFile}`);
+    return;
+  }
 
-const languageCodes = loadLanguageCodes();
-const locales = languageCodes ? Object.values(languageCodes).map(code => code.slug) : [];
+  // Convert `en-US` → `english-us`
+  const humanReadableSlug = convertLocaleFormat(locale, "fourLetterDash", "slug");
 
-// Function to generate index for each directory with localized term names
-function generateIndexForDirectory(directoryPath, locale, outputPath) {
-    const localeJSONPath = path.join(directoryPath, `${locale}.json`);
+  if (!humanReadableSlug) {
+    console.warn(`No human-readable name found for ${locale}`);
+    return;
+  }
 
-    let termsData;
-    try {
-        termsData = JSON.parse(fs.readFileSync(localeJSONPath, "utf-8")).terms;
-        logToFile(`Loaded terms data for locale ${locale}`);
-    } catch (err) {
-        const errorMessage = `Error loading terms data for locale ${locale} from ${localeJSONPath}: ${err.message}`;
-        logToFile(errorMessage);
-        console.error(errorMessage);
-        return;
-    }
+  const outputDir = path.join(staticDir, humanReadableSlug);
+  const outputFile = path.join(outputDir, "directoryContents.json");
 
-    const indexData = Object.keys(termsData).map(termKey => {
-        const termName = termsData[termKey].term || termKey; // Use the localized term name if available, else fallback to the termKey
-        logToFile(`Processing term '${termKey}': Display name '${termName}'`); // Log each term and its name
+  let termsData;
+  try {
+    termsData = JSON.parse(fs.readFileSync(localeFile, "utf-8")).terms;
+  } catch (err) {
+    console.error(`Error reading ${localeFile}: ${err.message}`);
+    return;
+  }
+
+  const sanitizeFilename = (name) => name
+    .replace(/[^\w\s-()]/g, "") // Keep parentheses, but remove other special characters
+    .replace(/\s+/g, "-") // Replace spaces with hyphens
+    .toLowerCase();
+
+    const indexData = Object.entries(termsData).map(([termKey, termObject]) => {
+        const termName = termObject.term || termKey; // Human-readable name
         return {
             name: termName,
-            link: termKey.replace(/\s+/g, "-").toLowerCase() // Safe link based on the termKey
+            link: `${sanitizeFilename(termName)}.html`, // Ensure parentheses are retained
         };
     });
+    
 
-    try {
-        fs.writeFileSync(outputPath, JSON.stringify(indexData, null, 2), "utf-8");
-        const successMessage = `Index generated at ${outputPath} with ${indexData.length} entries.`;
-        logToFile(successMessage);
-        console.log(successMessage);
-    } catch (writeErr) {
-        const errorMessage = `Error writing JSON file ${outputPath}: ${writeErr.message}`;
-        logToFile(errorMessage);
-        console.error(errorMessage);
-    }
+  fs.mkdirSync(outputDir, { recursive: true });
+
+  try {
+    fs.writeFileSync(outputFile, JSON.stringify(indexData, null, 2), "utf-8");
+    console.log(`Generated directory index for ${locale} at ${outputFile}`);
+  } catch (writeErr) {
+    console.error(`Error writing ${outputFile}: ${writeErr.message}`);
+  }
 }
 
-// Generate the index files for each locale directory
-locales.forEach(locale => {
-    const directoryPath = path.join(__dirname, '../static', locale);
-    const outputPath = path.join(directoryPath, 'directoryContents.json');
-    logToFile(`Generating index for locale: ${locale} at ${directoryPath}`);
-    generateIndexForDirectory(directoryPath, locale, outputPath);
-});
+export async function generateDirectoryIndex() {
+    
+// Generate indices for all locales
+locales.forEach(generateIndexForLocale);
 
-logToFile("Directory index generation process completed.");
-console.log("Directory index generation process completed. Output logged to directoryOutput.txt.");
+console.log("Finished generating all directory indices.");
+}

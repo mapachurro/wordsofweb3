@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "2FA",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "حمله ۵۱٪",
+    "link": ".html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "حساب",
+    "link": ".html"
+  },
+  {
+    "name": "حواله بین بانکی پایا",
+    "link": ".html"
+  },
+  {
+    "name": "آدرس",
+    "link": ".html"
+  },
+  {
+    "name": "تجمیع‌کننده نقدینگی",
+    "link": ".html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "جداسازی فیزیکی",
+    "link": ".html"
+  },
+  {
+    "name": "ایردراپ",
+    "link": ".html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "الگوریتم",
+    "link": ".html"
+  },
+  {
+    "name": "آلتکوین",
+    "link": ".html"
+  },
+  {
+    "name": "AML",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ای‌سیک",
+    "link": ".html"
+  },
+  {
+    "name": "منشأ دارایی",
+    "link": ".html"
+  },
+  {
+    "name": "گواهی",
+    "link": ".html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "بیکن چین",
+    "link": ".html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "بیت‌کوین",
+    "link": ".html"
+  },
+  {
+    "name": "بلاک",
+    "link": ".html"
+  },
+  {
+    "name": "مرورگر بلاک",
+    "link": ".html"
+  },
+  {
+    "name": "ارتفاع بلاک",
+    "link": ".html"
+  },
+  {
+    "name": "پاداش بلاک",
+    "link": ".html"
+  },
+  {
+    "name": "زمان بلاک",
+    "link": ".html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "بلاک‌چین",
+    "link": ".html"
+  },
+  {
+    "name": "مرورگر بلاک‌چین",
+    "link": ".html"
+  },
+  {
+    "name": "سه‌گانه بلاک‌چین",
+    "link": ".html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "پاداش پیدا کردن",
+    "link": ".html"
+  },
+  {
+    "name": "کیف پول ذهنی",
+    "link": ".html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "پل",
+    "link": ".html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "بایت‌کد",
+    "link": ".html"
+  },
+  {
+    "name": "تحمل خطای بیزانس",
+    "link": ".html"
+  },
+  {
+    "name": "هارد فورک بیزانس",
+    "link": ".html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "صرافی متمرکز",
+    "link": ".html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "شناسه زنجیره",
+    "link": ".html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "کلاینت",
+    "link": ".html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "کوین",
+    "link": ".html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "کیف پول سرد",
+    "link": ".html"
+  },
+  {
+    "name": "کیف پول سرد",
+    "link": ".html"
+  },
+  {
+    "name": "همگردانی",
+    "link": ".html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "تایید",
+    "link": ".html"
+  },
+  {
+    "name": "اجماع",
+    "link": ".html"
+  },
+  {
+    "name": "کلاینت اجماع",
+    "link": ".html"
+  },
+  {
+    "name": "لایه اجماع",
+    "link": ".html"
+  },
+  {
+    "name": "مکانیزم اجماع",
+    "link": ".html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "فورک قسطنطنیه",
+    "link": ".html"
+  },
+  {
+    "name": "قرارداد",
+    "link": ".html"
+  },
+  {
+    "name": "حساب قرارداد",
+    "link": ".html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "پاداش‌های رمزی",
+    "link": ".html"
+  },
+  {
+    "name": "صندوق رمزارزی",
+    "link": ".html"
+  },
+  {
+    "name": "کیف پول رمزارز",
+    "link": ".html"
+  },
+  {
+    "name": "رمزارزی",
+    "link": ".html"
+  },
+  {
+    "name": "دارایی رمزارزی",
+    "link": ".html"
+  },
+  {
+    "name": "انطباق رمزنگاری",
+    "link": ".html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "رمزارز",
+    "link": ".html"
+  },
+  {
+    "name": "اقتصاد رمزارز محور",
+    "link": ".html"
+  },
+  {
+    "name": "رمزنگاری",
+    "link": ".html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "حضانت",
+    "link": ".html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "dcent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "دیداس",
+    "link": ".html"
+  },
+  {
+    "name": "تمرکززدایی",
+    "link": ".html"
+  },
+  {
+    "name": "برنامه غیرمتمرکز",
+    "link": ".html"
+  },
+  {
+    "name": "سازمان خودگردان غیرمتمرکز",
+    "link": ".html"
+  },
+  {
+    "name": "صرافی غیرمتمرکز",
+    "link": ".html"
+  },
+  {
+    "name": "امور مالی غیرمتمرکز",
+    "link": ".html"
+  },
+  {
+    "name": "وب غیرمتمرکز",
+    "link": ".html"
+  },
+  {
+    "name": "دیفای",
+    "link": ".html"
+  },
+  {
+    "name": "الگوریتم گواه اثبات سهام نیابتی(DPoS)",
+    "link": "dpos.html"
+  },
+  {
+    "name": "اتر",
+    "link": ".html"
+  },
+  {
+    "name": "واریز",
+    "link": ".html"
+  },
+  {
+    "name": "مشتق شدن",
+    "link": ".html"
+  },
+  {
+    "name": "توسعه دهنده",
+    "link": ".html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "توسعه دهنده",
+    "link": ".html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "سختی",
+    "link": ".html"
+  },
+  {
+    "name": "بمب سختی",
+    "link": ".html"
+  },
+  {
+    "name": "دارایی دیجیتال",
+    "link": ".html"
+  },
+  {
+    "name": "هویت دیجیتال",
+    "link": ".html"
+  },
+  {
+    "name": "امضای دیجیتال",
+    "link": ".html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "فناوری دفترکل توزیع‌شده",
+    "link": ".html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "دوبار خرج‌کردن",
+    "link": ".html"
+  },
+  {
+    "name": "اکوسیستم",
+    "link": ".html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip1559.html"
+  },
+  {
+    "name": "کلید رمزگذاری شده",
+    "link": ".html"
+  },
+  {
+    "name": "رمزگذاری",
+    "link": ".html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "بی‌نظمی",
+    "link": ".html"
+  },
+  {
+    "name": "دوره زمانی--ایپاک",
+    "link": ".html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "اتر",
+    "link": ".html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-20.html"
+  },
+  {
+    "name": "پیشنهاد بهبود اتریوم",
+    "link": ".html"
+  },
+  {
+    "name": "شبکه اصلی اتریوم",
+    "link": ".html"
+  },
+  {
+    "name": "سرویس نام اتریوم",
+    "link": ".html"
+  },
+  {
+    "name": "ماشین مجازی اتریوم",
+    "link": ".html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "صرافی",
+    "link": ".html"
+  },
+  {
+    "name": "کلاینت اجرا",
+    "link": ".html"
+  },
+  {
+    "name": "لایه اجرا",
+    "link": ".html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "درآمد قطره‌ای",
+    "link": ".html"
+  },
+  {
+    "name": "تحمل خطا",
+    "link": ".html"
+  },
+  {
+    "name": "ارز فیات",
+    "link": ".html"
+  },
+  {
+    "name": "قطعیت",
+    "link": ".html"
+  },
+  {
+    "name": "نرخ قطعیت",
+    "link": ".html"
+  },
+  {
+    "name": "فناوری مالی",
+    "link": ".html"
+  },
+  {
+    "name": "فینی",
+    "link": ".html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "فایروال",
+    "link": ".html"
+  },
+  {
+    "name": "سفت‌افزار",
+    "link": ".html"
+  },
+  {
+    "name": "فورک",
+    "link": ".html"
+  },
+  {
+    "name": "مالکیت درصدی",
+    "link": ".html"
+  },
+  {
+    "name": "اثبات تقلب",
+    "link": ".html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "نود کامل",
+    "link": ".html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "گس",
+    "link": ".html"
+  },
+  {
+    "name": "کارمزد گس",
+    "link": ".html"
+  },
+  {
+    "name": "حداکثر میزان گس",
+    "link": ".html"
+  },
+  {
+    "name": "قیمت گس",
+    "link": ".html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "بلاک اولیه",
+    "link": ".html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "حاکمیت",
+    "link": ".html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "جیوی",
+    "link": ".html"
+  },
+  {
+    "name": "هاوینگ (نصف شدن پاداش استخراج)",
+    "link": ".html"
+  },
+  {
+    "name": "هارد فورک",
+    "link": ".html"
+  },
+  {
+    "name": "کیف پول سخت‌افزاری",
+    "link": ".html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "هش",
+    "link": ".html"
+  },
+  {
+    "name": "کیف پول HD",
+    "link": "hd.html"
+  },
+  {
+    "name": "헥스 데이터",
+    "link": ".html"
+  },
+  {
+    "name": "ذخیره‌سازی گرم",
+    "link": ".html"
+  },
+  {
+    "name": "کیف پول گرم",
+    "link": ".html"
+  },
+  {
+    "name": "شبکه هیبریدی",
+    "link": ".html"
+  },
+  {
+    "name": "هایپرلجر",
+    "link": ".html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "عرضه اولیه کوین",
+    "link": ".html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "تغییرناپذیری",
+    "link": ".html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "معاملات نهانی",
+    "link": ".html"
+  },
+  {
+    "name": "تراکنش داخلی",
+    "link": ".html"
+  },
+  {
+    "name": "تعامل‌‌پذیری",
+    "link": ".html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-ipfs.html"
+  },
+  {
+    "name": "آدرس آی‌پی",
+    "link": ".html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "فایل جیسون",
+    "link": ".html"
+  },
+  {
+    "name": "جیسون-RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "فایل کلید خصوصی",
+    "link": ".html"
+  },
+  {
+    "name": "احراز هویت مشتری",
+    "link": ".html"
+  },
+  {
+    "name": "شناسایی مبدأ تراکنش‌ها",
+    "link": ".html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "لانچ‌پد",
+    "link": ".html"
+  },
+  {
+    "name": "لایه 1",
+    "link": "1.html"
+  },
+  {
+    "name": "لایه 2",
+    "link": "2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "برنامه Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "کتابخانه",
+    "link": ".html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "گیرنده سبک",
+    "link": ".html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "لیکوئید شدن",
+    "link": ".html"
+  },
+  {
+    "name": "نقدشوندگی",
+    "link": ".html"
+  },
+  {
+    "name": "استخر نقدینگی",
+    "link": ".html"
+  },
+  {
+    "name": "سپرده‌گذاری نقدشونده",
+    "link": ".html"
+  },
+  {
+    "name": "شبکه اصلی",
+    "link": ".html"
+  },
+  {
+    "name": "پروتکل‌ میکر",
+    "link": ".html"
+  },
+  {
+    "name": "بدافزار",
+    "link": ".html"
+  },
+  {
+    "name": "ارزش بازار",
+    "link": ".html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "استخر حافظه",
+    "link": ".html"
+  },
+  {
+    "name": "ممپول",
+    "link": ".html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "ادغام",
+    "link": ".html"
+  },
+  {
+    "name": "درخت مرکل پاتریشیا",
+    "link": ".html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "فراداده",
+    "link": ".html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "متاورس",
+    "link": ".html"
+  },
+  {
+    "name": "MEV",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "استخراج‌کننده",
+    "link": ".html"
+  },
+  {
+    "name": "انعام ماینر",
+    "link": ".html"
+  },
+  {
+    "name": "استخراج",
+    "link": ".html"
+  },
+  {
+    "name": "ضرب کردن",
+    "link": ".html"
+  },
+  {
+    "name": "عبارت یادآور",
+    "link": ".html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "بلاک‌چین مدولار",
+    "link": ".html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "چند امضایی",
+    "link": ".html"
+  },
+  {
+    "name": "کیف پول چند امضایی",
+    "link": ".html"
+  },
+  {
+    "name": "بلاک‌چین تودرتو",
+    "link": ".html"
+  },
+  {
+    "name": "شبکه",
+    "link": ".html"
+  },
+  {
+    "name": "ازدحام شبکه",
+    "link": ".html"
+  },
+  {
+    "name": "NFC",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "تجمیع‌کننده ان‌اف‌تی",
+    "link": ".html"
+  },
+  {
+    "name": "ایردراپ ان‌اف‌تی",
+    "link": ".html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "گره",
+    "link": ".html"
+  },
+  {
+    "name": "توکن بی‌همتا",
+    "link": ".html"
+  },
+  {
+    "name": "نانس",
+    "link": ".html"
+  },
+  {
+    "name": "برون زنجیره‌ای",
+    "link": ".html"
+  },
+  {
+    "name": "مسیر خروجی",
+    "link": ".html"
+  },
+  {
+    "name": "بلاک اومر",
+    "link": ".html"
+  },
+  {
+    "name": "درون زنجیره‌ای",
+    "link": ".html"
+  },
+  {
+    "name": "مسیر ورود",
+    "link": ".html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "راهکارهای خوشبینانه",
+    "link": ".html"
+  },
+  {
+    "name": "اوراکل",
+    "link": ".html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "کلاینت پریتی",
+    "link": ".html"
+  },
+  {
+    "name": "عبارت عبور",
+    "link": ".html"
+  },
+  {
+    "name": "گذرواژه",
+    "link": ".html"
+  },
+  {
+    "name": "مدیر گذرواژه",
+    "link": ".html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "همتا به همتا",
+    "link": ".html"
+  },
+  {
+    "name": "دفترکل مجوزدار",
+    "link": ".html"
+  },
+  {
+    "name": "فیشینگ",
+    "link": ".html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "پلاسما",
+    "link": ".html"
+  },
+  {
+    "name": "PoA",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "بلاک‌چین خصوصی",
+    "link": ".html"
+  },
+  {
+    "name": "ارز خصوصی",
+    "link": ".html"
+  },
+  {
+    "name": "کلید خصوصی",
+    "link": ".html"
+  },
+  {
+    "name": "اثبات سهام",
+    "link": ".html"
+  },
+  {
+    "name": "اثبات کار",
+    "link": ".html"
+  },
+  {
+    "name": "پروتکل",
+    "link": ".html"
+  },
+  {
+    "name": "آدرس عمومی",
+    "link": ".html"
+  },
+  {
+    "name": "بلاک‌چین عمومی",
+    "link": ".html"
+  },
+  {
+    "name": "کلید عمومی",
+    "link": ".html"
+  },
+  {
+    "name": "رمزنگاری کلید عمومی",
+    "link": ".html"
+  },
+  {
+    "name": "کد کیوآر",
+    "link": ".html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "رله‌کننده",
+    "link": ".html"
+  },
+  {
+    "name": "فراخوانی رویه از راه دور",
+    "link": ".html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "نقشه راه",
+    "link": ".html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "رول‌آپ‌ها",
+    "link": ".html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "‏کلاهبرداری راگ پول",
+    "link": ".html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "سندباکس",
+    "link": ".html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "ساتوشی ناکاموتو",
+    "link": ".html"
+  },
+  {
+    "name": "مقیاس پذیری",
+    "link": ".html"
+  },
+  {
+    "name": "مقیاس پذیری",
+    "link": ".html"
+  },
+  {
+    "name": "کلاهبرداری",
+    "link": ".html"
+  },
+  {
+    "name": "اسکریپت",
+    "link": ".html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "موتور جستجو",
+    "link": ".html"
+  },
+  {
+    "name": "عبارت بازیابی محرمانه",
+    "link": ".html"
+  },
+  {
+    "name": "توکن اوراق بهادار",
+    "link": ".html"
+  },
+  {
+    "name": "عرضه توکن اوراق بهادار",
+    "link": ".html"
+  },
+  {
+    "name": "عبارت بازیابی",
+    "link": ".html"
+  },
+  {
+    "name": "خود حضانتی",
+    "link": ".html"
+  },
+  {
+    "name": "خود اجراشونده",
+    "link": ".html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "سرنیتی",
+    "link": ".html"
+  },
+  {
+    "name": "دنباله‌سازی",
+    "link": ".html"
+  },
+  {
+    "name": "زنجیره شارد",
+    "link": ".html"
+  },
+  {
+    "name": "شاردینگ",
+    "link": ".html"
+  },
+  {
+    "name": "تراکنش محافظت‌شده",
+    "link": ".html"
+  },
+  {
+    "name": "زنجیره جانبی",
+    "link": ".html"
+  },
+  {
+    "name": "شرط کاهنده",
+    "link": ".html"
+  },
+  {
+    "name": "لغزش قیمت",
+    "link": ".html"
+  },
+  {
+    "name": "اسلات",
+    "link": ".html"
+  },
+  {
+    "name": "قرارداد هوشمند",
+    "link": ".html"
+  },
+  {
+    "name": "انشعاب نرم",
+    "link": ".html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "استیبل کوین",
+    "link": ".html"
+  },
+  {
+    "name": "سپرده‌گذاری",
+    "link": ".html"
+  },
+  {
+    "name": "سپرده‌گذاری",
+    "link": ".html"
+  },
+  {
+    "name": "وضعیت",
+    "link": ".html"
+  },
+  {
+    "name": "کانال‌های وضعیت",
+    "link": ".html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "جریان پول",
+    "link": ".html"
+  },
+  {
+    "name": "مبادله",
+    "link": ".html"
+  },
+  {
+    "name": "سابو",
+    "link": ".html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "شبکه آزمایشی",
+    "link": ".html"
+  },
+  {
+    "name": "شبکه آزمایش کوان",
+    "link": ".html"
+  },
+  {
+    "name": "شبکه آزمایشی رینکبای",
+    "link": ".html"
+  },
+  {
+    "name": "شبکه آزمایشی راپستن",
+    "link": ".html"
+  },
+  {
+    "name": "توکن",
+    "link": ".html"
+  },
+  {
+    "name": "قفل شدن توکن",
+    "link": ".html"
+  },
+  {
+    "name": "استاندارد توکن",
+    "link": ".html"
+  },
+  {
+    "name": "تراکنش",
+    "link": ".html"
+  },
+  {
+    "name": "بلاک تراکنش",
+    "link": ".html"
+  },
+  {
+    "name": "کارمزد تراکنش",
+    "link": ".html"
+  },
+  {
+    "name": "شناسه تراکنش",
+    "link": ".html"
+  },
+  {
+    "name": "استخر تراکنش",
+    "link": ".html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "بدون نیاز به اعتماد",
+    "link": ".html"
+  },
+  {
+    "name": "تورینگ کامل",
+    "link": ".html"
+  },
+  {
+    "name": "TVL",
+    "link": "tvl.html"
+  },
+  {
+    "name": "شناسه تراکنش",
+    "link": ".html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "کلید رمزگذاری نشده",
+    "link": ".html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "خروجی خرج‌نشده تراکنش",
+    "link": ".html"
+  },
+  {
+    "name": "خروج از استیک",
+    "link": ".html"
+  },
+  {
+    "name": "ارتقا",
+    "link": ".html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "اعتبارسنج",
+    "link": ".html"
+  },
+  {
+    "name": "اثبات اعتبار",
+    "link": ".html"
+  },
+  {
+    "name": "توزیع برنامه‌ریزی شده توکن",
+    "link": ".html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "کیف پول",
+    "link": ".html"
+  },
+  {
+    "name": "آدرس کیف پول",
+    "link": ".html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "وب 3.0",
+    "link": "30.html"
+  },
+  {
+    "name": "وب 3",
+    "link": "3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "وب‌هوک",
+    "link": ".html"
+  },
+  {
+    "name": "وب‌سوکت",
+    "link": ".html"
+  },
+  {
+    "name": "وی",
+    "link": ".html"
+  },
+  {
+    "name": "گزارش جامع",
+    "link": ".html"
+  },
+  {
+    "name": "انتقال از یک شبکه به شبکه دیگر",
+    "link": ".html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "XPUB",
+    "link": "xpub.html"
+  },
+  {
+    "name": "کشت سود",
+    "link": ".html"
+  },
+  {
+    "name": "توکن‌های سودده",
+    "link": ".html"
+  },
+  {
+    "name": "آدرس صفر",
+    "link": ".html"
+  },
+  {
+    "name": "اثبات دانش صفر",
+    "link": ".html"
+  },
+  {
+    "name": "رول‌آپ‌ بی‌نیاز به دانش",
+    "link": ".html"
+  },
+  {
+    "name": "گواه‌های اثبات دانش صفر غیرتعاملی",
+    "link": ".html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

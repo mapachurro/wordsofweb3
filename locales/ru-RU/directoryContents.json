@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "двухфакторная аутентификация",
+    "link": ".html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "атака 51%",
+    "link": "51.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "счет",
+    "link": ".html"
+  },
+  {
+    "name": "ACH-перевод",
+    "link": "ach.html"
+  },
+  {
+    "name": "адрес",
+    "link": ".html"
+  },
+  {
+    "name": "агрегатор",
+    "link": ".html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "физическая изоляция",
+    "link": ".html"
+  },
+  {
+    "name": "аирдропнуть",
+    "link": ".html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "алгоритм",
+    "link": ".html"
+  },
+  {
+    "name": "альткоин",
+    "link": ".html"
+  },
+  {
+    "name": "БОД",
+    "link": ".html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "специальная интегральная схема",
+    "link": ".html"
+  },
+  {
+    "name": "происхождение активов",
+    "link": ".html"
+  },
+  {
+    "name": "аттестация",
+    "link": ".html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Бикончейн",
+    "link": ".html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Биткойн",
+    "link": ".html"
+  },
+  {
+    "name": "блок",
+    "link": ".html"
+  },
+  {
+    "name": "обозреватель блоков",
+    "link": ".html"
+  },
+  {
+    "name": "высота блока",
+    "link": ".html"
+  },
+  {
+    "name": "вознаграждение за блок",
+    "link": ".html"
+  },
+  {
+    "name": "время блока",
+    "link": ".html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "обзреватель блокчейна",
+    "link": ".html"
+  },
+  {
+    "name": "трилемма блокчейна",
+    "link": ".html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "вознаграждение",
+    "link": ".html"
+  },
+  {
+    "name": "брейн-кошелек",
+    "link": ".html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "мост",
+    "link": ".html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "байт-код",
+    "link": ".html"
+  },
+  {
+    "name": "Задача византийских генералов",
+    "link": ".html"
+  },
+  {
+    "name": "Византийский форк",
+    "link": ".html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "централизованная биржа",
+    "link": ".html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "ID блокчейна",
+    "link": "id.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "клиент",
+    "link": ".html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "монета",
+    "link": ".html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "холодное хранилище",
+    "link": ".html"
+  },
+  {
+    "name": "холодный кошелек",
+    "link": ".html"
+  },
+  {
+    "name": "компиляция",
+    "link": ".html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "подтверждение",
+    "link": ".html"
+  },
+  {
+    "name": "консенсус",
+    "link": ".html"
+  },
+  {
+    "name": "клиент консенсуса",
+    "link": ".html"
+  },
+  {
+    "name": "уровень консенсуса",
+    "link": ".html"
+  },
+  {
+    "name": "механизм консенсуса",
+    "link": ".html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Константинопольский форк",
+    "link": ".html"
+  },
+  {
+    "name": "контракт",
+    "link": ".html"
+  },
+  {
+    "name": "контрактный счет",
+    "link": ".html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "крипто-баунти",
+    "link": ".html"
+  },
+  {
+    "name": "криптофонд",
+    "link": ".html"
+  },
+  {
+    "name": "криптокошелек",
+    "link": ".html"
+  },
+  {
+    "name": "крипто",
+    "link": ".html"
+  },
+  {
+    "name": "криптоактив",
+    "link": ".html"
+  },
+  {
+    "name": "крипто-комплаенс",
+    "link": ".html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "криптовалюта",
+    "link": ".html"
+  },
+  {
+    "name": "криптоэкономика",
+    "link": ".html"
+  },
+  {
+    "name": "криптография",
+    "link": ".html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "депозитарное хранение",
+    "link": ".html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "dcent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS",
+    "link": "ddos.html"
+  },
+  {
+    "name": "децентрализация",
+    "link": ".html"
+  },
+  {
+    "name": "децентрализованное приложение",
+    "link": ".html"
+  },
+  {
+    "name": "Децентрализованная автономная организация",
+    "link": ".html"
+  },
+  {
+    "name": "децентрализованная биржа",
+    "link": ".html"
+  },
+  {
+    "name": "децентрализованные финансы",
+    "link": ".html"
+  },
+  {
+    "name": "децентрализованная сеть",
+    "link": ".html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "DPoS",
+    "link": "dpos.html"
+  },
+  {
+    "name": "номиналы",
+    "link": ".html"
+  },
+  {
+    "name": "депозит",
+    "link": ".html"
+  },
+  {
+    "name": "сделать вывод—вывод--извлекать--выводить--производное от",
+    "link": ".html"
+  },
+  {
+    "name": "разраб",
+    "link": ".html"
+  },
+  {
+    "name": "Конференция разработчиков",
+    "link": ".html"
+  },
+  {
+    "name": "разработчик",
+    "link": ".html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "сложность",
+    "link": ".html"
+  },
+  {
+    "name": "бомба сложности",
+    "link": ".html"
+  },
+  {
+    "name": "цифровой актив",
+    "link": ".html"
+  },
+  {
+    "name": "цифровая личность",
+    "link": ".html"
+  },
+  {
+    "name": "цифровая подпись",
+    "link": ".html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Технология распределенных реестров",
+    "link": ".html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "двойное расходование",
+    "link": ".html"
+  },
+  {
+    "name": "экосистема",
+    "link": ".html"
+  },
+  {
+    "name": "Альянс разработчиков Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip1559.html"
+  },
+  {
+    "name": "зашифрованный ключ",
+    "link": ".html"
+  },
+  {
+    "name": "шифрование",
+    "link": ".html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "энтропия",
+    "link": ".html"
+  },
+  {
+    "name": "эпоха",
+    "link": ".html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "эфир (ETH)",
+    "link": "eth.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-20.html"
+  },
+  {
+    "name": "Предложение по улучшению Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Мейн-нет Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Служба имен Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Виртуальная машина Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "биржа",
+    "link": ".html"
+  },
+  {
+    "name": "Клиент-исполнитель",
+    "link": ".html"
+  },
+  {
+    "name": "Слой исполнения",
+    "link": ".html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "кран",
+    "link": ".html"
+  },
+  {
+    "name": "устойчивый к сбоям",
+    "link": ".html"
+  },
+  {
+    "name": "фиатная валюта",
+    "link": ".html"
+  },
+  {
+    "name": "завершение, завершенность",
+    "link": ".html"
+  },
+  {
+    "name": "коэффициент завершенности",
+    "link": ".html"
+  },
+  {
+    "name": "финансовые технологии",
+    "link": ".html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "брандмауэр",
+    "link": ".html"
+  },
+  {
+    "name": "прошивка",
+    "link": ".html"
+  },
+  {
+    "name": "форк",
+    "link": ".html"
+  },
+  {
+    "name": "долевое владение",
+    "link": ".html"
+  },
+  {
+    "name": "доказательство мошенничества",
+    "link": ".html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "полный узел",
+    "link": ".html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "газ",
+    "link": ".html"
+  },
+  {
+    "name": "плата за газ",
+    "link": ".html"
+  },
+  {
+    "name": "лимит газа",
+    "link": ".html"
+  },
+  {
+    "name": "цена газа",
+    "link": ".html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "нулевой блок",
+    "link": ".html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "управление",
+    "link": ".html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "Гвей",
+    "link": ".html"
+  },
+  {
+    "name": "халвинг",
+    "link": ".html"
+  },
+  {
+    "name": "хардфорк",
+    "link": ".html"
+  },
+  {
+    "name": "аппаратный кошелек",
+    "link": ".html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "хэш",
+    "link": ".html"
+  },
+  {
+    "name": "ИД-кошелек",
+    "link": ".html"
+  },
+  {
+    "name": "Date hexazecimale",
+    "link": "date-hexazecimale.html"
+  },
+  {
+    "name": "горячее хранилище",
+    "link": ".html"
+  },
+  {
+    "name": "горячий кошелек",
+    "link": ".html"
+  },
+  {
+    "name": "гибридная сеть",
+    "link": ".html"
+  },
+  {
+    "name": "Гиперледжер",
+    "link": ".html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "неизменность",
+    "link": ".html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "инсайдерская торговля",
+    "link": ".html"
+  },
+  {
+    "name": "внутренняя транзакция",
+    "link": ".html"
+  },
+  {
+    "name": "совместимость",
+    "link": ".html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-ipfs.html"
+  },
+  {
+    "name": "IP-адрес",
+    "link": "ip.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Файл JSON",
+    "link": "json.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "jsonrpc.html"
+  },
+  {
+    "name": "файл хранилища ключей",
+    "link": ".html"
+  },
+  {
+    "name": "«Знай своего клиента»",
+    "link": ".html"
+  },
+  {
+    "name": "«Знай свою транзакцию»",
+    "link": ".html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "ЗСК",
+    "link": ".html"
+  },
+  {
+    "name": "ЗСТ",
+    "link": ".html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Лаунчпад",
+    "link": ".html"
+  },
+  {
+    "name": "слой 1",
+    "link": "1.html"
+  },
+  {
+    "name": "слой 2",
+    "link": "2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Приложение Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Библиотека",
+    "link": ".html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "легкий клиент",
+    "link": ".html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "ликвидность",
+    "link": ".html"
+  },
+  {
+    "name": "ликвидность",
+    "link": ".html"
+  },
+  {
+    "name": "пул ликвидности",
+    "link": ".html"
+  },
+  {
+    "name": "стейкинг ликвидности",
+    "link": ".html"
+  },
+  {
+    "name": "мейн-нет",
+    "link": ".html"
+  },
+  {
+    "name": "Протокол Maker",
+    "link": "maker.html"
+  },
+  {
+    "name": "Вредоносное программное обеспечение",
+    "link": ".html"
+  },
+  {
+    "name": "рыночная капитализация",
+    "link": ".html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "пул памяти",
+    "link": ".html"
+  },
+  {
+    "name": "мемпул",
+    "link": ".html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Слияние",
+    "link": ".html"
+  },
+  {
+    "name": "Дерево Меркла",
+    "link": ".html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "метаданные",
+    "link": ".html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "метавселенная",
+    "link": ".html"
+  },
+  {
+    "name": "максимальная извлекаемая ценность",
+    "link": ".html"
+  },
+  {
+    "name": "МФА",
+    "link": ".html"
+  },
+  {
+    "name": "майнер",
+    "link": ".html"
+  },
+  {
+    "name": "«Чаевые» майнеру",
+    "link": ".html"
+  },
+  {
+    "name": "майнинг",
+    "link": ".html"
+  },
+  {
+    "name": "выполнить минтинг",
+    "link": ".html"
+  },
+  {
+    "name": "мнемоническая фраза",
+    "link": ".html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "модульный блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "multi-sig",
+    "link": "multisig.html"
+  },
+  {
+    "name": "кошелек с мультиподписью",
+    "link": ".html"
+  },
+  {
+    "name": "вложенный блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "сеть",
+    "link": ".html"
+  },
+  {
+    "name": "перегрузка сети",
+    "link": ".html"
+  },
+  {
+    "name": "Технология ближней бесконтактной связи",
+    "link": ".html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT-агрегатор",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT-дроп",
+    "link": "nft.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "узел",
+    "link": ".html"
+  },
+  {
+    "name": "невзаимозаменяемый токен",
+    "link": ".html"
+  },
+  {
+    "name": "одноразовый код",
+    "link": ".html"
+  },
+  {
+    "name": "оффчейн",
+    "link": ".html"
+  },
+  {
+    "name": "офф-рэмп",
+    "link": ".html"
+  },
+  {
+    "name": "блок оммер",
+    "link": ".html"
+  },
+  {
+    "name": "ончейн",
+    "link": ".html"
+  },
+  {
+    "name": "он-рэмп",
+    "link": ".html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "оптимистичный роллап",
+    "link": ".html"
+  },
+  {
+    "name": "Oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "Paraswap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "паритет",
+    "link": ".html"
+  },
+  {
+    "name": "Парольная фраза",
+    "link": ".html"
+  },
+  {
+    "name": "Пароль",
+    "link": ".html"
+  },
+  {
+    "name": "менджер паролей",
+    "link": ".html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "пиринговый",
+    "link": ".html"
+  },
+  {
+    "name": "разрешенный реестр",
+    "link": ".html"
+  },
+  {
+    "name": "фишинг",
+    "link": ".html"
+  },
+  {
+    "name": "инфраструктура открытых ключей",
+    "link": ".html"
+  },
+  {
+    "name": "Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "доказательство полномочий",
+    "link": ".html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "закрытый блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "частная валюта",
+    "link": ".html"
+  },
+  {
+    "name": "закрытый ключ",
+    "link": ".html"
+  },
+  {
+    "name": "Доказательство доли владения",
+    "link": ".html"
+  },
+  {
+    "name": "Доказательство выполнения работы",
+    "link": ".html"
+  },
+  {
+    "name": "протокол",
+    "link": ".html"
+  },
+  {
+    "name": "публичный адрес",
+    "link": ".html"
+  },
+  {
+    "name": "публичный блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "открытый ключ",
+    "link": ".html"
+  },
+  {
+    "name": "криптография с открытым ключом",
+    "link": ".html"
+  },
+  {
+    "name": "QR-код",
+    "link": "qr.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "ретранслятор",
+    "link": ".html"
+  },
+  {
+    "name": "Удаленный вызов процедур",
+    "link": ".html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "план-график",
+    "link": ".html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "роллапы",
+    "link": ".html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "раг-пулл",
+    "link": ".html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "«песочница»",
+    "link": ".html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Сатоши Накамото",
+    "link": ".html"
+  },
+  {
+    "name": "масштабируемость",
+    "link": ".html"
+  },
+  {
+    "name": "масштабирование",
+    "link": ".html"
+  },
+  {
+    "name": "мошенничество",
+    "link": ".html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "поисковая система",
+    "link": ".html"
+  },
+  {
+    "name": "Секретная фраза для восстановления",
+    "link": ".html"
+  },
+  {
+    "name": "Токен безопасности",
+    "link": ".html"
+  },
+  {
+    "name": "Предложение токенов безопасности (STO)",
+    "link": "sto.html"
+  },
+  {
+    "name": "сид-фраза",
+    "link": ".html"
+  },
+  {
+    "name": "самодепозитарий",
+    "link": ".html"
+  },
+  {
+    "name": "самоисполняющийся",
+    "link": ".html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "сериализация",
+    "link": ".html"
+  },
+  {
+    "name": "шардчейн",
+    "link": ".html"
+  },
+  {
+    "name": "шардинг",
+    "link": ".html"
+  },
+  {
+    "name": "защищенная транзакция",
+    "link": ".html"
+  },
+  {
+    "name": "сайдчейн",
+    "link": ".html"
+  },
+  {
+    "name": "условие слэшинга",
+    "link": ".html"
+  },
+  {
+    "name": "проскальзывание",
+    "link": ".html"
+  },
+  {
+    "name": "слот",
+    "link": ".html"
+  },
+  {
+    "name": "смарт-контракт",
+    "link": ".html"
+  },
+  {
+    "name": "софтфорк",
+    "link": ".html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "стейблкоин",
+    "link": ".html"
+  },
+  {
+    "name": "стейкинг",
+    "link": ".html"
+  },
+  {
+    "name": "стейкинг",
+    "link": ".html"
+  },
+  {
+    "name": "стейт",
+    "link": ".html"
+  },
+  {
+    "name": "Каналы состояния",
+    "link": ".html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "стриминг",
+    "link": ".html"
+  },
+  {
+    "name": "выполнять своп",
+    "link": ".html"
+  },
+  {
+    "name": "сабо",
+    "link": ".html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "тестнет",
+    "link": ".html"
+  },
+  {
+    "name": "Тестнет Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "Тестнет Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "Тестнет Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "токен",
+    "link": ".html"
+  },
+  {
+    "name": "блокировка токена",
+    "link": ".html"
+  },
+  {
+    "name": "cтандарт токена",
+    "link": "c.html"
+  },
+  {
+    "name": "транзакция",
+    "link": ".html"
+  },
+  {
+    "name": "блок транзакции",
+    "link": ".html"
+  },
+  {
+    "name": "комиссия за транзакцию",
+    "link": ".html"
+  },
+  {
+    "name": "ID транзакции",
+    "link": "id.html"
+  },
+  {
+    "name": "пул транзакций",
+    "link": ".html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "трастлесс",
+    "link": ".html"
+  },
+  {
+    "name": "Полный по Тьюрингу",
+    "link": ".html"
+  },
+  {
+    "name": "общая заблокированная стоимость",
+    "link": ".html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "незашифрованный ключ",
+    "link": ".html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "вывод неизрасходованных транзакций",
+    "link": ".html"
+  },
+  {
+    "name": "отменить стейкинг",
+    "link": ".html"
+  },
+  {
+    "name": "апгрейд",
+    "link": ".html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "валидатор",
+    "link": ".html"
+  },
+  {
+    "name": "доказательство действительности",
+    "link": ".html"
+  },
+  {
+    "name": "вестинг",
+    "link": ".html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "кошелек",
+    "link": ".html"
+  },
+  {
+    "name": "адрес кошелька",
+    "link": ".html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-30.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "вебхук",
+    "link": ".html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "вей",
+    "link": ".html"
+  },
+  {
+    "name": "белая книга",
+    "link": ".html"
+  },
+  {
+    "name": "обертывание",
+    "link": ".html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "XPUB",
+    "link": "xpub.html"
+  },
+  {
+    "name": "фарминг доходности",
+    "link": ".html"
+  },
+  {
+    "name": "доходные токены",
+    "link": ".html"
+  },
+  {
+    "name": "нулевой адрес",
+    "link": ".html"
+  },
+  {
+    "name": "доказательство с нулевым разглашением",
+    "link": ".html"
+  },
+  {
+    "name": "роллап с нулевым разглашением",
+    "link": ".html"
+  },
+  {
+    "name": "Протоколы zk-SNARK",
+    "link": "zksnark.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

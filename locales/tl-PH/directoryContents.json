@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "2FA",
+    "link": "2fa.html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "51% pag-atake",
+    "link": "51-pagatake.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "account",
+    "link": "account.html"
+  },
+  {
+    "name": "ACH transfer",
+    "link": "ach-transfer.html"
+  },
+  {
+    "name": "address",
+    "link": "address.html"
+  },
+  {
+    "name": "aggregator",
+    "link": "aggregator.html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "air-gapping",
+    "link": "airgapping.html"
+  },
+  {
+    "name": "airdrop",
+    "link": "airdrop.html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "algoritmo",
+    "link": "algoritmo.html"
+  },
+  {
+    "name": "altcoin",
+    "link": "altcoin.html"
+  },
+  {
+    "name": "AML",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ASIC",
+    "link": "asic.html"
+  },
+  {
+    "name": "pinagmulan ng asset",
+    "link": "pinagmulan-ng-asset.html"
+  },
+  {
+    "name": "pagpapatunay",
+    "link": "pagpapatunay.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Beacon Chain",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Bitcoin",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "block",
+    "link": "block.html"
+  },
+  {
+    "name": "block explorer",
+    "link": "block-explorer.html"
+  },
+  {
+    "name": "taas ng block",
+    "link": "taas-ng-block.html"
+  },
+  {
+    "name": "gantimpala ng block",
+    "link": "gantimpala-ng-block.html"
+  },
+  {
+    "name": "oras ng block",
+    "link": "oras-ng-block.html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "blockchain",
+    "link": "blockchain.html"
+  },
+  {
+    "name": "blockchain explorer",
+    "link": "blockchain-explorer.html"
+  },
+  {
+    "name": "blockchain trilemma",
+    "link": "blockchain-trilemma.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "bounty",
+    "link": "bounty.html"
+  },
+  {
+    "name": "brain wallet",
+    "link": "brain-wallet.html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "bridge",
+    "link": "bridge.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "bytecode",
+    "link": "bytecode.html"
+  },
+  {
+    "name": "Byzantine fault tolerance",
+    "link": "byzantine-fault-tolerance.html"
+  },
+  {
+    "name": "Byzantium fork",
+    "link": "byzantium-fork.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "centralized exchange",
+    "link": "centralized-exchange.html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "ID ng chain",
+    "link": "id-ng-chain.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "kliyente",
+    "link": "kliyente.html"
+  },
+  {
+    "name": "Codefi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "coin",
+    "link": "coin.html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "cold storage",
+    "link": "cold-storage.html"
+  },
+  {
+    "name": "cold wallet",
+    "link": "cold-wallet.html"
+  },
+  {
+    "name": "pagsama-samahin",
+    "link": "pagsamasamahin.html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "kumpirmasyon",
+    "link": "kumpirmasyon.html"
+  },
+  {
+    "name": "pinagkasunduan",
+    "link": "pinagkasunduan.html"
+  },
+  {
+    "name": "consensus client",
+    "link": "consensus-client.html"
+  },
+  {
+    "name": "layer ng consensus",
+    "link": "layer-ng-consensus.html"
+  },
+  {
+    "name": "mekanismo ng consensus",
+    "link": "mekanismo-ng-consensus.html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Constantinople fork",
+    "link": "constantinople-fork.html"
+  },
+  {
+    "name": "kontrata",
+    "link": "kontrata.html"
+  },
+  {
+    "name": "account ng kontrata",
+    "link": "account-ng-kontrata.html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "mga pabuya ng crypto",
+    "link": "mga-pabuya-ng-crypto.html"
+  },
+  {
+    "name": "pondo ng crypto",
+    "link": "pondo-ng-crypto.html"
+  },
+  {
+    "name": "wallet ng crypto",
+    "link": "wallet-ng-crypto.html"
+  },
+  {
+    "name": "crypto-",
+    "link": "crypto.html"
+  },
+  {
+    "name": "crypto na asset",
+    "link": "crypto-na-asset.html"
+  },
+  {
+    "name": "crypto-compliance",
+    "link": "cryptocompliance.html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "cryptocurrency",
+    "link": "cryptocurrency.html"
+  },
+  {
+    "name": "cryptoeconomics",
+    "link": "cryptoeconomics.html"
+  },
+  {
+    "name": "kriptograpiya",
+    "link": "kriptograpiya.html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "kustodiya",
+    "link": "kustodiya.html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "dcent.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS",
+    "link": "ddos.html"
+  },
+  {
+    "name": "desentralisasyon",
+    "link": "desentralisasyon.html"
+  },
+  {
+    "name": "decentralized application",
+    "link": "decentralized-application.html"
+  },
+  {
+    "name": "Decentralized Autonomous Organization",
+    "link": "decentralized-autonomous-organization.html"
+  },
+  {
+    "name": "decentralized exchange",
+    "link": "decentralized-exchange.html"
+  },
+  {
+    "name": "decentralized finance",
+    "link": "decentralized-finance.html"
+  },
+  {
+    "name": "desentralisadong web",
+    "link": "desentralisadong-web.html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "Delegated proof of stake (DPoS)",
+    "link": "delegated-proof-of-stake-dpos.html"
+  },
+  {
+    "name": "mga denominasyon",
+    "link": "mga-denominasyon.html"
+  },
+  {
+    "name": "deposito",
+    "link": "deposito.html"
+  },
+  {
+    "name": "nagmula -- pinagmulan",
+    "link": "nagmula-pinagmulan.html"
+  },
+  {
+    "name": "dev",
+    "link": "dev.html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "developer",
+    "link": "developer.html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "kahirapan",
+    "link": "kahirapan.html"
+  },
+  {
+    "name": "difficulty bomb",
+    "link": "difficulty-bomb.html"
+  },
+  {
+    "name": "digital na asset",
+    "link": "digital-na-asset.html"
+  },
+  {
+    "name": "digital na pagkakakilanlan",
+    "link": "digital-na-pagkakakilanlan.html"
+  },
+  {
+    "name": "digital na lagda",
+    "link": "digital-na-lagda.html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Distributed Ledger Technology",
+    "link": "distributed-ledger-technology.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "dobleng paggasta",
+    "link": "dobleng-paggasta.html"
+  },
+  {
+    "name": "ekosistema",
+    "link": "ekosistema.html"
+  },
+  {
+    "name": "EEA",
+    "link": "eea.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip1559.html"
+  },
+  {
+    "name": "mga naka-encrypt na key",
+    "link": "mga-nakaencrypt-na-key.html"
+  },
+  {
+    "name": "pag-encrypt",
+    "link": "pagencrypt.html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "entropy",
+    "link": "entropy.html"
+  },
+  {
+    "name": "kapanahunan",
+    "link": "kapanahunan.html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc20.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc721.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ether",
+    "link": "ether.html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-20.html"
+  },
+  {
+    "name": "Ethereum Improvement Proposal",
+    "link": "ethereum-improvement-proposal.html"
+  },
+  {
+    "name": "Mainnet ng Ethereum",
+    "link": "mainnet-ng-ethereum.html"
+  },
+  {
+    "name": "Ethereum Name Service",
+    "link": "ethereum-name-service.html"
+  },
+  {
+    "name": "Ethereum Virtual Machine",
+    "link": "ethereum-virtual-machine.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "palitan",
+    "link": "palitan.html"
+  },
+  {
+    "name": "kliyente sa pagpapatupad",
+    "link": "kliyente-sa-pagpapatupad.html"
+  },
+  {
+    "name": "layer ng pagpapatupad",
+    "link": "layer-ng-pagpapatupad.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "faucet",
+    "link": "faucet.html"
+  },
+  {
+    "name": "fault-tolerant",
+    "link": "faulttolerant.html"
+  },
+  {
+    "name": "fiat na salapi",
+    "link": "fiat-na-salapi.html"
+  },
+  {
+    "name": "wakas, pangwakas",
+    "link": "wakas-pangwakas.html"
+  },
+  {
+    "name": "rate ng pangwakas",
+    "link": "rate-ng-pangwakas.html"
+  },
+  {
+    "name": "financial technology",
+    "link": "financial-technology.html"
+  },
+  {
+    "name": "finney",
+    "link": "finney.html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "firewall",
+    "link": "firewall.html"
+  },
+  {
+    "name": "firmware",
+    "link": "firmware.html"
+  },
+  {
+    "name": "fork",
+    "link": "fork.html"
+  },
+  {
+    "name": "fractional na pagmamay-ari",
+    "link": "fractional-na-pagmamayari.html"
+  },
+  {
+    "name": "patunay ng panloloko",
+    "link": "patunay-ng-panloloko.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "ganap na node",
+    "link": "ganap-na-node.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "gas",
+    "link": "gas.html"
+  },
+  {
+    "name": "bayad sa gas",
+    "link": "bayad-sa-gas.html"
+  },
+  {
+    "name": "limitasyon ng gas",
+    "link": "limitasyon-ng-gas.html"
+  },
+  {
+    "name": "presyo ng gas",
+    "link": "presyo-ng-gas.html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "genesis block",
+    "link": "genesis-block.html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "pamamahala",
+    "link": "pamamahala.html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "gwei",
+    "link": "gwei.html"
+  },
+  {
+    "name": "paghati",
+    "link": "paghati.html"
+  },
+  {
+    "name": "hard fork",
+    "link": "hard-fork.html"
+  },
+  {
+    "name": "wallet na hardware",
+    "link": "wallet-na-hardware.html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "hash",
+    "link": "hash.html"
+  },
+  {
+    "name": "HD wallet",
+    "link": "hd-wallet.html"
+  },
+  {
+    "name": "datos hexadecimales",
+    "link": "datos-hexadecimales.html"
+  },
+  {
+    "name": "mainit na imbakan",
+    "link": "mainit-na-imbakan.html"
+  },
+  {
+    "name": "mainit na wallet",
+    "link": "mainit-na-wallet.html"
+  },
+  {
+    "name": "hybrid network",
+    "link": "hybrid-network.html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "kawalan ng pagbabago",
+    "link": "kawalan-ng-pagbabago.html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "insider trading",
+    "link": "insider-trading.html"
+  },
+  {
+    "name": "panloob na transaksyon",
+    "link": "panloob-na-transaksyon.html"
+  },
+  {
+    "name": "interoperability",
+    "link": "interoperability.html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-ipfs.html"
+  },
+  {
+    "name": "IP address",
+    "link": "ip-address.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "file na JSON",
+    "link": "file-na-json.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "jsonrpc.html"
+  },
+  {
+    "name": "file ng keystore",
+    "link": "file-ng-keystore.html"
+  },
+  {
+    "name": "Know Your Customer",
+    "link": "know-your-customer.html"
+  },
+  {
+    "name": "Know Your Transaction",
+    "link": "know-your-transaction.html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Launchpad",
+    "link": "launchpad.html"
+  },
+  {
+    "name": "layer 1",
+    "link": "layer-1.html"
+  },
+  {
+    "name": "layer 2",
+    "link": "layer-2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Ledger Live App",
+    "link": "ledger-live-app.html"
+  },
+  {
+    "name": "Library",
+    "link": "library.html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "magaan na kliyente",
+    "link": "magaan-na-kliyente.html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "liquidation",
+    "link": "liquidation.html"
+  },
+  {
+    "name": "liquidity",
+    "link": "liquidity.html"
+  },
+  {
+    "name": "pool ng liquidity",
+    "link": "pool-ng-liquidity.html"
+  },
+  {
+    "name": "pagtaya ng liquidity",
+    "link": "pagtaya-ng-liquidity.html"
+  },
+  {
+    "name": "mainnet",
+    "link": "mainnet.html"
+  },
+  {
+    "name": "Maker Protocol",
+    "link": "maker-protocol.html"
+  },
+  {
+    "name": "malware",
+    "link": "malware.html"
+  },
+  {
+    "name": "market cap",
+    "link": "market-cap.html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "memory pool",
+    "link": "memory-pool.html"
+  },
+  {
+    "name": "Mempool",
+    "link": "mempool.html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Merge",
+    "link": "merge.html"
+  },
+  {
+    "name": "Merkle Patricia trie",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "metadata",
+    "link": "metadata.html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "metaverse",
+    "link": "metaverse.html"
+  },
+  {
+    "name": "MEV",
+    "link": "mev.html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "minero",
+    "link": "minero.html"
+  },
+  {
+    "name": "tip ng minero",
+    "link": "tip-ng-minero.html"
+  },
+  {
+    "name": "pagmimina",
+    "link": "pagmimina.html"
+  },
+  {
+    "name": "mint",
+    "link": "mint.html"
+  },
+  {
+    "name": "mnemonic na parirala",
+    "link": "mnemonic-na-parirala.html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "modular na blockchain",
+    "link": "modular-na-blockchain.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "multi-sig",
+    "link": "multisig.html"
+  },
+  {
+    "name": "multi-signature na wallet",
+    "link": "multisignature-na-wallet.html"
+  },
+  {
+    "name": "nested na blockchain",
+    "link": "nested-na-blockchain.html"
+  },
+  {
+    "name": "network",
+    "link": "network.html"
+  },
+  {
+    "name": "pagsisikip ng network",
+    "link": "pagsisikip-ng-network.html"
+  },
+  {
+    "name": "NFC",
+    "link": "nfc.html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT aggregator",
+    "link": "nft-aggregator.html"
+  },
+  {
+    "name": "Paglaglag ng NFT",
+    "link": "paglaglag-ng-nft.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "node",
+    "link": "node.html"
+  },
+  {
+    "name": "non-fungible token",
+    "link": "nonfungible-token.html"
+  },
+  {
+    "name": "nonce",
+    "link": "nonce.html"
+  },
+  {
+    "name": "wala sa chain",
+    "link": "wala-sa-chain.html"
+  },
+  {
+    "name": "wala sa rampa",
+    "link": "wala-sa-rampa.html"
+  },
+  {
+    "name": "ommer block",
+    "link": "ommer-block.html"
+  },
+  {
+    "name": "nasa chain",
+    "link": "nasa-chain.html"
+  },
+  {
+    "name": "nasa rampa",
+    "link": "nasa-rampa.html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "optimistic rollup",
+    "link": "optimistic-rollup.html"
+  },
+  {
+    "name": "Orakulo",
+    "link": "orakulo.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "pagkakapantay-pantay",
+    "link": "pagkakapantaypantay.html"
+  },
+  {
+    "name": "passphrase",
+    "link": "passphrase.html"
+  },
+  {
+    "name": "password",
+    "link": "password.html"
+  },
+  {
+    "name": "tagapamahala ng password",
+    "link": "tagapamahala-ng-password.html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "peer-to-peer",
+    "link": "peertopeer.html"
+  },
+  {
+    "name": "pinahintulutang ledger",
+    "link": "pinahintulutang-ledger.html"
+  },
+  {
+    "name": "phishing",
+    "link": "phishing.html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "PoA",
+    "link": "poa.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "pribadong blockchain",
+    "link": "pribadong-blockchain.html"
+  },
+  {
+    "name": "pribadong salapi",
+    "link": "pribadong-salapi.html"
+  },
+  {
+    "name": "pribadong key",
+    "link": "pribadong-key.html"
+  },
+  {
+    "name": "Proof of Stake",
+    "link": "proof-of-stake.html"
+  },
+  {
+    "name": "Proof of Work",
+    "link": "proof-of-work.html"
+  },
+  {
+    "name": "protocol",
+    "link": "protocol.html"
+  },
+  {
+    "name": "pampublikong address",
+    "link": "pampublikong-address.html"
+  },
+  {
+    "name": "pampublikong blockchain",
+    "link": "pampublikong-blockchain.html"
+  },
+  {
+    "name": "pampublikong key",
+    "link": "pampublikong-key.html"
+  },
+  {
+    "name": "pampublikong key na kriptograpiya",
+    "link": "pampublikong-key-na-kriptograpiya.html"
+  },
+  {
+    "name": "QR code",
+    "link": "qr-code.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "tagapaghatid",
+    "link": "tagapaghatid.html"
+  },
+  {
+    "name": "Remote Procedure Call",
+    "link": "remote-procedure-call.html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "roadmap",
+    "link": "roadmap.html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "rollups",
+    "link": "rollups.html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "rug pull",
+    "link": "rug-pull.html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "sandbox",
+    "link": "sandbox.html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "link": "satoshi-nakamoto.html"
+  },
+  {
+    "name": "scalability",
+    "link": "scalability.html"
+  },
+  {
+    "name": "scaling",
+    "link": "scaling.html"
+  },
+  {
+    "name": "panloloko",
+    "link": "panloloko.html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "search engine",
+    "link": "search-engine.html"
+  },
+  {
+    "name": "Lihim na Parirala sa Pagbawi",
+    "link": "lihim-na-parirala-sa-pagbawi.html"
+  },
+  {
+    "name": "Token ng Seguridad",
+    "link": "token-ng-seguridad.html"
+  },
+  {
+    "name": "Security Token Offering",
+    "link": "security-token-offering.html"
+  },
+  {
+    "name": "pariralang binhi",
+    "link": "pariralang-binhi.html"
+  },
+  {
+    "name": "sariling kustodiya",
+    "link": "sariling-kustodiya.html"
+  },
+  {
+    "name": "sariling pagpapatupad",
+    "link": "sariling-pagpapatupad.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "pagse-serye",
+    "link": "pagseserye.html"
+  },
+  {
+    "name": "chain ng pagpipira-piraso",
+    "link": "chain-ng-pagpipirapiraso.html"
+  },
+  {
+    "name": "pagpipira-piraso",
+    "link": "pagpipirapiraso.html"
+  },
+  {
+    "name": "shielded na transaksyon",
+    "link": "shielded-na-transaksyon.html"
+  },
+  {
+    "name": "sidechain",
+    "link": "sidechain.html"
+  },
+  {
+    "name": "kondisyon ng paglaslas",
+    "link": "kondisyon-ng-paglaslas.html"
+  },
+  {
+    "name": "slippage",
+    "link": "slippage.html"
+  },
+  {
+    "name": "puwang",
+    "link": "puwang.html"
+  },
+  {
+    "name": "smart na kontrata",
+    "link": "smart-na-kontrata.html"
+  },
+  {
+    "name": "soft fork",
+    "link": "soft-fork.html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "stablecoin",
+    "link": "stablecoin.html"
+  },
+  {
+    "name": "pagkakataya",
+    "link": "pagkakataya.html"
+  },
+  {
+    "name": "pagtataya",
+    "link": "pagtataya.html"
+  },
+  {
+    "name": "estado",
+    "link": "estado.html"
+  },
+  {
+    "name": "mga channel ng estado",
+    "link": "mga-channel-ng-estado.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "streaming",
+    "link": "streaming.html"
+  },
+  {
+    "name": "i-swap",
+    "link": "iswap.html"
+  },
+  {
+    "name": "szabo",
+    "link": "szabo.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "testnet",
+    "link": "testnet.html"
+  },
+  {
+    "name": "Testnet Kovan",
+    "link": "testnet-kovan.html"
+  },
+  {
+    "name": "Testnet Rinkeby",
+    "link": "testnet-rinkeby.html"
+  },
+  {
+    "name": "Testnet Ropsten",
+    "link": "testnet-ropsten.html"
+  },
+  {
+    "name": "token",
+    "link": "token.html"
+  },
+  {
+    "name": "pag-lock ng token",
+    "link": "paglock-ng-token.html"
+  },
+  {
+    "name": "pamantayan ng token",
+    "link": "pamantayan-ng-token.html"
+  },
+  {
+    "name": "transaksyon",
+    "link": "transaksyon.html"
+  },
+  {
+    "name": "block ng transaksyon",
+    "link": "block-ng-transaksyon.html"
+  },
+  {
+    "name": "bayad sa transaksyon",
+    "link": "bayad-sa-transaksyon.html"
+  },
+  {
+    "name": "ID ng transaksyon",
+    "link": "id-ng-transaksyon.html"
+  },
+  {
+    "name": "pool ng transaksyon",
+    "link": "pool-ng-transaksyon.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "hindi kailangan ng tiwala",
+    "link": "hindi-kailangan-ng-tiwala.html"
+  },
+  {
+    "name": "Turing-kumpleto",
+    "link": "turingkumpleto.html"
+  },
+  {
+    "name": "TVL",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "hindi naka-encrypt na key",
+    "link": "hindi-nakaencrypt-na-key.html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "unspent transaction output",
+    "link": "unspent-transaction-output.html"
+  },
+  {
+    "name": "tanggalin sa pagkakataya",
+    "link": "tanggalin-sa-pagkakataya.html"
+  },
+  {
+    "name": "mag-upgrade",
+    "link": "magupgrade.html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "nagpapatibay",
+    "link": "nagpapatibay.html"
+  },
+  {
+    "name": "katibayan ng bisa",
+    "link": "katibayan-ng-bisa.html"
+  },
+  {
+    "name": "vesting",
+    "link": "vesting.html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "wallet",
+    "link": "wallet.html"
+  },
+  {
+    "name": "address ng wallet",
+    "link": "address-ng-wallet.html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-30.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "webhook",
+    "link": "webhook.html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "wei",
+    "link": "wei.html"
+  },
+  {
+    "name": "whitepaper",
+    "link": "whitepaper.html"
+  },
+  {
+    "name": "wrapping",
+    "link": "wrapping.html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "XPRIV",
+    "link": "xpriv.html"
+  },
+  {
+    "name": "XPUB",
+    "link": "xpub.html"
+  },
+  {
+    "name": "paglilinang ng ani",
+    "link": "paglilinang-ng-ani.html"
+  },
+  {
+    "name": "mga token na nagbubunga",
+    "link": "mga-token-na-nagbubunga.html"
+  },
+  {
+    "name": "zero address",
+    "link": "zero-address.html"
+  },
+  {
+    "name": "patunay na hindi magbibigay ng kaalaman",
+    "link": "patunay-na-hindi-magbibigay-ng-kaalaman.html"
+  },
+  {
+    "name": "rollup na hindi magbibigay ng kaalaman",
+    "link": "rollup-na-hindi-magbibigay-ng-kaalaman.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zksnarks.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  }
+]

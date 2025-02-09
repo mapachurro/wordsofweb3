@@ -1,0 +1,3006 @@
+[
+  {
+    "name": "0x API",
+    "link": "0x-api.html"
+  },
+  {
+    "name": "0xplain",
+    "link": "0xplain.html"
+  },
+  {
+    "name": "1inch",
+    "link": "1inch.html"
+  },
+  {
+    "name": "Двофакторна аутентифікація",
+    "link": ".html"
+  },
+  {
+    "name": "3Box Labs",
+    "link": "3box-labs.html"
+  },
+  {
+    "name": "aтака 51%",
+    "link": "a-51.html"
+  },
+  {
+    "name": "Aave",
+    "link": "aave.html"
+  },
+  {
+    "name": "Absolute Advantage",
+    "link": "absolute-advantage.html"
+  },
+  {
+    "name": "oбліковий запис",
+    "link": "o.html"
+  },
+  {
+    "name": "ACH-трансфер",
+    "link": "ach.html"
+  },
+  {
+    "name": "Active Management",
+    "link": "active-management.html"
+  },
+  {
+    "name": "Сервіси з активною валідацією (AVS)",
+    "link": "avs.html"
+  },
+  {
+    "name": "Ad Hoc",
+    "link": "ad-hoc.html"
+  },
+  {
+    "name": "адреса",
+    "link": ".html"
+  },
+  {
+    "name": "агрегатор",
+    "link": ".html"
+  },
+  {
+    "name": "Agoric",
+    "link": "agoric.html"
+  },
+  {
+    "name": "повітряний зазор",
+    "link": ".html"
+  },
+  {
+    "name": "ейрдроп",
+    "link": ".html"
+  },
+  {
+    "name": "AirGap Vault",
+    "link": "airgap-vault.html"
+  },
+  {
+    "name": "AirSwap",
+    "link": "airswap.html"
+  },
+  {
+    "name": "алгоритм",
+    "link": ".html"
+  },
+  {
+    "name": "All or None Order (AON)",
+    "link": "all-or-none-order-aon.html"
+  },
+  {
+    "name": "All-Time High (ATH)",
+    "link": "alltime-high-ath.html"
+  },
+  {
+    "name": "Allocation",
+    "link": "allocation.html"
+  },
+  {
+    "name": "Alpha",
+    "link": "alpha.html"
+  },
+  {
+    "name": "альткойн",
+    "link": ".html"
+  },
+  {
+    "name": "Боротьба з відмиванням грошей",
+    "link": ".html"
+  },
+  {
+    "name": "Angel Investor",
+    "link": "angel-investor.html"
+  },
+  {
+    "name": "Протидія відмиванню грошей (AML)",
+    "link": "aml.html"
+  },
+  {
+    "name": "API",
+    "link": "api.html"
+  },
+  {
+    "name": "appchain",
+    "link": "appchain.html"
+  },
+  {
+    "name": "Apple Pay",
+    "link": "apple-pay.html"
+  },
+  {
+    "name": "Application Programming Interface (API)",
+    "link": "application-programming-interface-api.html"
+  },
+  {
+    "name": "Application-Specific Integrated Circuit (ASIC)",
+    "link": "applicationspecific-integrated-circuit-asic.html"
+  },
+  {
+    "name": "Арбітраж",
+    "link": ".html"
+  },
+  {
+    "name": "Arbitrum",
+    "link": "arbitrum.html"
+  },
+  {
+    "name": "ARC-20",
+    "link": "arc20.html"
+  },
+  {
+    "name": "Штучний інтелект (ШІ)",
+    "link": ".html"
+  },
+  {
+    "name": "спеціалізована інтегральна схема",
+    "link": ".html"
+  },
+  {
+    "name": "ASIC-resistant",
+    "link": "asicresistant.html"
+  },
+  {
+    "name": "Ask Price",
+    "link": "ask-price.html"
+  },
+  {
+    "name": "Asset Management",
+    "link": "asset-management.html"
+  },
+  {
+    "name": "походження активів",
+    "link": ".html"
+  },
+  {
+    "name": "Активи під управлінням (AUM)",
+    "link": "aum.html"
+  },
+  {
+    "name": "Asynchronous",
+    "link": "asynchronous.html"
+  },
+  {
+    "name": "Atomic Swap",
+    "link": "atomic-swap.html"
+  },
+  {
+    "name": "Attack surface",
+    "link": "attack-surface.html"
+  },
+  {
+    "name": "атестація",
+    "link": ".html"
+  },
+  {
+    "name": "Auction",
+    "link": "auction.html"
+  },
+  {
+    "name": "Aurora",
+    "link": "aurora.html"
+  },
+  {
+    "name": "Автоматизований маркет-мейкер (AMM)",
+    "link": "amm.html"
+  },
+  {
+    "name": "Avalanche",
+    "link": "avalanche.html"
+  },
+  {
+    "name": "AVAX",
+    "link": "avax.html"
+  },
+  {
+    "name": "Axie Infinity",
+    "link": "axie-infinity.html"
+  },
+  {
+    "name": "B-токени",
+    "link": "b.html"
+  },
+  {
+    "name": "Bags",
+    "link": "bags.html"
+  },
+  {
+    "name": "Banxa",
+    "link": "banxa.html"
+  },
+  {
+    "name": "Beacon Chain",
+    "link": "beacon-chain.html"
+  },
+  {
+    "name": "Bear Market",
+    "link": "bear-market.html"
+  },
+  {
+    "name": "Benchmark",
+    "link": "benchmark.html"
+  },
+  {
+    "name": "BEP-1155",
+    "link": "bep1155.html"
+  },
+  {
+    "name": "BEP-20",
+    "link": "bep20.html"
+  },
+  {
+    "name": "BEP-721",
+    "link": "bep721.html"
+  },
+  {
+    "name": "BEP-95",
+    "link": "bep95.html"
+  },
+  {
+    "name": "Besu",
+    "link": "besu.html"
+  },
+  {
+    "name": "Beta (Coefficient)",
+    "link": "beta-coefficient.html"
+  },
+  {
+    "name": "Beta (Release)",
+    "link": "beta-release.html"
+  },
+  {
+    "name": "Bid-Ask Spread",
+    "link": "bidask-spread.html"
+  },
+  {
+    "name": "Bid Price",
+    "link": "bid-price.html"
+  },
+  {
+    "name": "Binance",
+    "link": "binance.html"
+  },
+  {
+    "name": "Blockchain Charity Foundation",
+    "link": "blockchain-charity-foundation.html"
+  },
+  {
+    "name": "Binance Ecosystem Fund (BEF)",
+    "link": "binance-ecosystem-fund-bef.html"
+  },
+  {
+    "name": "Binancian",
+    "link": "binancian.html"
+  },
+  {
+    "name": "Біткойн",
+    "link": ".html"
+  },
+  {
+    "name": "Bitcoin Core",
+    "link": "bitcoin-core.html"
+  },
+  {
+    "name": "Bitcoin Dominance",
+    "link": "bitcoin-dominance.html"
+  },
+  {
+    "name": "Bitcoin-максималісти",
+    "link": "bitcoin.html"
+  },
+  {
+    "name": "Bitcoin Pizza",
+    "link": "bitcoin-pizza.html"
+  },
+  {
+    "name": "Black Swan Event",
+    "link": "black-swan-event.html"
+  },
+  {
+    "name": "блок",
+    "link": ".html"
+  },
+  {
+    "name": "оглядач блоків",
+    "link": ".html"
+  },
+  {
+    "name": "Block header",
+    "link": "block-header.html"
+  },
+  {
+    "name": "висота блоку",
+    "link": ".html"
+  },
+  {
+    "name": "винагорода за блок",
+    "link": ".html"
+  },
+  {
+    "name": "час блокування",
+    "link": ".html"
+  },
+  {
+    "name": "Blockaid",
+    "link": "blockaid.html"
+  },
+  {
+    "name": "блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "блокчейн-оглядач",
+    "link": ".html"
+  },
+  {
+    "name": "трилема блокчейна",
+    "link": ".html"
+  },
+  {
+    "name": "Bloom Filter",
+    "link": "bloom-filter.html"
+  },
+  {
+    "name": "Найвідоміші токени (blue chip)",
+    "link": "blue-chip.html"
+  },
+  {
+    "name": "BNB",
+    "link": "bnb.html"
+  },
+  {
+    "name": "BNB Chain",
+    "link": "bnb-chain.html"
+  },
+  {
+    "name": "BNSOL",
+    "link": "bnsol.html"
+  },
+  {
+    "name": "Bollinger Bands",
+    "link": "bollinger-bands.html"
+  },
+  {
+    "name": "Облігація",
+    "link": ".html"
+  },
+  {
+    "name": "винагорода",
+    "link": ".html"
+  },
+  {
+    "name": "мозковий гаманець",
+    "link": ".html"
+  },
+  {
+    "name": "Brave",
+    "link": "brave.html"
+  },
+  {
+    "name": "Токени BRC-20",
+    "link": "brc20.html"
+  },
+  {
+    "name": "Break-Even Point (BEP)",
+    "link": "breakeven-point-bep.html"
+  },
+  {
+    "name": "Breakeven Multiple",
+    "link": "breakeven-multiple.html"
+  },
+  {
+    "name": "Breakout",
+    "link": "breakout.html"
+  },
+  {
+    "name": "міст",
+    "link": ".html"
+  },
+  {
+    "name": "BscScan",
+    "link": "bscscan.html"
+  },
+  {
+    "name": "BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "Адреса гаманця BTC",
+    "link": "btc.html"
+  },
+  {
+    "name": "BUIDL",
+    "link": "buidl.html"
+  },
+  {
+    "name": "Bull Market",
+    "link": "bull-market.html"
+  },
+  {
+    "name": "Одноразовий гаманець",
+    "link": ".html"
+  },
+  {
+    "name": "Buy Wall",
+    "link": "buy-wall.html"
+  },
+  {
+    "name": "байт-код",
+    "link": ".html"
+  },
+  {
+    "name": "Візантійська відмовостійкість",
+    "link": ".html"
+  },
+  {
+    "name": "Форк Byzantium",
+    "link": "byzantium.html"
+  },
+  {
+    "name": "Блок-кандидат",
+    "link": ".html"
+  },
+  {
+    "name": "Candlestick",
+    "link": "candlestick.html"
+  },
+  {
+    "name": "Capitulation",
+    "link": "capitulation.html"
+  },
+  {
+    "name": "Celo",
+    "link": "celo.html"
+  },
+  {
+    "name": "Censorship-resistance",
+    "link": "censorshipresistance.html"
+  },
+  {
+    "name": "Central Bank",
+    "link": "central-bank.html"
+  },
+  {
+    "name": "Цифрова валюта Центрального банку (CBDC)",
+    "link": "cbdc.html"
+  },
+  {
+    "name": "Central Processing Unit (CPU)",
+    "link": "central-processing-unit-cpu.html"
+  },
+  {
+    "name": "Centralized",
+    "link": "centralized.html"
+  },
+  {
+    "name": "централізована біржа",
+    "link": ".html"
+  },
+  {
+    "name": "CEX",
+    "link": "cex.html"
+  },
+  {
+    "name": "ID мережі",
+    "link": "id.html"
+  },
+  {
+    "name": "ChatGPT",
+    "link": "chatgpt.html"
+  },
+  {
+    "name": "Chrome",
+    "link": "chrome.html"
+  },
+  {
+    "name": "Cipher",
+    "link": "cipher.html"
+  },
+  {
+    "name": "Circulating Supply",
+    "link": "circulating-supply.html"
+  },
+  {
+    "name": "клієнт",
+    "link": ".html"
+  },
+  {
+    "name": "Cloud",
+    "link": "cloud.html"
+  },
+  {
+    "name": "CodeFi",
+    "link": "codefi.html"
+  },
+  {
+    "name": "монета",
+    "link": ".html"
+  },
+  {
+    "name": "Coinbase Pay",
+    "link": "coinbase-pay.html"
+  },
+  {
+    "name": "CoinGecko",
+    "link": "coingecko.html"
+  },
+  {
+    "name": "холодне сховище",
+    "link": ".html"
+  },
+  {
+    "name": "холодний гаманець",
+    "link": ".html"
+  },
+  {
+    "name": "Collateral",
+    "link": "collateral.html"
+  },
+  {
+    "name": "Colocation",
+    "link": "colocation.html"
+  },
+  {
+    "name": "Commodity Futures Trading Commission (CFTC)",
+    "link": "commodity-futures-trading-commission-cftc.html"
+  },
+  {
+    "name": "компіляція",
+    "link": ".html"
+  },
+  {
+    "name": "Compound",
+    "link": "compound.html"
+  },
+  {
+    "name": "Складні відсотки",
+    "link": ".html"
+  },
+  {
+    "name": "підтвердження",
+    "link": ".html"
+  },
+  {
+    "name": "Час підтвердження",
+    "link": ".html"
+  },
+  {
+    "name": "Confluence",
+    "link": "confluence.html"
+  },
+  {
+    "name": "консенсус",
+    "link": ".html"
+  },
+  {
+    "name": "Алгоритми консенсусу",
+    "link": ".html"
+  },
+  {
+    "name": "консенсус-клієнт",
+    "link": ".html"
+  },
+  {
+    "name": "рівень консенсусу",
+    "link": ".html"
+  },
+  {
+    "name": "механізм консенсусу",
+    "link": ".html"
+  },
+  {
+    "name": "Consensys",
+    "link": "consensys.html"
+  },
+  {
+    "name": "Форк «Константинополь»",
+    "link": ".html"
+  },
+  {
+    "name": "Consumer Price Index (CPI)",
+    "link": "consumer-price-index-cpi.html"
+  },
+  {
+    "name": "Контанго й беквордація",
+    "link": ".html"
+  },
+  {
+    "name": "контракт",
+    "link": ".html"
+  },
+  {
+    "name": "контрактний обліковий запис",
+    "link": ".html"
+  },
+  {
+    "name": "CoolWallet",
+    "link": "coolwallet.html"
+  },
+  {
+    "name": "Копітрейдинг",
+    "link": ".html"
+  },
+  {
+    "name": "Ризик контрагента",
+    "link": ".html"
+  },
+  {
+    "name": "Credentials",
+    "link": "credentials.html"
+  },
+  {
+    "name": "Крос-чейн мости",
+    "link": ".html"
+  },
+  {
+    "name": "крипто-",
+    "link": ".html"
+  },
+  {
+    "name": "криптоактив",
+    "link": ".html"
+  },
+  {
+    "name": "крипто-баунті",
+    "link": ".html"
+  },
+  {
+    "name": "криптовідповідність",
+    "link": ".html"
+  },
+  {
+    "name": "Криптовалютні ETF",
+    "link": "etf.html"
+  },
+  {
+    "name": "Криптовалютний індекс страху та жадібності",
+    "link": ".html"
+  },
+  {
+    "name": "криптофонд",
+    "link": ".html"
+  },
+  {
+    "name": "Криптопротокол",
+    "link": ".html"
+  },
+  {
+    "name": "криптогаманець",
+    "link": ".html"
+  },
+  {
+    "name": "Криптозима",
+    "link": ".html"
+  },
+  {
+    "name": "CryptoCompare",
+    "link": "cryptocompare.html"
+  },
+  {
+    "name": "криптовалюта",
+    "link": ".html"
+  },
+  {
+    "name": "криптоекономіка",
+    "link": ".html"
+  },
+  {
+    "name": "криптографія",
+    "link": ".html"
+  },
+  {
+    "name": "Curve",
+    "link": "curve.html"
+  },
+  {
+    "name": "самостійне зберігання",
+    "link": ".html"
+  },
+  {
+    "name": "D'CENT",
+    "link": "dcent.html"
+  },
+  {
+    "name": "Daemon",
+    "link": "daemon.html"
+  },
+  {
+    "name": "DAI",
+    "link": "dai.html"
+  },
+  {
+    "name": "Данкшардинг",
+    "link": ".html"
+  },
+  {
+    "name": "DAO",
+    "link": "dao.html"
+  },
+  {
+    "name": "dapp",
+    "link": "dapp.html"
+  },
+  {
+    "name": "DDoS",
+    "link": "ddos.html"
+  },
+  {
+    "name": "Dead Cat Bounce",
+    "link": "dead-cat-bounce.html"
+  },
+  {
+    "name": "Хрест смерті",
+    "link": ".html"
+  },
+  {
+    "name": "децентралізація",
+    "link": ".html"
+  },
+  {
+    "name": "децентралізований додаток",
+    "link": ".html"
+  },
+  {
+    "name": "Decentralized Autonomous Cooperative (DAC)",
+    "link": "decentralized-autonomous-cooperative-dac.html"
+  },
+  {
+    "name": "Децентралізована автономна організація",
+    "link": ".html"
+  },
+  {
+    "name": "децентралізована біржа",
+    "link": ".html"
+  },
+  {
+    "name": "децентралізовані фінанси",
+    "link": ".html"
+  },
+  {
+    "name": "Децентралізовані індекси",
+    "link": ".html"
+  },
+  {
+    "name": "децентралізована мережа",
+    "link": ".html"
+  },
+  {
+    "name": "Decryption",
+    "link": "decryption.html"
+  },
+  {
+    "name": "Deep Web",
+    "link": "deep-web.html"
+  },
+  {
+    "name": "DeFi",
+    "link": "defi.html"
+  },
+  {
+    "name": "DPoS",
+    "link": "dpos.html"
+  },
+  {
+    "name": "Delisting",
+    "link": "delisting.html"
+  },
+  {
+    "name": "номінали",
+    "link": ".html"
+  },
+  {
+    "name": "Відв'язування",
+    "link": ".html"
+  },
+  {
+    "name": "депозит",
+    "link": ".html"
+  },
+  {
+    "name": "Депресія",
+    "link": ".html"
+  },
+  {
+    "name": "вивести",
+    "link": ".html"
+  },
+  {
+    "name": "Design Flaw Attack",
+    "link": "design-flaw-attack.html"
+  },
+  {
+    "name": "розробник",
+    "link": ".html"
+  },
+  {
+    "name": "Devcon",
+    "link": "devcon.html"
+  },
+  {
+    "name": "розробник",
+    "link": ".html"
+  },
+  {
+    "name": "DEX",
+    "link": "dex.html"
+  },
+  {
+    "name": "Витримка понад усе",
+    "link": ".html"
+  },
+  {
+    "name": "складність",
+    "link": ".html"
+  },
+  {
+    "name": "бомба складності",
+    "link": ".html"
+  },
+  {
+    "name": "цифровий актив",
+    "link": ".html"
+  },
+  {
+    "name": "цифрова ідентичність",
+    "link": ".html"
+  },
+  {
+    "name": "цифровий підпис",
+    "link": ".html"
+  },
+  {
+    "name": "Diligence",
+    "link": "diligence.html"
+  },
+  {
+    "name": "Прямий доступ до ринку (DMA)",
+    "link": "dma.html"
+  },
+  {
+    "name": "Технологія розподіленого реєстру",
+    "link": ".html"
+  },
+  {
+    "name": "Divergence",
+    "link": "divergence.html"
+  },
+  {
+    "name": "Diversification",
+    "link": "diversification.html"
+  },
+  {
+    "name": "DLT",
+    "link": "dlt.html"
+  },
+  {
+    "name": "Проводьте власне дослідження (DYOR)",
+    "link": "dyor.html"
+  },
+  {
+    "name": "Dollar Cost Averaging (DCA)",
+    "link": "dollar-cost-averaging-dca.html"
+  },
+  {
+    "name": "Точковий графік",
+    "link": ".html"
+  },
+  {
+    "name": "подвійна трата",
+    "link": ".html"
+  },
+  {
+    "name": "Double Spending",
+    "link": "double-spending.html"
+  },
+  {
+    "name": "Eclipse Attack",
+    "link": "eclipse-attack.html"
+  },
+  {
+    "name": "екосистема",
+    "link": ".html"
+  },
+  {
+    "name": "Альянс корпоративного ефіру",
+    "link": ".html"
+  },
+  {
+    "name": "Efficient Market Hypothesis (EMH)",
+    "link": "efficient-market-hypothesis-emh.html"
+  },
+  {
+    "name": "EigenLayer",
+    "link": "eigenlayer.html"
+  },
+  {
+    "name": "EIP",
+    "link": "eip.html"
+  },
+  {
+    "name": "EIP-1559",
+    "link": "eip1559.html"
+  },
+  {
+    "name": "EIP-3074",
+    "link": "eip3074.html"
+  },
+  {
+    "name": "EIP-4844",
+    "link": "eip4844.html"
+  },
+  {
+    "name": "EIP-7251",
+    "link": "eip7251.html"
+  },
+  {
+    "name": "EIP-7702",
+    "link": "eip7702.html"
+  },
+  {
+    "name": "Еластичність",
+    "link": ".html"
+  },
+  {
+    "name": "зашифрований ключ",
+    "link": ".html"
+  },
+  {
+    "name": "шифрування",
+    "link": ".html"
+  },
+  {
+    "name": "Ендогенна змінна",
+    "link": ".html"
+  },
+  {
+    "name": "ENS",
+    "link": "ens.html"
+  },
+  {
+    "name": "ентропія",
+    "link": ".html"
+  },
+  {
+    "name": "епоха",
+    "link": ".html"
+  },
+  {
+    "name": "ERC",
+    "link": "erc.html"
+  },
+  {
+    "name": "ERC-1155",
+    "link": "erc1155.html"
+  },
+  {
+    "name": "ERC-20",
+    "link": "erc20.html"
+  },
+  {
+    "name": "ERC-404",
+    "link": "erc404.html"
+  },
+  {
+    "name": "ERC-721",
+    "link": "erc721.html"
+  },
+  {
+    "name": "ETF",
+    "link": "etf.html"
+  },
+  {
+    "name": "ETH",
+    "link": "eth.html"
+  },
+  {
+    "name": "ефір",
+    "link": ".html"
+  },
+  {
+    "name": "Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Ethereum 2.0",
+    "link": "ethereum-20.html"
+  },
+  {
+    "name": "Ethereum Classic",
+    "link": "ethereum-classic.html"
+  },
+  {
+    "name": "Ethereum Foundation",
+    "link": "ethereum-foundation.html"
+  },
+  {
+    "name": "Пропозиція щодо вдосконалення Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Основна мережа Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Служба імен Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Віртуальна машина Ethereum",
+    "link": "ethereum.html"
+  },
+  {
+    "name": "Віртуальна машина Ethereum (EVM)",
+    "link": "ethereum-evm.html"
+  },
+  {
+    "name": "Etherscan",
+    "link": "etherscan.html"
+  },
+  {
+    "name": "EUR",
+    "link": "eur.html"
+  },
+  {
+    "name": "EVM",
+    "link": "evm.html"
+  },
+  {
+    "name": "біржа",
+    "link": ".html"
+  },
+  {
+    "name": "Виконавчий клієнт",
+    "link": ".html"
+  },
+  {
+    "name": "Виконавчий рівень",
+    "link": ".html"
+  },
+  {
+    "name": "Екзогенна змінна",
+    "link": ".html"
+  },
+  {
+    "name": "Експоненційна ковзна середня (EMA)",
+    "link": "ema.html"
+  },
+  {
+    "name": "Зовнішньо керований акаунт (EOA)",
+    "link": "eoa.html"
+  },
+  {
+    "name": "Fakeout",
+    "link": "fakeout.html"
+  },
+  {
+    "name": "Falling Knife",
+    "link": "falling-knife.html"
+  },
+  {
+    "name": "Fan Tokens",
+    "link": "fan-tokens.html"
+  },
+  {
+    "name": "Fantom",
+    "link": "fantom.html"
+  },
+  {
+    "name": "збирач",
+    "link": ".html"
+  },
+  {
+    "name": "помилковостійкий",
+    "link": ".html"
+  },
+  {
+    "name": "Fear Of Missing Out (FOMO)",
+    "link": "fear-of-missing-out-fomo.html"
+  },
+  {
+    "name": "Fear, Uncertainty and Doubt (FUD)",
+    "link": "fear-uncertainty-and-doubt-fud.html"
+  },
+  {
+    "name": "Fiat",
+    "link": "fiat.html"
+  },
+  {
+    "name": "фіатна валюта",
+    "link": ".html"
+  },
+  {
+    "name": "Fibonacci Retracement",
+    "link": "fibonacci-retracement.html"
+  },
+  {
+    "name": "Fill Or Kill Order (FOK)",
+    "link": "fill-or-kill-order-fok.html"
+  },
+  {
+    "name": "остаточність",
+    "link": ".html"
+  },
+  {
+    "name": "коефіцієнт остаточності",
+    "link": ".html"
+  },
+  {
+    "name": "фінансові технології",
+    "link": ".html"
+  },
+  {
+    "name": "фінні",
+    "link": ".html"
+  },
+  {
+    "name": "Firefox",
+    "link": "firefox.html"
+  },
+  {
+    "name": "брандмауер",
+    "link": ".html"
+  },
+  {
+    "name": "прошивка",
+    "link": ".html"
+  },
+  {
+    "name": "First-Mover Advantage (FMA)",
+    "link": "firstmover-advantage-fma.html"
+  },
+  {
+    "name": "Фіскальна політика",
+    "link": ".html"
+  },
+  {
+    "name": "Flappening",
+    "link": "flappening.html"
+  },
+  {
+    "name": "Flashbots",
+    "link": "flashbots.html"
+  },
+  {
+    "name": "Flippening",
+    "link": "flippening.html"
+  },
+  {
+    "name": "Змінна потоку",
+    "link": ".html"
+  },
+  {
+    "name": "Forced Liquidation",
+    "link": "forced-liquidation.html"
+  },
+  {
+    "name": "Forex (FX)",
+    "link": "forex-fx.html"
+  },
+  {
+    "name": "форк",
+    "link": ".html"
+  },
+  {
+    "name": "Formal Verification",
+    "link": "formal-verification.html"
+  },
+  {
+    "name": "дробове володіння",
+    "link": ".html"
+  },
+  {
+    "name": "доказ шахрайства",
+    "link": ".html"
+  },
+  {
+    "name": "Fren",
+    "link": "fren.html"
+  },
+  {
+    "name": "FTM",
+    "link": "ftm.html"
+  },
+  {
+    "name": "повний вузол",
+    "link": ".html"
+  },
+  {
+    "name": "Fully Diluted Valuation (FDV)",
+    "link": "fully-diluted-valuation-fdv.html"
+  },
+  {
+    "name": "Фундаментальний аналіз (FA)",
+    "link": "fa.html"
+  },
+  {
+    "name": "Комісії фінансування",
+    "link": ".html"
+  },
+  {
+    "name": "Fungibility",
+    "link": "fungibility.html"
+  },
+  {
+    "name": "Futures Contract",
+    "link": "futures-contract.html"
+  },
+  {
+    "name": "GameFi",
+    "link": "gamefi.html"
+  },
+  {
+    "name": "Ganache",
+    "link": "ganache.html"
+  },
+  {
+    "name": "газ",
+    "link": ".html"
+  },
+  {
+    "name": "комісія за газ",
+    "link": ".html"
+  },
+  {
+    "name": "ліміт газу",
+    "link": ".html"
+  },
+  {
+    "name": "ціна на газ",
+    "link": ".html"
+  },
+  {
+    "name": "Gas Station Network",
+    "link": "gas-station-network.html"
+  },
+  {
+    "name": "GBP",
+    "link": "gbp.html"
+  },
+  {
+    "name": "Дефлятор ВВП",
+    "link": ".html"
+  },
+  {
+    "name": "General Public License",
+    "link": "general-public-license.html"
+  },
+  {
+    "name": "генезис-блок",
+    "link": ".html"
+  },
+  {
+    "name": "Gitcoin",
+    "link": "gitcoin.html"
+  },
+  {
+    "name": "GitHub",
+    "link": "github.html"
+  },
+  {
+    "name": "GM (Good morning)",
+    "link": "gm-good-morning.html"
+  },
+  {
+    "name": "Goerli",
+    "link": "goerli.html"
+  },
+  {
+    "name": "Golden Cross",
+    "link": "golden-cross.html"
+  },
+  {
+    "name": "Золотий перетин",
+    "link": ".html"
+  },
+  {
+    "name": "Золотоволоска",
+    "link": ".html"
+  },
+  {
+    "name": "Gossip Protocol",
+    "link": "gossip-protocol.html"
+  },
+  {
+    "name": "управління",
+    "link": ".html"
+  },
+  {
+    "name": "Валовий внутрішній продукт (ВВП)",
+    "link": ".html"
+  },
+  {
+    "name": "GSN",
+    "link": "gsn.html"
+  },
+  {
+    "name": "гвей",
+    "link": ".html"
+  },
+  {
+    "name": "Hackathon",
+    "link": "hackathon.html"
+  },
+  {
+    "name": "Hacker",
+    "link": "hacker.html"
+  },
+  {
+    "name": "Haha Money Printer Go Brrrrr",
+    "link": "haha-money-printer-go-brrrrr.html"
+  },
+  {
+    "name": "халвінг",
+    "link": ".html"
+  },
+  {
+    "name": "Hard Cap",
+    "link": "hard-cap.html"
+  },
+  {
+    "name": "хард-форк",
+    "link": ".html"
+  },
+  {
+    "name": "Жорстка посадка",
+    "link": ".html"
+  },
+  {
+    "name": "апаратний гаманець",
+    "link": ".html"
+  },
+  {
+    "name": "Harmony",
+    "link": "harmony.html"
+  },
+  {
+    "name": "хеш",
+    "link": ".html"
+  },
+  {
+    "name": "Hash Rate",
+    "link": "hash-rate.html"
+  },
+  {
+    "name": "Hashed TimeLock Contract (HTLC)",
+    "link": "hashed-timelock-contract-htlc.html"
+  },
+  {
+    "name": "Ієрархічний детермінований (HD) гаманець",
+    "link": "hd.html"
+  },
+  {
+    "name": "Поведінка натовпу",
+    "link": ".html"
+  },
+  {
+    "name": "on altılı veri",
+    "link": "on-altl-veri.html"
+  },
+  {
+    "name": "High-Frequency Trading (HFT)",
+    "link": "highfrequency-trading-hft.html"
+  },
+  {
+    "name": "HODL",
+    "link": "hodl.html"
+  },
+  {
+    "name": "Honeypot",
+    "link": "honeypot.html"
+  },
+  {
+    "name": "гаряче сховище",
+    "link": ".html"
+  },
+  {
+    "name": "гарячий гаманець",
+    "link": ".html"
+  },
+  {
+    "name": "гібридна мережа",
+    "link": ".html"
+  },
+  {
+    "name": "Hyperledger",
+    "link": "hyperledger.html"
+  },
+  {
+    "name": "IBC",
+    "link": "ibc.html"
+  },
+  {
+    "name": "Iceberg Order",
+    "link": "iceberg-order.html"
+  },
+  {
+    "name": "ICO",
+    "link": "ico.html"
+  },
+  {
+    "name": "ID",
+    "link": "id.html"
+  },
+  {
+    "name": "незмінність",
+    "link": ".html"
+  },
+  {
+    "name": "Індексні фонди",
+    "link": ".html"
+  },
+  {
+    "name": "Infura",
+    "link": "infura.html"
+  },
+  {
+    "name": "Initial Coin Offering (ICO)",
+    "link": "initial-coin-offering-ico.html"
+  },
+  {
+    "name": "Первинна пропозиція DEX (IDO)",
+    "link": "dex-ido.html"
+  },
+  {
+    "name": "Initial Exchange Offering (IEO)",
+    "link": "initial-exchange-offering-ieo.html"
+  },
+  {
+    "name": "Initial Public Offering (IPO)",
+    "link": "initial-public-offering-ipo.html"
+  },
+  {
+    "name": "Напис",
+    "link": ".html"
+  },
+  {
+    "name": "інсайдерська торгівля",
+    "link": ".html"
+  },
+  {
+    "name": "Integrated Circuit (IC)",
+    "link": "integrated-circuit-ic.html"
+  },
+  {
+    "name": "Відсоткові ставки",
+    "link": ".html"
+  },
+  {
+    "name": "внутрішня транзакція",
+    "link": ".html"
+  },
+  {
+    "name": "інтероперабельність",
+    "link": ".html"
+  },
+  {
+    "name": "Міжпланетна файлова система (IPFS)",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "InterPlanetary File System (IPFS)",
+    "link": "interplanetary-file-system-ipfs.html"
+  },
+  {
+    "name": "IOU",
+    "link": "iou.html"
+  },
+  {
+    "name": "IP-адреса",
+    "link": "ip.html"
+  },
+  {
+    "name": "IPFS",
+    "link": "ipfs.html"
+  },
+  {
+    "name": "IPO",
+    "link": "ipo.html"
+  },
+  {
+    "name": "Isolated Margin",
+    "link": "isolated-margin.html"
+  },
+  {
+    "name": "Issuance",
+    "link": "issuance.html"
+  },
+  {
+    "name": "Файл JSON",
+    "link": "json.html"
+  },
+  {
+    "name": "JSON-RPC",
+    "link": "jsonrpc.html"
+  },
+  {
+    "name": "Keccak",
+    "link": "keccak.html"
+  },
+  {
+    "name": "файл сховища ключів",
+    "link": ".html"
+  },
+  {
+    "name": "Знай свого клієнта",
+    "link": ".html"
+  },
+  {
+    "name": "Знай свою транзакцію",
+    "link": ".html"
+  },
+  {
+    "name": "Kovan",
+    "link": "kovan.html"
+  },
+  {
+    "name": "KYC",
+    "link": "kyc.html"
+  },
+  {
+    "name": "KYT",
+    "link": "kyt.html"
+  },
+  {
+    "name": "Індекс цін Ласпейреса",
+    "link": ".html"
+  },
+  {
+    "name": "Latency",
+    "link": "latency.html"
+  },
+  {
+    "name": "Lattice1",
+    "link": "lattice1.html"
+  },
+  {
+    "name": "Панель запуску",
+    "link": ".html"
+  },
+  {
+    "name": "Law of Demand",
+    "link": "law-of-demand.html"
+  },
+  {
+    "name": "рівень 1",
+    "link": "1.html"
+  },
+  {
+    "name": "рівень 2",
+    "link": "2.html"
+  },
+  {
+    "name": "Ledger",
+    "link": "ledger.html"
+  },
+  {
+    "name": "Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Додаток Ledger Live",
+    "link": "ledger-live.html"
+  },
+  {
+    "name": "Leveraged Tokens",
+    "link": "leveraged-tokens.html"
+  },
+  {
+    "name": "бібліотека",
+    "link": ".html"
+  },
+  {
+    "name": "Lido",
+    "link": "lido.html"
+  },
+  {
+    "name": "легкий клієнт",
+    "link": ".html"
+  },
+  {
+    "name": "Lightning Network",
+    "link": "lightning-network.html"
+  },
+  {
+    "name": "Лімітний ордер",
+    "link": ".html"
+  },
+  {
+    "name": "Linea",
+    "link": "linea.html"
+  },
+  {
+    "name": "Linux",
+    "link": "linux.html"
+  },
+  {
+    "name": "Ліквідний стейкінг",
+    "link": ".html"
+  },
+  {
+    "name": "Токен ліквідного стейкінгу (LST)",
+    "link": "lst.html"
+  },
+  {
+    "name": "ліквідація",
+    "link": ".html"
+  },
+  {
+    "name": "ліквідність",
+    "link": ".html"
+  },
+  {
+    "name": "Криза ліквідності",
+    "link": ".html"
+  },
+  {
+    "name": "пул ліквідності",
+    "link": ".html"
+  },
+  {
+    "name": "Постачальник ліквідності",
+    "link": ".html"
+  },
+  {
+    "name": "Коефіцієнти ліквідності",
+    "link": ".html"
+  },
+  {
+    "name": "ліквідний стекінг",
+    "link": ".html"
+  },
+  {
+    "name": "Listing",
+    "link": "listing.html"
+  },
+  {
+    "name": "основна мережа",
+    "link": ".html"
+  },
+  {
+    "name": "Mainnet Swap",
+    "link": "mainnet-swap.html"
+  },
+  {
+    "name": "Maker",
+    "link": "maker.html"
+  },
+  {
+    "name": "Протокол Maker",
+    "link": "maker.html"
+  },
+  {
+    "name": "шкідливе програмне забезпечення",
+    "link": ".html"
+  },
+  {
+    "name": "Margin Trading",
+    "link": "margin-trading.html"
+  },
+  {
+    "name": "ринкова капіталізація",
+    "link": ".html"
+  },
+  {
+    "name": "Ринкова капіталізація",
+    "link": ".html"
+  },
+  {
+    "name": "Market Momentum",
+    "link": "market-momentum.html"
+  },
+  {
+    "name": "Маркет ордер",
+    "link": ".html"
+  },
+  {
+    "name": "Masternode",
+    "link": "masternode.html"
+  },
+  {
+    "name": "Метчинговий двигун",
+    "link": ".html"
+  },
+  {
+    "name": "MATIC",
+    "link": "matic.html"
+  },
+  {
+    "name": "Maximum Supply",
+    "link": "maximum-supply.html"
+  },
+  {
+    "name": "пул пам'яті",
+    "link": ".html"
+  },
+  {
+    "name": "мемпул",
+    "link": ".html"
+  },
+  {
+    "name": "Mercuryo",
+    "link": "mercuryo.html"
+  },
+  {
+    "name": "Злиття",
+    "link": ".html"
+  },
+  {
+    "name": "Merged Mining",
+    "link": "merged-mining.html"
+  },
+  {
+    "name": "Merkle Patricia trie",
+    "link": "merkle-patricia-trie.html"
+  },
+  {
+    "name": "Дерево Меркла",
+    "link": ".html"
+  },
+  {
+    "name": "Mesh",
+    "link": "mesh.html"
+  },
+  {
+    "name": "метадані",
+    "link": ".html"
+  },
+  {
+    "name": "MetaMask",
+    "link": "metamask.html"
+  },
+  {
+    "name": "MetaMask Flask",
+    "link": "metamask-flask.html"
+  },
+  {
+    "name": "MetaMask Institutional",
+    "link": "metamask-institutional.html"
+  },
+  {
+    "name": "MetaMask Learn",
+    "link": "metamask-learn.html"
+  },
+  {
+    "name": "MetaMask Swaps",
+    "link": "metamask-swaps.html"
+  },
+  {
+    "name": "метавсесвіт",
+    "link": ".html"
+  },
+  {
+    "name": "Максимальна вилучена цінність",
+    "link": ".html"
+  },
+  {
+    "name": "MFA",
+    "link": "mfa.html"
+  },
+  {
+    "name": "Мікротранзакції",
+    "link": ".html"
+  },
+  {
+    "name": "майнер",
+    "link": ".html"
+  },
+  {
+    "name": "чайові майнеру",
+    "link": ".html"
+  },
+  {
+    "name": "майнінг",
+    "link": ".html"
+  },
+  {
+    "name": "Mining Farm",
+    "link": "mining-farm.html"
+  },
+  {
+    "name": "мінт",
+    "link": ".html"
+  },
+  {
+    "name": "мнемонічна фраза",
+    "link": ".html"
+  },
+  {
+    "name": "MobiKwik",
+    "link": "mobikwik.html"
+  },
+  {
+    "name": "модульний блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "Монетарна політика",
+    "link": ".html"
+  },
+  {
+    "name": "Грошові ринки",
+    "link": ".html"
+  },
+  {
+    "name": "Тег &quot;Моніторинг&quot;",
+    "link": "quotquot.html"
+  },
+  {
+    "name": "Moon",
+    "link": "moon.html"
+  },
+  {
+    "name": "MoonPay",
+    "link": "moonpay.html"
+  },
+  {
+    "name": "3. Конверти ковзної середньої",
+    "link": "3.html"
+  },
+  {
+    "name": "Стрічка ковзної середньої",
+    "link": ".html"
+  },
+  {
+    "name": "Mt. Gox",
+    "link": "mt-gox.html"
+  },
+  {
+    "name": "мультипідпис",
+    "link": ".html"
+  },
+  {
+    "name": "гаманець з мультипідписом (multisig)",
+    "link": "multisig.html"
+  },
+  {
+    "name": "Multisignature",
+    "link": "multisignature.html"
+  },
+  {
+    "name": "Nakamoto Consensus",
+    "link": "nakamoto-consensus.html"
+  },
+  {
+    "name": "вкладений блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "Чиста вартість активів (NAV)",
+    "link": "nav.html"
+  },
+  {
+    "name": "мережа",
+    "link": ".html"
+  },
+  {
+    "name": "перевантаження мережі",
+    "link": ".html"
+  },
+  {
+    "name": "Комунікація ближнього поля",
+    "link": ".html"
+  },
+  {
+    "name": "NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT-агрегатор",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT-дроп",
+    "link": "nft.html"
+  },
+  {
+    "name": "Мінімальні ціни на NFT",
+    "link": "nft.html"
+  },
+  {
+    "name": "NFT Mystery Boxes",
+    "link": "nft-mystery-boxes.html"
+  },
+  {
+    "name": "NGMI",
+    "link": "ngmi.html"
+  },
+  {
+    "name": "Ngrave",
+    "link": "ngrave.html"
+  },
+  {
+    "name": "вузол",
+    "link": ".html"
+  },
+  {
+    "name": "невзаємозамінний токен",
+    "link": ".html"
+  },
+  {
+    "name": "Невзаємозамінні токени (NFT)",
+    "link": "nft.html"
+  },
+  {
+    "name": "одноразовий номер",
+    "link": ".html"
+  },
+  {
+    "name": "OCO Order",
+    "link": "oco-order.html"
+  },
+  {
+    "name": "офчейн-транзакція",
+    "link": ".html"
+  },
+  {
+    "name": "оф-ремп",
+    "link": ".html"
+  },
+  {
+    "name": "Offline Signing Orchestrator (OSO)",
+    "link": "offline-signing-orchestrator-oso.html"
+  },
+  {
+    "name": "Offshore account",
+    "link": "offshore-account.html"
+  },
+  {
+    "name": "оммер-блок",
+    "link": ".html"
+  },
+  {
+    "name": "ончейн-транзакція",
+    "link": ".html"
+  },
+  {
+    "name": "он-ремп",
+    "link": ".html"
+  },
+  {
+    "name": "ONE",
+    "link": "one.html"
+  },
+  {
+    "name": "opBNB",
+    "link": "opbnb.html"
+  },
+  {
+    "name": "Open-Source Software (OSS)",
+    "link": "opensource-software-oss.html"
+  },
+  {
+    "name": "OpenSea",
+    "link": "opensea.html"
+  },
+  {
+    "name": "Opera",
+    "link": "opera.html"
+  },
+  {
+    "name": "Альтернативна вартість",
+    "link": ".html"
+  },
+  {
+    "name": "Optimism",
+    "link": "optimism.html"
+  },
+  {
+    "name": "оптимістичний роллап",
+    "link": ".html"
+  },
+  {
+    "name": "Oracle",
+    "link": "oracle.html"
+  },
+  {
+    "name": "Токени ORC-20",
+    "link": "orc20.html"
+  },
+  {
+    "name": "Книга ордерів",
+    "link": ".html"
+  },
+  {
+    "name": "Ordinals",
+    "link": "ordinals.html"
+  },
+  {
+    "name": "Orphan Block",
+    "link": "orphan-block.html"
+  },
+  {
+    "name": "P2P",
+    "link": "p2p.html"
+  },
+  {
+    "name": "PALM",
+    "link": "palm.html"
+  },
+  {
+    "name": "PancakeSwap",
+    "link": "pancakeswap.html"
+  },
+  {
+    "name": "Paper Wallet",
+    "link": "paper-wallet.html"
+  },
+  {
+    "name": "Розпаралелювання",
+    "link": ".html"
+  },
+  {
+    "name": "ParaSwap",
+    "link": "paraswap.html"
+  },
+  {
+    "name": "паритет",
+    "link": ".html"
+  },
+  {
+    "name": "Passive Management",
+    "link": "passive-management.html"
+  },
+  {
+    "name": "Парольна фраза",
+    "link": ".html"
+  },
+  {
+    "name": "Пароль",
+    "link": ".html"
+  },
+  {
+    "name": "менеджер паролів",
+    "link": ".html"
+  },
+  {
+    "name": "PayPal",
+    "link": "paypal.html"
+  },
+  {
+    "name": "oднорангова мережа",
+    "link": "o.html"
+  },
+  {
+    "name": "Прив'язана валюта",
+    "link": ".html"
+  },
+  {
+    "name": "дозволений реєстр",
+    "link": ".html"
+  },
+  {
+    "name": "Інклюзивний блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "фішинг",
+    "link": ".html"
+  },
+  {
+    "name": "PKI",
+    "link": "pki.html"
+  },
+  {
+    "name": "Plasma",
+    "link": "plasma.html"
+  },
+  {
+    "name": "Підтвердження повноважень",
+    "link": ".html"
+  },
+  {
+    "name": "Polkadot Crowdloan",
+    "link": "polkadot-crowdloan.html"
+  },
+  {
+    "name": "Polygon",
+    "link": "polygon.html"
+  },
+  {
+    "name": "Ponzi Scheme",
+    "link": "ponzi-scheme.html"
+  },
+  {
+    "name": "PoS",
+    "link": "pos.html"
+  },
+  {
+    "name": "PoW",
+    "link": "pow.html"
+  },
+  {
+    "name": "Премайнінг",
+    "link": ".html"
+  },
+  {
+    "name": "Price Action",
+    "link": "price-action.html"
+  },
+  {
+    "name": "Prisoner's Dilemma",
+    "link": "prisoners-dilemma.html"
+  },
+  {
+    "name": "приватний блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "приватна валюта",
+    "link": ".html"
+  },
+  {
+    "name": "закритий ключ",
+    "link": ".html"
+  },
+  {
+    "name": "Private Sale",
+    "link": "private-sale.html"
+  },
+  {
+    "name": "Progressive Web application (PWA)",
+    "link": "progressive-web-application-pwa.html"
+  },
+  {
+    "name": "Proof of Attendance Protocol (POAP)",
+    "link": "proof-of-attendance-protocol-poap.html"
+  },
+  {
+    "name": "Підтвердження резервів (PoR)",
+    "link": "por.html"
+  },
+  {
+    "name": "Доказ частки володіння",
+    "link": ".html"
+  },
+  {
+    "name": "Proof of Staked Authority (PoSA)",
+    "link": "proof-of-staked-authority-posa.html"
+  },
+  {
+    "name": "Доказ виконання роботи",
+    "link": ".html"
+  },
+  {
+    "name": "Proposer-Builder Separation (PBS)",
+    "link": "proposerbuilder-separation-pbs.html"
+  },
+  {
+    "name": "Протоданкшардинг",
+    "link": ".html"
+  },
+  {
+    "name": "протокол",
+    "link": ".html"
+  },
+  {
+    "name": "Pseudorandom",
+    "link": "pseudorandom.html"
+  },
+  {
+    "name": "публічна адреса",
+    "link": ".html"
+  },
+  {
+    "name": "публічний блокчейн",
+    "link": ".html"
+  },
+  {
+    "name": "відкритий ключ",
+    "link": ".html"
+  },
+  {
+    "name": "криптографія з відкритим ключем",
+    "link": ".html"
+  },
+  {
+    "name": "Памп і дамп",
+    "link": ".html"
+  },
+  {
+    "name": "Код QR",
+    "link": "qr.html"
+  },
+  {
+    "name": "Кількісне пом'якшення (QE)",
+    "link": "qe.html"
+  },
+  {
+    "name": "Кількісне скорочення (QT)",
+    "link": "qt.html"
+  },
+  {
+    "name": "Quantum Computing",
+    "link": "quantum-computing.html"
+  },
+  {
+    "name": "Quorum",
+    "link": "quorum.html"
+  },
+  {
+    "name": "Race attack",
+    "link": "race-attack.html"
+  },
+  {
+    "name": "Ransomware",
+    "link": "ransomware.html"
+  },
+  {
+    "name": "Rarible",
+    "link": "rarible.html"
+  },
+  {
+    "name": "Реальні активи (RWA)",
+    "link": "rwa.html"
+  },
+  {
+    "name": "Рецесія",
+    "link": ".html"
+  },
+  {
+    "name": "Рекурсивний напис",
+    "link": ".html"
+  },
+  {
+    "name": "Rekt",
+    "link": "rekt.html"
+  },
+  {
+    "name": "Relative Strength Index (RSI)",
+    "link": "relative-strength-index-rsi.html"
+  },
+  {
+    "name": "ретранслятор",
+    "link": ".html"
+  },
+  {
+    "name": "Віддалений виклик процедур",
+    "link": ".html"
+  },
+  {
+    "name": "Resistance",
+    "link": "resistance.html"
+  },
+  {
+    "name": "Return on Investment (ROI)",
+    "link": "return-on-investment-roi.html"
+  },
+  {
+    "name": "Реваншистська торгівля",
+    "link": ".html"
+  },
+  {
+    "name": "Rinkeby",
+    "link": "rinkeby.html"
+  },
+  {
+    "name": "Премія за ризик",
+    "link": ".html"
+  },
+  {
+    "name": "дорожня карта",
+    "link": ".html"
+  },
+  {
+    "name": "Rocket Pool",
+    "link": "rocket-pool.html"
+  },
+  {
+    "name": "роллапи",
+    "link": ".html"
+  },
+  {
+    "name": "Ropsten",
+    "link": "ropsten.html"
+  },
+  {
+    "name": "Routing Attack",
+    "link": "routing-attack.html"
+  },
+  {
+    "name": "RPC",
+    "link": "rpc.html"
+  },
+  {
+    "name": "витягування килимка",
+    "link": ".html"
+  },
+  {
+    "name": "Safeheron",
+    "link": "safeheron.html"
+  },
+  {
+    "name": "Правило Сам",
+    "link": ".html"
+  },
+  {
+    "name": "Samsung Pay",
+    "link": "samsung-pay.html"
+  },
+  {
+    "name": "пісочниця",
+    "link": ".html"
+  },
+  {
+    "name": "Сендвіч-торгівля",
+    "link": ".html"
+  },
+  {
+    "name": "Sardine",
+    "link": "sardine.html"
+  },
+  {
+    "name": "Satoshi",
+    "link": "satoshi.html"
+  },
+  {
+    "name": "Сатоші Накамото",
+    "link": ".html"
+  },
+  {
+    "name": "масштабованість",
+    "link": ".html"
+  },
+  {
+    "name": "масштабування",
+    "link": ".html"
+  },
+  {
+    "name": "шахрайство",
+    "link": ".html"
+  },
+  {
+    "name": "Scrypt",
+    "link": "scrypt.html"
+  },
+  {
+    "name": "SDK",
+    "link": "sdk.html"
+  },
+  {
+    "name": "пошукова система",
+    "link": ".html"
+  },
+  {
+    "name": "Секретна фраза відновлення",
+    "link": ".html"
+  },
+  {
+    "name": "Фонд захисту активів користувачів (SAFU)",
+    "link": "safu.html"
+  },
+  {
+    "name": "Комісія з цінних паперів і бірж",
+    "link": ".html"
+  },
+  {
+    "name": "Security Audit",
+    "link": "security-audit.html"
+  },
+  {
+    "name": "Токен безпеки",
+    "link": ".html"
+  },
+  {
+    "name": "Пропозиція токенів безпеки",
+    "link": ".html"
+  },
+  {
+    "name": "Пропозиція токенізованих цінних паперів (STO)",
+    "link": "sto.html"
+  },
+  {
+    "name": "сід-фраза",
+    "link": ".html"
+  },
+  {
+    "name": "Тег &quot;Seed&quot;",
+    "link": "quotseedquot.html"
+  },
+  {
+    "name": "Segregated Witness (SegWit)",
+    "link": "segregated-witness-segwit.html"
+  },
+  {
+    "name": "самостійне зберігання",
+    "link": ".html"
+  },
+  {
+    "name": "самовиконуваний",
+    "link": ".html"
+  },
+  {
+    "name": "Selfish Mining",
+    "link": "selfish-mining.html"
+  },
+  {
+    "name": "Sell Wall",
+    "link": "sell-wall.html"
+  },
+  {
+    "name": "Sentiment",
+    "link": "sentiment.html"
+  },
+  {
+    "name": "Sepolia",
+    "link": "sepolia.html"
+  },
+  {
+    "name": "Serenity",
+    "link": "serenity.html"
+  },
+  {
+    "name": "серіалізація",
+    "link": ".html"
+  },
+  {
+    "name": "ланцюжок сегментів",
+    "link": ".html"
+  },
+  {
+    "name": "шардування",
+    "link": ".html"
+  },
+  {
+    "name": "Sharpe Ratio",
+    "link": "sharpe-ratio.html"
+  },
+  {
+    "name": "захищена транзакція",
+    "link": ".html"
+  },
+  {
+    "name": "сайдчейн",
+    "link": ".html"
+  },
+  {
+    "name": "Сайдчейни",
+    "link": ".html"
+  },
+  {
+    "name": "Проста ковзна середня (SMA)",
+    "link": "sma.html"
+  },
+  {
+    "name": "Слешинг",
+    "link": ".html"
+  },
+  {
+    "name": "умова скорочення",
+    "link": ".html"
+  },
+  {
+    "name": "прослизання",
+    "link": ".html"
+  },
+  {
+    "name": "слот",
+    "link": ".html"
+  },
+  {
+    "name": "смарт-контракт",
+    "link": ".html"
+  },
+  {
+    "name": "Смартконтрактні гаманці",
+    "link": ".html"
+  },
+  {
+    "name": "Snapshot",
+    "link": "snapshot.html"
+  },
+  {
+    "name": "Гаманець із соціальним відновленням",
+    "link": ".html"
+  },
+  {
+    "name": "Соціальна торгівля",
+    "link": ".html"
+  },
+  {
+    "name": "SocialFi",
+    "link": "socialfi.html"
+  },
+  {
+    "name": "софт-форк",
+    "link": ".html"
+  },
+  {
+    "name": "М'яка посадка",
+    "link": ".html"
+  },
+  {
+    "name": "Solidity",
+    "link": "solidity.html"
+  },
+  {
+    "name": "Source Code",
+    "link": "source-code.html"
+  },
+  {
+    "name": "SPL",
+    "link": "spl.html"
+  },
+  {
+    "name": "Токени SRC-20",
+    "link": "src20.html"
+  },
+  {
+    "name": "стейблкойн",
+    "link": ".html"
+  },
+  {
+    "name": "Стагфляція",
+    "link": ".html"
+  },
+  {
+    "name": "ставка",
+    "link": ".html"
+  },
+  {
+    "name": "стейкинг",
+    "link": ".html"
+  },
+  {
+    "name": "Staking Pool",
+    "link": "staking-pool.html"
+  },
+  {
+    "name": "стан",
+    "link": ".html"
+  },
+  {
+    "name": "State Channel",
+    "link": "state-channel.html"
+  },
+  {
+    "name": "канали стану",
+    "link": ".html"
+  },
+  {
+    "name": "stETH",
+    "link": "steth.html"
+  },
+  {
+    "name": "STO",
+    "link": "sto.html"
+  },
+  {
+    "name": "Змінна запасу",
+    "link": ".html"
+  },
+  {
+    "name": "Store of Value",
+    "link": "store-of-value.html"
+  },
+  {
+    "name": "потокова передача",
+    "link": ".html"
+  },
+  {
+    "name": "Supercomputer",
+    "link": "supercomputer.html"
+  },
+  {
+    "name": "Supply Chain",
+    "link": "supply-chain.html"
+  },
+  {
+    "name": "Support",
+    "link": "support.html"
+  },
+  {
+    "name": "здійснювати свопінг",
+    "link": ".html"
+  },
+  {
+    "name": "Атака Сивілли",
+    "link": ".html"
+  },
+  {
+    "name": "сабо",
+    "link": ".html"
+  },
+  {
+    "name": "Taker",
+    "link": "taker.html"
+  },
+  {
+    "name": "Tank",
+    "link": "tank.html"
+  },
+  {
+    "name": "Teku",
+    "link": "teku.html"
+  },
+  {
+    "name": "Telegram",
+    "link": "telegram.html"
+  },
+  {
+    "name": "тестова мережа",
+    "link": ".html"
+  },
+  {
+    "name": "Kovan Testnet",
+    "link": "kovan-testnet.html"
+  },
+  {
+    "name": "Rinkeby Testnet",
+    "link": "rinkeby-testnet.html"
+  },
+  {
+    "name": "Ropsten Testnet",
+    "link": "ropsten-testnet.html"
+  },
+  {
+    "name": "Ticker",
+    "link": "ticker.html"
+  },
+  {
+    "name": "Символ тікера",
+    "link": ".html"
+  },
+  {
+    "name": "токен",
+    "link": ".html"
+  },
+  {
+    "name": "Подія генерації токенів (TGE)",
+    "link": "tge.html"
+  },
+  {
+    "name": "блокування токенів",
+    "link": ".html"
+  },
+  {
+    "name": "Злиття токенів",
+    "link": ".html"
+  },
+  {
+    "name": "Token Sale",
+    "link": "token-sale.html"
+  },
+  {
+    "name": "стандарт токенів",
+    "link": ".html"
+  },
+  {
+    "name": "Стандарти токенів",
+    "link": ".html"
+  },
+  {
+    "name": "Токенізація",
+    "link": ".html"
+  },
+  {
+    "name": "Токеноміка",
+    "link": ".html"
+  },
+  {
+    "name": "Total Supply",
+    "link": "total-supply.html"
+  },
+  {
+    "name": "Загальна заблокована вартість (TVL)",
+    "link": "tvl.html"
+  },
+  {
+    "name": "TradFi",
+    "link": "tradfi.html"
+  },
+  {
+    "name": "транзакція",
+    "link": ".html"
+  },
+  {
+    "name": "блок транзакцій",
+    "link": ".html"
+  },
+  {
+    "name": "комісія за транзакцію",
+    "link": ".html"
+  },
+  {
+    "name": "ID транзакції",
+    "link": "id.html"
+  },
+  {
+    "name": "пул транзакцій",
+    "link": ".html"
+  },
+  {
+    "name": "Transactions Per Second (TPS)",
+    "link": "transactions-per-second-tps.html"
+  },
+  {
+    "name": "Transak",
+    "link": "transak.html"
+  },
+  {
+    "name": "Казначейські векселі (T-Bills)",
+    "link": "tbills.html"
+  },
+  {
+    "name": "Trezor",
+    "link": "trezor.html"
+  },
+  {
+    "name": "TrueUSD (TUSD)",
+    "link": "trueusd-tusd.html"
+  },
+  {
+    "name": "Truffle",
+    "link": "truffle.html"
+  },
+  {
+    "name": "без доверия",
+    "link": ".html"
+  },
+  {
+    "name": "Повна за Тьюрингом",
+    "link": ".html"
+  },
+  {
+    "name": "Загальна заблокована вартість",
+    "link": ".html"
+  },
+  {
+    "name": "TXID",
+    "link": "txid.html"
+  },
+  {
+    "name": "U2F",
+    "link": "u2f.html"
+  },
+  {
+    "name": "Розуміння четвірки CZ",
+    "link": "cz.html"
+  },
+  {
+    "name": "незашифрований ключ",
+    "link": ".html"
+  },
+  {
+    "name": "Uniswap",
+    "link": "uniswap.html"
+  },
+  {
+    "name": "Unit of Account",
+    "link": "unit-of-account.html"
+  },
+  {
+    "name": "вихід невитрачених транзакцій",
+    "link": ".html"
+  },
+  {
+    "name": "Unspent Transaction Output (UTXO)",
+    "link": "unspent-transaction-output-utxo.html"
+  },
+  {
+    "name": "розблокувати ставку",
+    "link": ".html"
+  },
+  {
+    "name": "оновити",
+    "link": ".html"
+  },
+  {
+    "name": "URL",
+    "link": "url.html"
+  },
+  {
+    "name": "USD",
+    "link": "usd.html"
+  },
+  {
+    "name": "User Interface (UI)",
+    "link": "user-interface-ui.html"
+  },
+  {
+    "name": "Утиліті токен",
+    "link": ".html"
+  },
+  {
+    "name": "UTXO",
+    "link": "utxo.html"
+  },
+  {
+    "name": "валідатор",
+    "link": ".html"
+  },
+  {
+    "name": "підтвердження достовірності",
+    "link": ".html"
+  },
+  {
+    "name": "Verification Code",
+    "link": "verification-code.html"
+  },
+  {
+    "name": "вестинг",
+    "link": ".html"
+  },
+  {
+    "name": "VillageDAO",
+    "link": "villagedao.html"
+  },
+  {
+    "name": "Virtual Machine",
+    "link": "virtual-machine.html"
+  },
+  {
+    "name": "Vladimir Club",
+    "link": "vladimir-club.html"
+  },
+  {
+    "name": "Volatility",
+    "link": "volatility.html"
+  },
+  {
+    "name": "Volume",
+    "link": "volume.html"
+  },
+  {
+    "name": "WAGMI",
+    "link": "wagmi.html"
+  },
+  {
+    "name": "гаманець",
+    "link": ".html"
+  },
+  {
+    "name": "адреса гаманця",
+    "link": ".html"
+  },
+  {
+    "name": "WalletConnect",
+    "link": "walletconnect.html"
+  },
+  {
+    "name": "Вош-торгівля",
+    "link": ".html"
+  },
+  {
+    "name": "Weak Hands",
+    "link": "weak-hands.html"
+  },
+  {
+    "name": "Weak Subjectivity",
+    "link": "weak-subjectivity.html"
+  },
+  {
+    "name": "Web 1.0",
+    "link": "web-10.html"
+  },
+  {
+    "name": "Web 3.0",
+    "link": "web-30.html"
+  },
+  {
+    "name": "web3",
+    "link": "web3.html"
+  },
+  {
+    "name": "WebHID",
+    "link": "webhid.html"
+  },
+  {
+    "name": "вебхук",
+    "link": ".html"
+  },
+  {
+    "name": "WebSocket",
+    "link": "websocket.html"
+  },
+  {
+    "name": "вей",
+    "link": ".html"
+  },
+  {
+    "name": "Зважена ковзна середня (WMA)",
+    "link": "wma.html"
+  },
+  {
+    "name": "Whale",
+    "link": "whale.html"
+  },
+  {
+    "name": "Whiskers",
+    "link": "whiskers.html"
+  },
+  {
+    "name": "Whitelist",
+    "link": "whitelist.html"
+  },
+  {
+    "name": "технічний документ",
+    "link": ".html"
+  },
+  {
+    "name": "Wick",
+    "link": "wick.html"
+  },
+  {
+    "name": "Відсоток виграшів",
+    "link": ".html"
+  },
+  {
+    "name": "Wrapped Ether (WETH)",
+    "link": "wrapped-ether-weth.html"
+  },
+  {
+    "name": "обгортання",
+    "link": ".html"
+  },
+  {
+    "name": "Вайкофф",
+    "link": ".html"
+  },
+  {
+    "name": "Wyre",
+    "link": "wyre.html"
+  },
+  {
+    "name": "Розширений закритий ключ",
+    "link": ".html"
+  },
+  {
+    "name": "Розширений відкритий ключ",
+    "link": ".html"
+  },
+  {
+    "name": "прибуткові токени",
+    "link": ".html"
+  },
+  {
+    "name": "прибуткове фермерство",
+    "link": ".html"
+  },
+  {
+    "name": "нульова адреса",
+    "link": ".html"
+  },
+  {
+    "name": "доведення з нульовим розголошенням",
+    "link": ".html"
+  },
+  {
+    "name": "Доведення з нульовим розголошенням",
+    "link": ".html"
+  },
+  {
+    "name": "роллап з нульовим розголошенням",
+    "link": ".html"
+  },
+  {
+    "name": "Zk-ролап",
+    "link": "zk.html"
+  },
+  {
+    "name": "zk-SNARKs",
+    "link": "zksnarks.html"
+  },
+  {
+    "name": "zk-STARK",
+    "link": "zkstark.html"
+  }
+]
