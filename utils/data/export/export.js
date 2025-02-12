@@ -5,7 +5,7 @@ import fs from 'fs';
 import path from 'path';
 import { parse } from 'json2csv';
 
-const localesDir = path.join(process.cwd(), './../../../locales');
+const localesDir = path.join(process.cwd(), './locales');
 const outputFilePath = path.join(process.cwd(), 'glossary.csv');
 
 let allRows = [];
