@@ -1,3 +1,6 @@
+// This script is meant to import new terms and apply them to their respective locale-specific .json files.
+// It currently ingests .json-formatted docs only. It would be nice to have it ingest .CSV, as well.
+
 import fs from 'fs';
 import path from 'path';
 
