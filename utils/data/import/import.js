@@ -1,42 +1,35 @@
 // This script is meant to import new terms and apply them to their respective locale-specific .json files.
-// It currently ingests .json-formatted docs only. It would be nice to have it ingest .CSV, as well.
 
 import fs from 'fs';
 import path from 'path';
+import { parse } from 'csv-parse/sync';
 
-const localesDir = path.resolve('../../../locales');
-const binanceDir = path.resolve('./ecosystem');
-const outputDir = localesDir; // Save the merged files in the same directory
+const localesDir = path.resolve('./locales');
+const importDir = path.resolve('./utils/data/import');
 const reportDir = path.resolve('./reports');
+const csvFilePath = path.join(importDir, 'import.csv');
 
 if (!fs.existsSync(reportDir)) {
     fs.mkdirSync(reportDir, { recursive: true });
 }
 
-const localeFiles = fs.readdirSync(binanceDir).filter(file => file.endsWith('.json'));
-
-localeFiles.forEach(file => {
-    const localeCode = file.replace('binance_glossary_', '').replace('.json', '');
-    const binanceFilePath = path.join(binanceDir, file);
-    const glossaryFilePath = path.join(localesDir, localeCode, `${localeCode}.json`);
-    const outputFilePath = glossaryFilePath;
-    const reportFilePath = path.join(reportDir, `merge_report_${localeCode}.txt`);
-
+// Function to process and merge data
+const processImport = (locale, newTerms) => {
+    const glossaryFilePath = path.join(localesDir, locale, `${locale}.json`);
+    const reportFilePath = path.join(reportDir, `merge_report_${locale}.txt`);
+    
     if (!fs.existsSync(glossaryFilePath)) {
-        console.warn(`Canonical glossary file for ${localeCode} not found, skipping.`);
+        console.warn(`Skipping ${locale}: No glossary file found.`);
         return;
     }
 
-    const binanceData = JSON.parse(fs.readFileSync(binanceFilePath, 'utf-8'));
     const glossaryData = JSON.parse(fs.readFileSync(glossaryFilePath, 'utf-8'));
-
-    const binanceTerms = binanceData.terms;
-    const glossaryTerms = glossaryData.terms;
-
+    const glossaryTerms = glossaryData.terms || {};
+    
     let addedTerms = [];
     let skippedTerms = [];
-
-    for (const [key, newEntry] of Object.entries(binanceTerms)) {
+    
+    for (const [key, newEntry] of Object.entries(newTerms)) {
         if (glossaryTerms[key]) {
             const existingEntry = glossaryTerms[key];
             for (const subKey of Object.keys(newEntry)) {
@@ -50,19 +43,53 @@ localeFiles.forEach(file => {
             addedTerms.push(key);
         }
     }
-
-    const sortedGlossaryTerms = Object.keys(glossaryTerms).sort().reduce((acc, key) => {
+    
+    glossaryData.terms = Object.keys(glossaryTerms).sort().reduce((acc, key) => {
         acc[key] = glossaryTerms[key];
         return acc;
     }, {});
-
-    glossaryData.terms = sortedGlossaryTerms;
-    fs.writeFileSync(outputFilePath, JSON.stringify(glossaryData, null, 2));
-
+    
+    fs.writeFileSync(glossaryFilePath, JSON.stringify(glossaryData, null, 2));
+    
     const reportContent = `Terms already existed and were skipped (${skippedTerms.length}):\n${skippedTerms.join(", ")}\n\n` +
                            `Terms added (${addedTerms.length}):\n${addedTerms.join(", ")}`;
     fs.writeFileSync(reportFilePath, reportContent);
+    
+    console.log(`Import complete for ${locale}. Glossary updated.`);
+};
 
-    console.log(`Merge complete for ${localeCode}. Updated glossary saved to ${outputFilePath}`);
-    console.log(`Report generated at ${reportFilePath}`);
+// Process JSON imports
+const jsonFiles = fs.readdirSync(importDir).filter(file => file.startsWith('import-') && file.endsWith('.json'));
+jsonFiles.forEach(file => {
+    const locale = file.replace('import-', '').replace('.json', '');
+    const filePath = path.join(importDir, file);
+    try {
+        const jsonData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+        processImport(locale, jsonData.terms);
+    } catch (error) {
+        console.error(`Error processing ${file}:`, error);
+    }
 });
+
+// Process CSV import
+if (fs.existsSync(csvFilePath)) {
+    try {
+        const csvData = fs.readFileSync(csvFilePath, 'utf-8');
+        const records = parse(csvData, { columns: true, skip_empty_lines: true });
+        const localeData = {};
+        
+        records.forEach(row => {
+            const locale = row.locale;
+            const key = row.key;
+            delete row.locale;
+            delete row.key;
+            
+            if (!localeData[locale]) localeData[locale] = {};
+            localeData[locale][key] = row;
+        });
+        
+        Object.entries(localeData).forEach(([locale, terms]) => processImport(locale, terms));
+    } catch (error) {
+        console.error('Error processing CSV import:', error);
+    }
+}

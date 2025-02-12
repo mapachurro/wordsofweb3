@@ -13,6 +13,19 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
+    "0xplain": {
+      "term": "0xplain",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "1inch": {
       "term": "1inch",
       "partOfSpeech": "",
@@ -1001,45 +1014,6 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "crypto-bounties": {
-      "term": "lada gano kurakurai na kudin dijital",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "crypto-fund": {
-      "term": "asusun kudin dijital",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "crypto-wallet": {
-      "term": "walat kudin dijital",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
     "crypto-": {
       "term": "na kudin dijital",
       "partOfSpeech": "",
@@ -1066,8 +1040,47 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
+    "crypto-bounties": {
+      "term": "lada gano kurakurai na kudin dijital",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "crypto-compliance": {
       "term": "bin daidaita da ƙa'idodin kudin dijital",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "crypto-fund": {
+      "term": "asusun kudin dijital",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "crypto-wallet": {
+      "term": "walat kudin dijital",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5187,8 +5200,8 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "yield-farming": {
-      "term": "hanyar samun riba a kan crypto",
+    "yield-bearing-tokens": {
+      "term": "alamun da ke samar da riba",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5200,8 +5213,8 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "yield-bearing-tokens": {
-      "term": "alamun da ke samar da riba",
+    "yield-farming": {
+      "term": "hanyar samun riba a kan crypto",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5254,19 +5267,6 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "0xplain": {
-      "term": "0xplain",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",

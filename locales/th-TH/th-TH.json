@@ -13,6 +13,19 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
+    "0xplain": {
+      "term": "0xplain",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "1inch": {
       "term": "1inch",
       "partOfSpeech": "",
@@ -1001,45 +1014,6 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "crypto-bounties": {
-      "term": "รางวัลคริปโต",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "crypto-fund": {
-      "term": "กองทุนคริปโต",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "crypto-wallet": {
-      "term": "วอลเล็ตคริปโต",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
     "crypto-": {
       "term": "คริปโต",
       "partOfSpeech": "",
@@ -1066,8 +1040,47 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
+    "crypto-bounties": {
+      "term": "รางวัลคริปโต",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "crypto-compliance": {
       "term": "การปฏิบัติตามกฎระเบียบคริปโต",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "crypto-fund": {
+      "term": "กองทุนคริปโต",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "crypto-wallet": {
+      "term": "วอลเล็ตคริปโต",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5187,8 +5200,8 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "yield-farming": {
-      "term": "การทำฟาร์ม",
+    "yield-bearing-tokens": {
+      "term": "โทเคนรับผลประโยชน์จากการฟาร์ม",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5200,8 +5213,8 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "yield-bearing-tokens": {
-      "term": "โทเคนรับผลประโยชน์จากการฟาร์ม",
+    "yield-farming": {
+      "term": "การทำฟาร์ม",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5254,19 +5267,6 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "0xplain": {
-      "term": "0xplain",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",

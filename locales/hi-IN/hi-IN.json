@@ -13,6 +13,19 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
+    "0xplain": {
+      "term": "0xplain",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "1inch": {
       "term": "1inch",
       "partOfSpeech": "",
@@ -1001,45 +1014,6 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "crypto-bounties": {
-      "term": "क्रिप्टो बाउन्टीज़",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "crypto-fund": {
-      "term": "क्रिप्टो फंड",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "crypto-wallet": {
-      "term": "क्रिप्टो वॉलेट",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
     "crypto-": {
       "term": "क्रिप्टो-",
       "partOfSpeech": "",
@@ -1066,8 +1040,47 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
+    "crypto-bounties": {
+      "term": "क्रिप्टो बाउन्टीज़",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
     "crypto-compliance": {
       "term": "क्रिप्टो-कंप्लायंस",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "crypto-fund": {
+      "term": "क्रिप्टो फंड",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "",
+      "definitionSource": "",
+      "sampleSentence": "",
+      "extended": "",
+      "termSource": "",
+      "dateFirstRecorded": "",
+      "commentary": ""
+    },
+    "crypto-wallet": {
+      "term": "क्रिप्टो वॉलेट",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5187,8 +5200,8 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "yield-farming": {
-      "term": "यील्ड फार्मिंग",
+    "yield-bearing-tokens": {
+      "term": "यील्ड-बियरिंग टोकन्स",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5200,8 +5213,8 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "yield-bearing-tokens": {
-      "term": "यील्ड-बियरिंग टोकन्स",
+    "yield-farming": {
+      "term": "यील्ड फार्मिंग",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5254,19 +5267,6 @@
     },
     "zk-snarks": {
       "term": "zk-SNARKs",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "",
-      "definitionSource": "",
-      "sampleSentence": "",
-      "extended": "",
-      "termSource": "",
-      "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "0xplain": {
-      "term": "0xplain",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
