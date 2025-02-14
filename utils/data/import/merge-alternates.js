@@ -5,54 +5,74 @@ const localesDir = path.resolve('../../../locales');
 const binanceDir = path.resolve('./ecosystem');
 const reportDir = path.resolve('./reports');
 
+if (!fs.existsSync(reportDir)) {
+    fs.mkdirSync(reportDir, { recursive: true });
+}
+
 const localeFiles = fs.readdirSync(binanceDir).filter(file => file.endsWith('.json'));
-const reportFiles = fs.readdirSync(reportDir).filter(file => file.startsWith('merge_report_') && file.endsWith('.txt'));
 
-reportFiles.forEach(reportFile => {
-    const localeCode = reportFile.replace('merge_report_', '').replace('.txt', '');
-    const reportFilePath = path.join(reportDir, reportFile);
+localeFiles.forEach(file => {
+    const localeCode = file.replace('binance_glossary_', '').replace('.json', '');
+    const binanceFilePath = path.join(binanceDir, file);
     const glossaryFilePath = path.join(localesDir, localeCode, `${localeCode}.json`);
-    const binanceFilePath = path.join(binanceDir, `binance_glossary_${localeCode}.json`);
+    const reportFilePath = path.join(reportDir, `merge_report_${localeCode}.txt`);
 
-    if (!fs.existsSync(glossaryFilePath) || !fs.existsSync(binanceFilePath)) {
-        console.warn(`Glossary or Binance file for ${localeCode} not found, skipping.`);
+    if (!fs.existsSync(glossaryFilePath)) {
+        console.warn(`Canonical glossary file for ${localeCode} not found, skipping.`);
         return;
     }
 
-    const glossaryData = JSON.parse(fs.readFileSync(glossaryFilePath, 'utf-8'));
     const binanceData = JSON.parse(fs.readFileSync(binanceFilePath, 'utf-8'));
+    const glossaryData = JSON.parse(fs.readFileSync(glossaryFilePath, 'utf-8'));
 
-    const glossaryTerms = glossaryData.terms;
     const binanceTerms = binanceData.terms;
+    const glossaryTerms = glossaryData.terms;
 
-    const reportContent = fs.readFileSync(reportFilePath, 'utf-8');
-    const skippedTerms = reportContent.match(/^[a-z0-9-]+/gm) || []; // Extract terms from report
+    let addedTerms = [];
+    let skippedTerms = [];
+    let alternateAdded = [];
 
-    let updated = false;
+    for (const [key, newEntry] of Object.entries(binanceTerms)) {
+        if (glossaryTerms[key]) {
+            const existingEntry = glossaryTerms[key];
 
-    skippedTerms.forEach(termKey => {
-        if (glossaryTerms[termKey] && binanceTerms[termKey]) {
-            const binanceDefinition = binanceTerms[termKey].definition || "";
-
-            if (!binanceDefinition.trim()) return;
-
-            if (!Array.isArray(glossaryTerms[termKey].alternate)) {
-                glossaryTerms[termKey].alternate = [];
+            // If the Binance definition is the same as the existing one, skip it
+            if (existingEntry.definition && existingEntry.definition.trim() === newEntry.definition.trim()) {
+                skippedTerms.push(key);
+                continue;
             }
 
-            // Avoid duplicate alternate definitions
-            if (!glossaryTerms[termKey].alternate.some(alt => alt.definition === binanceDefinition)) {
-                glossaryTerms[termKey].alternate.push({
-                    definition: binanceDefinition,
+            // If the Binance definition is different, add to alternate definitions
+            if (newEntry.definition && (!existingEntry.alternate || !existingEntry.alternate.some(alt => alt.definition === newEntry.definition))) {
+                if (!Array.isArray(existingEntry.alternate)) {
+                    existingEntry.alternate = [];
+                }
+
+                existingEntry.alternate.push({
+                    definition: newEntry.definition,
                     source: "Binance Glossary"
                 });
-                updated = true;
-            }
-        }
-    });
 
-    if (updated) {
-        fs.writeFileSync(glossaryFilePath, JSON.stringify(glossaryData, null, 2));
-        console.log(`Updated alternate definitions for ${localeCode} in ${glossaryFilePath}`);
+                alternateAdded.push(key);
+            }
+        } else {
+            glossaryTerms[key] = newEntry;
+            addedTerms.push(key);
+        }
     }
+
+    // Write the updated glossary JSON back
+    fs.writeFileSync(glossaryFilePath, JSON.stringify(glossaryData, null, 2));
+
+    // Generate a new report
+    const reportContent = 
+        `Terms skipped (definitions were identical) (${skippedTerms.length}):\n${skippedTerms.join(", ")}\n\n` +
+        `Terms added to 'alternate' (${alternateAdded.length}):\n${alternateAdded.join(", ")}\n\n` +
+        `New terms added (${addedTerms.length}):\n${addedTerms.join(", ")}`;
+
+    fs.writeFileSync(reportFilePath, reportContent);
+
+    console.log(`Merge complete for ${localeCode}.`);
+    console.log(`Updated glossary saved to ${glossaryFilePath}`);
+    console.log(`Report generated at ${reportFilePath}`);
 });
