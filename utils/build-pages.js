@@ -91,8 +91,20 @@ export default async function buildPages() {
           termData.partOfSpeech || "Grammatical data not yet available";
         const definitionValue =
           termData.definition || "Definition not available.";
-        const alternateDef =
-          termData.alternate || "Have another definition for this? Submit it!";
+        const alternateDefsArray =
+          Array.isArray(termData.alternate) && termData.alternate.length
+            ? termData.alternate
+            : null;
+
+        const alternateDef = alternateDefsArray
+          ? alternateDefsArray
+              .map(
+                (alt) =>
+                  `<p><strong>Alternate:</strong> ${alt.definition} <em>(${alt.source})</em></p>`,
+              )
+              .join("")
+          : "<p>No alternate definitions found. Have another? Submit it!</p>";
+
         const termCategoryValue = termData.termCategory || "To be determined";
         const definitionSource = termData.definitionSource || "N/A";
         const sampleSentence = termData.sampleSentence || "N/A";

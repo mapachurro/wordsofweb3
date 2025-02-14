@@ -1,23 +1,30 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{locale}}">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href="../assets/favicon.ico">
-  <link rel="stylesheet" href="../assets/css/bootstrap/bootstrap.css">
-  <link rel="stylesheet" href="../assets/css/bootstrap/custom.css">
-  <link rel="stylesheet" href="../assets/css/styles.css">
-  <title>wordsofweb3 - {{title}}</title>
-  <script type="module" src="../js/entry-page.js" defer></script>
-</head>
-<body>
-  <header id="navbar-container" class="mb-5">
-    <nav class="navbar navbar-expand-lg navbar-dark">
-      <a class="navbar-brand" href="index.html" id="logo-link">
-        <img src="../assets/education-dao-circle.png" alt="Logo" class="logo-image" />
-        wordsofweb3
-      </a>
-        <select id="language-selector" class="form-select ml-auto language-selector">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="../assets/favicon.ico" />
+    <link rel="stylesheet" href="../assets/css/bootstrap/bootstrap.css" />
+    <link rel="stylesheet" href="../assets/css/bootstrap/custom.css" />
+    <link rel="stylesheet" href="../assets/css/styles.css" />
+    <title>wordsofweb3 - {{title}}</title>
+    <script type="module" src="../js/entry-page.js" defer></script>
+  </head>
+  <body>
+    <header id="navbar-container" class="mb-5">
+      <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="index.html" id="logo-link">
+          <img
+            src="../assets/education-dao-circle.png"
+            alt="Logo"
+            class="logo-image"
+          />
+          wordsofweb3
+        </a>
+        <select
+          id="language-selector"
+          class="form-select ml-auto language-selector"
+        >
           <option value="/index.html">Select language...</option>
           <option value="/العربية/index.html">العربية</option>
           <option value="/中文-简体/index.html">中文-(简体)</option>
@@ -26,7 +33,9 @@
           <option value="/français/index.html">Français</option>
           <option value="/deutsch/index.html">Deutsch</option>
           <option value="/eλληνικά/index.html">Ελληνικά</option>
-          <option value="/english-us/index.html">English (United States)</option>
+          <option value="/english-us/index.html">
+            English (United States)
+          </option>
           <option value="/hausa/index.html">Hausa</option>
           <option value="/हिन्दी/index.html">हिन्दी</option>
           <option value="/magyar/index.html">Magyar</option>
@@ -38,61 +47,81 @@
           <option value="/bahasa-melayu/index.html">Bahasa Melayu</option>
           <option value="/pidgin/index.html">Pidgin</option>
           <option value="/polski/index.html">Polski</option>
-          <option value="/português-brasil/index.html">Português (Brasil)</option>
+          <option value="/português-brasil/index.html">
+            Português (Brasil)
+          </option>
           <option value="/română/index.html">Română</option>
           <option value="/русский/index.html">Русский</option>
-          <option value="/español-latinoamérica/index.html">Español (Latinoamérica)</option>
+          <option value="/español-latinoamérica/index.html">
+            Español (Latinoamérica)
+          </option>
           <option value="/tagalog/index.html">Tagalog</option>
           <option value="/ไทย/index.html">ไทย</option>
           <option value="/türkçe/index.html">Türkçe</option>
           <option value="/українська/index.html">Українська</option>
           <option value="/tiếng-việt/index.html">Tiếng-việt</option>
         </select>
-    </nav>
-  </header>
+      </nav>
+    </header>
 
-  <main class="container">
-    <!-- Term Card -->
-    <div class="card mb-4">
-      <div class="card-body">
-        <h1 class="card-title">{{term}}</h1>
-        <p id="phonetic"><strong>Phonetic:</strong> {{phonetic}}</p>
-        <p id="partofspeech"><strong>Part of Speech:</strong> {{partOfSpeech}}</p>
-        <p id="category"><strong>Category:</strong> {{termCategory}}</p>
-        <h3 id="definitiontitle"><strong>Definition</strong></h3>
-        <p id="definition">{{definition}}</p>
-        <p id="defsource"><strong>Definition source:</strong> {{definitionSource}}</p>
-        <h4 id="sample">Sample sentence</h4>
-        <p>{{sampleSentence}}</p>
-        <h4 id="extended"><strong>Extended definition</strong></h4>
-        <p>{{extended}}</p>
-        <h4 id="alternatetitle">Alternate definitions</h4>
-        <p>{{alternateDef}}</p>
-        <p id="termsource"><strong>Term source:</strong> {{termSource}}</p>
-        <p id="date"><strong>Date first recorded to wordsofweb3:</strong> {{dateFirstRecorded}}</p>
-        <h4 id="commentary">Commentary</h4>
-        <p>{{commentary}}</p>
-        <br/>
-        <br/>
-        <div id="contribute"></div>
-        <h2>Does this need to be better?</h2>
-        <p>This glossary only gets good, and stays good, if we all complain. If you have a suggestion, open an issue <a href="https://github.com/mapachurro/wordsofweb3/issues">on this project's GitHub repo.</a></p>
+    <main class="container">
+      <!-- Term Card -->
+      <div class="card mb-4">
+        <div class="card-body">
+          <h1 class="card-title">{{term}}</h1>
+          <p id="phonetic"><strong>Phonetic:</strong> {{phonetic}}</p>
+          <p id="partofspeech">
+            <strong>Part of Speech:</strong> {{partOfSpeech}}
+          </p>
+          <p id="category"><strong>Category:</strong> {{termCategory}}</p>
+          <h3 id="definitiontitle"><strong>Definition</strong></h3>
+          <p id="definition">{{definition}}</p>
+          <p id="defsource">
+            <strong>Definition source:</strong> {{definitionSource}}
+          </p>
+          <h4 id="sample">Sample sentence</h4>
+          <p>{{sampleSentence}}</p>
+          <h4 id="extended"><strong>Extended definition</strong></h4>
+          <p>{{extended}}</p>
+          <h4 id="alternatetitle">Alternate definitions</h4>
+          <div id="alternate-definitions">{{alternateDef}}</div>
+          <p id="termsource"><strong>Term source:</strong> {{termSource}}</p>
+          <p id="date">
+            <strong>Date first recorded to wordsofweb3:</strong>
+            {{dateFirstRecorded}}
+          </p>
+          <h4 id="commentary">Commentary</h4>
+          <p>{{commentary}}</p>
+          <br />
+          <br />
+          <div id="contribute"></div>
+          <h2>Does this need to be better?</h2>
+          <p>
+            This glossary only gets good, and stays good, if we all complain. If
+            you have a suggestion, open an issue
+            <a href="https://github.com/mapachurro/wordsofweb3/issues"
+              >on this project's GitHub repo.</a
+            >
+          </p>
+        </div>
       </div>
-      </div>
-    </div>
 
-    <!-- Language Links Card -->
-    <div class="card mb-4">
-      <div class="card-body">
-        <h5 class="card-title">Read this entry in:</h5>
-        <p>{{languageLinks}}</p>
+      <!-- Language Links Card -->
+      <div class="card mb-4">
+        <div class="card-body">
+          <h5 class="card-title">Read this entry in:</h5>
+          <p>{{languageLinks}}</p>
+        </div>
       </div>
-    </div>
-  </main>
+    </main>
 
-  <!-- Footer -->
-  <footer class="text-center mt-4">
-    <p>wordsofweb3 glossary © 2024 by Education DAO is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/</p>
-  </footer>
-</body>
+    <!-- Footer -->
+    <footer class="text-center mt-4">
+      <p>
+        wordsofweb3 glossary © 2024 by Education DAO is licensed under CC
+        BY-NC-ND 4.0. To view a copy of this license, visit
+        https://creativecommons.org/licenses/by-nc-nd/4.0/
+      </p>
+    </footer>
+  </body>
 </html>
