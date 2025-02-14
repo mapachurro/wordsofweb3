@@ -1,0 +1,592 @@
+{
+    "terms": {
+        "account": {
+            "term": "account",
+            "definition": "A record in the Solana ledger that either holds data or is an executable program. Like an account at a traditional bank, a Solana account may hold funds called lamports. Like a file in Linux, it is addressable by a key, often referred to as a public key or pubkey. The key may be one of: - an ed25519 public key - a program-derived account address (32byte value forced off the ed25519 curve) - a hash of an ed25519 public key with a 32 character string",
+            "definitionSource": "https://solana.com/docs/references/terminology#account",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "account-owner": {
+            "term": "account owner",
+            "definition": "The address of the program that owns the account. Only the owning program is capable of modifying the account. See also authority.",
+            "definitionSource": "https://solana.com/docs/references/terminology#account-owner",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "app": {
+            "term": "app",
+            "definition": "A front-end application that interacts with a Solana cluster.",
+            "definitionSource": "https://solana.com/docs/references/terminology#app",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "authority": {
+            "term": "authority",
+            "definition": "The address of a user that has some kind of permission over an account. For example: - The ability to mint new tokens is given to the account that is the 'mint authority' for the token mint. - The ability to upgrade a program is given to the account that is the 'upgrade authority' of a program.",
+            "definitionSource": "https://solana.com/docs/references/terminology#authority",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "bank-state": {
+            "term": "bank state",
+            "definition": "The result of interpreting all programs on the ledger at a given tick height. It includes at least the set of all accounts holding nonzero native tokens.",
+            "definitionSource": "https://solana.com/docs/references/terminology#bank-state",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "block": {
+            "term": "block",
+            "definition": "A contiguous set of entries on the ledger covered by a vote. A leader produces at most one block per slot.",
+            "definitionSource": "https://solana.com/docs/references/terminology#block",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "blockhash": {
+            "term": "blockhash",
+            "definition": "A unique value (hash) that identifies a record (block). Solana computes a blockhash from the last entry id of the block.",
+            "definitionSource": "https://solana.com/docs/references/terminology#blockhash",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "block-height": {
+            "term": "block height",
+            "definition": "The number of blocks beneath the current block. The first block after the genesis block has height one.",
+            "definitionSource": "https://solana.com/docs/references/terminology#block-height",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "bootstrap-validator": {
+            "term": "bootstrap validator",
+            "definition": "The validator that produces the genesis (first) block of a block chain.",
+            "definitionSource": "https://solana.com/docs/references/terminology#bootstrap-validator",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "BPF-loader": {
+            "term": "BPF loader",
+            "definition": "The Solana program that owns and loads BPF onchain programs, allowing the program to interface with the runtime.",
+            "definitionSource": "https://solana.com/docs/references/terminology#bpf-loader",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "client": {
+            "term": "client",
+            "definition": "A computer program that accesses the Solana server network cluster.",
+            "definitionSource": "https://solana.com/docs/references/terminology#client",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "commitment": {
+            "term": "commitment",
+            "definition": "A measure of the network confirmation for the block.",
+            "definitionSource": "https://solana.com/docs/references/terminology#commitment",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "cluster": {
+            "term": "cluster",
+            "definition": "A set of validators maintaining a single ledger.",
+            "definitionSource": "https://solana.com/docs/references/terminology#cluster",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "compute-budget": {
+            "term": "compute budget",
+            "definition": "The maximum number of compute units consumed per transaction.",
+            "definitionSource": "https://solana.com/docs/references/terminology#compute-budget",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "compute-units": {
+            "term": "compute units",
+            "definition": "The smallest unit of measure for consumption of computational resources of the blockchain.",
+            "definitionSource": "https://solana.com/docs/references/terminology#compute-units",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "confirmation-time": {
+            "term": "confirmation time",
+            "definition": "The wallclock duration between a leader creating a tick entry and creating a confirmed block.",
+            "definitionSource": "https://solana.com/docs/references/terminology#confirmation-time",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "confirmed-block": {
+            "term": "confirmed block",
+            "definition": "A block that has received a super majority of ledger votes.",
+            "definitionSource": "https://solana.com/docs/references/terminology#confirmed-block",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "control-plane": {
+            "term": "control plane",
+            "definition": "A gossip network connecting all nodes of a cluster.",
+            "definitionSource": "https://solana.com/docs/references/terminology#control-plane",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "cooldown-period": {
+            "term": "cooldown period",
+            "definition": "Some number of epochs after stake has been deactivated while it progressively becomes available for withdrawal. During this period, the stake is considered to be \"deactivating\". More info about: warmup and cooldown",
+            "definitionSource": "https://solana.com/docs/references/terminology#cooldown-period",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "credit": {
+            "term": "credit",
+            "definition": "See vote credit.",
+            "definitionSource": "https://solana.com/docs/references/terminology#credit",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "cross-program-invocation-CPI": {
+            "term": "cross-program invocation (CPI)",
+            "definition": "A call from one onchain program to another. For more information, see calling between programs.",
+            "definitionSource": "https://solana.com/docs/references/terminology#cross-program-invocation-cpi",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "data-plane": {
+            "term": "data plane",
+            "definition": "A multicast network used to efficiently validate entries and gain consensus.",
+            "definitionSource": "https://solana.com/docs/references/terminology#data-plane",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "drone": {
+            "term": "drone",
+            "definition": "An offchain service that acts as a custodian for a user's private key. It typically serves to validate and sign transactions.",
+            "definitionSource": "https://solana.com/docs/references/terminology#drone",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "entry": {
+            "term": "entry",
+            "definition": "An entry on the ledger either a tick or a transaction's entry.",
+            "definitionSource": "https://solana.com/docs/references/terminology#entry",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "entry-id": {
+            "term": "entry id",
+            "definition": "A preimage resistant hash over the final contents of an entry, which acts as the entry's globally unique identifier. The hash serves as evidence of: - The entry being generated after a duration of time - The specified transactions are those included in the entry - The entry's position with respect to other entries in ledger See proof of history.",
+            "definitionSource": "https://solana.com/docs/references/terminology#entry-id",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "epoch": {
+            "term": "epoch",
+            "definition": "The time, i.e. number of slots, for which a leader schedule is valid.",
+            "definitionSource": "https://solana.com/docs/references/terminology#epoch",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "fee-account": {
+            "term": "fee account",
+            "definition": "The fee account in the transaction is the account that pays for the cost of including the transaction in the ledger. This is the first account in the transaction. This account must be declared as Read-Write (writable) in the transaction since paying for the transaction reduces the account balance.",
+            "definitionSource": "https://solana.com/docs/references/terminology#fee-account",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "finality": {
+            "term": "finality",
+            "definition": "When nodes representing 2/3rd of the stake have a common root.",
+            "definitionSource": "https://solana.com/docs/references/terminology#finality",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "fork": {
+            "term": "fork",
+            "definition": "A ledger derived from common entries but then diverged.",
+            "definitionSource": "https://solana.com/docs/references/terminology#fork",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "genesis-block": {
+            "term": "genesis block",
+            "definition": "The first block in the chain.",
+            "definitionSource": "https://solana.com/docs/references/terminology#genesis-block",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "genesis-config": {
+            "term": "genesis config",
+            "definition": "The configuration file that prepares the ledger for the genesis block.",
+            "definitionSource": "https://solana.com/docs/references/terminology#genesis-config",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "hash": {
+            "term": "hash",
+            "definition": "A digital fingerprint of a sequence of bytes.",
+            "definitionSource": "https://solana.com/docs/references/terminology#hash",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "inflation": {
+            "term": "inflation",
+            "definition": "An increase in token supply over time used to fund rewards for validation and to fund continued development of Solana.",
+            "definitionSource": "https://solana.com/docs/references/terminology#inflation",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "inner-instruction": {
+            "term": "inner instruction",
+            "definition": "See cross-program invocation.",
+            "definitionSource": "https://solana.com/docs/references/terminology#inner-instruction",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "instruction": {
+            "term": "instruction",
+            "definition": "A call to invoke a specific instruction handler in a program. An instruction also specifies which accounts it wants to read or modify, and additional data that serves as auxiliary input to the instruction handler. A client must include at least one instruction in a transaction, and all instructions must complete for the transaction to be considered successful.",
+            "definitionSource": "https://solana.com/docs/references/terminology#instruction",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "instruction-handler": {
+            "term": "instruction handler",
+            "definition": "Instruction handlers are program functions that process instructions from transactions. An instruction handler may contain one or more cross-program invocations.",
+            "definitionSource": "https://solana.com/docs/references/terminology#instruction-handler",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "keypair": {
+            "term": "keypair",
+            "definition": "A public key and corresponding private key for accessing an account.",
+            "definitionSource": "https://solana.com/docs/references/terminology#keypair",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "lamport": {
+            "term": "lamport",
+            "definition": "A fractional native token with the value of 0.000000001 sol.",
+            "definitionSource": "https://solana.com/docs/references/terminology#lamport",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "leader": {
+            "term": "leader",
+            "definition": "The role of a validator when it is appending entries to the ledger.",
+            "definitionSource": "https://solana.com/docs/references/terminology#leader",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "leader-schedule": {
+            "term": "leader schedule",
+            "definition": "A sequence of validator public keys mapped to slots. The cluster uses the leader schedule to determine which validator is the leader at any moment in time.",
+            "definitionSource": "https://solana.com/docs/references/terminology#leader-schedule",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "ledger": {
+            "term": "ledger",
+            "definition": "A list of entries containing transactions signed by clients. Conceptually, this can be traced back to the genesis block, but an actual validator's ledger may have only newer blocks to reduce storage, as older ones are not needed for validation of future blocks by design.",
+            "definitionSource": "https://solana.com/docs/references/terminology#ledger",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "ledger-vote": {
+            "term": "ledger vote",
+            "definition": "A hash of the validator's state at a given tick height. It comprises a validator's affirmation that a block it has received has been verified, as well as a promise not to vote for a conflicting block (i.e. fork) for a specific amount of time, the lockout period.",
+            "definitionSource": "https://solana.com/docs/references/terminology#ledger-vote",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "light-client": {
+            "term": "light client",
+            "definition": "A type of client that can verify it's pointing to a valid cluster. It performs more ledger verification than a thin client and less than a validator.",
+            "definitionSource": "https://solana.com/docs/references/terminology#light-client",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "loader": {
+            "term": "loader",
+            "definition": "A program with the ability to interpret the binary encoding of other onchain programs.",
+            "definitionSource": "https://solana.com/docs/references/terminology#loader",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "lockout": {
+            "term": "lockout",
+            "definition": "The duration of time for which a validator is unable to vote on another fork.",
+            "definitionSource": "https://solana.com/docs/references/terminology#lockout",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "message": {
+            "term": "message",
+            "definition": "The structured contents of a transaction. Generally containing a header, array of account addresses, recent blockhash, and an array of instructions. Learn more about the message formatting inside of transactions here.",
+            "definitionSource": "https://solana.com/docs/references/terminology#message",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "Nakamoto-coefficient": {
+            "term": "Nakamoto coefficient",
+            "definition": "A measure of decentralization, the Nakamoto Coefficient is the smallest number of independent entities that can act collectively to shut down a blockchain. The term was coined by Balaji S. Srinivasan and Leland Lee in Quantifying Decentralization.",
+            "definitionSource": "https://solana.com/docs/references/terminology#nakamoto-coefficient",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "native-token": {
+            "term": "native token",
+            "definition": "The token used to track work done by nodes in a cluster.",
+            "definitionSource": "https://solana.com/docs/references/terminology#native-token",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "node": {
+            "term": "node",
+            "definition": "A computer participating in a cluster.",
+            "definitionSource": "https://solana.com/docs/references/terminology#node",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "node-count": {
+            "term": "node count",
+            "definition": "The number of validators participating in a cluster.",
+            "definitionSource": "https://solana.com/docs/references/terminology#node-count",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "onchain-program": {
+            "term": "onchain program",
+            "definition": "The executable code on Solana blockchain that interprets the instructions sent inside of each transaction to read and modify accounts over which it has control. These programs are often referred to as \"smart contracts\" on other blockchains.",
+            "definitionSource": "https://solana.com/docs/references/terminology#onchain-program",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "PoH": {
+            "term": "PoH",
+            "definition": "See Proof of History.",
+            "definitionSource": "https://solana.com/docs/references/terminology#poh",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "point": {
+            "term": "point",
+            "definition": "A weighted credit in a rewards regime. In the validator rewards regime, the number of points owed to a stake during redemption is the product of the vote credits earned and the number of lamports staked.",
+            "definitionSource": "https://solana.com/docs/references/terminology#point",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "private-key": {
+            "term": "private key",
+            "definition": "The private key of a keypair.",
+            "definitionSource": "https://solana.com/docs/references/terminology#private-key",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "program": {
+            "term": "program",
+            "definition": "See onchain program.",
+            "definitionSource": "https://solana.com/docs/references/terminology#program",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "program-derived-account-PDA": {
+            "term": "program derived account (PDA)",
+            "definition": "An account whose signing authority is a program and thus is not controlled by a private key like other accounts.",
+            "definitionSource": "https://solana.com/docs/references/terminology#program-derived-account-pda",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "program-id": {
+            "term": "program id",
+            "definition": "The public key of the account containing a program.",
+            "definitionSource": "https://solana.com/docs/references/terminology#program-id",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "proof-of-history-PoH": {
+            "term": "proof of history (PoH)",
+            "definition": "A stack of proofs, each of which proves that some data existed before the proof was created and that a precise duration of time passed before the previous proof. Like a VDF, a Proof of History can be verified in less time than it took to produce.",
+            "definitionSource": "https://solana.com/docs/references/terminology#proof-of-history-poh",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "prioritization-fee": {
+            "term": "prioritization fee",
+            "definition": "An additional fee user can specify in the compute budget instruction to prioritize their transactions. The prioritization fee is calculated by multiplying the requested maximum compute units by the compute-unit price (specified in increments of 0.000001 lamports per compute unit) rounded up to the nearest lamport. Transactions should request the minimum amount of compute units required for execution to minimize fees.",
+            "definitionSource": "https://solana.com/docs/references/terminology#prioritization-fee",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "public-key": {
+            "term": "public key (pubkey)",
+            "definition": "The public key of a keypair.",
+            "definitionSource": "https://solana.com/docs/references/terminology#public-key-pubkey",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "rent": {
+            "term": "rent",
+            "definition": "Fee paid by Accounts and Programs to store data on the blockchain. When accounts do not have enough balance to pay rent, they may be Garbage Collected. See also rent exempt below. Learn more about rent here: What is rent?.",
+            "definitionSource": "https://solana.com/docs/references/terminology#rent",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "rent-exempt": {
+            "term": "rent exempt",
+            "definition": "Accounts that maintain a minimum lamport balance that is proportional to the amount of data stored on the account. All newly created accounts are stored on-chain permanently until the account is closed. It is not possible to create an account that falls below the rent exemption threshold.",
+            "definitionSource": "https://solana.com/docs/references/terminology#rent-exempt",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "root": {
+            "term": "root",
+            "definition": "A block or slot that has reached maximum lockout on a validator. The root is the highest block that is an ancestor of all active forks on a validator. All ancestor blocks of a root are also transitively a root. Blocks that are not an ancestor and not a descendant of the root are excluded from consideration for consensus and can be discarded.",
+            "definitionSource": "https://solana.com/docs/references/terminology#root",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "runtime": {
+            "term": "runtime",
+            "definition": "The component of a validator responsible for program execution.",
+            "definitionSource": "https://solana.com/docs/references/terminology#runtime",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "Sealevel": {
+            "term": "Sealevel",
+            "definition": "Solana's parallel run-time for onchain programs.",
+            "definitionSource": "https://solana.com/docs/references/terminology#sealevel",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "shred": {
+            "term": "shred",
+            "definition": "A fraction of a block; the smallest unit sent between validators.",
+            "definitionSource": "https://solana.com/docs/references/terminology#shred",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "signature": {
+            "term": "signature",
+            "definition": "A 64-byte ed25519 signature of R (32-bytes) and S (32-bytes). With the requirement that R is a packed Edwards point not of small order and S is a scalar in the range of 0 <= S < L. This requirement ensures no signature malleability. Each transaction must have at least one signature for fee account. Thus, the first signature in transaction can be treated as transaction id",
+            "definitionSource": "https://solana.com/docs/references/terminology#signature",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "skip-rate": {
+            "term": "skip rate",
+            "definition": "The percentage of skipped slots out of the total leader slots in the current epoch. This metric can be misleading as it has high variance after the epoch boundary when the sample size is small, as well as for validators with a low number of leader slots, however can also be useful in identifying node misconfigurations at times.",
+            "definitionSource": "https://solana.com/docs/references/terminology#skip-rate",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "skipped-slot": {
+            "term": "skipped slot",
+            "definition": "A past slot that did not produce a block, because the leader was offline or the fork containing the slot was abandoned for a better alternative by cluster consensus. A skipped slot will not appear as an ancestor for blocks at subsequent slots, nor increment the block height, nor expire the oldest recent_blockhash. Whether a slot has been skipped can only be determined when it becomes older than the latest rooted (thus not-skipped) slot.",
+            "definitionSource": "https://solana.com/docs/references/terminology#skipped-slot",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "slot": {
+            "term": "slot",
+            "definition": "The period of time for which each leader ingests transactions and produces a block. Collectively, slots create a logical clock. Slots are ordered sequentially and non-overlapping, comprising roughly equal real-world time as per PoH.",
+            "definitionSource": "https://solana.com/docs/references/terminology#slot",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "smart-contract": {
+            "term": "smart contract",
+            "definition": "See onchain program.",
+            "definitionSource": "https://solana.com/docs/references/terminology#smart-contract",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "SOL": {
+            "term": "SOL",
+            "definition": "The native token of a Solana cluster.",
+            "definitionSource": "https://solana.com/docs/references/terminology#sol",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "Solana-Program-Library": {
+            "term": "Solana Program Library (SPL)",
+            "definition": "A library of programs on Solana such as spl-token that facilitates tasks such as creating and using tokens.",
+            "definitionSource": "https://solana.com/docs/references/terminology#solana-program-library-spl",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "stake": {
+            "term": "stake",
+            "definition": "Tokens forfeit to the cluster if malicious validator behavior can be proven.",
+            "definitionSource": "https://solana.com/docs/references/terminology#stake",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "stake-weighted-quality-of-service": {
+            "term": "stake-weighted quality of service (SWQoS)",
+            "definition": "SWQoS allows preferential treatment for transactions that come from staked validators.",
+            "definitionSource": "https://solana.com/docs/references/terminology#stake-weighted-quality-of-service-swqos",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "supermajority": {
+            "term": "supermajority",
+            "definition": "2/3 of a cluster.",
+            "definitionSource": "https://solana.com/docs/references/terminology#supermajority",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "sysvar": {
+            "term": "sysvar",
+            "definition": "A system account. Sysvars provide cluster state information such as current tick height, rewards points values, etc. Programs can access Sysvars via a Sysvar account (pubkey) or by querying via a syscall.",
+            "definitionSource": "https://solana.com/docs/references/terminology#sysvar",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "thin-client": {
+            "term": "thin client",
+            "definition": "A type of client that trusts it is communicating with a valid cluster.",
+            "definitionSource": "https://solana.com/docs/references/terminology#thin-client",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "tick": {
+            "term": "tick",
+            "definition": "A ledger entry that estimates wallclock duration.",
+            "definitionSource": "https://solana.com/docs/references/terminology#tick",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "tick-height": {
+            "term": "tick height",
+            "definition": "The Nth tick in the ledger.",
+            "definitionSource": "https://solana.com/docs/references/terminology#tick-height",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "token": {
+            "term": "token",
+            "definition": "A digitally transferable asset.",
+            "definitionSource": "https://solana.com/docs/references/terminology#token",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "Token-Extensions-Program": {
+            "term": "Token Extensions Program",
+            "definition": "The Token Extensions Program has the program ID TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb and includes all the same features as the Token Program, but comes with extensions such as confidential transfers, custom transfer logic, extended metadata, and much more.",
+            "definitionSource": "https://solana.com/docs/references/terminology#token-extensions-program",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "token-mint": {
+            "term": "token mint",
+            "definition": "An account that can produce (or 'mint') tokens. Different tokens are distinguished by their unique token mint addresses.",
+            "definitionSource": "https://solana.com/docs/references/terminology#token-mint",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "Token-Program": {
+            "term": "Token Program",
+            "definition": "The Token Program has the program ID TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA, and provides the basic capabilities of transferring, freezing, and minting tokens.",
+            "definitionSource": "https://solana.com/docs/references/terminology#token-program",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "tps": {
+            "term": "tps",
+            "definition": "Transactions per second.",
+            "definitionSource": "https://solana.com/docs/references/terminology#tps",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "tpu": {
+            "term": "tpu",
+            "definition": "Transaction processing unit.",
+            "definitionSource": "https://solana.com/docs/references/terminology#tpu",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "transaction": {
+            "term": "transaction",
+            "definition": "One or more instructions signed by a client using one or more keypairs and executed atomically with only two possible outcomes: success or failure.",
+            "definitionSource": "https://solana.com/docs/references/terminology#transaction",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "transaction-id": {
+            "term": "transaction id",
+            "definition": "The first signature in a transaction, which can be used to uniquely identify the transaction across the complete ledger.",
+            "definitionSource": "https://solana.com/docs/references/terminology#transaction-id",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "transaction-confirmations": {
+            "term": "transaction confirmations",
+            "definition": "The number of confirmed blocks since the transaction was accepted onto the ledger. A transaction is finalized when its block becomes a root.",
+            "definitionSource": "https://solana.com/docs/references/terminology#transaction-confirmations",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "transactions-entry": {
+            "term": "transactions entry",
+            "definition": "A set of transactions that may be executed in parallel.",
+            "definitionSource": "https://solana.com/docs/references/terminology#transactions-entry",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "TVU": {
+            "term": "tvu",
+            "definition": "Transaction validation unit.",
+            "definitionSource": "https://solana.com/docs/references/terminology#tvu",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "validator": {
+            "term": "validator",
+            "definition": "A full participant in a Solana network cluster that produces new blocks. A validator validates the transactions added to the ledger",
+            "definitionSource": "https://solana.com/docs/references/terminology#validator",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "VDF": {
+            "term": "VDF",
+            "definition": "See verifiable delay function.",
+            "definitionSource": "https://solana.com/docs/references/terminology#vdf",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "verifiable delay function": {
+            "term": "verifiable delay function (VDF)",
+            "definition": "A function that takes a fixed amount of time to execute that produces a proof that it ran, which can then be verified in less time than it took to produce.",
+            "definitionSource": "https://solana.com/docs/references/terminology#verifiable-delay-function-vdf",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "vote": {
+            "term": "vote",
+            "definition": "See ledger vote.",
+            "definitionSource": "https://solana.com/docs/references/terminology#vote",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "vote credit": {
+            "term": "vote credit",
+            "definition": "A reward tally for validators. A vote credit is awarded to a validator in its vote account when the validator reaches a root.",
+            "definitionSource": "https://solana.com/docs/references/terminology#vote-credit",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "wallet": {
+            "term": "wallet",
+            "definition": "A collection of keypairs that allows users to manage their funds.",
+            "definitionSource": "https://solana.com/docs/references/terminology#wallet",
+            "dateFirstRecorded": "2025-02-14"
+        },
+        "warmup-period": {
+            "term": "warmup period",
+            "definition": "Some number of epochs after stake has been delegated while it progressively becomes effective. During this period, the stake is considered to be \"activating\". More info about: warmup and cooldown",
+            "definitionSource": "https://solana.com/docs/references/terminology#warmup-period",
+            "dateFirstRecorded": "2025-02-14"
+        }
+    }
+}

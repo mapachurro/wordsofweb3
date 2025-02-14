@@ -1,0 +1,2351 @@
+{
+    "51%-attack": {
+        "en": "51% Attack",
+        "it": "51% attack"
+    },
+    "absolute-advantage": {
+        "en": "Absolute Advantage"
+    },
+    "active-management": {
+        "en": "Active Management"
+    },
+    "actively-validated-services-(avs)": {
+        "en": "Actively Validated Services (AVS)",
+        "id": "Actively Validated Services (AVS)"
+    },
+    "ad-hoc": {
+        "en": "Ad Hoc"
+    },
+    "address": {
+        "en": "Address"
+    },
+    "airdrop": {
+        "en": "Airdrop"
+    },
+    "algorithm": {
+        "en": "Algorithm"
+    },
+    "all-or-none-order-(aon)": {
+        "en": "All or None Order (AON)"
+    },
+    "all-time-high-(ath)": {
+        "en": "All-Time High (ATH)"
+    },
+    "allocation": {
+        "en": "Allocation"
+    },
+    "alpha": {
+        "en": "Alpha"
+    },
+    "altcoin": {
+        "en": "Altcoin"
+    },
+    "angel-investor": {
+        "en": "Angel Investor"
+    },
+    "anti-money-laundering-(aml)": {
+        "en": "Anti Money Laundering (AML)"
+    },
+    "application-programming-interface-(api)": {
+        "en": "Application Programming Interface (API)"
+    },
+    "application-specific-integrated-circuit-(asic)": {
+        "en": "Application-Specific Integrated Circuit (ASIC)"
+    },
+    "arbitrage": {
+        "en": "Arbitrage",
+        "fr": "Arbitrage",
+        "sv": "Arbitrage"
+    },
+    "arc-20": {
+        "en": "ARC-20",
+        "it": "ARC-20",
+        "fr": "ARC-20",
+        "es": "ARC-20",
+        "zh-CN": "ARC-20",
+        "vi": "ARC-20",
+        "ar": "ARC-20",
+        "pt": "ARC-20",
+        "id": "ARC-20",
+        "cs": "ARC-20",
+        "bg": "ARC-20",
+        "lv": "ARC-20",
+        "sv": "ARC-20",
+        "sk": "ARC-20",
+        "et": "ARC-20",
+        "ro": "ARC-20",
+        "hu": "ARC-20",
+        "el": "ARC-20",
+        "lt": "ARC-20",
+        "ja": "ARC-20"
+    },
+    "artificial-intelligence-(ai)": {
+        "en": "Artificial Intelligence (AI)"
+    },
+    "asic-resistant": {
+        "en": "ASIC-resistant"
+    },
+    "ask-price": {
+        "en": "Ask Price"
+    },
+    "asset-management": {
+        "en": "Asset Management"
+    },
+    "assets-under-management-(aum)": {
+        "en": "Assets Under Management (AUM)"
+    },
+    "asynchronous": {
+        "en": "Asynchronous"
+    },
+    "atomic-swap": {
+        "en": "Atomic Swap"
+    },
+    "attack-surface": {
+        "en": "Attack surface"
+    },
+    "auction": {
+        "en": "Auction"
+    },
+    "automated-market-maker-(amm)": {
+        "en": "Automated Market Maker (AMM)",
+        "es": "Automated Market Maker (AMM)",
+        "pt": "Automated Market Maker (AMM)",
+        "id": "Automated Market Maker (AMM)"
+    },
+    "b-tokens": {
+        "en": "B-Tokens",
+        "fr": "B-Tokens",
+        "es": "B-Tokens",
+        "ar": "B-Tokens",
+        "pt": "B-Tokens",
+        "ro": "B-Tokens"
+    },
+    "bags": {
+        "en": "Bags"
+    },
+    "beacon-chain": {
+        "en": "Beacon Chain",
+        "it": "Beacon Chain",
+        "fr": "Beacon Chain",
+        "es": "Beacon Chain",
+        "vi": "Beacon Chain",
+        "pt": "Beacon Chain",
+        "id": "Beacon Chain",
+        "cs": "Beacon Chain",
+        "bg": "Beacon Chain",
+        "sv": "Beacon Chain",
+        "sk": "Beacon Chain",
+        "et": "Beacon Chain",
+        "ro": "Beacon Chain",
+        "hu": "Beacon Chain",
+        "el": "Beacon Chain",
+        "lt": "Beacon Chain",
+        "ja": "Beacon Chain"
+    },
+    "bear-market": {
+        "en": "Bear Market"
+    },
+    "benchmark": {
+        "en": "Benchmark"
+    },
+    "bep-1155": {
+        "en": "BEP-1155",
+        "it": "BEP-1155",
+        "fr": "BEP-1155",
+        "es": "BEP-1155",
+        "zh-CN": "BEP-1155",
+        "vi": "BEP-1155",
+        "pt": "BEP-1155",
+        "id": "BEP-1155",
+        "cs": "BEP-1155",
+        "bg": "BEP-1155",
+        "lv": "BEP-1155",
+        "sv": "BEP-1155",
+        "sk": "BEP-1155",
+        "et": "BEP-1155",
+        "ro": "BEP-1155",
+        "hu": "BEP-1155",
+        "el": "BEP-1155",
+        "lt": "BEP-1155",
+        "ja": "BEP-1155"
+    },
+    "bep-20": {
+        "en": "BEP-20",
+        "it": "BEP-20",
+        "fr": "BEP-20",
+        "es": "BEP-20",
+        "zh-CN": "BEP-20",
+        "vi": "BEP-20",
+        "ar": "BEP-20",
+        "pt": "BEP-20",
+        "id": "BEP-20",
+        "cs": "BEP-20",
+        "bg": "BEP-20",
+        "lv": "BEP-20",
+        "sv": "BEP-20",
+        "sk": "BEP-20",
+        "et": "BEP-20",
+        "ro": "BEP-20",
+        "hu": "BEP-20",
+        "el": "BEP-20",
+        "lt": "BEP-20",
+        "ja": "BEP-20"
+    },
+    "bep-721": {
+        "en": "BEP-721",
+        "it": "BEP-721",
+        "fr": "BEP-721",
+        "es": "BEP-721",
+        "zh-CN": "BEP-721",
+        "vi": "BEP-721",
+        "pt": "BEP-721",
+        "id": "BEP-721",
+        "cs": "BEP-721",
+        "bg": "BEP-721",
+        "lv": "BEP-721",
+        "sv": "BEP-721",
+        "sk": "BEP-721",
+        "et": "BEP-721",
+        "ro": "BEP-721",
+        "hu": "BEP-721",
+        "el": "BEP-721",
+        "lt": "BEP-721",
+        "ja": "BEP-721"
+    },
+    "bep-95": {
+        "en": "BEP-95",
+        "it": "BEP-95",
+        "fr": "BEP-95",
+        "es": "BEP-95",
+        "zh-CN": "BEP-95",
+        "vi": "BEP-95",
+        "ar": "BEP-95",
+        "pt": "BEP-95",
+        "id": "BEP-95",
+        "cs": "BEP-95",
+        "bg": "BEP-95",
+        "lv": "BEP-95",
+        "sv": "BEP-95",
+        "sk": "BEP-95",
+        "et": "BEP-95",
+        "ro": "BEP-95",
+        "hu": "BEP-95",
+        "el": "BEP-95",
+        "lt": "BEP-95",
+        "ja": "BEP-95"
+    },
+    "beta-(coefficient)": {
+        "en": "Beta (Coefficient)"
+    },
+    "beta-(release)": {
+        "en": "Beta (Release)"
+    },
+    "bid-price": {
+        "en": "Bid Price"
+    },
+    "bid-ask-spread": {
+        "en": "Bid-Ask Spread"
+    },
+    "binance-ecosystem-fund-(bef)": {
+        "en": "Binance Ecosystem Fund (BEF)"
+    },
+    "binancian": {
+        "en": "Binancian",
+        "es": "Binancian",
+        "vi": "Binancian",
+        "id": "Binancian",
+        "sv": "Binancian",
+        "et": "Binancian",
+        "ro": "Binancian",
+        "el": "Binancian"
+    },
+    "bitcoin": {
+        "en": "Bitcoin"
+    },
+    "bitcoin-core": {
+        "en": "Bitcoin Core"
+    },
+    "bitcoin-dominance": {
+        "en": "Bitcoin Dominance"
+    },
+    "bitcoin-maximalists": {
+        "en": "Bitcoin Maximalists",
+        "vi": "Bitcoin Maximalists"
+    },
+    "bitcoin-pizza": {
+        "en": "Bitcoin Pizza"
+    },
+    "black-swan-event": {
+        "en": "Black Swan Event"
+    },
+    "block": {
+        "en": "Block"
+    },
+    "block-explorer": {
+        "en": "Block Explorer"
+    },
+    "block-header": {
+        "en": "Block header"
+    },
+    "block-height": {
+        "en": "Block Height"
+    },
+    "block-reward": {
+        "en": "Block Reward"
+    },
+    "blockchain": {
+        "en": "Blockchain",
+        "it": "Blockchain",
+        "fr": "Blockchain",
+        "es": "Blockchain",
+        "vi": "Blockchain",
+        "pt": "Blockchain",
+        "id": "Blockchain",
+        "cs": "Blockchain",
+        "sk": "Blockchain",
+        "ro": "Blockchain",
+        "el": "Blockchain"
+    },
+    "blockchain-charity-foundation": {
+        "en": "Blockchain Charity Foundation"
+    },
+    "bloom-filter": {
+        "en": "Bloom Filter"
+    },
+    "blue-chip-token": {
+        "en": "Blue-Chip Token"
+    },
+    "bnb": {
+        "en": "BNB",
+        "it": "BNB",
+        "fr": "BNB",
+        "es": "BNB",
+        "zh-CN": "BNB",
+        "vi": "BNB",
+        "ar": "BNB",
+        "pt": "BNB",
+        "id": "BNB",
+        "cs": "BNB",
+        "bg": "BNB",
+        "lv": "BNB",
+        "sv": "BNB",
+        "sk": "BNB",
+        "et": "BNB",
+        "ro": "BNB",
+        "hu": "BNB",
+        "el": "BNB",
+        "lt": "BNB",
+        "ja": "BNB"
+    },
+    "bnsol": {
+        "en": "BNSOL",
+        "it": "BNSOL",
+        "fr": "BNSOL",
+        "es": "BNSOL",
+        "zh-CN": "BNSOL",
+        "vi": "BNSOL",
+        "pt": "BNSOL",
+        "id": "BNSOL",
+        "cs": "BNSOL",
+        "bg": "BNSOL",
+        "lv": "BNSOL",
+        "sv": "BNSOL",
+        "sk": "BNSOL",
+        "et": "BNSOL",
+        "ro": "BNSOL",
+        "hu": "BNSOL",
+        "el": "BNSOL",
+        "lt": "BNSOL",
+        "ja": "BNSOL"
+    },
+    "bollinger-bands": {
+        "en": "Bollinger Bands"
+    },
+    "bond": {
+        "en": "Bond"
+    },
+    "bounty": {
+        "en": "Bounty"
+    },
+    "brc-20-tokens": {
+        "en": "BRC-20 Tokens"
+    },
+    "break-even-point-(bep)": {
+        "en": "Break-Even Point (BEP)"
+    },
+    "breakeven-multiple": {
+        "en": "Breakeven Multiple"
+    },
+    "breakout": {
+        "en": "Breakout"
+    },
+    "bscscan": {
+        "en": "BscScan",
+        "it": "BscScan",
+        "fr": "BscScan",
+        "es": "BscScan",
+        "zh-CN": "BscScan",
+        "vi": "BscScan",
+        "pt": "BscScan",
+        "id": "BscScan",
+        "cs": "BscScan",
+        "bg": "BscScan",
+        "lv": "BscScan",
+        "sv": "BscScan",
+        "sk": "BscScan",
+        "et": "BscScan",
+        "ro": "BscScan",
+        "hu": "BscScan",
+        "el": "BscScan",
+        "lt": "BscScan",
+        "ja": "BscScan"
+    },
+    "btc-wallet-address": {
+        "en": "BTC Wallet Address"
+    },
+    "buidl": {
+        "en": "BUIDL"
+    },
+    "bull-market": {
+        "en": "Bull Market"
+    },
+    "burner-wallet": {
+        "en": "Burner Wallet",
+        "it": "Burner wallet",
+        "es": "Burner Wallet",
+        "id": "Burner Wallet"
+    },
+    "buy-wall": {
+        "en": "Buy Wall"
+    },
+    "candidate-block": {
+        "en": "Candidate Block"
+    },
+    "candlestick": {
+        "en": "Candlestick"
+    },
+    "capitulation": {
+        "en": "Capitulation"
+    },
+    "censorship-resistance": {
+        "en": "Censorship-resistance"
+    },
+    "central-bank": {
+        "en": "Central Bank"
+    },
+    "central-bank-digital-currency-(cbdc)": {
+        "en": "Central Bank Digital Currency (CBDC)",
+        "it": "Central Bank Digital Currency (CBDC)",
+        "id": "Central Bank Digital Currency (CBDC)"
+    },
+    "central-processing-unit-(cpu)": {
+        "en": "Central Processing Unit (CPU)"
+    },
+    "centralized": {
+        "en": "Centralized"
+    },
+    "centralized-exchange": {
+        "en": "Centralized Exchange"
+    },
+    "chatgpt": {
+        "en": "ChatGPT",
+        "it": "ChatGPT",
+        "fr": "ChatGPT",
+        "es": "ChatGPT",
+        "zh-CN": "ChatGPT",
+        "vi": "ChatGPT",
+        "ar": "ChatGPT",
+        "pt": "ChatGPT",
+        "id": "ChatGPT",
+        "cs": "ChatGPT",
+        "bg": "ChatGPT",
+        "lv": "ChatGPT",
+        "sk": "ChatGPT",
+        "et": "ChatGPT",
+        "ro": "ChatGPT",
+        "hu": "ChatGPT",
+        "el": "ChatGPT",
+        "lt": "ChatGPT",
+        "ja": "ChatGPT"
+    },
+    "cipher": {
+        "en": "Cipher"
+    },
+    "circulating-supply": {
+        "en": "Circulating Supply"
+    },
+    "cloud": {
+        "en": "Cloud"
+    },
+    "coin": {
+        "en": "Coin"
+    },
+    "cold-storage": {
+        "en": "Cold Storage",
+        "it": "Cold storage",
+        "pt": "Cold storage",
+        "id": "Cold Storage"
+    },
+    "collateral": {
+        "en": "Collateral"
+    },
+    "colocation": {
+        "en": "Colocation"
+    },
+    "commodity-futures-trading-commission-(cftc)": {
+        "en": "Commodity Futures Trading Commission (CFTC)"
+    },
+    "compound-interest": {
+        "en": "Compound Interest"
+    },
+    "confirmation-time": {
+        "en": "Confirmation Time"
+    },
+    "confluence": {
+        "en": "Confluence"
+    },
+    "consensus-algorithm": {
+        "en": "Consensus Algorithm"
+    },
+    "consumer-price-index-(cpi)": {
+        "en": "Consumer Price Index (CPI)"
+    },
+    "contango-and-backwardation": {
+        "en": "Contango and Backwardation"
+    },
+    "copy-trading": {
+        "en": "Copy Trading",
+        "fr": "Copy trading",
+        "es": "Copy Trading",
+        "pt": "Copy Trading",
+        "id": "Copy Trading",
+        "ro": "Copy Trading",
+        "hu": "Copy Trading",
+        "el": "Copy trading"
+    },
+    "counterparty-risk": {
+        "en": "Counterparty Risk"
+    },
+    "credentials": {
+        "en": "Credentials"
+    },
+    "cross-chain-bridges": {
+        "en": "Cross-Chain Bridges"
+    },
+    "crypto-etfs": {
+        "en": "Crypto ETFs"
+    },
+    "crypto-fear-and-greed-index": {
+        "en": "Crypto Fear and Greed Index",
+        "it": "Crypto Fear and Greed Index"
+    },
+    "crypto-protocol": {
+        "en": "Crypto Protocol"
+    },
+    "crypto-winter": {
+        "en": "Crypto Winter",
+        "it": "Crypto Winter",
+        "id": "Crypto Winter"
+    },
+    "cryptocurrency": {
+        "en": "Cryptocurrency"
+    },
+    "cryptography": {
+        "en": "Cryptography"
+    },
+    "custody": {
+        "en": "Custody"
+    },
+    "daemon": {
+        "en": "Daemon"
+    },
+    "danksharding": {
+        "en": "Danksharding",
+        "it": "Danksharding",
+        "fr": "Danksharding",
+        "es": "Danksharding",
+        "zh-CN": "Danksharding",
+        "vi": "Danksharding",
+        "pt": "Danksharding",
+        "id": "Danksharding",
+        "cs": "Danksharding",
+        "sk": "Danksharding",
+        "et": "Danksharding",
+        "ro": "Danksharding",
+        "hu": "Danksharding",
+        "el": "Danksharding",
+        "lt": "Danksharding"
+    },
+    "dead-cat-bounce": {
+        "en": "Dead Cat Bounce"
+    },
+    "death-cross": {
+        "en": "Death Cross",
+        "it": "Death cross",
+        "pt": "Death cross",
+        "id": "Death Cross"
+    },
+    "decentralized-application-(dapp)": {
+        "en": "Decentralized Application (DApp)"
+    },
+    "decentralized-autonomous-cooperative-(dac)": {
+        "en": "Decentralized Autonomous Cooperative (DAC)"
+    },
+    "decentralized-autonomous-organization-(dao)": {
+        "en": "Decentralized Autonomous Organization (DAO)"
+    },
+    "decentralized-exchange-(dex)": {
+        "en": "Decentralized Exchange (DEX)"
+    },
+    "decentralized-finance-(defi)": {
+        "en": "Decentralized Finance (DeFi)"
+    },
+    "decentralized-indexes": {
+        "en": "Decentralized Indexes"
+    },
+    "decryption": {
+        "en": "Decryption"
+    },
+    "deep-web": {
+        "en": "Deep Web"
+    },
+    "delisting": {
+        "en": "Delisting"
+    },
+    "depeg": {
+        "en": "Depeg",
+        "it": "Depeg",
+        "vi": "Depeg",
+        "ro": "Depeg"
+    },
+    "depression": {
+        "en": "Depression",
+        "sv": "Depression"
+    },
+    "design-flaw-attack": {
+        "en": "Design Flaw Attack"
+    },
+    "diamond-hands": {
+        "en": "Diamond Hands",
+        "it": "Diamond Hands",
+        "fr": "Diamond Hands",
+        "ro": "Diamond hands",
+        "el": "Diamond Hands",
+        "lt": "Diamond Hands"
+    },
+    "difficulty": {
+        "en": "Difficulty"
+    },
+    "difficulty-bomb": {
+        "en": "Difficulty Bomb"
+    },
+    "digital-signature": {
+        "en": "Digital Signature"
+    },
+    "direct-market-access-(dma)": {
+        "en": "Direct Market Access (DMA)",
+        "it": "Direct Market Access (DMA)"
+    },
+    "divergence": {
+        "en": "Divergence"
+    },
+    "diversification": {
+        "en": "Diversification"
+    },
+    "do-your-own-research-(dyor)": {
+        "en": "Do Your Own Research (DYOR)",
+        "it": "Do Your Own Research (DYOR)",
+        "es": "Do Your Own Research (DYOR)",
+        "zh-CN": "Do Your Own Research (DYOR)",
+        "id": "Do Your Own Research (DYOR)"
+    },
+    "dollar-cost-averaging-(dca)": {
+        "en": "Dollar Cost Averaging (DCA)"
+    },
+    "dot-plot": {
+        "en": "Dot Plot",
+        "it": "Dot plot"
+    },
+    "double-spending": {
+        "en": "Double Spending"
+    },
+    "eclipse-attack": {
+        "en": "Eclipse Attack"
+    },
+    "efficient-market-hypothesis-(emh)": {
+        "en": "Efficient Market Hypothesis (EMH)"
+    },
+    "eigenlayer": {
+        "en": "EigenLayer",
+        "it": "EigenLayer",
+        "fr": "EigenLayer",
+        "es": "EigenLayer",
+        "zh-CN": "EigenLayer",
+        "vi": "EigenLayer",
+        "ar": "EigenLayer",
+        "pt": "EigenLayer",
+        "id": "EigenLayer",
+        "bg": "EigenLayer",
+        "lv": "EigenLayer",
+        "sv": "EigenLayer",
+        "sk": "EigenLayer",
+        "et": "EigenLayer",
+        "ro": "EigenLayer",
+        "hu": "EigenLayer",
+        "el": "EigenLayer",
+        "lt": "EigenLayer"
+    },
+    "eip": {
+        "en": "EIP"
+    },
+    "eip-3074": {
+        "en": "EIP-3074",
+        "it": "EIP-3074",
+        "fr": "EIP-3074",
+        "es": "EIP-3074",
+        "zh-CN": "EIP-3074",
+        "vi": "EIP-3074",
+        "pt": "EIP-3074",
+        "id": "EIP-3074",
+        "cs": "EIP-3074",
+        "bg": "EIP-3074",
+        "lv": "EIP-3074",
+        "sv": "EIP-3074",
+        "sk": "EIP-3074",
+        "et": "EIP-3074",
+        "ro": "EIP-3074",
+        "hu": "EIP-3074",
+        "lt": "EIP-3074",
+        "ja": "EIP-3074"
+    },
+    "eip-4844": {
+        "en": "EIP-4844",
+        "it": "EIP-4844",
+        "fr": "EIP-4844",
+        "es": "EIP-4844",
+        "zh-CN": "EIP-4844",
+        "vi": "EIP-4844",
+        "pt": "EIP-4844",
+        "id": "EIP-4844",
+        "cs": "EIP-4844",
+        "bg": "EIP-4844",
+        "lv": "EIP-4844",
+        "sv": "EIP-4844",
+        "sk": "EIP-4844",
+        "et": "EIP-4844",
+        "ro": "EIP-4844",
+        "hu": "EIP-4844",
+        "lt": "EIP-4844",
+        "ja": "EIP-4844"
+    },
+    "eip-7251": {
+        "en": "EIP-7251"
+    },
+    "eip-7702": {
+        "en": "EIP-7702",
+        "it": "EIP-7702",
+        "fr": "EIP-7702",
+        "es": "EIP-7702",
+        "zh-CN": "EIP-7702",
+        "vi": "EIP-7702",
+        "pt": "EIP-7702",
+        "id": "EIP-7702",
+        "cs": "EIP-7702",
+        "bg": "EIP-7702",
+        "lv": "EIP-7702",
+        "sv": "EIP-7702",
+        "sk": "EIP-7702",
+        "et": "EIP-7702",
+        "ro": "EIP-7702",
+        "hu": "EIP-7702",
+        "el": "EIP-7702",
+        "lt": "EIP-7702",
+        "ja": "EIP-7702"
+    },
+    "elasticity": {
+        "en": "Elasticity"
+    },
+    "encryption": {
+        "en": "Encryption"
+    },
+    "endogenous-variable": {
+        "en": "Endogenous Variable"
+    },
+    "enterprise-ethereum-alliance-(eea)": {
+        "en": "Enterprise Ethereum Alliance (EEA)"
+    },
+    "erc-1155": {
+        "en": "ERC-1155",
+        "it": "ERC-1155",
+        "fr": "ERC-1155",
+        "es": "ERC-1155",
+        "zh-CN": "ERC-1155",
+        "vi": "ERC-1155",
+        "ar": "ERC-1155",
+        "pt": "ERC-1155",
+        "id": "ERC-1155",
+        "cs": "ERC-1155",
+        "bg": "ERC-1155",
+        "lv": "ERC-1155",
+        "sv": "ERC-1155",
+        "sk": "ERC-1155",
+        "et": "ERC-1155",
+        "ro": "ERC-1155",
+        "hu": "ERC-1155",
+        "el": "ERC-1155",
+        "lt": "ERC-1155",
+        "ja": "ERC-1155"
+    },
+    "erc-20": {
+        "en": "ERC-20"
+    },
+    "erc-404": {
+        "en": "ERC-404",
+        "it": "ERC-404",
+        "fr": "ERC-404",
+        "es": "ERC-404",
+        "zh-CN": "ERC-404",
+        "vi": "ERC-404",
+        "pt": "ERC-404",
+        "id": "ERC-404",
+        "cs": "ERC-404",
+        "bg": "ERC-404",
+        "lv": "ERC-404",
+        "sv": "ERC-404",
+        "sk": "ERC-404",
+        "et": "ERC-404",
+        "ro": "ERC-404",
+        "hu": "ERC-404",
+        "el": "ERC-404",
+        "lt": "ERC-404"
+    },
+    "erc-721": {
+        "en": "ERC-721"
+    },
+    "etf": {
+        "en": "ETF",
+        "it": "ETF",
+        "fr": "ETF",
+        "es": "ETF",
+        "vi": "ETF",
+        "pt": "ETF",
+        "id": "ETF",
+        "cs": "ETF",
+        "bg": "ETF",
+        "sv": "ETF",
+        "sk": "ETF",
+        "et": "ETF",
+        "ro": "ETF",
+        "hu": "ETF",
+        "lt": "ETF"
+    },
+    "ethereum-classic": {
+        "en": "Ethereum Classic",
+        "it": "Ethereum Classic",
+        "fr": "Ethereum Classic",
+        "es": "Ethereum Classic",
+        "vi": "Ethereum Classic",
+        "ar": "Ethereum Classic",
+        "pt": "Ethereum Classic",
+        "id": "Ethereum Classic",
+        "cs": "Ethereum Classic",
+        "bg": "Ethereum Classic",
+        "lv": "Ethereum Classic",
+        "sv": "Ethereum Classic",
+        "sk": "Ethereum Classic",
+        "et": "Ethereum Classic",
+        "ro": "Ethereum Classic",
+        "hu": "Ethereum Classic",
+        "el": "Ethereum Classic",
+        "lt": "Ethereum Classic",
+        "ja": "Ethereum Classic"
+    },
+    "ethereum-foundation": {
+        "en": "Ethereum Foundation",
+        "it": "Ethereum Foundation",
+        "vi": "Ethereum Foundation",
+        "pt": "Ethereum Foundation",
+        "id": "Ethereum Foundation",
+        "bg": "Ethereum Foundation",
+        "lv": "Ethereum Foundation",
+        "el": "Ethereum Foundation"
+    },
+    "ethereum-virtual-machine-(evm)": {
+        "en": "Ethereum Virtual Machine (EVM)",
+        "it": "Ethereum Virtual Machine (EVM)",
+        "es": "Ethereum Virtual Machine (EVM)",
+        "pt": "Ethereum Virtual Machine (EVM)",
+        "hu": "Ethereum Virtual Machine (EVM)"
+    },
+    "exchange": {
+        "en": "Exchange"
+    },
+    "exogenous-variable": {
+        "en": "Exogenous Variable"
+    },
+    "exponential-moving-average-(ema)": {
+        "en": "Exponential Moving Average (EMA)",
+        "it": "Exponential Moving Average (EMA)",
+        "id": "Exponential Moving Average (EMA)"
+    },
+    "externally-owned-account-(eoa)": {
+        "en": "Externally Owned Account (EOA)",
+        "id": "Externally Owned Account (EOA)"
+    },
+    "fakeout": {
+        "en": "Fakeout"
+    },
+    "falling-knife": {
+        "en": "Falling Knife"
+    },
+    "fan-tokens": {
+        "en": "Fan Tokens"
+    },
+    "fear-of-missing-out-(fomo)": {
+        "en": "Fear Of Missing Out (FOMO)"
+    },
+    "fear,-uncertainty-and-doubt-(fud)": {
+        "en": "Fear, Uncertainty and Doubt (FUD)"
+    },
+    "fiat": {
+        "en": "Fiat"
+    },
+    "fibonacci-retracement": {
+        "en": "Fibonacci Retracement"
+    },
+    "fill-or-kill-order-(fok)": {
+        "en": "Fill Or Kill Order (FOK)"
+    },
+    "finality": {
+        "en": "Finality"
+    },
+    "first-mover-advantage-(fma)": {
+        "en": "First-Mover Advantage (FMA)"
+    },
+    "fiscal-policy": {
+        "en": "Fiscal Policy"
+    },
+    "flappening": {
+        "en": "Flappening"
+    },
+    "flashbots": {
+        "en": "Flashbots",
+        "it": "Flashbots",
+        "fr": "Flashbots",
+        "es": "Flashbots",
+        "zh-CN": "Flashbots",
+        "vi": "Flashbots",
+        "ar": "Flashbots",
+        "pt": "Flashbots",
+        "id": "Flashbots",
+        "cs": "Flashbots",
+        "bg": "Flashbots",
+        "lv": "Flashbots",
+        "sv": "Flashbots",
+        "sk": "Flashbots",
+        "et": "Flashbots",
+        "ro": "Flashbots",
+        "hu": "Flashbots",
+        "lt": "Flashbots"
+    },
+    "flippening": {
+        "en": "Flippening"
+    },
+    "flow-variable": {
+        "en": "Flow Variable"
+    },
+    "forced-liquidation": {
+        "en": "Forced Liquidation"
+    },
+    "forex-(fx)": {
+        "en": "Forex (FX)"
+    },
+    "fork": {
+        "en": "Fork",
+        "it": "Fork",
+        "fr": "Fork",
+        "es": "Fork",
+        "vi": "Fork",
+        "pt": "Fork",
+        "id": "Fork",
+        "cs": "Fork",
+        "sv": "Fork",
+        "sk": "Fork",
+        "ro": "Fork",
+        "hu": "Fork",
+        "el": "Fork"
+    },
+    "formal-verification": {
+        "en": "Formal Verification"
+    },
+    "fraud-proof": {
+        "en": "Fraud Proof",
+        "it": "Fraud proof"
+    },
+    "fren": {
+        "en": "Fren",
+        "it": "Fren",
+        "fr": "Fren",
+        "es": "Fren",
+        "zh-CN": "Fren",
+        "vi": "Fren",
+        "pt": "Fren",
+        "id": "Fren",
+        "cs": "Fren",
+        "bg": "Fren",
+        "lv": "Fren",
+        "sv": "Fren",
+        "sk": "Fren",
+        "et": "Fren",
+        "ro": "Fren",
+        "hu": "Fren",
+        "el": "Fren",
+        "lt": "Fren"
+    },
+    "full-node": {
+        "en": "Full Node"
+    },
+    "fully-diluted-valuation-(fdv)": {
+        "en": "Fully Diluted Valuation (FDV)"
+    },
+    "fundamental-analysis-(fa)": {
+        "en": "Fundamental Analysis (FA)",
+        "zh-CN": "Fundamental Analysis (FA)"
+    },
+    "funding-fees": {
+        "en": "Funding Fees"
+    },
+    "fungibility": {
+        "en": "Fungibility"
+    },
+    "futures-contract": {
+        "en": "Futures Contract"
+    },
+    "gamefi": {
+        "en": "GameFi",
+        "it": "GameFi",
+        "fr": "GameFi",
+        "es": "GameFi",
+        "zh-CN": "GameFi",
+        "vi": "GameFi",
+        "pt": "GameFi",
+        "id": "GameFi",
+        "cs": "GameFi",
+        "bg": "GameFi",
+        "lv": "GameFi",
+        "sv": "GameFi",
+        "sk": "GameFi",
+        "et": "GameFi",
+        "ro": "GameFi",
+        "hu": "GameFi",
+        "el": "GameFi",
+        "lt": "GameFi",
+        "ja": "GameFi"
+    },
+    "gas": {
+        "en": "Gas",
+        "it": "Gas",
+        "fr": "Gas",
+        "es": "Gas",
+        "zh-CN": "Gas",
+        "vi": "Gas",
+        "pt": "Gas",
+        "id": "Gas",
+        "sv": "Gas",
+        "sk": "Gas",
+        "el": "Gas"
+    },
+    "gas-limit": {
+        "en": "Gas Limit"
+    },
+    "gdp-deflator": {
+        "en": "GDP Deflator",
+        "lt": "GDP Deflator"
+    },
+    "general-public-license": {
+        "en": "General Public License"
+    },
+    "genesis-block": {
+        "en": "Genesis Block"
+    },
+    "github": {
+        "en": "GitHub"
+    },
+    "gm-(good-morning)": {
+        "en": "GM (Good Morning)",
+        "it": "GM (Good Morning)",
+        "fr": "GM (Good Morning)",
+        "es": "GM (Good Morning)",
+        "pt": "GM (Good Morning)",
+        "id": "GM (Good Morning)",
+        "cs": "GM (Good Morning)",
+        "ro": "GM (Good Morning)"
+    },
+    "golden-cross": {
+        "en": "Golden Cross"
+    },
+    "golden-ratio": {
+        "en": "Golden Ratio"
+    },
+    "goldilocks": {
+        "en": "Goldilocks",
+        "it": "Goldilocks",
+        "vi": "Goldilocks",
+        "pt": "Goldilocks",
+        "id": "Goldilocks",
+        "cs": "Goldilocks",
+        "bg": "Goldilocks",
+        "ro": "Goldilocks",
+        "hu": "Goldilocks",
+        "el": "Goldilocks"
+    },
+    "gossip-protocol": {
+        "en": "Gossip Protocol"
+    },
+    "gross-domestic-product-(gdp)": {
+        "en": "Gross Domestic Product (GDP)"
+    },
+    "gwei": {
+        "en": "Gwei",
+        "it": "Gwei",
+        "fr": "Gwei",
+        "es": "Gwei",
+        "zh-CN": "Gwei",
+        "vi": "Gwei",
+        "ar": "Gwei",
+        "pt": "Gwei",
+        "id": "Gwei",
+        "cs": "Gwei",
+        "bg": "Gwei",
+        "lv": "Gwei",
+        "sv": "Gwei",
+        "sk": "Gwei",
+        "et": "Gwei",
+        "ro": "Gwei",
+        "hu": "Gwei",
+        "el": "Gwei",
+        "lt": "Gwei"
+    },
+    "hackathon": {
+        "en": "Hackathon"
+    },
+    "hacker": {
+        "en": "Hacker"
+    },
+    "haha-money-printer-go-brrrrr": {
+        "en": "Haha Money Printer Go Brrrrr"
+    },
+    "halving": {
+        "en": "Halving",
+        "it": "Halving",
+        "fr": "Halving",
+        "es": "Halving",
+        "vi": "Halving",
+        "pt": "Halving",
+        "id": "Halving",
+        "sk": "Halving",
+        "ro": "Halving"
+    },
+    "hard-cap": {
+        "en": "Hard Cap"
+    },
+    "hard-landing": {
+        "en": "Hard Landing",
+        "it": "Hard landing",
+        "fr": "Hard Landing",
+        "pt": "Hard landing",
+        "id": "Hard Landing",
+        "ro": "Hard Landing",
+        "hu": "Hard Landing"
+    },
+    "hash": {
+        "en": "Hash"
+    },
+    "hash-rate": {
+        "en": "Hash Rate"
+    },
+    "hashed-timelock-contract-(htlc)": {
+        "en": "Hashed TimeLock Contract (HTLC)"
+    },
+    "herd-instinct": {
+        "en": "Herd Instinct"
+    },
+    "high-frequency-trading-(hft)": {
+        "en": "High-Frequency Trading (HFT)"
+    },
+    "hodl": {
+        "en": "HODL"
+    },
+    "honeypot": {
+        "en": "Honeypot"
+    },
+    "iceberg-order": {
+        "en": "Iceberg Order"
+    },
+    "immutability": {
+        "en": "Immutability"
+    },
+    "index": {
+        "en": "Index"
+    },
+    "index-funds": {
+        "en": "Index Funds"
+    },
+    "initial-coin-offering-(ico)": {
+        "en": "Initial Coin Offering (ICO)"
+    },
+    "initial-dex-offering-(ido)": {
+        "en": "Initial DEX Offering (IDO)",
+        "it": "Initial Dex Offering (IDO)",
+        "pt": "Initial DEX Offering (IDO)",
+        "et": "Initial DEX offering (IDO)"
+    },
+    "initial-exchange-offering-(ieo)": {
+        "en": "Initial Exchange Offering (IEO)"
+    },
+    "initial-public-offering-(ipo)": {
+        "en": "Initial Public Offering (IPO)"
+    },
+    "inscription": {
+        "en": "Inscription",
+        "it": "Inscription",
+        "fr": "Inscription",
+        "vi": "Inscription",
+        "el": "Inscription"
+    },
+    "integrated-circuit-(ic)": {
+        "en": "Integrated Circuit (IC)"
+    },
+    "interest-rates": {
+        "en": "Interest Rates"
+    },
+    "interoperability": {
+        "en": "Interoperability"
+    },
+    "interplanetary-file-system-(ipfs)": {
+        "en": "InterPlanetary File System (IPFS)"
+    },
+    "iou": {
+        "en": "IOU",
+        "it": "IOU",
+        "vi": "IOU",
+        "pt": "IOU",
+        "id": "IOU",
+        "bg": "IOU",
+        "sv": "IOU",
+        "sk": "IOU",
+        "et": "IOU",
+        "ro": "IOU",
+        "hu": "IOU",
+        "lt": "IOU"
+    },
+    "isolated-margin": {
+        "en": "Isolated Margin"
+    },
+    "issuance": {
+        "en": "Issuance"
+    },
+    "keccak": {
+        "en": "Keccak",
+        "it": "Keccak",
+        "fr": "Keccak",
+        "es": "Keccak",
+        "zh-CN": "Keccak",
+        "vi": "Keccak",
+        "ar": "Keccak",
+        "pt": "Keccak",
+        "id": "Keccak",
+        "cs": "Keccak",
+        "bg": "Keccak",
+        "lv": "Keccak",
+        "sv": "Keccak",
+        "sk": "Keccak",
+        "et": "Keccak",
+        "ro": "Keccak",
+        "hu": "Keccak",
+        "el": "Keccak",
+        "lt": "Keccak",
+        "ja": "Keccak"
+    },
+    "know-your-customer-(kyc)": {
+        "en": "Know Your Customer (KYC)",
+        "it": "Know Your Customer (KYC)",
+        "fr": "Know Your Customer (KYC)",
+        "es": "Know Your Customer (KYC)",
+        "pt": "Know Your Customer (KYC)"
+    },
+    "laspeyres-index": {
+        "en": "Laspeyres Index",
+        "sv": "Laspeyres Index"
+    },
+    "latency": {
+        "en": "Latency"
+    },
+    "law-of-demand": {
+        "en": "Law of Demand"
+    },
+    "layer-2": {
+        "en": "Layer 2"
+    },
+    "ledger": {
+        "en": "Ledger"
+    },
+    "leveraged-tokens": {
+        "en": "Leveraged Tokens"
+    },
+    "library": {
+        "en": "Library"
+    },
+    "lightning-network": {
+        "en": "Lightning Network"
+    },
+    "limit-order": {
+        "en": "Limit Order",
+        "id": "Limit Order"
+    },
+    "linux": {
+        "en": "Linux"
+    },
+    "liquid-staking": {
+        "en": "Liquid Staking",
+        "it": "Liquid Staking",
+        "vi": "Liquid Staking"
+    },
+    "liquid-staking-token-(lst)": {
+        "en": "Liquid Staking Token (LST)",
+        "it": "Liquid Staking Token (LST)"
+    },
+    "liquidity": {
+        "en": "Liquidity"
+    },
+    "liquidity-crisis": {
+        "en": "Liquidity Crisis"
+    },
+    "liquidity-provider": {
+        "en": "Liquidity Provider"
+    },
+    "liquidity-ratios": {
+        "en": "Liquidity Ratios"
+    },
+    "listing": {
+        "en": "Listing"
+    },
+    "mainnet": {
+        "en": "Mainnet",
+        "it": "Mainnet",
+        "es": "Mainnet",
+        "vi": "Mainnet",
+        "id": "Mainnet",
+        "cs": "Mainnet",
+        "bg": "Mainnet",
+        "et": "Mainnet",
+        "ro": "Mainnet",
+        "hu": "Mainnet",
+        "el": "Mainnet"
+    },
+    "mainnet-swap": {
+        "en": "Mainnet Swap"
+    },
+    "maker": {
+        "en": "Maker"
+    },
+    "malware": {
+        "en": "Malware"
+    },
+    "margin-trading": {
+        "en": "Margin Trading"
+    },
+    "market-capitalization": {
+        "en": "Market Capitalization"
+    },
+    "market-momentum": {
+        "en": "Market Momentum"
+    },
+    "market-order": {
+        "en": "Market Order",
+        "id": "Market Order"
+    },
+    "masternode": {
+        "en": "Masternode"
+    },
+    "matching-engine": {
+        "en": "Matching Engine"
+    },
+    "maximum-supply": {
+        "en": "Maximum Supply"
+    },
+    "mempool": {
+        "en": "Mempool"
+    },
+    "merged-mining": {
+        "en": "Merged Mining"
+    },
+    "merkle-tree": {
+        "en": "Merkle Tree",
+        "it": "Merkle Tree",
+        "pt": "Merkle Tree",
+        "id": "Merkle Tree",
+        "el": "Merkle tree"
+    },
+    "metadata": {
+        "en": "Metadata"
+    },
+    "metaverse": {
+        "en": "Metaverse",
+        "fr": "Metaverse",
+        "vi": "Metaverse",
+        "id": "Metaverse",
+        "sv": "Metaverse"
+    },
+    "microtransactions": {
+        "en": "Microtransactions",
+        "fr": "Microtransactions"
+    },
+    "mining": {
+        "en": "Mining",
+        "it": "Mining",
+        "id": "Mining"
+    },
+    "mining-farm": {
+        "en": "Mining Farm"
+    },
+    "minting": {
+        "en": "Minting",
+        "it": "Minting",
+        "pt": "Minting"
+    },
+    "monetary-policy": {
+        "en": "Monetary Policy"
+    },
+    "money-markets": {
+        "en": "Money Markets"
+    },
+    "monitoring-tag": {
+        "en": "Monitoring Tag"
+    },
+    "moon": {
+        "en": "Moon"
+    },
+    "moving-average-envelopes": {
+        "en": "Moving Average Envelopes"
+    },
+    "moving-average-ribbon": {
+        "en": "Moving Average Ribbon"
+    },
+    "mt.-gox": {
+        "en": "Mt. Gox",
+        "it": "Mt. Gox",
+        "fr": "Mt. Gox",
+        "es": "Mt. Gox",
+        "zh-CN": "Mt. Gox",
+        "vi": "Mt. Gox",
+        "pt": "Mt. Gox",
+        "id": "Mt. Gox",
+        "cs": "Mt. Gox",
+        "bg": "Mt. Gox",
+        "lv": "Mt. Gox",
+        "sv": "Mt. Gox",
+        "sk": "Mt. Gox",
+        "et": "Mt. Gox",
+        "ro": "Mt. Gox",
+        "hu": "Mt. Gox",
+        "el": "Mt. Gox",
+        "lt": "Mt. Gox"
+    },
+    "multisignature": {
+        "en": "Multisignature"
+    },
+    "nakamoto-consensus": {
+        "en": "Nakamoto Consensus",
+        "id": "Nakamoto Consensus"
+    },
+    "net-asset-value-(nav)": {
+        "en": "Net Asset Value (NAV)"
+    },
+    "nft-floor-prices": {
+        "en": "NFT Floor Prices"
+    },
+    "nft-mystery-boxes": {
+        "en": "NFT Mystery Boxes"
+    },
+    "ngmi": {
+        "en": "NGMI",
+        "it": "NGMI",
+        "fr": "NGMI",
+        "es": "NGMI",
+        "zh-CN": "NGMI",
+        "vi": "NGMI",
+        "ar": "NGMI",
+        "pt": "NGMI",
+        "id": "NGMI",
+        "cs": "NGMI",
+        "bg": "NGMI",
+        "lv": "NGMI",
+        "sv": "NGMI",
+        "sk": "NGMI",
+        "et": "NGMI",
+        "ro": "NGMI",
+        "hu": "NGMI",
+        "el": "NGMI",
+        "lt": "NGMI",
+        "ja": "NGMI"
+    },
+    "node": {
+        "en": "Node"
+    },
+    "non-fungible-token-(nft)": {
+        "en": "Non-Fungible Token (NFT)",
+        "vi": "Non-fungible token (NFT)",
+        "id": "Non-Fungible Token (NFT)",
+        "el": "Non-Fungible Token (NFT)"
+    },
+    "nonce": {
+        "en": "Nonce"
+    },
+    "oco-order": {
+        "en": "OCO Order"
+    },
+    "off-chain": {
+        "en": "Off-Chain",
+        "it": "Off-chain",
+        "vi": "Off-Chain",
+        "pt": "Off-chain",
+        "id": "Off-Chain",
+        "bg": "Off-Chain",
+        "ro": "Off-Chain",
+        "hu": "Off-Chain"
+    },
+    "offline-signing-orchestrator-(oso)": {
+        "en": "Offline Signing Orchestrator (OSO)",
+        "it": "Offline Signing Orchestrator (OSO)",
+        "es": "Offline Signing Orchestrator (OSO)",
+        "zh-CN": "Offline Signing Orchestrator (OSO)",
+        "pt": "Offline Signing Orchestrator (OSO)",
+        "id": "Offline Signing Orchestrator (OSO)",
+        "bg": "Offline Signing Orchestrator (OSO)",
+        "sv": "Offline Signing Orchestrator (OSO)",
+        "et": "Offline Signing Orchestrator (OSO)",
+        "ro": "Offline Signing Orchestrator (OSO)",
+        "hu": "Offline Signing Orchestrator (OSO)",
+        "el": "Offline Signing Orchestrator (OSO)",
+        "ja": "Offline Signing Orchestrator (OSO)"
+    },
+    "offshore-account": {
+        "en": "Offshore account"
+    },
+    "on-chain": {
+        "en": "On-Chain",
+        "it": "On-chain",
+        "vi": "On-Chain",
+        "pt": "On-chain",
+        "id": "On-Chain",
+        "bg": "On-Chain",
+        "sk": "On-chain",
+        "ro": "On-chain",
+        "hu": "On-chain"
+    },
+    "opbnb": {
+        "en": "opBNB",
+        "it": "opBNB",
+        "fr": "opBNB",
+        "es": "opBNB",
+        "zh-CN": "opBNB",
+        "vi": "opBNB",
+        "ar": "opBNB",
+        "pt": "opBNB",
+        "id": "opBNB",
+        "cs": "opBNB",
+        "bg": "opBNB",
+        "lv": "opBNB",
+        "sv": "opBNB",
+        "sk": "opBNB",
+        "et": "opBNB",
+        "ro": "opBNB",
+        "hu": "opBNB",
+        "el": "opBNB",
+        "lt": "opBNB"
+    },
+    "open-source-software-(oss)": {
+        "en": "Open-Source Software (OSS)"
+    },
+    "opportunity-cost": {
+        "en": "Opportunity Cost"
+    },
+    "oracle": {
+        "en": "Oracle"
+    },
+    "orc-20-tokens": {
+        "en": "ORC-20 Tokens"
+    },
+    "order-book": {
+        "en": "Order Book",
+        "it": "Order book"
+    },
+    "ordinals": {
+        "en": "Ordinals",
+        "it": "Ordinals",
+        "fr": "Ordinals",
+        "es": "Ordinals",
+        "vi": "Ordinals",
+        "ar": "Ordinals",
+        "pt": "Ordinals",
+        "bg": "Ordinals",
+        "lv": "Ordinals",
+        "sv": "Ordinals",
+        "sk": "Ordinals",
+        "ro": "Ordinals",
+        "hu": "Ordinals"
+    },
+    "orphan-block": {
+        "en": "Orphan Block"
+    },
+    "pancakeswap": {
+        "en": "PancakeSwap",
+        "it": "PancakeSwap",
+        "fr": "PancakeSwap",
+        "es": "PancakeSwap",
+        "zh-CN": "PancakeSwap",
+        "vi": "PancakeSwap",
+        "ar": "PancakeSwap",
+        "pt": "PancakeSwap",
+        "id": "PancakeSwap",
+        "cs": "PancakeSwap",
+        "bg": "PancakeSwap",
+        "lv": "PancakeSwap",
+        "sv": "PancakeSwap",
+        "sk": "PancakeSwap",
+        "et": "PancakeSwap",
+        "ro": "PancakeSwap",
+        "hu": "PancakeSwap",
+        "el": "PancakeSwap",
+        "lt": "PancakeSwap",
+        "ja": "PancakeSwap"
+    },
+    "paper-wallet": {
+        "en": "Paper Wallet"
+    },
+    "parallelization": {
+        "en": "Parallelization",
+        "vi": "Parallelization"
+    },
+    "passive-management": {
+        "en": "Passive Management"
+    },
+    "peer-to-peer-(p2p)": {
+        "en": "Peer-to-Peer (P2P)"
+    },
+    "pegged-currency": {
+        "en": "Pegged Currency"
+    },
+    "permissionless-blockchain": {
+        "en": "Permissionless Blockchain",
+        "id": "Permissionless Blockchain"
+    },
+    "phishing": {
+        "en": "Phishing"
+    },
+    "plasma": {
+        "en": "Plasma"
+    },
+    "polkadot-crowdloan": {
+        "en": "Polkadot Crowdloan"
+    },
+    "ponzi-scheme": {
+        "en": "Ponzi Scheme"
+    },
+    "premining": {
+        "en": "Premining",
+        "it": "Premining",
+        "id": "Premining"
+    },
+    "price-action": {
+        "en": "Price Action"
+    },
+    "prisoner's-dilemma": {
+        "en": "Prisoner's Dilemma"
+    },
+    "private-key": {
+        "en": "Private Key"
+    },
+    "private-sale": {
+        "en": "Private Sale"
+    },
+    "progressive-web-application-(pwa)": {
+        "en": "Progressive Web application (PWA)"
+    },
+    "proof-of-attendance-protocol-(poap)": {
+        "en": "Proof of Attendance Protocol (POAP)"
+    },
+    "proof-of-reserves-(por)": {
+        "en": "Proof of Reserves (PoR)",
+        "pt": "Proof of Reserves (PoR)",
+        "id": "Proof of Reserves (PoR)",
+        "ro": "Proof of Reserves (PoR)",
+        "hu": "Proof of Reserves (PoR)",
+        "el": "Proof of Reserves (PoR)"
+    },
+    "proof-of-stake-(pos)": {
+        "en": "Proof of Stake (PoS)"
+    },
+    "proof-of-staked-authority-(posa)": {
+        "en": "Proof of Staked Authority (PoSA)",
+        "it": "Proof of Staked Authority (PoSA)",
+        "es": "Proof of Staked Authority (PoSA)",
+        "vi": "Proof of Staked Authority (PoSA)",
+        "pt": "Proof of Staked Authority (PoSA)",
+        "id": "Proof of Staked Authority (PoSA)",
+        "cs": "Proof of Staked Authority (PoSA)",
+        "sk": "Proof of Staked Authority (PoSA)",
+        "ro": "Proof of Staked Authority (PoSA)",
+        "hu": "Proof of Staked Authority (PoSA)",
+        "el": "Proof of Staked Authority (PoSA)",
+        "ja": "Proof of Staked Authority (PoSA)"
+    },
+    "proof-of-work-(pow)": {
+        "en": "Proof of Work (PoW)"
+    },
+    "proposer-builder-separation-(pbs)": {
+        "en": "Proposer-Builder Separation (PBS)"
+    },
+    "proto-danksharding": {
+        "en": "Proto-Danksharding",
+        "it": "Proto-danksharding",
+        "fr": "Proto-Danksharding",
+        "es": "Proto-danksharding",
+        "zh-CN": "Proto-Danksharding",
+        "vi": "Proto-Danksharding",
+        "pt": "Proto-danksharding",
+        "id": "Proto-Danksharding",
+        "cs": "Proto-danksharding",
+        "sk": "Proto-Danksharding",
+        "et": "Proto-Danksharding",
+        "hu": "Proto-Danksharding",
+        "el": "Proto-Danksharding",
+        "lt": "Proto-Danksharding"
+    },
+    "pseudorandom": {
+        "en": "Pseudorandom"
+    },
+    "public-key": {
+        "en": "Public Key"
+    },
+    "pump-and-dump": {
+        "en": "Pump-and-dump",
+        "fr": "Pump-and-dump",
+        "es": "Pump-and-dump",
+        "id": "Pump-and-dump",
+        "bg": "Pump-and-dump",
+        "sk": "Pump-and-dump",
+        "ro": "Pump-and-dump",
+        "hu": "Pump-and-dump"
+    },
+    "quantitative-easing-(qe)": {
+        "en": "Quantitative Easing (QE)",
+        "it": "Quantitative easing (QE)",
+        "hu": "Quantitative Easing (QE)"
+    },
+    "quantitative-tightening-(qt)": {
+        "en": "Quantitative Tightening (QT)",
+        "it": "Quantitative tightening (QT)"
+    },
+    "quantum-computing": {
+        "en": "Quantum Computing"
+    },
+    "race-attack": {
+        "en": "Race attack"
+    },
+    "ransomware": {
+        "en": "Ransomware"
+    },
+    "real-world-assets-(rwas)": {
+        "en": "Real World Assets (RWAs)"
+    },
+    "recession": {
+        "en": "Recession"
+    },
+    "recursive-inscription": {
+        "en": "Recursive Inscription",
+        "pt": "Recursive Inscription"
+    },
+    "rekt": {
+        "en": "Rekt"
+    },
+    "relative-strength-index-(rsi)": {
+        "en": "Relative Strength Index (RSI)"
+    },
+    "resistance": {
+        "en": "Resistance"
+    },
+    "return-on-investment-(roi)": {
+        "en": "Return on Investment (ROI)"
+    },
+    "revenge-trading": {
+        "en": "Revenge Trading",
+        "it": "Revenge trading",
+        "pt": "Revenge Trading",
+        "id": "Revenge Trading"
+    },
+    "risk-premium": {
+        "en": "Risk Premium"
+    },
+    "roadmap": {
+        "en": "Roadmap"
+    },
+    "routing-attack": {
+        "en": "Routing Attack"
+    },
+    "rug-pull": {
+        "en": "Rug pull"
+    },
+    "sahm-rule": {
+        "en": "Sahm Rule"
+    },
+    "sandwich-trading": {
+        "en": "Sandwich Trading",
+        "it": "Sandwich trading",
+        "pt": "Sandwich trading"
+    },
+    "satoshi": {
+        "en": "Satoshi"
+    },
+    "satoshi-nakamoto": {
+        "en": "Satoshi Nakamoto"
+    },
+    "secure-asset-fund-for-users-(safu)": {
+        "en": "Secure Asset Fund for Users (SAFU)",
+        "it": "Secure Asset fund for Users (SAFU)",
+        "es": "Secure Asset fund for Users (SAFU)",
+        "pt": "Secure Asset Fund for Users (SAFU)",
+        "sv": "Secure Asset Fund for Users (SAFU)",
+        "ro": "Secure Asset Fund for Users (SAFU)"
+    },
+    "securities-and-exchange-commission-(sec)": {
+        "en": "Securities and Exchange Commission (SEC)",
+        "it": "Securities and Exchange Commission (SEC)",
+        "fr": "Securities and Exchange Commission (SEC)",
+        "sv": "Securities and Exchange Commission (SEC)"
+    },
+    "security-audit": {
+        "en": "Security Audit"
+    },
+    "security-token-offering-(sto)": {
+        "en": "Security Token Offering (STO)",
+        "it": "Security Token Offering (STO)",
+        "pt": "Security Token Offering (STO)"
+    },
+    "seed-phrase": {
+        "en": "Seed Phrase"
+    },
+    "seed-tag": {
+        "en": "Seed Tag",
+        "pt": "Seed Tag"
+    },
+    "segregated-witness-(segwit)": {
+        "en": "Segregated Witness (SegWit)",
+        "it": "Segregated witness (SegWit)",
+        "es": "Segregated Witness (SegWit)",
+        "vi": "Segregated Witness (SegWit)",
+        "pt": "Segregated Witness (SegWit)",
+        "id": "Segregated Witness (SegWit)",
+        "cs": "Segregated witness (SegWit)",
+        "lv": "Segregated Witness (SegWit)",
+        "sk": "Segregated Witness (SegWit)",
+        "ro": "Segregated Witness (SegWit)",
+        "hu": "Segregated Witness (SegWit)",
+        "el": "Segregated Witness (SegWit)"
+    },
+    "selfish-mining": {
+        "en": "Selfish Mining"
+    },
+    "sell-wall": {
+        "en": "Sell Wall"
+    },
+    "sentiment": {
+        "en": "Sentiment"
+    },
+    "sharding": {
+        "en": "Sharding",
+        "it": "Sharding",
+        "vi": "Sharding",
+        "pt": "Sharding",
+        "id": "Sharding",
+        "cs": "Sharding",
+        "sk": "Sharding",
+        "hu": "Sharding",
+        "el": "Sharding"
+    },
+    "sharpe-ratio": {
+        "en": "Sharpe Ratio"
+    },
+    "sidechains": {
+        "en": "Sidechains",
+        "es": "Sidechains",
+        "pt": "Sidechains",
+        "ro": "Sidechains"
+    },
+    "simple-moving-average-(sma)": {
+        "en": "Simple Moving Average (SMA)",
+        "id": "Simple Moving Average (SMA)"
+    },
+    "slashing": {
+        "en": "Slashing",
+        "it": "Slashing",
+        "es": "Slashing",
+        "vi": "Slashing",
+        "pt": "Slashing",
+        "id": "Slashing",
+        "cs": "Slashing",
+        "sv": "Slashing",
+        "sk": "Slashing",
+        "ro": "Slashing",
+        "hu": "Slashing"
+    },
+    "slippage": {
+        "en": "Slippage",
+        "it": "Slippage",
+        "pt": "Slippage",
+        "id": "Slippage",
+        "ro": "Slippage"
+    },
+    "smart-contract": {
+        "en": "Smart Contract",
+        "it": "Smart contract",
+        "fr": "Smart contract",
+        "id": "Smart Contract"
+    },
+    "smart-contract-wallet": {
+        "en": "Smart Contract Wallet"
+    },
+    "snapshot": {
+        "en": "Snapshot"
+    },
+    "social-recovery-wallet": {
+        "en": "Social Recovery Wallet",
+        "it": "Social recovery wallet"
+    },
+    "social-trading": {
+        "en": "Social Trading",
+        "it": "Social trading",
+        "pt": "Social trading",
+        "el": "Social Trading"
+    },
+    "socialfi": {
+        "en": "SocialFi",
+        "it": "SocialFi",
+        "fr": "SocialFi",
+        "es": "SocialFi",
+        "zh-CN": "SocialFi",
+        "vi": "SocialFi",
+        "pt": "SocialFi",
+        "id": "SocialFi",
+        "cs": "SocialFi",
+        "bg": "SocialFi",
+        "lv": "SocialFi",
+        "sv": "SocialFi",
+        "sk": "SocialFi",
+        "et": "SocialFi",
+        "ro": "SocialFi",
+        "hu": "SocialFi",
+        "el": "SocialFi",
+        "lt": "SocialFi"
+    },
+    "soft-landing": {
+        "en": "Soft Landing",
+        "it": "Soft landing",
+        "fr": "Soft Landing",
+        "pt": "Soft landing",
+        "id": "Soft Landing",
+        "ro": "Soft landing",
+        "hu": "Soft Landing"
+    },
+    "solidity": {
+        "en": "Solidity",
+        "it": "Solidity",
+        "fr": "Solidity",
+        "es": "Solidity",
+        "zh-CN": "Solidity",
+        "vi": "Solidity",
+        "ar": "Solidity",
+        "pt": "Solidity",
+        "id": "Solidity",
+        "cs": "Solidity",
+        "bg": "Solidity",
+        "lv": "Solidity",
+        "sv": "Solidity",
+        "sk": "Solidity",
+        "et": "Solidity",
+        "ro": "Solidity",
+        "hu": "Solidity",
+        "el": "Solidity",
+        "lt": "Solidity",
+        "ja": "Solidity"
+    },
+    "source-code": {
+        "en": "Source Code"
+    },
+    "spl": {
+        "en": "SPL",
+        "it": "SPL",
+        "fr": "SPL",
+        "es": "SPL",
+        "zh-CN": "SPL",
+        "vi": "SPL",
+        "pt": "SPL",
+        "id": "SPL",
+        "cs": "SPL",
+        "bg": "SPL",
+        "lv": "SPL",
+        "sv": "SPL",
+        "sk": "SPL",
+        "et": "SPL",
+        "ro": "SPL",
+        "hu": "SPL",
+        "el": "SPL",
+        "lt": "SPL",
+        "ja": "SPL"
+    },
+    "src-20-tokens": {
+        "en": "SRC-20 Tokens"
+    },
+    "stablecoin": {
+        "en": "Stablecoin",
+        "it": "Stablecoin",
+        "fr": "Stablecoin",
+        "es": "Stablecoin",
+        "vi": "Stablecoin",
+        "pt": "Stablecoin",
+        "id": "Stablecoin",
+        "cs": "Stablecoin",
+        "sk": "Stablecoin",
+        "el": "Stablecoin"
+    },
+    "stagflation": {
+        "en": "Stagflation",
+        "fr": "Stagflation",
+        "sv": "Stagflation"
+    },
+    "staking-pool": {
+        "en": "Staking Pool"
+    },
+    "state-channel": {
+        "en": "State Channel"
+    },
+    "steth": {
+        "en": "stETH",
+        "it": "stETH",
+        "fr": "stETH",
+        "es": "stETH",
+        "zh-CN": "stETH",
+        "vi": "stETH",
+        "ar": "stETH",
+        "pt": "stETH",
+        "id": "stETH",
+        "cs": "stETH",
+        "bg": "stETH",
+        "lv": "stETH",
+        "sv": "stETH",
+        "sk": "stETH",
+        "et": "stETH",
+        "ro": "stETH",
+        "hu": "stETH",
+        "el": "stETH",
+        "lt": "stETH",
+        "ja": "stETH"
+    },
+    "stock-variable": {
+        "en": "Stock Variable"
+    },
+    "store-of-value": {
+        "en": "Store of Value"
+    },
+    "supercomputer": {
+        "en": "Supercomputer"
+    },
+    "supply-chain": {
+        "en": "Supply Chain"
+    },
+    "support": {
+        "en": "Support"
+    },
+    "sybil-attack": {
+        "en": "Sybil Attack"
+    },
+    "taker": {
+        "en": "Taker"
+    },
+    "tank": {
+        "en": "Tank"
+    },
+    "testnet": {
+        "en": "Testnet",
+        "it": "Testnet",
+        "es": "Testnet",
+        "vi": "Testnet",
+        "pt": "Testnet",
+        "id": "Testnet",
+        "bg": "Testnet",
+        "lv": "Testnet",
+        "sv": "Testnet",
+        "ro": "Testnet",
+        "hu": "Testnet",
+        "el": "Testnet"
+    },
+    "ticker": {
+        "en": "Ticker",
+        "cs": "Ticker"
+    },
+    "ticker-symbol": {
+        "en": "Ticker Symbol"
+    },
+    "token": {
+        "en": "Token"
+    },
+    "token-generation-event-(tge)": {
+        "en": "Token Generation Event (TGE)"
+    },
+    "token-lockup": {
+        "en": "Token Lockup"
+    },
+    "token-merge": {
+        "en": "Token Merge",
+        "it": "Token merge"
+    },
+    "token-sale": {
+        "en": "Token Sale"
+    },
+    "token-standards": {
+        "en": "Token Standards"
+    },
+    "tokenization": {
+        "en": "Tokenization"
+    },
+    "tokenomics": {
+        "en": "Tokenomics",
+        "it": "Tokenomics",
+        "es": "Tokenomics",
+        "vi": "Tokenomics",
+        "id": "Tokenomics",
+        "ro": "Tokenomics",
+        "el": "Tokenomics"
+    },
+    "total-supply": {
+        "en": "Total Supply"
+    },
+    "total-value-locked-(tvl)": {
+        "en": "Total Value Locked (TVL)",
+        "sv": "Total Value Locked (TVL)"
+    },
+    "tradfi": {
+        "en": "TradFi"
+    },
+    "transaction-id-(txid)": {
+        "en": "Transaction ID (TXID)"
+    },
+    "transactions-per-second-(tps)": {
+        "en": "Transactions Per Second (TPS)"
+    },
+    "treasury-bills-(t-bills)": {
+        "en": "Treasury Bills (T-Bills)"
+    },
+    "trueusd-(tusd)": {
+        "en": "TrueUSD (TUSD)",
+        "it": "TrueUSD (TUSD)",
+        "fr": "TrueUSD (TUSD)",
+        "es": "TrueUSD (TUSD)",
+        "zh-CN": "TrueUSD (TUSD)",
+        "vi": "TrueUSD (TUSD)",
+        "ar": "TrueUSD (TUSD)",
+        "pt": "TrueUSD (TUSD)",
+        "id": "TrueUSD (TUSD)",
+        "cs": "TrueUSD (TUSD)",
+        "bg": "TrueUSD (TUSD)",
+        "lv": "TrueUSD (TUSD)",
+        "sv": "TrueUSD (TUSD)",
+        "sk": "TrueUSD (TUSD)",
+        "et": "TrueUSD (TUSD)",
+        "ro": "TrueUSD (TUSD)",
+        "hu": "TrueUSD (TUSD)",
+        "el": "TrueUSD (TUSD)",
+        "lt": "TrueUSD (TUSD)"
+    },
+    "trustless": {
+        "en": "Trustless"
+    },
+    "turing-complete": {
+        "en": "Turing Complete"
+    },
+    "understanding-cz’s-number-4": {
+        "en": "Understanding CZ’s Number 4"
+    },
+    "unit-of-account": {
+        "en": "Unit of Account"
+    },
+    "unspent-transaction-output-(utxo)": {
+        "en": "Unspent Transaction Output (UTXO)"
+    },
+    "user-interface-(ui)": {
+        "en": "User Interface (UI)"
+    },
+    "utility-token": {
+        "en": "Utility Token",
+        "it": "Utility token",
+        "pt": "Utility token"
+    },
+    "verification-code": {
+        "en": "Verification Code"
+    },
+    "virtual-machine": {
+        "en": "Virtual Machine"
+    },
+    "vladimir-club": {
+        "en": "Vladimir Club"
+    },
+    "volatility": {
+        "en": "Volatility"
+    },
+    "volume": {
+        "en": "Volume"
+    },
+    "wagmi": {
+        "en": "WAGMI",
+        "it": "WAGMI",
+        "fr": "WAGMI",
+        "es": "WAGMI",
+        "zh-CN": "WAGMI",
+        "vi": "WAGMI",
+        "pt": "WAGMI",
+        "id": "WAGMI",
+        "cs": "WAGMI",
+        "bg": "WAGMI",
+        "lv": "WAGMI",
+        "sv": "WAGMI",
+        "sk": "WAGMI",
+        "et": "WAGMI",
+        "ro": "WAGMI",
+        "hu": "WAGMI",
+        "el": "WAGMI",
+        "lt": "WAGMI"
+    },
+    "wallet": {
+        "en": "Wallet"
+    },
+    "wash-trading": {
+        "en": "Wash Trading",
+        "it": "Wash trading",
+        "vi": "Wash Trading",
+        "pt": "Wash trading",
+        "id": "Wash Trading",
+        "cs": "Wash trading"
+    },
+    "weak-hands": {
+        "en": "Weak Hands"
+    },
+    "weak-subjectivity": {
+        "en": "Weak Subjectivity"
+    },
+    "web-1.0": {
+        "en": "Web 1.0"
+    },
+    "wei": {
+        "en": "Wei",
+        "it": "Wei",
+        "fr": "Wei",
+        "es": "Wei",
+        "zh-CN": "Wei",
+        "vi": "Wei",
+        "ar": "Wei",
+        "pt": "Wei",
+        "id": "Wei",
+        "cs": "Wei",
+        "bg": "Wei",
+        "lv": "Wei",
+        "sv": "Wei",
+        "sk": "Wei",
+        "et": "Wei",
+        "ro": "Wei",
+        "hu": "Wei",
+        "el": "Wei",
+        "lt": "Wei",
+        "ja": "Wei"
+    },
+    "weighted-moving-average-(wma)": {
+        "en": "Weighted Moving Average (WMA)",
+        "id": "Weighted Moving Average (WMA)"
+    },
+    "whale": {
+        "en": "Whale"
+    },
+    "whiskers": {
+        "en": "Whiskers"
+    },
+    "whitelist": {
+        "en": "Whitelist"
+    },
+    "wick": {
+        "en": "Wick"
+    },
+    "win-rate": {
+        "en": "Win Rate",
+        "it": "Win Rate"
+    },
+    "wrapped-ether-(weth)": {
+        "en": "Wrapped Ether (WETH)"
+    },
+    "wyckoff": {
+        "en": "Wyckoff",
+        "it": "Wyckoff",
+        "fr": "Wyckoff",
+        "vi": "Wyckoff",
+        "pt": "Wyckoff",
+        "id": "Wyckoff",
+        "sv": "Wyckoff",
+        "sk": "Wyckoff",
+        "et": "Wyckoff",
+        "ro": "Wyckoff",
+        "hu": "Wyckoff",
+        "el": "Wyckoff"
+    },
+    "yield-farming": {
+        "en": "Yield Farming",
+        "it": "Yield farming",
+        "pt": "Yield Farming"
+    },
+    "zero-knowledge-proofs": {
+        "en": "Zero-Knowledge Proofs",
+        "es": "Zero-Knowledge Proofs",
+        "pt": "Zero-Knowledge Proofs",
+        "ro": "Zero-Knowledge Proofs"
+    },
+    "zk-rollup": {
+        "en": "Zk-rollup",
+        "it": "Zk-rollup",
+        "fr": "Zk-rollup",
+        "es": "ZK-rollup",
+        "vi": "Zk-rollup",
+        "pt": "ZK-rollup",
+        "id": "Zk-rollup",
+        "cs": "Zk-rollup",
+        "sv": "Zk-rollup",
+        "et": "Zk-rollup",
+        "ro": "Zk-rollup",
+        "hu": "Zk-rollup",
+        "el": "Zk-rollup"
+    },
+    "zk-snarks": {
+        "en": "zk-SNARKs",
+        "fr": "zk-SNARKs",
+        "pt": "zk-SNARKs",
+        "sv": "zk-Snarks",
+        "ro": "zk-SNARKs",
+        "hu": "zk-SNARKs"
+    },
+    "zk-starks": {
+        "en": "zk-STARKs",
+        "fr": "zk-STARKs",
+        "pt": "zk-STARKs",
+        "sv": "zk-Starks",
+        "ro": "zk-STARKs",
+        "hu": "zk-STARKs",
+        "ja": "zk-STARKs"
+    }
+}
