@@ -1,5 +1,3 @@
-// This script is meant to import new terms and apply them to their respective locale-specific .json files.
-
 import fs from 'fs';
 import path from 'path';
 import { parse } from 'csv-parse/sync';
@@ -28,34 +26,49 @@ const processImport = (locale, newTerms) => {
     
     let addedTerms = [];
     let skippedTerms = [];
+    let overwrittenTerms = [];
     
     for (const [key, newEntry] of Object.entries(newTerms)) {
         if (glossaryTerms[key]) {
             const existingEntry = glossaryTerms[key];
+            let updated = false;
+            
             for (const subKey of Object.keys(newEntry)) {
                 if (!existingEntry[subKey] || existingEntry[subKey].trim() === "") {
                     existingEntry[subKey] = newEntry[subKey];
+                    updated = true;
+                } else if (existingEntry[subKey] !== newEntry[subKey]) {
+                    existingEntry[subKey] = newEntry[subKey];
+                    updated = true;
                 }
             }
-            skippedTerms.push(key);
+            
+            if (updated) {
+                overwrittenTerms.push(key);
+            } else {
+                skippedTerms.push(key);
+            }
         } else {
             glossaryTerms[key] = newEntry;
             addedTerms.push(key);
         }
     }
     
-    glossaryData.terms = Object.keys(glossaryTerms).sort().reduce((acc, key) => {
-        acc[key] = glossaryTerms[key];
-        return acc;
-    }, {});
+    if (addedTerms.length > 0 || overwrittenTerms.length > 0) {
+        glossaryData.terms = Object.keys(glossaryTerms).sort().reduce((acc, key) => {
+            acc[key] = glossaryTerms[key];
+            return acc;
+        }, {});
+        
+        fs.writeFileSync(glossaryFilePath, JSON.stringify(glossaryData, null, 2));
+    }
     
-    fs.writeFileSync(glossaryFilePath, JSON.stringify(glossaryData, null, 2));
-    
-    const reportContent = `Terms already existed and were skipped (${skippedTerms.length}):\n${skippedTerms.join(", ")}\n\n` +
-                           `Terms added (${addedTerms.length}):\n${addedTerms.join(", ")}`;
+    const reportContent = `Terms added (${addedTerms.length}):\n${addedTerms.join(", ")}\n\n` +
+                           `Terms updated (${overwrittenTerms.length}):\n${overwrittenTerms.join(", ")}\n\n` +
+                           `Terms skipped (${skippedTerms.length}):\n${skippedTerms.join(", ")}`;
     fs.writeFileSync(reportFilePath, reportContent);
     
-    console.log(`Import complete for ${locale}. Glossary updated.`);
+    console.log(`Import complete for ${locale}. Glossary updated if necessary.`);
 };
 
 // Process JSON imports
