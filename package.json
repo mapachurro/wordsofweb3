@@ -1,6 +1,6 @@
 {
   "name": "wordsofweb3",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Backend for wordsofweb3.eth.",
   "main": "build.js",
   "type": "module",
@@ -8,13 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./utils/build.js",
     "start": "http-server ./build -p 8080",
-    "clear": "rm -rf ./build/* ./static/* ./utils/page-output.txt ./utils/intertextual-output.txt"
+    "clear": "rm -rf ./build/* ./static/* ./utils/page-output.txt ./utils/intertextual-output.txt",
+    "import": "node ./utils/data/import/import.js",
+    "export": "node ./utils/data/export/export.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "csv-parse": "^5.6.0",
     "csv-parser": "^3.0.0",
     "doctoc": "^2.2.1",
     "json2csv": "^6.0.0-alpha.2"
