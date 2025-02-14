@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 const localesDir = path.resolve('../../../locales');
-const binanceDir = path.resolve('./ecosystem/binance-feb-2025');
+const binanceDir = path.resolve('./ecosystem');
 const reportDir = path.resolve('./reports');
 
 if (!fs.existsSync(reportDir)) {
@@ -12,7 +12,7 @@ if (!fs.existsSync(reportDir)) {
 const localeFiles = fs.readdirSync(binanceDir).filter(file => file.endsWith('.json'));
 
 localeFiles.forEach(file => {
-    const localeCode = file.replace('binance_glossary_', '').replace('.json', '');
+    const localeCode = file.replace('solana-', '').replace('.json', '');
     const binanceFilePath = path.join(binanceDir, file);
     const glossaryFilePath = path.join(localesDir, localeCode, `${localeCode}.json`);
     const reportFilePath = path.join(reportDir, `merge_report_${localeCode}.txt`);

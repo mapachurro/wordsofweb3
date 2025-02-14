@@ -121,7 +121,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "These public-private key pairs can be generated one at a time, or they can be *derived* from what is known as a **seed phrase** or **secret recovery phrase**; for more on this, see HD wallet.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A record in the Solana ledger that either holds data or is an executable program. Like an account at a traditional bank, a Solana account may hold funds called lamports. Like a file in Linux, it is addressable by a key, often referred to as a public key or pubkey. The key may be one of: - an ed25519 public key - a program-derived account address (32byte value forced off the ed25519 curve) - a hash of an ed25519 public key with a 32 character string",
+          "source": "https://solana.com/docs/references/terminology#account"
+        }
+      ],
       "termSource": "Many",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -1163,6 +1168,10 @@
         {
           "definition": "A computer file that stores transaction data. These can then be arranged in a linear sequence, which will form a blockchain.",
           "source": "https://academy.binance.com/en/glossary/block"
+        },
+        {
+          "definition": "A contiguous set of entries on the ledger covered by a vote. A leader produces at most one block per slot.",
+          "source": "https://solana.com/docs/references/terminology#block"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/block",
@@ -1908,7 +1917,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A computer program that accesses the Solana server network cluster.",
+          "source": "https://solana.com/docs/references/terminology#client"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -2128,7 +2142,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/confirmation-time",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The wallclock duration between a leader creating a tick entry and creating a confirmed block.",
+          "source": "https://solana.com/docs/references/terminology#confirmation-time"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/confirmation-time",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -3592,7 +3611,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The time, i.e. number of slots, for which a leader schedule is valid.",
+          "source": "https://solana.com/docs/references/terminology#epoch"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -4162,6 +4186,10 @@
         {
           "definition": "The assurance or guarantee that completed (cryptocurrency) transactions cannot be altered, reversed or canceled.",
           "source": "https://academy.binance.com/en/glossary/finality"
+        },
+        {
+          "definition": "When nodes representing 2/3rd of the stake have a common root.",
+          "source": "https://solana.com/docs/references/terminology#finality"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/finality",
@@ -4391,6 +4419,10 @@
         {
           "definition": "A fork is a divergence in the blockchain network by creating a split in the blockchain's transaction history. There are two types of forks - soft and hard.",
           "source": "https://academy.binance.com/en/glossary/fork"
+        },
+        {
+          "definition": "A ledger derived from common entries but then diverged.",
+          "source": "https://solana.com/docs/references/terminology#fork"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/fork",
@@ -4717,13 +4749,17 @@
       "termCategory": "",
       "phonetic": "/ˈdʒɛnɪsɪs blɒk/",
       "definition": "The initial block of data computed in the history of a blockchain network.",
-      "definitionSource": "https://academy.binance.com/en/glossary/genesis-block",
+      "definitionSource": "wordsofweb3",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
         {
           "definition": "The first ever block recorded on its respective blockchain network, also referred to as Block 0 or Block 1.",
           "source": "https://academy.binance.com/en/glossary/genesis-block"
+        },
+        {
+          "definition": "The first block in the chain.",
+          "source": "https://solana.com/docs/references/terminology#genesis-block"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/genesis-block",
@@ -5066,6 +5102,10 @@
         {
           "definition": "The output produced by a hash function after a piece of data is mapped. May also be referred to as hash value, hash code, or digest.",
           "source": "https://academy.binance.com/en/glossary/hash"
+        },
+        {
+          "definition": "A digital fingerprint of a sequence of bytes.",
+          "source": "https://solana.com/docs/references/terminology#hash"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/hash",
@@ -5862,7 +5902,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/ledger",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A list of entries containing transactions signed by clients. Conceptually, this can be traced back to the genesis block, but an actual validator's ledger may have only newer blocks to reduce storage, as older ones are not needed for validation of future blocks by design.",
+          "source": "https://solana.com/docs/references/terminology#ledger"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/ledger",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5951,7 +5996,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A type of client that can verify it's pointing to a valid cluster. It performs more ledger verification than a thin client and less than a validator.",
+          "source": "https://solana.com/docs/references/terminology#light-client"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -7134,6 +7184,10 @@
         {
           "definition": "A participant on a blockchain network that communicates with other participants to ensure the security and integrity of the system.",
           "source": "https://academy.binance.com/en/glossary/node"
+        },
+        {
+          "definition": "A computer participating in a cluster.",
+          "source": "https://solana.com/docs/references/terminology#node"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/node",
@@ -7981,6 +8035,10 @@
         {
           "definition": "In the context of cryptocurrency, a private key is a number that allows users to sign transactions and to generate receiving addresses.",
           "source": "https://academy.binance.com/en/glossary/private-key"
+        },
+        {
+          "definition": "The private key of a keypair.",
+          "source": "https://solana.com/docs/references/terminology#private-key"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/private-key",
@@ -8192,6 +8250,10 @@
         {
           "definition": "A public key is one-half of a key pair used to encrypt messages or verify digital signatures. In the crypto space, it essentially works as your wallet address.",
           "source": "https://academy.binance.com/en/glossary/public-key"
+        },
+        {
+          "definition": "The public key of a keypair.",
+          "source": "https://solana.com/docs/references/terminology#public-key-pubkey"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/public-key",
@@ -9170,7 +9232,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A 64-byte ed25519 signature of R (32-bytes) and S (32-bytes). With the requirement that R is a packed Edwards point not of small order and S is a scalar in the range of 0 <= S < L. This requirement ensures no signature malleability. Each transaction must have at least one signature for fee account. Thus, the first signature in transaction can be treated as transaction id",
+          "source": "https://solana.com/docs/references/terminology#signature"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -9245,7 +9312,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The period of time for which each leader ingests transactions and produces a block. Collectively, slots create a logical clock. Slots are ordered sequentially and non-overlapping, comprising roughly equal real-world time as per PoH.",
+          "source": "https://solana.com/docs/references/terminology#slot"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -9263,6 +9335,10 @@
         {
           "definition": "Smart contracts are self-executing contracts that exist on certain blockchain networks. Their conditions and terms are written directly into lines of code.",
           "source": "https://academy.binance.com/en/glossary/smart-contract"
+        },
+        {
+          "definition": "See onchain program.",
+          "source": "https://solana.com/docs/references/terminology#smart-contract"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/smart-contract",
@@ -9470,7 +9546,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Tokens forfeit to the cluster if malicious validator behavior can be proven.",
+          "source": "https://solana.com/docs/references/terminology#stake"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -9857,6 +9938,10 @@
         {
           "definition": "Tokens (not to be confused with coins) are digital units issued on a blockchain. They can hold value or be redeemed for assets.",
           "source": "https://academy.binance.com/en/glossary/token"
+        },
+        {
+          "definition": "A digitally transferable asset.",
+          "source": "https://solana.com/docs/references/terminology#token"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/token",
@@ -10031,7 +10116,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "One or more instructions signed by a client using one or more keypairs and executed atomically with only two possible outcomes: success or failure.",
+          "source": "https://solana.com/docs/references/terminology#transaction"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -10077,6 +10167,10 @@
         {
           "definition": "A transaction ID (TXID) is a unique string of characters that labels each transaction on the blockchain.",
           "source": "https://academy.binance.com/en/glossary/transaction-id"
+        },
+        {
+          "definition": "The first signature in a transaction, which can be used to uniquely identify the transaction across the complete ledger.",
+          "source": "https://solana.com/docs/references/terminology#transaction-id"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/transaction-id",
@@ -10452,7 +10546,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A full participant in a Solana network cluster that produces new blocks. A validator validates the transactions added to the ledger",
+          "source": "https://solana.com/docs/references/terminology#validator"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -10610,6 +10709,10 @@
         {
           "definition": "Used to send and receive cryptocurrencies. Different types include software wallets, hardware wallets, and paper wallets.",
           "source": "https://academy.binance.com/en/glossary/wallet"
+        },
+        {
+          "definition": "A collection of keypairs that allows users to manage their funds.",
+          "source": "https://solana.com/docs/references/terminology#wallet"
         }
       ],
       "termSource": "https://academy.binance.com/en/glossary/wallet",
