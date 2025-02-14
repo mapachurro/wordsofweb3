@@ -42,13 +42,13 @@
             "definitionSource": "https://solana.com/docs/references/terminology#blockhash",
             "dateFirstRecorded": "2025-02-14"
         },
-        "block height": {
+        "block-height": {
             "term": "block height",
             "definition": "The number of blocks beneath the current block. The first block after the genesis block has height one.",
             "definitionSource": "https://solana.com/docs/references/terminology#block-height",
             "dateFirstRecorded": "2025-02-14"
         },
-        "bootstrap validator": {
+        "bootstrap-validator": {
             "term": "bootstrap validator",
             "definition": "The validator that produces the genesis (first) block of a block chain.",
             "definitionSource": "https://solana.com/docs/references/terminology#bootstrap-validator",

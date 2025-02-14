@@ -1,7 +1,9 @@
+
 Terms skipped (definitions were identical) (0):
 
 
-Terms added to 'alternate' (23):
-account, block, client, confirmation-time, epoch, finality, fork, genesis-block, hash, ledger, light-client, node, private-key, public-key, signature, slot, smart-contract, stake, token, transaction, transaction-id, validator, wallet
+Terms added to 'alternate' (1):
+block-height
 
-New terms added (0):
+New terms added (74):
+account-owner, app, authority, bank-state, blockhash, bootstrap-validator, BPF-loader, commitment, cluster, compute-budget, compute-units, confirmed-block, control-plane, cooldown-period, credit, cross-program-invocation-CPI, data-plane, drone, entry, entry-id, fee-account, genesis-config, inflation, inner-instruction, instruction, instruction-handler, keypair, lamport, leader, leader-schedule, ledger-vote, loader, lockout, message, Nakamoto-coefficient, native-token, node-count, onchain-program, PoH, point, program, program-derived-account-PDA, program-id, proof-of-history-PoH, prioritization-fee, rent, rent-exempt, root, runtime, Sealevel, shred, skip-rate, skipped-slot, SOL, Solana-Program-Library, stake-weighted-quality-of-service, supermajority, sysvar, thin-client, tick, tick-height, Token-Extensions-Program, token-mint, Token-Program, tps, tpu, transaction-confirmations, transactions-entry, TVU, VDF, verifiable delay function, vote, vote credit, warmup-period
