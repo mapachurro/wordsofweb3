@@ -191,7 +191,12 @@
       "definitionSource": "James Beck, Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "For example, on some networks, particularly EVM-style, every account will have an address, to which tokens could be sent. Smart contracts on those networks also have addresses, so that other contracts or protocols can interact with them. In Ethereum, the address begins with 0x; For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "String of text that designates the location of a particular wallet on the blockchain. Often a hashed version of a public key.",
+          "source": "https://academy.binance.com/en/glossary/address"
+        }
+      ],
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -247,7 +252,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/airdrop",
       "sampleSentence": "",
       "extended": "Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads. The timing, recipient sourcing and inclusion methods, tokenomics and, if applicable, potential market value of tokens received through an airdrop are the subject of extensive debate and discussion.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Distribution of digital assets to the public, by virtue of holding a certain token or by virtue of being an active wallet address.",
+          "source": "https://academy.binance.com/en/glossary/airdrop"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/airdrop",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -289,7 +299,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/algorithm",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A sequence of unambiguous instructions used for the purpose of solving a problem.",
+          "source": "https://academy.binance.com/en/glossary/algorithm"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/algorithm",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -359,7 +374,12 @@
       "definitionSource": "James Beck, Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A cryptocurrency that is alternative to Bitcoin. Altcoin is used to describe cryptocurrencies that are not Bitcoin.",
+          "source": "https://academy.binance.com/en/glossary/altcoin"
+        }
+      ],
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -821,7 +841,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/beacon-chain",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The Beacon Chain is Ethereum’s proof-of-stake (PoS) layer where consensus is reached.",
+          "source": "https://academy.binance.com/en/glossary/beacon-chain"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/beacon-chain",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1045,7 +1070,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/bitcoin",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A cryptocurrency created by the pseudonymous developer(s) Satoshi Nakamoto, initially described as a 'Peer-to-Peer e-cash'.",
+          "source": "https://academy.binance.com/en/glossary/bitcoin"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/bitcoin",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1129,7 +1159,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/block",
       "sampleSentence": "",
       "extended": "Imagine a ledger that is being constantly synced between any number of exact copies of itself. People keep sending requests to add new entries to the ledger; these requests are transactions. When there are enough transactions ready, they get put into a specific order, and the *nodes*, each of which is keeping a copy of that ledger, reach consensus that the transactions are valid. Then, the transactions are cryptographically locked, in that order, into a 'block' and added forever to the ledger. This 'block' forms the starting point for the next one; in this way, they are all linked together in a chain, hence–blockchain.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A computer file that stores transaction data. These can then be arranged in a linear sequence, which will form a blockchain.",
+          "source": "https://academy.binance.com/en/glossary/block"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/block",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1171,7 +1206,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/block-height",
       "sampleSentence": "",
       "extended": "For example, Height 0 would be the very first block, which is also called the Genesis Block.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The number of blocks in the chain between itself and the first block on that blockchain (genesis block or block 0).",
+          "source": "https://academy.binance.com/en/glossary/block-height"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/block-height",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1185,7 +1225,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/block-reward",
       "sampleSentence": "",
       "extended": "Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The sum of coins awarded by the blockchain protocol to cryptocurrency miners for each successfully mined and validated block.",
+          "source": "https://academy.binance.com/en/glossary/block-reward"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/block-reward",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1227,7 +1272,12 @@
       "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "What is commonly referred to as a 'blockchain' might be more precisely called 'a public blockchain network', or a 'distributed ledger network'. While they get called 'blockchains' or 'chains', this is essentially a sort of metonymic usage. A public blockchain network consists, usually, of several different parts: 1. The blockchain or ledger itself. Think of this as the 'hard drive' of the network. 2. The consensus mechanism, and the consensus layer; this keeps all the copies of the ledger in sync, and adds new transactions or entries to it. 3. An execution layer: depending on the network in question, this layer or environment may vary from a very few functions built into the same software as the consensus client, to a very complex, Turing-complete, full-on Virtual Machine environment requiring those who run it to consider hardware requirements. There are, additionally, 'downstream' aspects of any one of these blockchain networks, including wallets, private-public key derivation logic, which programming languages can be used in interacting with it, etc. etc.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A decentralized, digitized ledger that records transaction information about a cryptocurrency in a chronological order.",
+          "source": "https://academy.binance.com/en/glossary/blockchain"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/blockchain",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1367,7 +1417,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/bounty",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A reward posted by a group or individual to incentivize certain work, behavior (such as referrals), or development.",
+          "source": "https://academy.binance.com/en/glossary/bounty"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/bounty",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1521,7 +1576,12 @@
       "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Originally derived from HODL, a term referring to keeping your heads down and focusing on building your product.",
+          "source": "https://academy.binance.com/en/glossary/buidl"
+        }
+      ],
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1745,7 +1805,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/centralized-exchange",
       "sampleSentence": "",
       "extended": "Centralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.\nHowever, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Understand the world of centralized exchanges, traditional crypto marketplaces known for high liquidity, advanced trading tools, and risk considerations.",
+          "source": "https://academy.binance.com/en/glossary/centralized-exchange"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/centralized-exchange",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1885,7 +1950,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/coin",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A cryptocurrency or digital cash that is independent of any other platform, which is used as exchange of value.",
+          "source": "https://academy.binance.com/en/glossary/coin"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/coin",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1927,7 +1997,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/cold-storage",
       "sampleSentence": "",
       "extended": "See also: airgapping",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Discover the essentials of cold storage: learn what it is and how it protects your cryptocurrency holdings.",
+          "source": "https://academy.binance.com/en/glossary/cold-storage"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/cold-storage",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -2459,7 +2534,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/cryptocurrency",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A digital currency that is secured by cryptography to work as a medium of exchange within a peer-to-peer (P2P) economic system.",
+          "source": "https://academy.binance.com/en/glossary/cryptocurrency"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/cryptocurrency",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -2487,7 +2567,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/cryptography",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The science of using mathematical theories and computation in order to encrypt and decrypt information.",
+          "source": "https://academy.binance.com/en/glossary/cryptography"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/cryptography",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -2515,7 +2600,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/custody",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Refers to the holding of assets on behalf of a client. Can also refer to the ownership of one's funds or assets.",
+          "source": "https://academy.binance.com/en/glossary/custody"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/custody",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -2669,7 +2759,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/decentralized-application",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "DApps are applications that run on a P2P network of computers rather than a central database. Users can freely connect to DApps using crypto wallets.",
+          "source": "https://academy.binance.com/en/glossary/decentralized-application"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/decentralized-application",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -2697,7 +2792,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/decentralized-autonomous-organization",
       "sampleSentence": "",
       "extended": "Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Definition: A system of hard-coded rules that define which actions a decentralized organization will take.",
+          "source": "https://academy.binance.com/en/glossary/decentralized-autonomous-organization"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/decentralized-autonomous-organization",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -2711,7 +2811,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/decentralized-exchange",
       "sampleSentence": "",
       "extended": "This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools. The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "An exchange which does not require users to deposit funds to start trading and does not hold the funds for the user.",
+          "source": "https://academy.binance.com/en/glossary/decentralized-exchange"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/decentralized-exchange",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -2991,7 +3096,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/difficulty",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "In cryptocurrency, difficulty indicates the difficulty required to mine a block. Learn more at Binance Academy.",
+          "source": "https://academy.binance.com/en/glossary/difficulty"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/difficulty",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -3005,7 +3115,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/difficulty-bomb",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The term 'difficulty bomb' denotes the increase in mining difficulty in Ethereum, as part of its migration to Proof of Stake.",
+          "source": "https://academy.binance.com/en/glossary/difficulty-bomb"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/difficulty-bomb",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -3047,7 +3162,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/digital-signature",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A cryptographic tool to verify the authenticity and integrity of digital data, ensuring the security of data communication and cryptocurrency transactions.",
+          "source": "https://academy.binance.com/en/glossary/digital-signature"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/digital-signature",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -3411,7 +3531,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/encryption",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Conversion of information or data into a secure code in order to prevent unauthorised access to the information or data.",
+          "source": "https://academy.binance.com/en/glossary/encryption"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/encryption",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -3495,7 +3620,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/erc-1155",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Discover the versatility of ERC-1155 tokens. Ideal for gaming, digital collectibles and managing multiple token types efficiently.",
+          "source": "https://academy.binance.com/en/glossary/erc-1155"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/erc-1155",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -3509,7 +3639,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/erc-20",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A technical standard used to issue and implement tokens on the Ethereum blockchain proposed in November 2015 by Fabian Vogelsteller.",
+          "source": "https://academy.binance.com/en/glossary/erc-20"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/erc-20",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -3537,7 +3672,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/erc-721",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "An Ethereum based non-fungible token. This means that each token is unique and as a result, not interchangeable.",
+          "source": "https://academy.binance.com/en/glossary/erc-721"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/erc-721",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -3761,7 +3901,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/exchange",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A marketplace for cryptocurrencies where users can buy and sell coins.",
+          "source": "https://academy.binance.com/en/glossary/exchange"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/exchange",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4013,7 +4158,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/finality",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The assurance or guarantee that completed (cryptocurrency) transactions cannot be altered, reversed or canceled.",
+          "source": "https://academy.binance.com/en/glossary/finality"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/finality",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4237,7 +4387,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/fork",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A fork is a divergence in the blockchain network by creating a split in the blockchain's transaction history. There are two types of forks - soft and hard.",
+          "source": "https://academy.binance.com/en/glossary/fork"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/fork",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4279,7 +4434,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/fraud-proof",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A fraud proof is a cryptographical evidence that a verifier submits to challenge a transaction's validity. They are widely used for blockchain scalability.",
+          "source": "https://academy.binance.com/en/glossary/fraud-proof"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/fraud-proof",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4321,7 +4481,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/full-node",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Computer that fully implements the entirety of rules of an underlying blockchain network and validates transactions on a blockchain.",
+          "source": "https://academy.binance.com/en/glossary/full-node"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/full-node",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4433,7 +4598,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/gas",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The pricing mechanism employed  on the Ethereum blockchain to calculate the costs of smart contracts operations and transaction fees.",
+          "source": "https://academy.binance.com/en/glossary/gas"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/gas",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4461,7 +4631,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/gas-limit",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Maximum price a cryptocurrency user is willing to pay as a fee when sending a transaction, or performing a smart contract function.",
+          "source": "https://academy.binance.com/en/glossary/gas-limit"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/gas-limit",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4545,7 +4720,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/genesis-block",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The first ever block recorded on its respective blockchain network, also referred to as Block 0 or Block 1.",
+          "source": "https://academy.binance.com/en/glossary/genesis-block"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/genesis-block",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4587,7 +4767,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/github",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A site/system/folder/repository where a team can share, collaborate, and save their open source or proprietary code.",
+          "source": "https://academy.binance.com/en/glossary/github"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/github",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4727,7 +4912,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/gwei",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A small denomination of ether. It is widely used as a measure of gas prices. 1,000,000,000 wei = 1 Giga wei (Gwei)",
+          "source": "https://academy.binance.com/en/glossary/gwei"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/gwei",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4783,7 +4973,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/halving",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Halving is a process that reduces the block reward of a PoW crypto like Bitcoin (BTC) to half. The next halving of Bitcoin is expected around 2024.",
+          "source": "https://academy.binance.com/en/glossary/halving"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/halving",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -4867,7 +5062,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/hash",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The output produced by a hash function after a piece of data is mapped. May also be referred to as hash value, hash code, or digest.",
+          "source": "https://academy.binance.com/en/glossary/hash"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/hash",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5105,7 +5305,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/immutability",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The inability to change or be changed. One of the core features behind Bitcoin and blockchain technology.",
+          "source": "https://academy.binance.com/en/glossary/immutability"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/immutability",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5273,7 +5478,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/interoperability",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A concept of allowing blockchains to be compatible with each other and build upon each other's features and use-cases.",
+          "source": "https://academy.binance.com/en/glossary/interoperability"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/interoperability",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5455,7 +5665,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/know-your-customer",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A standard procedure in the finance industry which allows companies to identify their customers and comply with KYC AML laws",
+          "source": "https://academy.binance.com/en/glossary/know-your-customer"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/know-your-customer",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5539,7 +5754,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/latency",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The time between submitting a transaction to a network and the first confirmation of acceptance by the network.",
+          "source": "https://academy.binance.com/en/glossary/latency"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/latency",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5623,7 +5843,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/layer-2",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A secondary framework or protocol that is built on top of an existing blockchain system to provide increased scalability.",
+          "source": "https://academy.binance.com/en/glossary/layer-2"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/layer-2",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5693,7 +5918,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/library",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A collection of stable resources, which may include executable files, documentation, message templates, and written code.",
+          "source": "https://academy.binance.com/en/glossary/library"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/library",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5735,7 +5965,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/lightning-network",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A second layer operating on top of a blockchain, enabling increased transaction speed among participating nodes.",
+          "source": "https://academy.binance.com/en/glossary/lightning-network"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/lightning-network",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5847,7 +6082,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/liquidity",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The ability to sell or buy any given asset without causing significant fluctuations in the market price for that asset.",
+          "source": "https://academy.binance.com/en/glossary/liquidity"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/liquidity",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -5945,7 +6185,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/mainnet",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A blockchain protocol which is fully developed and deployed where transactions are being broadcasted, verified, and recorded.",
+          "source": "https://academy.binance.com/en/glossary/mainnet"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/mainnet",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6001,7 +6246,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/malware",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Any software program or code that is created to infiltrate and intentionally cause damage to computer systems and networks.",
+          "source": "https://academy.binance.com/en/glossary/malware"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/malware",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6169,7 +6419,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/mempool",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A node’s mechanism for keeping track of unconfirmed transactions that the node has seen (but have not yet been added to a block).",
+          "source": "https://academy.binance.com/en/glossary/mempool"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/mempool",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6267,7 +6522,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/metadata",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Data that includes information about other data, such as information about features of a specific transaction.",
+          "source": "https://academy.binance.com/en/glossary/metadata"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/metadata",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6351,7 +6611,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/metaverse",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The metaverse is a concept of a persistent, online, 3D virtual environment that many believe will be a key element of future digital experiences.",
+          "source": "https://academy.binance.com/en/glossary/metaverse"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/metaverse",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6435,7 +6700,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/mining",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The verification of transactions on a blockchain network, in which transactions are added as entries into the blockchain ledger.",
+          "source": "https://academy.binance.com/en/glossary/mining"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/mining",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6463,7 +6733,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/mint",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Minting adds fresh tokens into the crypto ecosystem, enabling them to be traded or used within its network. Minting is similar to mining, with some key differences.",
+          "source": "https://academy.binance.com/en/glossary/mint"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/mint",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6855,7 +7130,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/node",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A participant on a blockchain network that communicates with other participants to ensure the security and integrity of the system.",
+          "source": "https://academy.binance.com/en/glossary/node"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/node",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6897,7 +7177,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/nonce",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A single-use arbitrary string or number generated for verification purposes to prevent replaying past transactions.",
+          "source": "https://academy.binance.com/en/glossary/nonce"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/nonce",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6925,7 +7210,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/off-chain",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Discover how off-chain transactions in crypto enhance scalability and speed. Explore their use in Layer 2 solutions, reducing transaction costs.",
+          "source": "https://academy.binance.com/en/glossary/off-chain"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/off-chain",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -6995,7 +7285,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/on-chain",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "On-chain refers to transactions and activities directly recorded on the blockchain, ensuring data transparency, security, and immutability.",
+          "source": "https://academy.binance.com/en/glossary/on-chain"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/on-chain",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -7135,7 +7430,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/oracle",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A data source or feed from a third party used for determining outcomes for smart contracts.",
+          "source": "https://academy.binance.com/en/glossary/oracle"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/oracle",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -7443,7 +7743,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/phishing",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A malicious attack where a bad actor will attempt to obtain the credentials of a user in order to gain unauthorised access into their account.",
+          "source": "https://academy.binance.com/en/glossary/phishing"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/phishing",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -7471,7 +7776,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/plasma",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "An Ethereum off-chain scaling solution which may allow Etherum to greatly increase the transactions per second capablities.",
+          "source": "https://academy.binance.com/en/glossary/plasma"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/plasma",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -7667,7 +7977,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/private-key",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "In the context of cryptocurrency, a private key is a number that allows users to sign transactions and to generate receiving addresses.",
+          "source": "https://academy.binance.com/en/glossary/private-key"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/private-key",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -7737,7 +8052,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/proof-of-stake",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A consensus mechanism that reward block validators according to the amount of coins they have at stake.",
+          "source": "https://academy.binance.com/en/glossary/proof-of-stake"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/proof-of-stake",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -7765,7 +8085,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/proof-of-work",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Proof of Work is a crypto consensus mechanism where miners use special equipment to solve cryptographic puzzles to validate transactions and create new blocks.",
+          "source": "https://academy.binance.com/en/glossary/proof-of-work"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/proof-of-work",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -7863,7 +8188,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/public-key",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A public key is one-half of a key pair used to encrypt messages or verify digital signatures. In the crypto space, it essentially works as your wallet address.",
+          "source": "https://academy.binance.com/en/glossary/public-key"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/public-key",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -8185,7 +8515,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/roadmap",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A business planning technique which lays out the short and long term goals of a company within a flexible estimated timeline.",
+          "source": "https://academy.binance.com/en/glossary/roadmap"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/roadmap",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -8269,7 +8604,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/rug-pull",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A rug pull in the crypto industry is when a development team suddenly abandons a project and sells or removes all its liquidity.",
+          "source": "https://academy.binance.com/en/glossary/rug-pull"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/rug-pull",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -8381,7 +8721,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/satoshi-nakamoto",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Satoshi Nakamoto was the pseudonym of the creator or creators of the bitcoin protocol and whitepaper.",
+          "source": "https://academy.binance.com/en/glossary/satoshi-nakamoto"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/satoshi-nakamoto",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -8577,7 +8922,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/seed-phrase",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A seed phrase or menmonic seed is a collection of words that can be used to access your cryptocurrency wallet.",
+          "source": "https://academy.binance.com/en/glossary/seed-phrase"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/seed-phrase",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -8745,7 +9095,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/sharding",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Sharding is a method of splitting blockchains ( or other types of databases) into smaller, partitioned blockchains that manage specific data segments.",
+          "source": "https://academy.binance.com/en/glossary/sharding"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/sharding",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -8871,7 +9226,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/slippage",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Slippage occurs when a trade settles at a different price than originally requested or expected, usually in low-liquidity markets and when using market orders.",
+          "source": "https://academy.binance.com/en/glossary/slippage"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/slippage",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -8899,7 +9259,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/smart-contract",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Smart contracts are self-executing contracts that exist on certain blockchain networks. Their conditions and terms are written directly into lines of code.",
+          "source": "https://academy.binance.com/en/glossary/smart-contract"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/smart-contract",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -9011,7 +9376,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/solidity",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Solidity is a programming language created in 2014 that was specifically designed to write and implement smart contracts on the Ethereum blockchain.",
+          "source": "https://academy.binance.com/en/glossary/solidity"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/solidity",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -9067,7 +9437,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/stablecoin",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A type of cryptocurrency that is designed to maintain a stable value, rather than experiencing significant price changes.",
+          "source": "https://academy.binance.com/en/glossary/stablecoin"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/stablecoin",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -9389,7 +9764,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/testnet",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Testnets are replicas of the mainnet, offering risk-free, secure environments for exploring and testing blockchain features.",
+          "source": "https://academy.binance.com/en/glossary/testnet"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/testnet",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -9473,7 +9853,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/token",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Tokens (not to be confused with coins) are digital units issued on a blockchain. They can hold value or be redeemed for assets.",
+          "source": "https://academy.binance.com/en/glossary/token"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/token",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -9501,7 +9886,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/token-lockup",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Token lockup or vesting period refers to the time span in which tokens or coins are not allowed to be transferred or traded.",
+          "source": "https://academy.binance.com/en/glossary/token-lockup"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/token-lockup",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -9683,7 +10073,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/transaction-id",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A transaction ID (TXID) is a unique string of characters that labels each transaction on the blockchain.",
+          "source": "https://academy.binance.com/en/glossary/transaction-id"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/transaction-id",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -9795,7 +10190,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/trustless",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "No single entity has authority over the system and consensus is achieved between participants who do not have to trust each other.",
+          "source": "https://academy.binance.com/en/glossary/trustless"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/trustless",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -9809,7 +10209,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/turing-complete",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A machine that, given enough time and memory along with the necessary instructions, can solve any computational problem.",
+          "source": "https://academy.binance.com/en/glossary/turing-complete"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/turing-complete",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -10201,7 +10606,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/wallet",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Used to send and receive cryptocurrencies. Different types include software wallets, hardware wallets, and paper wallets.",
+          "source": "https://academy.binance.com/en/glossary/wallet"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/wallet",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -10369,7 +10779,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/wei",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The smallest possible denomination of ether (ETH), the currency used on the Ethereum network. Often used when referring to gas prices.",
+          "source": "https://academy.binance.com/en/glossary/wei"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/wei",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -10579,7 +10994,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/yield-farming",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Yield farming is a high-risk practice in DeFi where investors lock up assets to provide liquidity, lend or stake in return for rewards or interest.",
+          "source": "https://academy.binance.com/en/glossary/yield-farming"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/yield-farming",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -10663,7 +11083,12 @@
       "definitionSource": "https://academy.binance.com/en/glossary/zk-snarks",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "“Zero-Knowledge Succinct Non-Interactive Argument of Knowledge” - an approach to zero-knowledge proofs.",
+          "source": "https://academy.binance.com/en/glossary/zk-snarks"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/zk-snarks",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""

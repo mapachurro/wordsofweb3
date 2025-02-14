@@ -37,24 +37,40 @@ localeFiles.forEach(file => {
             const existingEntry = glossaryTerms[key];
 
             // If the Binance definition is the same as the existing one, skip it
-            if (newEntry.definition && (!existingEntry.alternate || !existingEntry.alternate.some(alt => alt.definition === newEntry.definition))) {
+            if (newEntry.definition) {
+                const existingDefinition = existingEntry.definition ? existingEntry.definition.trim() : "";
+                const binanceDefinition = newEntry.definition.trim();
+                const binanceSource = newEntry.definitionSource && newEntry.definitionSource.trim() !== "" 
+                    ? newEntry.definitionSource 
+                    : "Binance Glossary"; // Only use URL if present
+            
+                // Skip if the Binance definition is the same as the existing main definition
+                if (existingDefinition === binanceDefinition) {
+                    skippedTerms.push(key);
+                    continue;
+                }
+            
+                // Ensure "alternate" is an array
                 if (!Array.isArray(existingEntry.alternate)) {
                     existingEntry.alternate = [];
                 }
             
-                existingEntry.alternate.push({
-                    definition: newEntry.definition,
-                    source: newEntry.definitionSource || "Binance Glossary"
-                });
+                // Check if the alternate definition is already present
+                const isAlreadyAlternate = existingEntry.alternate.some(
+                    alt => alt.definition.trim() === binanceDefinition
+                );
             
-                alternateAdded.push(key);
+                if (!isAlreadyAlternate) {
+                    existingEntry.alternate.push({
+                        definition: binanceDefinition,
+                        source: binanceSource // Only use actual source, not a default
+                    });
+            
+                    alternateAdded.push(key);
+                }
             }
-            
-        } else {
-            glossaryTerms[key] = newEntry;
-            addedTerms.push(key);
         }
-    }
+    }            
 
     // Write the updated glossary JSON back
     fs.writeFileSync(glossaryFilePath, JSON.stringify(glossaryData, null, 2));
