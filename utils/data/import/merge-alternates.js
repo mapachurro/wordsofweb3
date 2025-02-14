@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 const localesDir = path.resolve('../../../locales');
-const binanceDir = path.resolve('./ecosystem');
+const binanceDir = path.resolve('./ecosystem/binance-feb-2025');
 const reportDir = path.resolve('./reports');
 
 if (!fs.existsSync(reportDir)) {
@@ -37,24 +37,19 @@ localeFiles.forEach(file => {
             const existingEntry = glossaryTerms[key];
 
             // If the Binance definition is the same as the existing one, skip it
-            if (existingEntry.definition && existingEntry.definition.trim() === newEntry.definition.trim()) {
-                skippedTerms.push(key);
-                continue;
-            }
-
-            // If the Binance definition is different, add to alternate definitions
             if (newEntry.definition && (!existingEntry.alternate || !existingEntry.alternate.some(alt => alt.definition === newEntry.definition))) {
                 if (!Array.isArray(existingEntry.alternate)) {
                     existingEntry.alternate = [];
                 }
-
+            
                 existingEntry.alternate.push({
                     definition: newEntry.definition,
-                    source: "Binance Glossary"
+                    source: newEntry.definitionSource || "Binance Glossary"
                 });
-
+            
                 alternateAdded.push(key);
             }
+            
         } else {
             glossaryTerms[key] = newEntry;
             addedTerms.push(key);

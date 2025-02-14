@@ -79,6 +79,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "Solving for this attack vector is one of the key design decisions in the Bitcoin protocol, as well as Ethereum, and others. In the case of Bitcoin, this was solved through the Proof of Work consensus mechanism, wherein the difficulty involved in mining new blocks effectively prevents any one actor from gaining this sort of control.",
+     "alternate": [],
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -120,6 +121,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "These public-private key pairs can be generated one at a time, or they can be *derived* from what is known as a **seed phrase** or **secret recovery phrase**; for more on this, see HD wallet.",
+     "alternate": [],
       "termSource": "Many",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -189,6 +191,7 @@
       "definitionSource": "James Beck, Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "For example, on some networks, particularly EVM-style, every account will have an address, to which tokens could be sent. Smart contracts on those networks also have addresses, so that other contracts or protocols can interact with them. In Ethereum, the address begins with 0x; For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee",
+      "alternate": [],
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -230,6 +233,7 @@
       "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "Many hardware wallets use air-gapping as a security mechanism to keep users' private keys, or Secret Recovery Phrase offline, and thus safer from any kind of attack. Other, one-way communication methods are sometimes employed in such devices, e.g., QR codes.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -243,6 +247,7 @@
       "definitionSource": "https://academy.binance.com/en/glossary/airdrop",
       "sampleSentence": "",
       "extended": "Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads. The timing, recipient sourcing and inclusion methods, tokenomics and, if applicable, potential market value of tokens received through an airdrop are the subject of extensive debate and discussion.",
+     "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/airdrop",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -354,6 +359,7 @@
       "definitionSource": "James Beck, Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.",
+     "alternate": [],
       "termSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -423,6 +429,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "An appchain generally offers an optimized execution environment for the application. Rather than being a 'monolithic' blockchain with its own executioon and consensus mechanisms, it may e.g. still rely on an underlying blockchain for consensus. See also: 'blockchain trilemma', 'modular blockchain', 'Layer 2', 'Layer 3'.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -590,6 +597,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "In the crypto context, 'asset provenance' refers to the ability to trace the ownership and transfer of a specific cryptocurrency or token from its creation or minting to its current holder.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -659,6 +667,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "While that may sound vague, that's because attestations are used in a broad range of contexts, and have both been crucial to the development of key blockchain network protocols – such as in Proof of Stake (PoS) mechanisms, in which validators *attest* to the validity of the transactions they're recording in blocks and syncing through the consensus protocol – or in more recent developments, wherein protocols like the Ethereum Attestation Service allow for the creation of custom attestation 'schemata', publicly accessible on a network. Individual 'attestations' can then be written according to the fields and structures defined in each individual schema, stored on-chain by users executing a call to the schema and signing it with a public key.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -1120,6 +1129,7 @@
       "definitionSource": "https://academy.binance.com/en/glossary/block",
       "sampleSentence": "",
       "extended": "Imagine a ledger that is being constantly synced between any number of exact copies of itself. People keep sending requests to add new entries to the ledger; these requests are transactions. When there are enough transactions ready, they get put into a specific order, and the *nodes*, each of which is keeping a copy of that ledger, reach consensus that the transactions are valid. Then, the transactions are cryptographically locked, in that order, into a 'block' and added forever to the ledger. This 'block' forms the starting point for the next one; in this way, they are all linked together in a chain, hence–blockchain.",
+     "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/block",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1161,6 +1171,7 @@
       "definitionSource": "https://academy.binance.com/en/glossary/block-height",
       "sampleSentence": "",
       "extended": "For example, Height 0 would be the very first block, which is also called the Genesis Block.",
+     "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/block-height",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1174,6 +1185,7 @@
       "definitionSource": "https://academy.binance.com/en/glossary/block-reward",
       "sampleSentence": "",
       "extended": "Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.",
+     "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/block-reward",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1187,6 +1199,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "See also 'Proof of Work', 'Proof of Stake'.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -1214,6 +1227,7 @@
       "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "What is commonly referred to as a 'blockchain' might be more precisely called 'a public blockchain network', or a 'distributed ledger network'. While they get called 'blockchains' or 'chains', this is essentially a sort of metonymic usage. A public blockchain network consists, usually, of several different parts: 1. The blockchain or ledger itself. Think of this as the 'hard drive' of the network. 2. The consensus mechanism, and the consensus layer; this keeps all the copies of the ledger in sync, and adds new transactions or entries to it. 3. An execution layer: depending on the network in question, this layer or environment may vary from a very few functions built into the same software as the consensus client, to a very complex, Turing-complete, full-on Virtual Machine environment requiring those who run it to consider hardware requirements. There are, additionally, 'downstream' aspects of any one of these blockchain networks, including wallets, private-public key derivation logic, which programming languages can be used in interacting with it, etc. etc.",
+     "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/blockchain",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1227,6 +1241,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -1366,6 +1381,7 @@
       "definitionSource": "MetaMask - kumavis, Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "Humans are not capable of generating enough entropy, or randomness, and therefore the wallets derived from these phrases are insecure; brain wallets can be brute forced by super fast computers. For this reason, brain wallet are insecure and should not be used. See also 'seed phrase'', 'Secret Recovery Phrase'.",
+     "alternate": [],
       "termSource": "MetaMask Help Center",
       "dateFirstRecorded": "2018",
       "commentary": ""
@@ -1449,6 +1465,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "It would be fair to say both that the term 'bridge' is generally accurate, and that it does a lot of heavy lifting. The way that bridges are created, and maintained, varies from one to another, but often involve some sort of 'paired smart contracts', one on each network. These contracts would, e.g., lock, or burn, tokens on one chain, and either mint or somehow disburse an equivalent token, and amount of them, on the destination chain.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -1728,6 +1745,7 @@
       "definitionSource": "https://academy.binance.com/en/glossary/centralized-exchange",
       "sampleSentence": "",
       "extended": "Centralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.\nHowever, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.",
+     "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/centralized-exchange",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -1755,6 +1773,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "Ethereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses. Peer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -1908,6 +1927,7 @@
       "definitionSource": "https://academy.binance.com/en/glossary/cold-storage",
       "sampleSentence": "",
       "extended": "See also: airgapping",
+     "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/cold-storage",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -2019,6 +2039,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -2060,6 +2081,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain, and how the network reaches agreement on the current state of the ledger. There are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -2199,6 +2221,7 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "The interplay between accounts and contracts, as public blockchain technology has advanced, has resulted in a particularly dense semantic web. When a smart contract is deployed, the Externally Owned Account, or EOA (controlled by a human), which is used to pay the gas fees required to deploy the contract -- that is, write it to the blockchain and make it available in the first place -- is referred to as the 'contract deploying account'. The resulting smart contract itself has an account as well -- the public address which can be used to 'call', or access its methods -- that's the one we're calling, here, a 'contract account'. But don't worry, it gets significantly worse; at a certain point, new techniques began to be used, to 'abstract away' the difficulties involved in EOAs; this move towards 'account abstraction' resulted in the creation of end user-accessible, shall we say, accounts which are created and controlled by... Smart contracts (which, remember, have their own accounts). There was much soul-searching and hand-wringing in trying to figure out what to call these things; often, they are referred to as... *Smart Contract Accounts*, capitalized; that's SCA, for short.",
+     "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -2674,6 +2697,7 @@
       "definitionSource": "https://academy.binance.com/en/glossary/decentralized-autonomous-organization",
       "sampleSentence": "",
       "extended": "Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.",
+     "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/decentralized-autonomous-organization",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -2687,6 +2711,7 @@
       "definitionSource": "https://academy.binance.com/en/glossary/decentralized-exchange",
       "sampleSentence": "",
       "extended": "This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools. The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.",
+     "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/decentralized-exchange",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
