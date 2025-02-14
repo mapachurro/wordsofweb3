@@ -13,7 +13,7 @@ if (!fs.existsSync(reportDir)) {
 const localeFiles = fs.readdirSync(binanceDir).filter(file => file.endsWith('.json'));
 
 localeFiles.forEach(file => {
-    const localeCode = file.replace('binance_glossary_', '').replace('.json', '');
+    const localeCode = file.replace('solana-_', '').replace('.json', '');
     const binanceFilePath = path.join(binanceDir, file);
     const glossaryFilePath = path.join(localesDir, localeCode, `${localeCode}.json`);
     const outputFilePath = glossaryFilePath;
