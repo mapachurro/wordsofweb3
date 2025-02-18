@@ -38,6 +38,14 @@
 }
 
 @media (max-width: 768px) {
+  .navbar {
+    padding: 0.5rem;
+  }
+
+  .card {
+    margin-bottom: 1rem;
+  }
+
   .language-selector {
     position: fixed !important;
     top: 15px;
@@ -52,8 +60,15 @@
 
 /* Body background and default text styling */
 body {
-  background-color: #1c1c1c; /* Deep dark background */
-  color: #a49ceb; /* Light purple for main text */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #1c1c1c;
+  color: #a49ceb;
+}
+
+main {
+  flex: 1;
 }
 
 /* Card styling */
@@ -65,8 +80,19 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slight shadow for depth */
 }
 
+/* Make card titles different color from text */
+.card-title,
+h3,
+h4 {
+  color: #ffcc00;
+}
+
 .card:hover {
   background-color: #3c344c; /* Slightly lighter on hover */
+}
+
+p {
+  color: #ccc;
 }
 
 /* Results container styling */
@@ -104,7 +130,9 @@ body {
   background-color: #2e2c3d; /* Dark purple for the link background */
   color: #a49ceb; /* Light purple text */
   text-decoration: none;
-  transition: background-color 0.3s, color 0.3s;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
 }
 
 .term-link:hover {
@@ -161,14 +189,29 @@ body {
   background-color: #484366; /* Darker purple on hover */
 }
 
+/* Contribution call to action styling */
+#call-to-action {
+  text-align: center;
+  background-color: #3c344c;
+}
+
+#call-to-action a {
+  color: #ffcc00;
+  font-weight: bold;
+}
+
+#call-to-action a:hover {
+  text-decoration: underline;
+}
+
 /* Footer styling */
 footer {
-  margin-top: 2rem;
+  margin-top: auto;
   padding: 1rem;
-  background-color: #2c2934; /* Footer background */
-  color: #a49ceb; /* Light purple for footer text */
+  background-color: #2c2934;
+  color: #a49ceb;
   text-align: center;
-  border-top: 1px solid #54547c; /* Subtle border at the top */
+  border-top: 1px solid #54547c;
 }
 
 footer a {
