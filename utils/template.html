@@ -9,6 +9,34 @@
     <link rel="stylesheet" href="../assets/css/styles.css" />
     <title>wordsofweb3 - {{title}}</title>
     <script type="module" src="../js/entry-page.js" defer></script>
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+      main {
+        flex: 1;
+      }
+      footer {
+        margin-top: auto;
+        padding: 1rem;
+        background-color: #222;
+        color: #fff;
+      }
+      .card {
+        background-color: #2a2a3b;
+        color: #ddd;
+      }
+      .card-title,
+      h3,
+      h4 {
+        color: #ffcc00;
+      }
+      p {
+        color: #ccc;
+      }
+    </style>
   </head>
   <body>
     <header id="navbar-container" class="mb-5">
@@ -65,62 +93,70 @@
     </header>
 
     <main class="container">
-      <!-- Term Card -->
-      <div class="card mb-4">
+      <!-- Term Info Card -->
+      <div class="card mb-4" id="term-info">
         <div class="card-body">
-          <h1 class="card-title">{{term}}</h1>
+          <h1 class="card-title" id="term">{{term}}</h1>
           <p id="phonetic"><strong>Phonetic:</strong> {{phonetic}}</p>
           <p id="partofspeech">
             <strong>Part of Speech:</strong> {{partOfSpeech}}
           </p>
           <p id="category"><strong>Category:</strong> {{termCategory}}</p>
-          <h3 id="definitiontitle"><strong>Definition</strong></h3>
+        </div>
+      </div>
+
+      <!-- Definition Card -->
+      <div class="card mb-4" id="definition-card">
+        <div class="card-body">
+          <h3 id="definitiontitle">Definition</h3>
           <p id="definition">{{definition}}</p>
           <p id="defsource">
             <strong>Definition source:</strong> {{definitionSource}}
           </p>
           <h4 id="sample">Sample sentence</h4>
-          <p>{{sampleSentence}}</p>
-          <h4 id="extended"><strong>Extended definition</strong></h4>
+          <p id="sampleSentence">{{sampleSentence}}</p>
+        </div>
+      </div>
+
+      <!-- Extended Info Card -->
+      <div class="card mb-4" id="extended-info">
+        <div class="card-body">
+          <h4 id="extended">Extended definition</h4>
           <p>{{extended}}</p>
           <h4 id="alternatetitle">Alternate definitions</h4>
           <div id="alternate-definitions">{{alternateDef}}</div>
           <p id="termsource"><strong>Term source:</strong> {{termSource}}</p>
           <p id="date">
-            <strong>Date first recorded to wordsofweb3:</strong>
-            {{dateFirstRecorded}}
+            <strong>Date first recorded:</strong> {{dateFirstRecorded}}
           </p>
           <h4 id="commentary">Commentary</h4>
           <p>{{commentary}}</p>
-          <br />
-          <br />
-          <div id="contribute"></div>
-          <h2>Does this need to be better?</h2>
+        </div>
+      </div>
+
+      <!-- Call to Action Card -->
+      <div class="card mb-4" id="call-to-action">
+        <div class="card-body text-center">
+          <h2 id="contribute">Does this need to be better?</h2>
           <p>
-            This glossary only gets good, and stays good, if we all complain. If
-            you have a suggestion, open an issue
+            This glossary only gets good if we all complain. If you have a
+            suggestion, open an issue
             <a href="https://github.com/mapachurro/wordsofweb3/issues"
               >on this project's GitHub repo.</a
             >
           </p>
         </div>
       </div>
-
-      <!-- Language Links Card -->
-      <div class="card mb-4">
-        <div class="card-body">
-          <h5 class="card-title">Read this entry in:</h5>
-          <p>{{languageLinks}}</p>
-        </div>
-      </div>
     </main>
 
     <!-- Footer -->
-    <footer class="text-center mt-4">
+    <footer class="text-center" id="footer">
       <p>
         wordsofweb3 glossary © 2024 by Education DAO is licensed under CC
         BY-NC-ND 4.0. To view a copy of this license, visit
-        https://creativecommons.org/licenses/by-nc-nd/4.0/
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"
+          >this link</a
+        >.
       </p>
     </footer>
   </body>
