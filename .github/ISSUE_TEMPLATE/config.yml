@@ -1,0 +1,21 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Education DAO Community
+    url: https://educationdao.xyz/
+    about: Join our community discussions and questions
+  
+  - name: Contribution Guidelines
+    url: https://github.com/mapachurro/wordsofweb3/blob/main/CONTRIBUTING.md
+    about: Please read our contribution guidelines before submitting
+    
+  - name: Term Discussion
+    url: https://github.com/mapachurro/wordsofweb3/discussions
+    about: Discuss term definitions and translations
+    
+  - name: Documentation
+    url: https://github.com/mapachurro/wordsofweb3/wiki
+    about: Check our documentation for more information
+    
+  - name: Security Issue
+    url: https://github.com/mapachurro/wordsofweb3/security/policy
+    about: Please report security vulnerabilities here
