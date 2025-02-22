@@ -1,129 +1,44 @@
-# Welcome!
 
-This repo is the backend for [the `wordsofweb3.eth` glossary](https://wordsofweb3.eth.limo), from [Education DAO](https://educationdao.xyz/).
+# Build
 
-If the canonical URL isn't working, at `wordsofweb3.eth.limo`, try loading this IPNS hash: [https://ipfs.io/ipns/k51qzi5uqu5dik032y8x6pgcprlg8t42dy521tnnqiomgxauyt3u2z6j5x60r1/english-us/index.html](https://ipfs.io/ipns/k51qzi5uqu5dik032y8x6pgcprlg8t42dy521tnnqiomgxauyt3u2z6j5x60r1/english-us/index.html)
+There is a distinction made in this repo between the JS files in `./src/js`, and `./utils`:
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+`./src/js`: client-facing javascript, ie, things that run "in the site", such as the Search function that happens when you click the "search" button
 
-**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
+vs
 
-- [wordsofweb3](#wordsofweb3)
-- [wordsofweb3: Architecture](#wordsofweb3-architecture)
-  - [Design principles](#design-principles)
-  - [Implementation implications](#implementation-implications)
-    - [Creating the homepages](#creating-the-homepages)
-      - [The Navbar and language switching](#the-navbar-and-language-switching)
-    - [Creating the glossary entries](#creating-the-glossary-entries)
-      - [`ext-sync-terms.csv`:](#ext-sync-termscsv)
-    - [`app-side-glossary.csv`](#app-side-glossarycsv)
-    - [Moving the information from .json to HTML](#moving-the-information-from-json-to-html)
-    - [Paths and slugs](#paths-and-slugs)
-  - [Creating the connections between the `definitions`](#creating-the-connections-between-the-definitions)
-    - [Matching](#matching)
-- [Overall site / `build` directory structure](#overall-site--build-directory-structure)
-  - [Navbar / top-level link structure](#navbar--top-level-link-structure)
-- [Search](#search)
-- [Build](#build)
-  - [`build.js`](#buildjs)
-- [Deployment](#deployment)
+`./utils`: javascript intended for the build process, ie, things that run "to build the site", such as `build-search-indices.js`, which creates the static search index files.
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+For this reason, `build.js` is located in `utils`, and should only ever copy over to `./build/js/*` the JS files in `./src.js`.
 
-# Contributions
+## `build.js`
 
-wordsofweb3 is meant to be a place where we all, collectively, can create a `credibly neutral`, living record of _what words mean_. The hope is that if we can agree on some definitions, we can begin to agree on reality a little bit more.
+This script is invoked by `npm run build`, and will, in turn:
 
-**Would you like to contribute**? Is a word's definition wrong? Should the term be in camel case? Have we failed to document a very important concept??
-
-CORRECTIONS ARE THE WAY WE MAKE THIS GOOD.
-
-## For the moment, please feel free to [create an issue in this repo](https://github.com/mapachurro/wordsofweb3/issues).
-
-We are working on creating an attestation-based contribution flow / frontend for the app. Stay tuned!
-
-# wordsofweb3: Architecture
-
-wordsofweb3 is a multilingual glossary app encompassing terms and explanations about crypto, web3, and decentralized web, in general, terms, concepts, and entities.
-
-It is meant to be an intertextual experience for the reader: in every `term`'s definition, whenever there is a term or phrase that is _also_ a `term` in the glossary in that language, there will be a hyperlink to that term.
-Ideally, there will be a `breadcrumbs` element at the top of each entry page, tracking the user's journey through the interwoven terminology of this space.
-
-## Design principles
-
-This app is meant to be _for the ages_. The idea is that it _will never break_. It is designed to be deployed on decentralized storage networks, such as IPFS, which sometimes experience high latency; additionally, this technology should be accessible by the widest possible audience.
-
-For these reasons, at every point at which we can choose "how to do X", we should choose the dumbest, most low-tech way possible.
-
-This means that if you're installing an npm package, or importing a CDN, you might be doing it wrong.
-
-### Conventions
-
-We use ES Module syntax in wordsofweb3, so make sure any functionality uses this design paradigm. Additionally, please add graceful failures and error handling, and console logging, in any scripts you build or modify!
-
-## Implementation implications
-
-Yes, this means custom scripting; but anyone that tells you that an npm package or open source project will require _less_ maintenance than custom scripts that do what you want, well, wish them the best of luck with that.
-
-## Languages
-
-Currently, we have definitions in the following languages:
+- Build the homepages, with `build-homepages.js`
+- Build the individual entry pages, with `build-pages.js`
+- Run `intertextual.js`
+- Create the `directoryContents.json` files
+- Copy over the following directories and files:
 
 ```txt
-العربية
-中文-简体(简体)
-中文-繁體(繁體)
-nederlands
-français
-deutsch
-eλληνικά
-english-us (United States)
-hausa
-हिन्दी
-magyar
-bahasa-indonesia
-italiano
-日本語
-한국어
-فارسی
-bahasa-melayu
-pidgin
-polski
-português-brasil
-românăână
-русский
-español-latinoamérica
-tagaloga
-ไทย
-türkçe
-українська
-tiếng-việt
+./l10n  (recursively) to ./build/l10n
+./public/assets/css to ./build/css
+./public/assets/<files at this level> to ./build/assets
+./public/assets/search-indices (recursively) to ./build/search-indices
+./static/<languageName directories>/* to ./build/* (so, all files within ./static/deutsche, and all its contents, should be copied to ./build/deutsche)
+index.html to ./build/index.html
+index.js to ./build/index.js
 ```
 
-# Components of the site: data processing and build
-
-## Homepages
+## Homepage logic and construction
 
 As a fully internationalized app, the site will actually have multiple potential versions of its homepage.
 
 This means there is an `index.html` page in the root directory `./`, as well as an index.html page in each of the locale directories, e.g. `./nederlands/index.html`.
 
-The root index file, upon load, _should_ detect the user's browser locale, and direct them to the correct `./<locale>/index.html` file.
-If there doesn't seem to be an appropriate locale for the user, the root index file should show a welcome message, display all available locales and allow the user to choose one.
-
-*Note: the above functionality probably has a bad impact on SEO, and we should consider disabling it.*
-
 These homepages are created by `build-homepages.js`, which runs during the build process.
 This script ingests `index-template.html`, and applies UI translation strings found in `./locales<four-letter-dash-locale-code>/translation.json` to the elements that need to contain human-readable information.
-
-### The Navbar and language switching
-
-The language dropdown selector on this site is much dumber than many that are out there.
-
-Currently, **it only does one thing: takes you to the homepage of whatever language you select.**
-
-Ideally, it would also switch between languages for the term page you're on.
 
 ## Creating the glossary entries
 
@@ -257,6 +172,7 @@ There is a cross-locale mapping function present in this script, which should li
 [English](./path-to-entry-in-English.html)
 ```
 
+
 ## Paths and slugs
 
 wordsofweb3 should always prioritize human-readability over concessions to the conventions of machines, even when that sucks for technical reasons.
@@ -385,58 +301,3 @@ This section lists websites, forums, GitHub repositories, etc., where reliable i
 ```
 
 In this way, the reader will be presented with the most relevant searches first.
-
-# Front end, imagery, colors, and overall `vibes`
-
-## Hex codes for Education DAO palette, in order from left to right in this screenshot:
-
-![color-palette](./backend-images/palette.png)
-
-- #a49ceb
-- #1c1c1c
-- #5c5481 
-- #484366
-- #54547c 
-- #5c5c8c
-- #343446
-- #3c344c
-- #2e2c3d
-- #2c2934
-
-# Build
-
-There is a distinction made in this repo between the JS files in `./src/js`, and `./utils`:
-
-./src/js: client-facing javascript, ie, things that run "in the site", such as the Search function that happens when you click the "search" button
-
-vs
-
-./utils: javascript intended for the build process, ie, things that run "to build the site", such as `build-search-indices.js`, which creates the static search index files.
-
-For this reason, `build.js` is located in `utils`, and should only ever copy over to `./build/js/*` the JS files in `./src.js`.
-
-## `build.js`
-
-This script is invoked by `npm run build`, and will, in turn:
-
-- Build the homepages, with `build-homepages.js`
-- Build the individual entry pages, with `build-pages.js`
-- Run `intertextual.js`
-- Create the `directoryContents.json` files
-- Copy over the following directories and files:
-
-```txt
-./l10n  (recursively) to ./build/l10n
-./public/assets/css to ./build/css
-./public/assets/<files at this level> to ./build/assets
-./public/assets/search-indices (recursively) to ./build/search-indices
-./static/<languageName directories>/* to ./build/* (so, all files within ./static/deutsche, and all its contents, should be copied to ./build/deutsche)
-index.html to ./build/index.html
-index.js to ./build/index.js
-```
-
-# Deployment
-
-This site is deployed on IPFS, for starters, using Fleek.xyz. It can and probably should be deployed on other decentralized storage networks.
-
-The intention is to route the ENS name `wordsofweb3.eth` to an IPNS hash using Fleek.xyz, such that it could be accessed at `wordsofweb3.eth.limo`, etc.
