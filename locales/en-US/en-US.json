@@ -1338,9 +1338,9 @@
       "commentary": ""
     },
     "blue-chip-token": {
-      "term": "Blue-Chip Token",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "blue-chip token",
+      "partOfSpeech": "noun phrase",
+      "termCategory": "DeFi",
       "phonetic": "",
       "definition": "Blue-chip cryptos are coins that have withstood the test of time. These assets are established and reliably valuable.",
       "definitionSource": "https://academy.binance.com/en/glossary/blue-chip-token",
@@ -1394,7 +1394,7 @@
       "commentary": ""
     },
     "bollinger-bands": {
-      "term": "Bollinger Bands",
+      "term": "Bollinger bands",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1408,9 +1408,9 @@
       "commentary": ""
     },
     "bond": {
-      "term": "Bond",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "bond",
+      "partOfSpeech": "noun",
+      "termCategory": "finance",
       "phonetic": "",
       "definition": "Bonds are a type of fixed-income investment that represents a loan made by an investor to a borrower, typically a business or government.",
       "definitionSource": "https://academy.binance.com/en/glossary/bond",
@@ -1427,7 +1427,7 @@
       "termCategory": "",
       "phonetic": "/ˈbaʊnti/ /bʌɡ ˈbaʊnti/",
       "definition": "A reward offered for exposing vulnerabilities and issues in computer code. For this reason, often referred to as a 'bug bounty'.",
-      "definitionSource": "https://academy.binance.com/en/glossary/bounty",
+      "definitionSource": "Consensys Software Inc., Blockchain Glossary for Beginners, Education DAO",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -1469,7 +1469,7 @@
       "commentary": ""
     },
     "brc-20-tokens": {
-      "term": "BRC-20 Tokens",
+      "term": "BRC-20 tokens",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1483,9 +1483,9 @@
       "commentary": ""
     },
     "break-even-point": {
-      "term": "Break-Even Point (BEP)",
+      "term": "break-even point",
       "partOfSpeech": "",
-      "termCategory": "",
+      "termCategory": "finance",
       "phonetic": "",
       "definition": "The point where the total costs of an operation is equivalent to its current value or revenue.",
       "definitionSource": "https://academy.binance.com/en/glossary/break-even-point",
@@ -1497,7 +1497,7 @@
       "commentary": ""
     },
     "breakeven-multiple": {
-      "term": "Breakeven Multiple",
+      "term": "breakeven multiple",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1511,7 +1511,7 @@
       "commentary": ""
     },
     "breakout": {
-      "term": "Breakout",
+      "term": "breakout",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1567,7 +1567,7 @@
       "commentary": ""
     },
     "btc-wallet-address": {
-      "term": "BTC Wallet Address",
+      "term": "BTC wallet address",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1600,7 +1600,7 @@
       "commentary": ""
     },
     "bull-market": {
-      "term": "Bull Market",
+      "term": "bull market",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1614,9 +1614,9 @@
       "commentary": ""
     },
     "burner-wallet": {
-      "term": "Burner Wallet",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "burner wallet",
+      "partOfSpeech": "noun phrase",
+      "termCategory": "web3",
       "phonetic": "",
       "definition": "Explore burner wallets, temporary cryptocurrency wallets that users can use to safely interact with potentially dangerous blockchain applications.",
       "definitionSource": "https://academy.binance.com/en/glossary/burner-wallet",
@@ -1628,7 +1628,7 @@
       "commentary": ""
     },
     "buy-wall": {
-      "term": "Buy Wall",
+      "term": "buy wall",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1684,7 +1684,7 @@
       "commentary": ""
     },
     "candidate-block": {
-      "term": "Candidate Block",
+      "term": "candidate block",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1698,21 +1698,21 @@
       "commentary": ""
     },
     "candlestick": {
-      "term": "Candlestick",
+      "term": "candlestick",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "A graph representation of price action that displays the open, close, high, and low points within a certain period.",
       "definitionSource": "https://academy.binance.com/en/glossary/candlestick",
-      "sampleSentence": "",
-      "extended": "",
+      "sampleSentence": "Did you see that green candlestick on $POO this morning? Someone bought big.",
+      "extended": "Often shortened to simply 'candle'.",
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/candlestick",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "capitulation": {
-      "term": "Capitulation",
+      "term": "capitulation",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1740,21 +1740,21 @@
       "commentary": ""
     },
     "censorship-resistance": {
-      "term": "Censorship-resistance",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "censorship resistance",
+      "partOfSpeech": "noun phrase",
+      "termCategory": "decentralized tech",
       "phonetic": "",
       "definition": "The property of a cryptocurrency network that prevents any entity from altering transactions on it.",
       "definitionSource": "https://academy.binance.com/en/glossary/censorship-resistance",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "While this is the noun phrase, you will often see a protocol or network described as 'censorship resistant'.",
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/censorship-resistance",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "central-bank": {
-      "term": "Central Bank",
+      "term": "central bank",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1796,8 +1796,8 @@
       "commentary": ""
     },
     "centralized": {
-      "term": "Centralized",
-      "partOfSpeech": "",
+      "term": "centralized",
+      "partOfSpeech": "adjective",
       "termCategory": "",
       "phonetic": "",
       "definition": "When the planning and decision-making mechanisms are concentrated in a particular point within a system.",
@@ -1885,8 +1885,8 @@
       "commentary": ""
     },
     "cipher": {
-      "term": "Cipher",
-      "partOfSpeech": "",
+      "term": "cipher",
+      "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "",
       "definition": "A method for encrypting and decrypting messages. Ciphers can be divided into symmetric or asymmetric, according to their key model.",
@@ -1899,7 +1899,7 @@
       "commentary": ""
     },
     "circulating-supply": {
-      "term": "Circulating Supply",
+      "term": "circulating supply",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1932,7 +1932,7 @@
       "commentary": ""
     },
     "cloud": {
-      "term": "Cloud",
+      "term": "cloud",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2040,7 +2040,7 @@
       "commentary": ""
     },
     "collateral": {
-      "term": "Collateral",
+      "term": "collateral",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2054,7 +2054,7 @@
       "commentary": ""
     },
     "colocation": {
-      "term": "Colocation",
+      "term": "colocation",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2065,7 +2065,7 @@
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/colocation",
       "dateFirstRecorded": "2025-01-31",
-      "commentary": ""
+      "commentary": "Not to be confused with 'collocation', referring to common placement of phrases or words together."
     },
     "commodity-futures-trading-commission": {
       "term": "Commodity Futures Trading Commission (CFTC)",
@@ -2110,7 +2110,7 @@
       "commentary": ""
     },
     "compound-interest": {
-      "term": "Compound Interest",
+      "term": "compound interest",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2138,7 +2138,7 @@
       "commentary": ""
     },
     "confirmation-time": {
-      "term": "Confirmation Time",
+      "term": "confirmation time",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2157,7 +2157,7 @@
       "commentary": ""
     },
     "confluence": {
-      "term": "Confluence",
+      "term": "confluence",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2168,7 +2168,7 @@
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/confluence",
       "dateFirstRecorded": "2025-01-31",
-      "commentary": ""
+      "commentary": "Confluence is also the name of a workplace productivity tool, made by software company Atlassian."
     },
     "consensus": {
       "term": "consensus",
@@ -2185,7 +2185,7 @@
       "commentary": ""
     },
     "consensus-algorithm": {
-      "term": "Consensus Algorithm",
+      "term": "consensus algorithm",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2283,7 +2283,7 @@
       "commentary": ""
     },
     "contango-and-backwardation": {
-      "term": "Contango and Backwardation",
+      "term": "contango and backwardation",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2339,7 +2339,7 @@
       "commentary": ""
     },
     "copy-trading": {
-      "term": "Copy Trading",
+      "term": "copy trading",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2353,7 +2353,7 @@
       "commentary": ""
     },
     "counterparty-risk": {
-      "term": "Counterparty Risk",
+      "term": "counterparty risk",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2367,7 +2367,7 @@
       "commentary": ""
     },
     "credentials": {
-      "term": "Credentials",
+      "term": "credentials",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2381,7 +2381,7 @@
       "commentary": ""
     },
     "cross-chain-bridges": {
-      "term": "Cross-Chain Bridges",
+      "term": "cross-chain bridge",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2392,7 +2392,7 @@
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/cross-chain-bridges",
       "dateFirstRecorded": "2025-01-31",
-      "commentary": ""
+      "commentary": "This phrasing, as used by Binance, is perhaps redundant. A bridge between blockchains is, by definition, cross-chain."
     },
     "crypto-": {
       "term": "crypto-",
@@ -2451,7 +2451,7 @@
       "commentary": ""
     },
     "crypto-etfs": {
-      "term": "Crypto ETFs",
+      "term": "crypto ETF",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2493,7 +2493,7 @@
       "commentary": ""
     },
     "crypto-protocol": {
-      "term": "Crypto Protocol",
+      "term": "crypto protocol",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2504,7 +2504,7 @@
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/crypto-protocol",
       "dateFirstRecorded": "2025-01-31",
-      "commentary": ""
+      "commentary": "This phrasing, as used by Binance, is perhaps implying a differentiation where one does not exist. A protocol is a protocol, regardless of whether it is employed in a crypto context or otherwise."
     },
     "crypto-wallet": {
       "term": "crypto wallet",
@@ -2521,7 +2521,7 @@
       "commentary": ""
     },
     "crypto-winter": {
-      "term": "Crypto Winter",
+      "term": "crypto Winter",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2648,9 +2648,9 @@
       "commentary": ""
     },
     "daemon": {
-      "term": "Daemon",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "daemon",
+      "partOfSpeech": "noun",
+      "termCategory": "Computer science",
       "phonetic": "",
       "definition": "A process operating in the background waiting for a specific event or condition in order to be activated.",
       "definitionSource": "https://academy.binance.com/en/glossary/daemon",
@@ -2732,7 +2732,7 @@
       "commentary": ""
     },
     "dead-cat-bounce": {
-      "term": "Dead Cat Bounce",
+      "term": "dead cat bounce",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2746,7 +2746,7 @@
       "commentary": ""
     },
     "death-cross": {
-      "term": "Death Cross",
+      "term": "death cross",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2779,7 +2779,7 @@
       "termCategory": "",
       "phonetic": "/ˌdiːsɛntrəlaɪzd ˌæplɪˈkeɪʃən/",
       "definition": "An open-source software application with backend (not user-facing) code running on a decentralized peer-to-peer network, rather than a centralized server. You may see alternate spellings: dApps, DApps, Dapps, and Đapps.",
-      "definitionSource": "https://academy.binance.com/en/glossary/decentralized-application",
+      "definitionSource": "Consensys Software Inc., Blockchain Glossary for Beginners, Education DAO",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -2804,7 +2804,7 @@
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/decentralized-autonomous-cooperative",
       "dateFirstRecorded": "2025-01-31",
-      "commentary": ""
+      "commentary": "Arguably, a DAO is, or often ends up being, simply 'an online cooperative with some smart contracts, maybe'."
     },
     "decentralized-autonomous-organization": {
       "term": "Decentralized Autonomous Organization",
@@ -2812,7 +2812,7 @@
       "termCategory": "",
       "phonetic": "/ˌdiːsɛntrəlaɪzd ɔːˈtɒnəməs ˌɔrɡənaɪˈzeɪʃən/, /daʊ/",
       "definition": "A Decentralized Autonomous Organization (DAO, pronounced like the Chinese concept) is a powerful and very flexible organizational structure built on a blockchain.",
-      "definitionSource": "https://academy.binance.com/en/glossary/decentralized-autonomous-organization",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.",
       "alternate": [
