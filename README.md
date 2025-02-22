@@ -7,27 +7,59 @@ A multilingual glossary for web3, crypto, and decentralized web terminology, dep
 
 > If the canonical URL isn't working, try the [IPNS hash](https://ipfs.io/ipns/k51qzi5uqu5dik032y8x6pgcprlg8t42dy521tnnqiomgxauyt3u2z6j5x60r1/english-us/index.html).
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Overview](#overview)
+- [Design Philosophy](#design-philosophy)
+- [Features](#features)
+- [Supported Languages](#supported-languages)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Technical Conventions](#technical-conventions)
+- [Project Architecture](#project-architecture)
+  - [Directory Structure](#directory-structure)
+  - [Data Management](#data-management)
+    - [CSV Files](#csv-files)
+    - [Build Process](#build-process)
+- [Search Functionality](#search-functionality)
+- [Visual Identity](#visual-identity)
+  - [Color Palette](#color-palette)
+- [Contributing](#contributing)
+- [Development](#development)
+  - [Building the Project](#building-the-project)
+  - [Testing](#testing)
+- [Deployment](#deployment)
+- [Future Plans](#future-plans)
+- [License](#license)
+- [Contact](#contact)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Overview
 
-wordsofweb3 is a collaborative project by [Education DAO](https://educationdao.xyz/) that aims to create a credibly neutral, living record of web3 terminology. The project supports multiple languages and provides an intertextual experience where terms link to related concepts.
+wordsofweb3 is a collaborative project by [Education DAO](https://educationdao.xyz/) that aims to create a credibly neutral, living record of web3 and decentralized web tech terminology. 
+
+The project supports multiple languages and provides an intertextual experience where terms link to related concepts.
 
 ## Design Philosophy
 
 This app is meant to be _for the ages_. We follow these core principles:
 
-- **Longevity**: Built to sometimes break(but never fail, like every other durable thing out there), using the simplest possible solutions
+- **Longevity**: Built to sometimes break (but never fail, like every other durable thing out there), using the simplest possible solutions
 - **Accessibility**: Available to the widest possible audience
 - **Decentralization**: Deployed on [IPFS](https://ipfs.tech/) for permanent availability
 - **Simplicity**: Minimal dependencies, custom solutions over external packages
-- **Language Neutrality**: Working towards a language-agnostic approach
+- **Language neutrality**: Working towards a human language-agnostic design.
 
 ## Features
 
-- **Multilingual Support**: Available in 28+ languages
-- **Intertextual Experience**: Terms link to related concepts within definitions
-- **Search Functionality**: Easy term lookup across all supported languages
-- **Static Generation**: All pages built at compile time for reliability
-- **Decentralized Storage**: Deployed on IPFS via [Fleek]((https://fleek.xyz/))
+- **Multilingual support**: Available in 28+ languages
+- **Intertextual experience**: Terms link to related concepts within definitions
+- **Search functionality**: Easy term lookup across all supported languages
+- **Static generation**: All pages built at compile time for reliability
+- **Decentralized storage**: Deployed on IPFS via [Fleek]((https://fleek.xyz/)); working towards multiple fallbacks, e.g. Arweave, GH Pages, etc.
 
 ## Supported Languages
 
@@ -42,11 +74,22 @@ This app is meant to be _for the ages_. We follow these core principles:
 - Français (French)
 - Deutsch (German)
 - Eλληνικά (Greek)
+- Hausa
 - हिन्दी (Hindi)
 - 日本語 (Japanese)
 - 한국어 (Korean)
-- Español (Latin America)
-- And many more...
+- Español de (Latin America)
+- Magyar (Hungarian)
+- Bahasa Indonesia (Indonesian)
+- Italiano (Italian)
+- فارسی (Persian)
+- Bahasa Melayu (Malaysian)
+- Pidgin (Nigerian Pidgin)
+- Polski (Polish)
+- Português Brasileiro (Brazilian Portuguese)
+- Limba Română (Romanian)
+- Русские (Russian)
+- 
 
 </details>
 
