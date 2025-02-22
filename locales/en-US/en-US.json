@@ -628,7 +628,7 @@
       "commentary": ""
     },
     "assets-under-management-aum": {
-      "term": "Assets Under Management (AUM)",
+      "term": "assets under management (AUM)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -642,7 +642,7 @@
       "commentary": ""
     },
     "asynchronous": {
-      "term": "Asynchronous",
+      "term": "asynchronous",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -656,7 +656,7 @@
       "commentary": ""
     },
     "atomic-swap": {
-      "term": "Atomic Swap",
+      "term": "atomic swap",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -670,7 +670,7 @@
       "commentary": ""
     },
     "attack-surface": {
-      "term": "Attack surface",
+      "term": "attack surface",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -698,7 +698,7 @@
       "commentary": ""
     },
     "auction": {
-      "term": "Auction",
+      "term": "auction",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -726,7 +726,7 @@
       "commentary": ""
     },
     "automated-market-maker-amm": {
-      "term": "Automated Market Maker (AMM)",
+      "term": "automated market maker (AMM)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -796,7 +796,7 @@
       "commentary": ""
     },
     "bags": {
-      "term": "Bags",
+      "term": "bags",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -857,7 +857,7 @@
       "commentary": ""
     },
     "bear-market": {
-      "term": "Bear Market",
+      "term": "bear market",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -871,7 +871,7 @@
       "commentary": ""
     },
     "benchmark": {
-      "term": "Benchmark",
+      "term": "benchmark",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -955,7 +955,7 @@
       "commentary": ""
     },
     "beta-coefficient": {
-      "term": "Beta (Coefficient)",
+      "term": "beta (coefficient)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -969,7 +969,7 @@
       "commentary": ""
     },
     "beta-release": {
-      "term": "Beta (Release)",
+      "term": "beta (release)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -983,9 +983,9 @@
       "commentary": ""
     },
     "bid-ask-spread": {
-      "term": "Bid-Ask Spread",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "bid-ask spread",
+      "partOfSpeech": "noun phrase",
+      "termCategory": "finance",
       "phonetic": "",
       "definition": "The difference in price between the lowest asking price and highest bid price on the order book for an asset.",
       "definitionSource": "https://academy.binance.com/en/glossary/bid-ask-spread",
@@ -997,9 +997,9 @@
       "commentary": ""
     },
     "bid-price": {
-      "term": "Bid Price",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "bid price",
+      "partOfSpeech": "noun phrase",
+      "termCategory": "finance",
       "phonetic": "",
       "definition": "In the context of financial markets, it is the value buyers offer for an asset, such as a commodity, security, or cryptocurrency.",
       "definitionSource": "https://academy.binance.com/en/glossary/bid-price",
@@ -1026,8 +1026,8 @@
     },
     "binance-blockchain-charity-foundation": {
       "term": "Blockchain Charity Foundation",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "partOfSpeech": "proper noun",
+      "termCategory": "web3",
       "phonetic": "",
       "definition": "The world's first decentralized charity platform to advocate the concept of 'blockchain for social good'.",
       "definitionSource": "https://academy.binance.com/en/glossary/binance-blockchain-charity-foundation",
@@ -1067,12 +1067,12 @@
       "commentary": ""
     },
     "bitcoin": {
-      "term": "Bitcoin",
+      "term": "bitcoin",
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈbɪtkɔɪn/",
       "definition": "Bitcoin is a decentralized digital currency or cryptocurrency, which was created in 2009 by an unknown person or group using the name Satoshi Nakamoto. Bitcoin transactions are recorded on a public digital ledger called the blockchain, which is maintained by a network of computers worldwide. Bitcoin transactions are made directly between users without the need for intermediaries like banks or financial institutions. Users can send and receive bitcoins using digital wallets. One of the key features of Bitcoin is its limited supply. There will only ever be 21 million Bitcoins in existence, which helps to prevent inflation and maintain the value of the currency. When referring to the overall network, capitalization is appropriate (Bitcoin), whereas when referring to the tokens themselves, lower-case is more appropriate (bitcoin). The plural of bitcoin is just bitcoin; the abbreviation is BTC, with a space: I have 250 BTC.",
-      "definitionSource": "https://academy.binance.com/en/glossary/bitcoin",
+      "definitionSource": "James Beck, Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -1100,7 +1100,7 @@
       "commentary": ""
     },
     "bitcoin-dominance": {
-      "term": "Bitcoin Dominance",
+      "term": "bitcoin dominance",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1114,7 +1114,7 @@
       "commentary": ""
     },
     "bitcoin-maximalists": {
-      "term": "Bitcoin Maximalists",
+      "term": "bitcoin maximalist",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1128,23 +1128,23 @@
       "commentary": ""
     },
     "bitcoin-pizza": {
-      "term": "Bitcoin Pizza",
+      "term": "bitcoin pizza",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "The first known transaction where Bitcoin was exchanged for a physical good. Laszlo Hanyecz paid 10,000 BTC for two pizzas.",
       "definitionSource": "https://academy.binance.com/en/glossary/bitcoin-pizza",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "See also Pizza DAO: https://x.com/Pizza_DAO",
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/bitcoin-pizza",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "black-swan-event": {
-      "term": "Black Swan Event",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "black swan event",
+      "partOfSpeech": "noun phrase",
+      "termCategory": "metaphor",
       "phonetic": "",
       "definition": "An event that is often entirely unexpected and deviates from the expected result causing widespread ramifications.",
       "definitionSource": "https://academy.binance.com/en/glossary/black-swan-event",
@@ -1161,7 +1161,7 @@
       "termCategory": "",
       "phonetic": "/blɑk/",
       "definition": "A discrete, unique set of transactions sent on a public distributed ledger network, immutably recorded in a certain order.",
-      "definitionSource": "https://academy.binance.com/en/glossary/block",
+      "definitionSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "Imagine a ledger that is being constantly synced between any number of exact copies of itself. People keep sending requests to add new entries to the ledger; these requests are transactions. When there are enough transactions ready, they get put into a specific order, and the *nodes*, each of which is keeping a copy of that ledger, reach consensus that the transactions are valid. Then, the transactions are cryptographically locked, in that order, into a 'block' and added forever to the ledger. This 'block' forms the starting point for the next one; in this way, they are all linked together in a chain, hence–blockchain.",
       "alternate": [
@@ -1179,21 +1179,21 @@
       "commentary": ""
     },
     "block-explorer": {
-      "term": "Block Explorer",
+      "term": "block explorer",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "Online Blockchain webpage which allows users to browse information about blocks, transactions, balances and more.",
       "definitionSource": "https://academy.binance.com/en/glossary/block-explorer",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "See also blockchain explorer.",
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/block-explorer",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "block-header": {
-      "term": "Block header",
+      "term": "block header",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -1212,7 +1212,7 @@
       "termCategory": "",
       "phonetic": "/blɑk haɪt/",
       "definition": "The number of blocks connected together in a blockchain.",
-      "definitionSource": "https://academy.binance.com/en/glossary/block-height",
+      "definitionSource": "Consensys Software Inc., Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "For example, Height 0 would be the very first block, which is also called the Genesis Block.",
       "alternate": [
@@ -1324,7 +1324,7 @@
       "commentary": ""
     },
     "bloom-filter": {
-      "term": "Bloom Filter",
+      "term": "bloom filter",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
