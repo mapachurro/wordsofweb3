@@ -30,6 +30,7 @@ A multilingual glossary for web3, crypto, and decentralized web terminology, dep
 - [Development](#development)
   - [Building the Project](#building-the-project)
   - [Testing](#testing)
+    - [Test on local server](#test-on-local-server)
 - [Deployment](#deployment)
 - [Future Plans](#future-plans)
 - [License](#license)
