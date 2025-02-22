@@ -7,10 +7,15 @@ A multilingual glossary for web3, crypto, and decentralized web terminology, dep
 
 > If the canonical URL isn't working, try the [IPNS hash](https://ipfs.io/ipns/k51qzi5uqu5dik032y8x6pgcprlg8t42dy521tnnqiomgxauyt3u2z6j5x60r1/english-us/index.html).
 
+## Overview
+
+wordsofweb3 is a collaborative project by [Education DAO](https://educationdao.xyz/) that aims to create a credibly neutral, living record of web3 and decentralized web tech terminology. 
+
+The project supports multiple languages and provides an intertextual experience where terms link to related concepts.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Overview](#overview)
 - [Design Philosophy](#design-philosophy)
 - [Features](#features)
 - [Supported Languages](#supported-languages)
@@ -37,12 +42,6 @@ A multilingual glossary for web3, crypto, and decentralized web terminology, dep
 - [Contact](#contact)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Overview
-
-wordsofweb3 is a collaborative project by [Education DAO](https://educationdao.xyz/) that aims to create a credibly neutral, living record of web3 and decentralized web tech terminology. 
-
-The project supports multiple languages and provides an intertextual experience where terms link to related concepts.
 
 ## Design Philosophy
 
