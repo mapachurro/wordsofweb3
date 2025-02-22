@@ -1,5 +1,5 @@
 ---
-name: 1. Term Addition/Modification
+name: 1. Term addition or modification
 about: Suggest a new term or modify an existing one
 title: '[TERM] - '
 labels: content
