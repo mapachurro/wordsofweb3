@@ -91,26 +91,40 @@ export default async function buildPages() {
           termData.partOfSpeech || "Grammatical data not yet available";
         const definitionValue =
           termData.definition || "Definition not available.";
-        const alternateDefsArray =
-          Array.isArray(termData.alternate) && termData.alternate.length
-            ? termData.alternate
+        const additionalDefsArray =
+          Array.isArray(termData.additional) && termData.additional.length
+            ? termData.additional
             : null;
 
-        const alternateDef = alternateDefsArray
-          ? alternateDefsArray
+        const additionalDef = additionalDefsArray
+          ? additionalDefsArray
               .map(
                 (alt) =>
-                  `<p><strong>Alternate:</strong> ${alt.definition} <em>(${alt.source})</em></p>`,
+                  `<p><strong>Additional definition:</strong> ${alt.definition} <em>(${alt.source})</em></p>`,
               )
               .join("")
-          : "<p>No alternate definitions found. Have another? Submit it!</p>";
+          : "<p>No additional definitions found. Have another? Submit it!</p>";
 
         const termCategoryValue = termData.termCategory || "To be determined";
         const definitionSource = termData.definitionSource || "N/A";
         const sampleSentence = termData.sampleSentence || "N/A";
         const extended = termData.extended || "No extended definition. ...yet";
-        const termSource =
-          termData.termSource || "This word came from... the ether";
+        // Enhanced handling for termSource
+        const isValidUrl = (string) => {
+          try {
+            new URL(string);
+            return true;
+          } catch (_) {
+            return false;
+          }
+        };
+
+        const termSource = termData.termSource
+          ? isValidUrl(termData.termSource)
+            ? `<a href="${termData.termSource}" target="_blank" rel="noopener noreferrer">Term source</a>`
+            : `${termData.termSource}`
+          : "This word came from... the ether";
+
         const date = termData.dateFirstRecorded || "Unknown";
         const commentary =
           termData.commentary || "No commentary on this. ...yet";
@@ -168,7 +182,7 @@ export default async function buildPages() {
           .replace(/{{definitionSource}}/g, definitionSource)
           .replace(/{{sampleSentence}}/g, sampleSentence)
           .replace(/{{extended}}/g, extended)
-          .replace(/{{alternateDef}}/g, alternateDef)
+          .replace(/{{additionalDef}}/g, additionalDef)
           .replace(/{{termSource}}/g, termSource)
           .replace(/{{dateFirstRecorded}}/g, date)
           .replace(/{{commentary}}/g, commentary);
