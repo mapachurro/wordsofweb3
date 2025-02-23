@@ -91,13 +91,13 @@ export default async function buildPages() {
           termData.partOfSpeech || "Grammatical data not yet available";
         const definitionValue =
           termData.definition || "Definition not available.";
-        const alternateDefsArray =
-          Array.isArray(termData.alternate) && termData.additional.length
-            ? termData.alternate
+        const additionalDefsArray =
+          Array.isArray(termData.additional) && termData.additional.length
+            ? termData.additional
             : null;
 
-        const alternateDef = alternateDefsArray
-          ? alternateDefsArray
+        const additionalDef = additionalDefsArray
+          ? additionalDefsArray
               .map(
                 (alt) =>
                   `<p><strong>Additional definition:</strong> ${alt.definition} <em>(${alt.source})</em></p>`,
@@ -168,7 +168,7 @@ export default async function buildPages() {
           .replace(/{{definitionSource}}/g, definitionSource)
           .replace(/{{sampleSentence}}/g, sampleSentence)
           .replace(/{{extended}}/g, extended)
-          .replace(/{{alternateDef}}/g, alternateDef)
+          .replace(/{{additionalDef}}/g, additionalDef)
           .replace(/{{termSource}}/g, termSource)
           .replace(/{{dateFirstRecorded}}/g, date)
           .replace(/{{commentary}}/g, commentary);
