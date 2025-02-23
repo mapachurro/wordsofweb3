@@ -8562,7 +8562,7 @@
       "commentary": ""
     },
     "routing-attack": {
-      "term": "Routing Attack",
+      "term": "routing attack",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8591,11 +8591,11 @@
     },
     "rug-pull": {
       "term": "rug pull",
-      "partOfSpeech": "verb",
+      "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/rʌɡ pʊl/",
       "definition": "Similar to the traditional financial scam of a pyramid scheme, a 'rug pull' is a cryptocurrency or crypto-token based scam in which the creators of the token create hype, through injecting liquidity into their token, airdropping, and other schemes, and once investors pile in and boost the price of the token up to a certain point, the creators liquidate their (generally majority) share of the tokens, leaving their investors with next to nothing.",
-      "definitionSource": "https://academy.binance.com/en/glossary/rug-pull",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -8665,7 +8665,7 @@
       "commentary": ""
     },
     "sandwich-trading": {
-      "term": "Sandwich Trading",
+      "term": "sandwich trading",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8712,7 +8712,7 @@
       "termCategory": "",
       "phonetic": "/ˈsətoʊʃi nəˈkoʊtoʊmi/",
       "definition": "A pseudonymous individual or entity who created the Bitcoin protocol, solving the digital currency issue of the “double spend.” Nakamoto first published their white paper describing the project in 2008, and the first Bitcoin software was released one year later.",
-      "definitionSource": "https://academy.binance.com/en/glossary/satoshi-nakamoto",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -8838,7 +8838,7 @@
       "commentary": ""
     },
     "securities-and-exchange-commission": {
-      "term": "Securities and Exchange Commission (SEC)",
+      "term": "Securities and Exchange Commission",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8852,7 +8852,7 @@
       "commentary": ""
     },
     "security-audit": {
-      "term": "Security Audit",
+      "term": "security audit",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8866,7 +8866,7 @@
       "commentary": ""
     },
     "security-token": {
-      "term": "Security Token",
+      "term": "security token",
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈsɪkjʊrɪti toʊkən/",
@@ -8884,27 +8884,18 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/sɪˈkjʊrɪti ˈtoʊkən ˈɔfərɪŋ/",
-      "definition": "",
+      "definition": "See 'security token'.",
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Unravel Security Token Offering (STO), a method of raising capital by issuing security tokens. Explore some of the benefits they offer to investors.",
+          "source": "https://academy.binance.com/en/glossary/security-token-offering-sto"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "security-token-offering-sto": {
-      "term": "Security Token Offering (STO)",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "Unravel Security Token Offering (STO), a method of raising capital by issuing security tokens. Explore some of the benefits they offer to investors.",
-      "definitionSource": "https://academy.binance.com/en/glossary/security-token-offering-sto",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/security-token-offering-sto",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "seed-phrase": {
@@ -8913,7 +8904,7 @@
       "termCategory": "",
       "phonetic": "/siːd freɪz/",
       "definition": "Another term for Secret Recovery Phrase",
-      "definitionSource": "https://academy.binance.com/en/glossary/seed-phrase",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -8927,7 +8918,7 @@
       "commentary": ""
     },
     "seed-tag": {
-      "term": "Seed Tag",
+      "term": "seed tag",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8941,7 +8932,7 @@
       "commentary": ""
     },
     "segregated-witness": {
-      "term": "Segregated Witness (SegWit)",
+      "term": "Segregated Witness",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8983,7 +8974,7 @@
       "commentary": ""
     },
     "selfish-mining": {
-      "term": "Selfish Mining",
+      "term": "selfish mining",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9011,7 +9002,7 @@
       "commentary": ""
     },
     "sentiment": {
-      "term": "Sentiment",
+      "term": "sentiment",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9086,7 +9077,7 @@
       "termCategory": "",
       "phonetic": "/ˈʃɑːrdɪŋ/",
       "definition": "Sharding, in public blockchains, refers to splitting an entire network into multiple portions, called “shards.” Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts. Sharding is currently being investigated and developed as one of the set of tools and solutions for scaling Ethereum.",
-      "definitionSource": "https://academy.binance.com/en/glossary/sharding",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9136,23 +9127,14 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Sidechains are independent blockchains linked to a parent blockchain, designed to enhance scalability and facilitate digital asset transfers between networks.",
+          "source": "https://academy.binance.com/en/glossary/sidechains"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "sidechains": {
-      "term": "Sidechains",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "Sidechains are independent blockchains linked to a parent blockchain, designed to enhance scalability and facilitate digital asset transfers between networks.",
-      "definitionSource": "https://academy.binance.com/en/glossary/sidechains",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/sidechains",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "signature": {
@@ -9175,7 +9157,7 @@
       "commentary": ""
     },
     "simple-moving-average-sma": {
-      "term": "Simple Moving Average (SMA)",
+      "term": "simple moving average",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9189,7 +9171,7 @@
       "commentary": ""
     },
     "slashing": {
-      "term": "Slashing",
+      "term": "slashing",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9222,7 +9204,7 @@
       "termCategory": "",
       "phonetic": "/ˈslɪpɪdʒ/",
       "definition": "Slippage is the expected percentage difference between a quoted and an executed price.",
-      "definitionSource": "https://academy.binance.com/en/glossary/slippage",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9241,7 +9223,7 @@
       "termCategory": "",
       "phonetic": "/slɒt/",
       "definition": "In Proof of Stake consensus in Ethereum, a 'slot' is a period of time equivalent to 12 seconds; 32 slots make up an 'epoch'. Slots are significant in that for each slot, a different validator node is randomly chosen to propose blocks to the network, and a different committee of validators are chosen to vote on whether each block is valid",
-      "definitionSource": "",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9260,7 +9242,7 @@
       "termCategory": "",
       "phonetic": "/smɑːrt ˈkɒntrækt/",
       "definition": "Smart contracts are programs that have been published on a public blockchain, and can be used by anyone. While they often contain agreements or sets of actions between parties that emulate a traditional legal contract, they are not, in and of themselves, legal documents. Smart contracts are automated actions that can be coded and executed once a set of conditions is met, and are the dominant form of programming on the Ethereum Virtual Machine.",
-      "definitionSource": "https://academy.binance.com/en/glossary/smart-contract",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9278,7 +9260,7 @@
       "commentary": ""
     },
     "smart-contract-wallet": {
-      "term": "Smart Contract Wallet",
+      "term": "smart contract wallet",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9292,8 +9274,8 @@
       "commentary": ""
     },
     "snapshot": {
-      "term": "Snapshot",
-      "partOfSpeech": "",
+      "term": "snapshot",
+      "partOfSpeech": "verb, noun",
       "termCategory": "",
       "phonetic": "",
       "definition": "The ability to record the state of a blockchain ledger, storage device, or computer system at a specific point in time.",
@@ -9306,7 +9288,7 @@
       "commentary": ""
     },
     "social-recovery-wallet": {
-      "term": "Social Recovery Wallet",
+      "term": "social recovery wallet",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9320,7 +9302,7 @@
       "commentary": ""
     },
     "social-trading": {
-      "term": "Social Trading",
+      "term": "social trading",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9362,9 +9344,9 @@
       "commentary": ""
     },
     "soft-landing": {
-      "term": "Soft Landing",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "soft landing",
+      "partOfSpeech": "noun phrase",
+      "termCategory": "economics",
       "phonetic": "",
       "definition": "Soft landing refers to a situation in which the economy slows down gradually after a period of rapid growth while simultaneously avoiding a recession.",
       "definitionSource": "https://academy.binance.com/en/glossary/soft-landing",
@@ -9381,7 +9363,7 @@
       "termCategory": "",
       "phonetic": "/ˈsɒlɪdɪti/",
       "definition": "The programming language developers use to write smart contracts on the Ethereum network. See also ‘smart contract’. Solidity",
-      "definitionSource": "https://academy.binance.com/en/glossary/solidity",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9395,7 +9377,7 @@
       "commentary": ""
     },
     "source-code": {
-      "term": "Source Code",
+      "term": "source code",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9442,7 +9424,7 @@
       "termCategory": "",
       "phonetic": "/ˈsteɪblˌkɔɪn/",
       "definition": "A cryptocurrency whose value has been ‘pegged’ to that of something considered a ‘stable’ asset, like fiat currency or gold. It theoretically remains stable in price, as it is measured against a known amount of an asset which should be less subject to fluctuation. Always spelled as one word. User Guide: Tokens",
-      "definitionSource": "https://academy.binance.com/en/glossary/stablecoin",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9456,7 +9438,7 @@
       "commentary": ""
     },
     "stagflation": {
-      "term": "Stagflation",
+      "term": "stagflation",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9475,7 +9457,7 @@
       "termCategory": "",
       "phonetic": "/steɪk/",
       "definition": "Staking is the act of depositing ETH to activate new validators on the Ethereum protocol. Validators help keep Ethereum secure and operational by validating transactions and adding new blocks to the blockchain.",
-      "definitionSource": "",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9494,7 +9476,7 @@
       "termCategory": "",
       "phonetic": "/ˈsteɪkɪŋ/",
       "definition": "On the Ethereum Proof of Stake network, those wishing to participate in consensus must first lock up, or ‘stake’, 32 ETH into a smart contract; this ETH may be ‘slashed’ (taken from them and ‘burned’, put out of circulation) in the event that their validator behaves maliciously or does not meet performance requirements. Similar Proof of Stake mechanisms are in operation on other networks, as well.\n\nAlthough this is the canonical meaning of the word, similar actions taken at the level of a decentralized exchange (DEX) or another dapp are often called ‘staking’, though it would probably be more accurate and descriptive to just call this ‘locking up tokens’.",
-      "definitionSource": "",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [],
@@ -9530,30 +9512,21 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "state-channel": {
-      "term": "State Channel",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "A two-way communication channel between two users or nodes on a network, or between a user and a service.",
-      "definitionSource": "https://academy.binance.com/en/glossary/state-channel",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/state-channel",
-      "dateFirstRecorded": "2025-01-31",
-      "commentary": ""
-    },
     "state-channels": {
       "term": "state channels",
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/steɪt ˈtʃænəlz/",
       "definition": "State channels are part of the set of tools and platforms involved in scaling Ethereum. While a complex topic, state channels are essentially methods through which the current 'state' of the blockchain can be exported, and then based on that, any given number of transactions can take place off-chain, and then be moved back onto the main Ethereum chain.",
-      "definitionSource": "",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "A two-way communication channel between two users or nodes on a network, or between a user and a service.",
+          "source": "https://academy.binance.com/en/glossary/state-channel",
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
@@ -9587,7 +9560,7 @@
       "commentary": ""
     },
     "stock-variable": {
-      "term": "Stock Variable",
+      "term": "stock variable",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9601,7 +9574,7 @@
       "commentary": ""
     },
     "store-of-value": {
-      "term": "Store of Value",
+      "term": "store of value",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9629,7 +9602,7 @@
       "commentary": ""
     },
     "supercomputer": {
-      "term": "Supercomputer",
+      "term": "supercomputer",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9643,7 +9616,7 @@
       "commentary": ""
     },
     "supply-chain": {
-      "term": "Supply Chain",
+      "term": "supply chain",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9657,7 +9630,7 @@
       "commentary": ""
     },
     "support": {
-      "term": "Support",
+      "term": "support",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9685,7 +9658,7 @@
       "commentary": ""
     },
     "sybil-attack": {
-      "term": "Sybil Attack",
+      "term": "Sybil attack",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9713,7 +9686,7 @@
       "commentary": ""
     },
     "taker": {
-      "term": "Taker",
+      "term": "taker",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9727,7 +9700,7 @@
       "commentary": ""
     },
     "tank": {
-      "term": "Tank",
+      "term": "tank",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9774,7 +9747,7 @@
       "termCategory": "",
       "phonetic": "/ˈtɛstˌnɛt/",
       "definition": "A testnet is a blockchain network that mirrors, as closely as possible, the current conditions of a corresponding ‘main’ network. Testnets are used by developers to verify that their smart contracts and other functionality work as intended, before permanently recording their code to a live blockchain network (and often spending significant gas fees in the process!).\n\nTokens minted on testnets are not transferrable for their equivalent value on mainnets.",
-      "definitionSource": "https://academy.binance.com/en/glossary/testnet",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9830,7 +9803,7 @@
       "commentary": ""
     },
     "ticker": {
-      "term": "Ticker",
+      "term": "ticker",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9844,7 +9817,7 @@
       "commentary": ""
     },
     "ticker-symbol": {
-      "term": "Ticker Symbol",
+      "term": "ticker symbol",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9863,7 +9836,7 @@
       "termCategory": "",
       "phonetic": "/ˈtoʊkən/",
       "definition": "A token represents an asset issued on an existing blockchain; the transfer of tokens and the addresses that currently hold them are the subject of the network’s consensus activities. There are many types of tokens; see also ‘ERC-20’ and ‘ERC-721’ entries.",
-      "definitionSource": "https://academy.binance.com/en/glossary/token",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9881,7 +9854,7 @@
       "commentary": ""
     },
     "token-generation-event-tge": {
-      "term": "Token Generation Event (TGE)",
+      "term": "Token Generation Event",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9900,7 +9873,7 @@
       "termCategory": "",
       "phonetic": "/ˈtoʊkən ˈlɒkʌp/",
       "definition": "A token lock-up refers to a mechanism where certain tokens or cryptocurrency holdings are locked up or frozen for a specified period of time to restrict their transfer or sale. This is often used in the context of initial coin offerings (ICOs), where token issuers may require investors to commit to holding onto their tokens for a certain period, typically to ensure that investors are committed to the project's long-term success.\n\nToken lock-up periods can vary in duration and can be predetermined or set according to certain conditions, such as reaching a certain milestone, liquidity event or network upgrade. During the lock-up period, the tokens cannot be transferred or sold, although in some cases, they may be staked or used to participate in certain network activities. Once the lock-up period is over, the tokens can be freely traded or sold.",
-      "definitionSource": "https://academy.binance.com/en/glossary/token-lockup",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -9914,7 +9887,7 @@
       "commentary": ""
     },
     "token-merge": {
-      "term": "Token Merge",
+      "term": "token merge",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9928,7 +9901,7 @@
       "commentary": ""
     },
     "token-sale": {
-      "term": "Token Sale",
+      "term": "token sale",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9950,23 +9923,14 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Learn about ERC-20, ERC-721, BEP-20, and TRC-20 token standards in blockchain networks. Understand their role in cryptocurrency transactions and decentralized applications.",
+          "source": "https://academy.binance.com/en/glossary/token-standards"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "token-standards": {
-      "term": "Token Standards",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "Learn about ERC-20, ERC-721, BEP-20, and TRC-20 token standards in blockchain networks. Understand their role in cryptocurrency transactions and decentralized applications.",
-      "definitionSource": "https://academy.binance.com/en/glossary/token-standards",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/token-standards",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "tokenization": {
