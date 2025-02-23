@@ -2702,7 +2702,7 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "interplanetary-file-system-(ipfs)": {
+    "interplanetary-file-system": {
       "term": "ระบบไฟล์ InterPlanetary (IPFS)",
       "partOfSpeech": "",
       "termCategory": "",
@@ -3234,8 +3234,8 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "mesh": {
-      "term": "Mesh",
+    "consensys-mesh": {
+      "term": "Consensys Mesh",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4312,7 +4312,7 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "rollups": {
+    "rollup": {
       "term": "โรลล์อัป",
       "partOfSpeech": "",
       "termCategory": "",

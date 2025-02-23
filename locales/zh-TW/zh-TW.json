@@ -5222,7 +5222,7 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
-    "interplanetary-file-system-(ipfs)": {
+    "interplanetary-file-system": {
       "term": "星際檔案系統 (IPFS)",
       "partOfSpeech": "",
       "termCategory": "",
@@ -5237,7 +5237,7 @@
       "commentary": ""
     },
     "interplanetary-file-system-ipfs": {
-      "term": "InterPlanetary File System (IPFS)",
+      "term": "InterPlanetary File System",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6146,8 +6146,8 @@
       "dateFirstRecorded": "2025-02-01",
       "commentary": ""
     },
-    "mesh": {
-      "term": "Mesh",
+    "consensys-mesh": {
+      "term": "Consensys Mesh",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8064,7 +8064,7 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "rollups": {
+    "rollup": {
       "term": "交易卷",
       "partOfSpeech": "",
       "termCategory": "",
