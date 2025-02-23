@@ -92,7 +92,7 @@ export default async function buildPages() {
         const definitionValue =
           termData.definition || "Definition not available.";
         const alternateDefsArray =
-          Array.isArray(termData.alternate) && termData.alternate.length
+          Array.isArray(termData.alternate) && termData.additional.length
             ? termData.alternate
             : null;
 
@@ -100,10 +100,10 @@ export default async function buildPages() {
           ? alternateDefsArray
               .map(
                 (alt) =>
-                  `<p><strong>Alternate:</strong> ${alt.definition} <em>(${alt.source})</em></p>`,
+                  `<p><strong>Additional definition:</strong> ${alt.definition} <em>(${alt.source})</em></p>`,
               )
               .join("")
-          : "<p>No alternate definitions found. Have another? Submit it!</p>";
+          : "<p>No additional definitions found. Have another? Submit it!</p>";
 
         const termCategoryValue = termData.termCategory || "To be determined";
         const definitionSource = termData.definitionSource || "N/A";
