@@ -73,10 +73,10 @@ main {
 
 /* Card styling */
 .card {
-  background-color: #2c2934; /* Dark purple for card backgrounds */
+  background-color: #2a2a3b; 
   border: 1px solid #54547c; /* Subtle border for definition */
   border-radius: 8px;
-  color: #a49ceb; /* Light purple text for readability */
+  color: #ddd;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slight shadow for depth */
 }
 
