@@ -109,8 +109,22 @@ export default async function buildPages() {
         const definitionSource = termData.definitionSource || "N/A";
         const sampleSentence = termData.sampleSentence || "N/A";
         const extended = termData.extended || "No extended definition. ...yet";
-        const termSource =
-          termData.termSource || "This word came from... the ether";
+        // Enhanced handling for termSource
+        const isValidUrl = (string) => {
+          try {
+            new URL(string);
+            return true;
+          } catch (_) {
+            return false;
+          }
+        };
+
+        const termSource = termData.termSource
+          ? isValidUrl(termData.termSource)
+            ? `<a href="${termData.termSource}" target="_blank" rel="noopener noreferrer">Term source</a>`
+            : `${termData.termSource}`
+          : "This word came from... the ether";
+
         const date = termData.dateFirstRecorded || "Unknown";
         const commentary =
           termData.commentary || "No commentary on this. ...yet";
