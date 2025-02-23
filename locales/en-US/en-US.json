@@ -6313,7 +6313,7 @@
       "commentary": ""
     },
     "market-order": {
-      "term": "Market Order",
+      "term": "market order",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6327,7 +6327,7 @@
       "commentary": ""
     },
     "masternode": {
-      "term": "Masternode",
+      "term": "masternode",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6341,7 +6341,7 @@
       "commentary": ""
     },
     "matching-engine": {
-      "term": "Matching Engine",
+      "term": "matching engine",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6383,7 +6383,7 @@
       "commentary": ""
     },
     "maximum-supply": {
-      "term": "Maximum Supply",
+      "term": "maximum supply",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6415,8 +6415,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈmɛmpuːl/",
-      "definition": "abbreviation; Memory Pool. Also commonly referred to as a 'transaction pool'.\n\nWhen a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what’s known as a “transaction pool”, or “txpool” for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are “picked up” and included in the next block, and there is currently a lot of research surrounding how this decision gets made. In Bitcoin, the transaction pool was referred to as the “memory pool”, or “mempool”, and often these terms are used interchangeably.",
-      "definitionSource": "https://academy.binance.com/en/glossary/mempool",
+      "definition": "abbreviation; Memory Pool. Also commonly referred to as a 'transaction pool'. When a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what’s known as a “transaction pool”, or “txpool” for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are “picked up” and included in the next block, and there is currently a lot of research surrounding how this decision gets made. In Bitcoin, the transaction pool was referred to as the “memory pool”, or “mempool”, and often these terms are used interchangeably.",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -6458,7 +6458,7 @@
       "commentary": ""
     },
     "merged-mining": {
-      "term": "Merged Mining",
+      "term": "merged mining",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6472,12 +6472,12 @@
       "commentary": ""
     },
     "merkle-patricia-trie": {
-      "term": "Merkle Patricia trie",
+      "term": "Merkle PATRICIA trie",
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈmɜrkl pəˈtrɪʃə traɪ/",
       "definition": "Often referred to simply as a 'Merkle trie' (pronounced 'tree'), a Merkle Patricia trie is a data structure in which a single hash code function (see 'hash') splits into smaller branches. In a similar way to a family tree, where a parent branch splits into child branches, which are then extrapolated into grandchild branches, a Merkle Patricia trie keeps a record of the filiation and history of each element. This type of data structure enables for faster verification on a blockchain network.",
-      "definitionSource": "",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [],
@@ -6499,8 +6499,8 @@
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
-    "mesh": {
-      "term": "Mesh",
+    "consensys-mesh": {
+      "term": "Consensys Mesh",
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/mɛʃ/",
@@ -6519,7 +6519,7 @@
       "termCategory": "",
       "phonetic": "/ˈmɛtəˌdeɪtə/",
       "definition": "In the context of 'NFT metadata': Metadata is 'data that provides information about other data' Metadata",
-      "definitionSource": "https://academy.binance.com/en/glossary/metadata",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -6607,8 +6607,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈmɛtəˌvɜrs/",
-      "definition": "A metaverse is a digital universe that contains all the aspects of the real world, such as real-time interactions and economies. It offers a unique experience to end-users. Metaverse",
-      "definitionSource": "https://academy.binance.com/en/glossary/metaverse",
+      "definition": "A metaverse is a digital universe that contains some aspects of the real world, such as real-time interactions and economies. It offers a unique experience to end-users. Metaverse",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -6650,7 +6650,7 @@
       "commentary": ""
     },
     "microtransactions": {
-      "term": "Microtransactions",
+      "term": "microtransactions",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6697,7 +6697,7 @@
       "termCategory": "",
       "phonetic": "/ˈmaɪnɪŋ/",
       "definition": "The process by which blocks or transactions are verified and added to a blockchain using a Proof of Work (PoW) consensus mechanism. In order to verify a block, a miner must use a computer to solve a cryptographic problem. Once the computer has solved the problem, the block is considered “mined” or verified. On Bitcoin or other PoW blockchains, the first computer to mine or verify the block receives bitcoin, or the equivalent network token, as a reward.",
-      "definitionSource": "https://academy.binance.com/en/glossary/mining",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -6711,7 +6711,7 @@
       "commentary": ""
     },
     "mining-farm": {
-      "term": "Mining Farm",
+      "term": "mining farm",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6730,7 +6730,7 @@
       "termCategory": "",
       "phonetic": "/mɪnt/",
       "definition": "Minting refers to the act of publishing a token on the blockchain to make it transferrable and purchasable.",
-      "definitionSource": "https://academy.binance.com/en/glossary/mint",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -6786,7 +6786,7 @@
       "commentary": ""
     },
     "monetary-policy": {
-      "term": "Monetary Policy",
+      "term": "monetary policy",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
