@@ -6923,7 +6923,7 @@
       "alternate": [
         {
           "definition": "Wallet which requires another party to authorize a transaction before it is broadcasted to the network.",
-          "source": "https://academy.binance.com/en/glossary/multisignature",
+          "source": "https://academy.binance.com/en/glossary/multisignature"
         }
       ],
       "termSource": "",
@@ -7147,7 +7147,7 @@
       "alternate": [
         {
           "definition": "A type of cryptographic token that represents a unique digital or real-world asset and isn't interchangeable.",
-          "source": "https://academy.binance.com/en/glossary/non-fungible-token-nft",
+          "source": "https://academy.binance.com/en/glossary/non-fungible-token-nft"
         }
       ],
       "termSource": "",
@@ -9524,7 +9524,7 @@
       "alternate": [
         {
           "definition": "A two-way communication channel between two users or nodes on a network, or between a user and a service.",
-          "source": "https://academy.binance.com/en/glossary/state-channel",
+          "source": "https://academy.binance.com/en/glossary/state-channel"
         }
       ],
       "termSource": "",
@@ -9934,7 +9934,7 @@
       "commentary": ""
     },
     "tokenization": {
-      "term": "Tokenization",
+      "term": "tokenization",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9948,7 +9948,7 @@
       "commentary": ""
     },
     "tokenomics": {
-      "term": "Tokenomics",
+      "term": "tokenomics",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9962,7 +9962,7 @@
       "commentary": ""
     },
     "total-supply": {
-      "term": "Total Supply",
+      "term": "total supply",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -9976,7 +9976,7 @@
       "commentary": ""
     },
     "total-value-locked-tvl": {
-      "term": "Total Value Locked (TVL)",
+      "term": "Total Value Locked",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10009,7 +10009,7 @@
       "termCategory": "",
       "phonetic": "/trænˈzækʃən/",
       "definition": "Data committed to the Ethereum Blockchain signed by an originating account, targeting a specific address. The transaction contains metadata such as the gas limit for that transaction.",
-      "definitionSource": "",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -10056,7 +10056,7 @@
       "termCategory": "",
       "phonetic": "/trænˈzækʃən ˈaɪˈdiː/",
       "definition": "A transaction hash/ID (often abbreviated as tx hash or txn hash) is a unique identifier, similar to a receipt, that serves as proof that a transaction was validated and added to the blockchain. In many cases, a transaction hash is needed in order to locate funds.",
-      "definitionSource": "https://academy.binance.com/en/glossary/transaction-id",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -10088,15 +10088,20 @@
       "commentary": ""
     },
     "transactions-per-second-tps": {
-      "term": "Transactions Per Second (TPS)",
+      "term": "transactions per second",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "The number of transactions that a blockchain network is capable of processing each second.",
       "definitionSource": "https://academy.binance.com/en/glossary/transactions-per-second-tps",
       "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
+      "extended": "Generally abbreviated to 'TPS'.",
+      "alternate": [
+        {
+          "definition": "Transactions per second.",
+          "source": "https://solana.com/docs/references/terminology#tps"
+        }
+      ],
       "termSource": "https://academy.binance.com/en/glossary/transactions-per-second-tps",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
@@ -10116,7 +10121,7 @@
       "commentary": ""
     },
     "treasury-bills-t-bills": {
-      "term": "Treasury Bills (T-Bills)",
+      "term": "Treasury Bills",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10162,7 +10167,7 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈtrʌfəl/",
-      "definition": "Truffle Suite is a development environment based on Ethereum Blockchain, used to develop dapps. Truffle is a one-stop solution for building dapps: compiling contracts, deploying contracts, injecting it into a web app, creating front-end for dapps and testing.\nTruffle Suite",
+      "definition": "Truffle Suite was a development environment based on Ethereum Blockchain, used to develop dapps. Truffle allowed for compiling contracts, deploying contracts, injecting them into a web app, creating front-end for dapps and testing.",
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
@@ -10177,7 +10182,7 @@
       "termCategory": "",
       "phonetic": "/ˈtrʌstlɪs/",
       "definition": "Trustless' is a term that gets used a lot in the decentralized web, and it deserves some explanation. Traditionally, to call something 'trustless' would sound like a negative thing. In the context of decentralized technology, it has a more technical meaning: since everyone has a copy of the ledger of all transactions ever executed, there is no need for a centralized entity that 'must be trusted' as the source of truth. With public blockchain networks, data isn't kept on some centralized server somewhere that could be hacked or changed arbitrarily; anyone can verify the transactions themselves. This is why the term 'trustless' was coined: there is no need for trust, although, in a way, the rules and assurances built into the blockchain provide the basis for greater trust between people, because the system is guaranteed to work the same for everyone.",
-      "definitionSource": "https://academy.binance.com/en/glossary/trustless",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -10196,7 +10201,7 @@
       "termCategory": "",
       "phonetic": "/ˈtjʊərɪŋ kəmˈpliːt/",
       "definition": "Any machine that can calculate on a level equal to a programmable computer is Turing-complete, or computationally universal. The Ethereum Virtual Machine, which processes smart contracts and transactions, is Turing-complete, despite not existing on a single physical computer.",
-      "definitionSource": "https://academy.binance.com/en/glossary/turing-complete",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -10270,8 +10275,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ʌnɪnˈkrɪptɪd kiː/",
-      "definition": "In MetaMask, an unencrypted private key is 64 characters long, and it is used to unlock or restore wallets. An encrypted key is also 64 letters long and is a regular private key that has gone through the process of encryption. Usually, encrypted private keys are kept within the extension or device they are encrypted by, and they remain out of sight from the user. This is meant to add another layer of security to keep a user’s wallet information safe. By way of example: if the world ‘Apple’ was your private key, then it was encrypted three letters down the alphabet, your new encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.",
-      "definitionSource": "",
+      "definition": "In an Ethereum wallet application like MetaMask, an unencrypted private key is 64 characters long, and it is used to unlock or restore wallets. An encrypted key is also 64 letters long and is a regular private key that has gone through the process of encryption. Usually, encrypted private keys are kept within the extension or device they are encrypted by, and they remain out of sight from the user. This is meant to add another layer of security to keep a user’s wallet information safe. By way of example: if the world ‘Apple’ was your private key, then it was encrypted three letters down the alphabet, your new encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [],
@@ -10316,23 +10321,14 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "An output created in a transaction, which must be referenced in a future transaction to spend funds.",
+          "source": "https://academy.binance.com/en/glossary/unspent-transaction-output-utxo",
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "unspent-transaction-output-utxo": {
-      "term": "Unspent Transaction Output (UTXO)",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "An output created in a transaction, which must be referenced in a future transaction to spend funds.",
-      "definitionSource": "https://academy.binance.com/en/glossary/unspent-transaction-output-utxo",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/unspent-transaction-output-utxo",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "unstake": {
@@ -10406,7 +10402,7 @@
       "commentary": ""
     },
     "utility-token": {
-      "term": "Utility Token",
+      "term": "utility token",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10439,7 +10435,7 @@
       "termCategory": "",
       "phonetic": "/ˈvælɪˌdeɪtər/",
       "definition": "A participant in Proof of Stake (PoS) consensus. On Ethereum’s Proof of Stake network, validators need to stake 32 ETH in order to get included in the validator set. See also ‘staking’.",
-      "definitionSource": "",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -10523,7 +10519,7 @@
       "commentary": ""
     },
     "virtual-machine": {
-      "term": "Virtual Machine",
+      "term": "virtual machine",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10551,7 +10547,7 @@
       "commentary": ""
     },
     "volatility": {
-      "term": "Volatility",
+      "term": "volatility",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10565,7 +10561,7 @@
       "commentary": ""
     },
     "volume": {
-      "term": "Volume",
+      "term": "volume",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10581,9 +10577,9 @@
     "wagmi": {
       "term": "WAGMI",
       "partOfSpeech": "",
-      "termCategory": "",
+      "termCategory": "meme",
       "phonetic": "",
-      "definition": "WAGMI is an acronym for \"We’re All Gonna Make It\" that encourages an optimistic attitude, particularly within the crypto community.",
+      "definition": "WAGMI is an acronym for 'We’re All Gonna Make It' that encourages an optimistic attitude, particularly within the crypto community.",
       "definitionSource": "https://academy.binance.com/en/glossary/wagmi",
       "sampleSentence": "",
       "extended": "",
@@ -10598,7 +10594,7 @@
       "termCategory": "",
       "phonetic": "/ˈwɒlɪt/",
       "definition": "In Ethereum-based blockchain technology, a 'wallet' is a something that allows you to manage private keys, your Secret Recovery Phrase, and the accounts generated from it. This could be an internet-connected 'hot wallet', like MetaMask, or an 'airgapped' hardware wallet. In more technical speak, you could say 'the wallet is the client, not the keys.' It is very common for people to use the word 'wallet' to refer to their SRP itself, or the accounts generated from it, or even to one account.",
-      "definitionSource": "https://academy.binance.com/en/glossary/wallet",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -10644,7 +10640,7 @@
       "commentary": ""
     },
     "wash-trading": {
-      "term": "Wash Trading",
+      "term": "wash trading",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10658,7 +10654,7 @@
       "commentary": ""
     },
     "weak-hands": {
-      "term": "Weak Hands",
+      "term": "weak hands",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10672,7 +10668,7 @@
       "commentary": ""
     },
     "weak-subjectivity": {
-      "term": "Weak Subjectivity",
+      "term": "weak subjectivity",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10775,7 +10771,7 @@
       "termCategory": "",
       "phonetic": "/wiː/",
       "definition": "Wei is the smallest denomination of ether, the currency used to facilitate transactional operations on the Ethereum blockchain network, where 10^18 or 1,000,000,000,000,000,000 wei is equivalent to one ether.",
-      "definitionSource": "https://academy.binance.com/en/glossary/wei",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -10789,7 +10785,7 @@
       "commentary": ""
     },
     "weighted-moving-average-wma": {
-      "term": "Weighted Moving Average (WMA)",
+      "term": "weighted moving average",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10803,7 +10799,7 @@
       "commentary": ""
     },
     "whale": {
-      "term": "Whale",
+      "term": "whale",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10817,7 +10813,7 @@
       "commentary": ""
     },
     "whiskers": {
-      "term": "Whiskers",
+      "term": "whiskers",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10831,7 +10827,7 @@
       "commentary": ""
     },
     "whitelist": {
-      "term": "Whitelist",
+      "term": "whitelist",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10859,7 +10855,7 @@
       "commentary": ""
     },
     "wick": {
-      "term": "Wick",
+      "term": "wick",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10873,7 +10869,7 @@
       "commentary": ""
     },
     "win-rate": {
-      "term": "Win Rate",
+      "term": "win rate",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10887,7 +10883,7 @@
       "commentary": ""
     },
     "wrapped-ether": {
-      "term": "Wrapped Ether (WETH)",
+      "term": "wrapped ether (WETH)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -10990,7 +10986,7 @@
       "termCategory": "",
       "phonetic": "/ˈjiːld ˈfɑːrmɪŋ/",
       "definition": "Yield farming is an investment practice that involves locking crypto in a dapp for token rewards. Yield farmers deposit their tokens into DeFi applications for crypto trading, lending, or borrowing.",
-      "definitionSource": "https://academy.binance.com/en/glossary/yield-farming",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -11026,23 +11022,14 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Verify transactions are valid without revealing any information about the transactions, providing privacy.",
+          "source": "https://academy.binance.com/en/glossary/zero-knowledge-proofs"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "zero-knowledge-proofs": {
-      "term": "Zero-Knowledge Proofs",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "Verify transactions are valid without revealing any information about the transactions, providing privacy.",
-      "definitionSource": "https://academy.binance.com/en/glossary/zero-knowledge-proofs",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/zero-knowledge-proofs",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "zero-knowledge-rollup": {
@@ -11054,23 +11041,14 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Zk-rollup is a layer-2 scaling solution designed to increase the transaction throughput of blockchain networks without compromising on security.",
+          "source": "https://academy.binance.com/en/glossary/zk-rollup"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "zk-rollup": {
-      "term": "Zk-rollup",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "Zk-rollup is a layer-2 scaling solution designed to increase the transaction throughput of blockchain networks without compromising on security.",
-      "definitionSource": "https://academy.binance.com/en/glossary/zk-rollup",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/zk-rollup",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "zk-snarks": {
@@ -11079,7 +11057,7 @@
       "termCategory": "",
       "phonetic": "/ˌzɛdˌkeɪˈsnɑːrks/",
       "definition": "Combination acronym-initialism; Zero-Knowledge Succinct Non-interactive ARguments of Knowledge. zk-SNARKs are an incredible technology, and vital to the scaling of blockchain technology and the decentralized web. They are mathematically complex and can be daunting; this explanation from the Ethereum Foundation is a good primer.",
-      "definitionSource": "https://academy.binance.com/en/glossary/zk-snarks",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -11681,7 +11659,7 @@
       "commentary": ""
     },
     "program-derived-account-PDA": {
-      "term": "program derived account (PDA)",
+      "term": "program derived account",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -11709,7 +11687,7 @@
       "commentary": ""
     },
     "proof-of-history-PoH": {
-      "term": "proof of history (PoH)",
+      "term": "proof of history",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -12002,22 +11980,8 @@
       "dateFirstRecorded": "2025-02-14",
       "commentary": ""
     },
-    "tps": {
-      "term": "tps",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "Transactions per second.",
-      "definitionSource": "https://solana.com/docs/references/terminology#tps",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "Solana Glossary",
-      "dateFirstRecorded": "2025-02-14",
-      "commentary": ""
-    },
     "tpu": {
-      "term": "tpu",
+      "term": "TPU",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -12059,7 +12023,7 @@
       "commentary": ""
     },
     "TVU": {
-      "term": "tvu",
+      "term": "TVU",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -12087,7 +12051,7 @@
       "commentary": ""
     },
     "verifiable-delay-function": {
-      "term": "verifiable delay function (VDF)",
+      "term": "verifiable delay function",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
