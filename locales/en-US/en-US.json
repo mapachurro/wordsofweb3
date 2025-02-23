@@ -3790,10 +3790,10 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ɪˈθɪəriəm ɪmˈpruvmənt prəˈpoʊzəl/",
-      "definition": "",
+      "definition": "EIPs, as they are commonly known, are exactly that: Proposals made with the goal of improving some part of the Ethereum network.",
       "definitionSource": "",
       "sampleSentence": "",
-      "extended": "There are many EIP-related entries in this glossary. See also ERC.",
+      "extended": "There are many EIP-related entries in this glossary. EIPs are often highly technical in nature, dealing with difficult or obscure engineering problems. However, there is no rule in this regard; EIP-2228 established that Ethereum Mainnet should be capitalized. An EIP after our own heart. See also ERC.",
       "additional": [
         {
           "definition": "EIP stands for Ethereum Improvement Proposal. It’s a way for the Ethereum community to suggest upgrades or new ideas for the blockchain.",

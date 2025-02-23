@@ -73,6 +73,21 @@
             "text": "Ethereum Cat Herders",
             "url": "https://ethereumcatherders.com/",
             "description": "Community for Ethereum improvement proposals and governance."
+          },
+          {
+            "text": "Fellowship of Ethereum Magicians",
+            "url": "https://ethereum-magicians.org/",
+            "description": "If you really want alpha about what's going to happen at the protocol level of the Ethereum network... You'll read it here first. If you can understand it."
+          },
+          {
+            "text": "Ethereum Improvement Proposals",
+            "url": "https://eips.ethereum.org/",
+            "description": "The canonical source of truth regarding what's happened to the Ethereum network protocols. If you're confused about what this even means, see <a href='./english-us/ethereum-improvement-proposals.html'>here</a>."
+          },
+          {
+            "text": "Ethereum Rollup Improvement Proposals",
+            "url": "https://github.com/ethereum/RIPs",
+            "description": "Just when you thought you'd read all the EIPs and ERCs... RIP."
           }
         ]
       }
