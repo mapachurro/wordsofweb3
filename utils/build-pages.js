@@ -138,10 +138,28 @@ export default async function buildPages() {
           })
           .join(" | ");
 
+        // Generate metadata for Open Graph and Twitter Cards
+        const termSlug = termValue
+          .replace(/\s+/g, "-")
+          .toLowerCase()
+          .replace(problematicChars, "");
+        const firstSentence = definitionValue.split(".")[0];
+
+        const metadata = {
+          title: termValue,
+          term: termValue,
+          termSlug: termSlug,
+          definitionMetadata: firstSentence,
+          locale: languageSlug,
+        };
+
+        // Now, populate the template
         let html = template
-          .replace(/{{title}}/g, termValue)
-          .replace(/{{locale}}/g, locale)
-          .replace(/{{term}}/g, termValue)
+          .replace(/{{title}}/g, metadata.title)
+          .replace(/{{term}}/g, metadata.term)
+          .replace(/{{termSlug}}/g, metadata.termSlug)
+          .replace(/{{definitionMetadata}}/g, metadata.definitionMetadata)
+          .replace(/{{locale}}/g, metadata.locale)
           .replace(/{{phonetic}}/g, phoneticValue)
           .replace(/{{partOfSpeech}}/g, partOfSpeechValue)
           .replace(/{{definition}}/g, definitionValue)
