@@ -5564,7 +5564,7 @@
       "alternate": [
         {
           "definition": "Refers to the moment a private company starts offering its shares to the public for the first time.",
-          "source": "https://academy.binance.com/en/glossary/initial-public-offering",
+          "source": "https://academy.binance.com/en/glossary/initial-public-offering"
         }
       ],
       "termSource": "",
@@ -5572,7 +5572,7 @@
       "commentary": ""
     },
     "isolated-margin": {
-      "term": "Isolated Margin",
+      "term": "isolated margin",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5586,7 +5586,7 @@
       "commentary": ""
     },
     "issuance": {
-      "term": "Issuance",
+      "term": "issuance",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5628,7 +5628,7 @@
       "commentary": ""
     },
     "keccak": {
-      "term": "Keccak",
+      "term": "keccak",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5661,7 +5661,7 @@
       "termCategory": "",
       "phonetic": "/ˈnoʊ jʊər ˈkʌstəmər/; /ˈkaɪs/",
       "definition": "A process in which a business must verify the identity and background information (address, financial details, etc.) of their customers. For example, current regulations and laws require banks and other financial institutions to keep and report customers' personal information and transactions.",
-      "definitionSource": "https://academy.binance.com/en/glossary/know-your-customer",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5731,7 +5731,7 @@
       "commentary": ""
     },
     "laspeyres-index": {
-      "term": "Laspeyres Index",
+      "term": "Laspeyres index",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5750,7 +5750,7 @@
       "termCategory": "",
       "phonetic": "/ˈleɪtənsi/",
       "definition": "In the context of Network latency: refers to the amount of time it takes for a computer on one network to communicate with a computer on another network. Network latency",
-      "definitionSource": "https://academy.binance.com/en/glossary/latency",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5792,7 +5792,7 @@
       "commentary": ""
     },
     "law-of-demand": {
-      "term": "Law of Demand",
+      "term": "law of demand",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5806,7 +5806,7 @@
       "commentary": ""
     },
     "layer-0": {
-      "term": "Layer 0",
+      "term": "layer 0",
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈleɪər ˈzɪroʊ/",
@@ -5839,7 +5839,7 @@
       "termCategory": "",
       "phonetic": "/ˈleɪər ˈtuː/",
       "definition": "A Layer 2 network, or L2, is a blockchain that is built specifically to scale another network. For a full understanding of how this is achieved, see here. Some popular examples of this in the Ethereum ecosystem are Arbitrum, Optimism, and StarkNet. These chains are specifically built to handle a large number of transactions quickly by relying on Ethereum Mainnet for security functions, while optimizing for speed and scale. These networks are considered 'scaling solutions' while not being part of Ethereum's protocol-level scaling efforts. See also 'blockchain trilemma', 'modular blockchain', 'Serenity'. Contrast with 'sidechain'.",
-      "definitionSource": "https://academy.binance.com/en/glossary/layer-2",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5858,7 +5858,7 @@
       "termCategory": "",
       "phonetic": "/ˈlɛdʒər/",
       "definition": "A physical book or a digital computer file where monetary and financial transactions are tracked and recorded.",
-      "definitionSource": "https://academy.binance.com/en/glossary/ledger",
+      "definitionSource": "Consensys Software, Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5900,7 +5900,7 @@
       "commentary": ""
     },
     "leveraged-tokens": {
-      "term": "Leveraged Tokens",
+      "term": "leveraged tokens",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5919,7 +5919,7 @@
       "termCategory": "",
       "phonetic": "/ˈlaɪbrəri/",
       "definition": "A collection of non-volatile resources used by computer programs, often for software development. These may include configuration data, documentation, help data, message templates, pre-written code and subroutines, classes, values or type specifications. Software Library",
-      "definitionSource": "https://academy.binance.com/en/glossary/library",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5952,7 +5952,7 @@
       "termCategory": "",
       "phonetic": "/laɪt ˈklaɪənt/",
       "definition": "In computing, a 'client' is a software that runs or accesses a program made available by a remote computer. With blockchain networks, then, clients are the programs that sync blockchain data and participate in network consensus. More often and more specifically, 'Layer 2' is used as a noun, to refer to a type of network that is specifically built to handle a large number of transactions quickly by relying on Ethereum mainnet for security functions, and optimizing for speed and scale. Examples include Arbitrum and Optimism; this is different from a 'sidechain', which is a network that has its own security mechanism, yet still allows compatibility and bridging of assets between itself and Ethereum.",
-      "definitionSource": "",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5970,8 +5970,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈlaɪtnɪŋ ˈnɛtwɜrk/",
-      "definition": "The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently.\n\nThis layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.",
-      "definitionSource": "https://academy.binance.com/en/glossary/lightning-network",
+      "definition": "The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently. This layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.",
+      "definitionSource": "Consensys Software, Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5985,7 +5985,7 @@
       "commentary": ""
     },
     "limit-order": {
-      "term": "Limit Order",
+      "term": "limit order",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6027,7 +6027,7 @@
       "commentary": ""
     },
     "liquid-democracy": {
-      "term": "Liquid Democracy",
+      "term": "liquid democracy",
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈlɪkwɪd dɪˈmɒkrəsi/ (/ˈdɛlɪɡətɪv dɪˈmɒkrəsi/)",
@@ -6041,7 +6041,7 @@
       "commentary": ""
     },
     "liquid-staking": {
-      "term": "Liquid Staking",
+      "term": "liquid staking",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6055,7 +6055,7 @@
       "commentary": ""
     },
     "liquid-staking-token-lst": {
-      "term": "Liquid Staking Token (LST)",
+      "term": "liquid staking token",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6088,7 +6088,7 @@
       "termCategory": "",
       "phonetic": "/lɪˈkwɪdɪti/",
       "definition": "An asset is considered more ‘liquid’ if it can easily be converted into cash, and therefore, ‘liquidity’ refers to the availability of assets to a company or market. Conversely, the harder it is to turn an asset into cash, the more illiquid the asset. For example, stocks are considered relatively liquid assets, as they can be easily converted to cash, while real estate is considered an illiquid asset. The liquidity of an asset affects its risk potential and market price.",
-      "definitionSource": "https://academy.binance.com/en/glossary/liquidity",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -6102,7 +6102,7 @@
       "commentary": ""
     },
     "liquidity-crisis": {
-      "term": "Liquidity Crisis",
+      "term": "liquidity crisis",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6144,7 +6144,7 @@
       "commentary": ""
     },
     "liquidity-ratios": {
-      "term": "Liquidity Ratios",
+      "term": "liquidity ratios",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6172,7 +6172,7 @@
       "commentary": ""
     },
     "listing": {
-      "term": "Listing",
+      "term": "listing",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6191,7 +6191,7 @@
       "termCategory": "",
       "phonetic": "/ˈmeɪnˌnɛt/",
       "definition": "The primary network where actual transactions take place on a specific distributed ledger. For example, The Ethereum Mainnet (capitalized in this case) is the public blockchain where network validation and transactions take place",
-      "definitionSource": "https://academy.binance.com/en/glossary/mainnet",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -6205,7 +6205,7 @@
       "commentary": ""
     },
     "mainnet-swap": {
-      "term": "Mainnet Swap",
+      "term": "mainnet swap",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6219,7 +6219,7 @@
       "commentary": ""
     },
     "maker": {
-      "term": "Maker",
+      "term": "maker",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6252,7 +6252,7 @@
       "termCategory": "",
       "phonetic": "/ˈmælwɛər/",
       "definition": "Any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.",
-      "definitionSource": "https://academy.binance.com/en/glossary/malware",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -6266,7 +6266,7 @@
       "commentary": ""
     },
     "margin-trading": {
-      "term": "Margin Trading",
+      "term": "margin trading",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6288,27 +6288,18 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The total trading value of a given coin - calculated by the product of the supply of the coin by the current price.",
+          "source": "https://academy.binance.com/en/glossary/market-capitalization"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "market-capitalization": {
-      "term": "Market Capitalization",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "The total trading value of a given coin - calculated by the product of the supply of the coin by the current price.",
-      "definitionSource": "https://academy.binance.com/en/glossary/market-capitalization",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/market-capitalization",
-      "dateFirstRecorded": "2025-01-31",
-      "commentary": ""
-    },
     "market-momentum": {
-      "term": "Market Momentum",
+      "term": "market momentum",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
