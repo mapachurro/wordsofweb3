@@ -3429,8 +3429,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈiːaɪˈpiː ˈfɪftiˌfaɪvˈnaɪn/",
-      "definition": "EIP (Ethereum Improvement Proposal)\n\nThe EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559.\nEIP-1559 will change Ethereum’s fee market mechanism. Fundamentally, EIP-1559 gets rid of the first-price auction as the main gas fee calculation. In first-price auctions, people bid a set amount of money to pay for their transaction to be processed, and the highest bidder wins. With EIP-1559, there will be a discrete “base fee” for transactions to be included in the next block. For users or applications that want to prioritize their transaction, they can add a “tip,” which is called a “priority fee” to pay a miner for faster inclusion.",
-      "definitionSource": "",
+      "definition": "Fundamentally, EIP-1559 gets rid of the first-price auction as the main gas fee calculation. In first-price auctions, people bid a set amount of money to pay for their transaction to be processed, and the highest bidder wins. With EIP-1559, there will be a discrete “base fee” for transactions to be included in the next block. For users or applications that want to prioritize their transaction, they can add a “tip,” which is called a “priority fee” to pay a miner for faster inclusion.",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [],
@@ -3528,7 +3528,7 @@
       "termCategory": "",
       "phonetic": "/ɛnˈkrɪpʃən/",
       "definition": "Encrpytion, literally 'in a hidden place', is the art and science of encoding information to control who can read it, or how it is to be read. Encryption occurs in natural (human) languages, as well as in machine and computer languages. Highly complex, and therefore difficult to decipher, encryption is an essential element enabling blockchain networks to be simultaneously public and secure.",
-      "definitionSource": "https://academy.binance.com/en/glossary/encryption",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -3542,7 +3542,7 @@
       "commentary": ""
     },
     "endogenous-variable": {
-      "term": "Endogenous Variable",
+      "term": "endogenous variable",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3622,7 +3622,7 @@
       "termCategory": "",
       "phonetic": "/ˈɜrk ˈwʌnˈwʌnˈfaɪvˈfaɪv/",
       "definition": "A token standard for creating semi-fungible tokens, meaning you can launch both fungible and non-fungible tokens within a single smart contract.",
-      "definitionSource": "https://academy.binance.com/en/glossary/erc-1155",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -3641,7 +3641,7 @@
       "termCategory": "",
       "phonetic": "/ˈɜrk-ˈtwɛnti ˈtoʊkən ˈstændərd/",
       "definition": "ERC is the abbreviation for Ethereum Request for Comment and is followed by the assignment number of the standard. ERC-20 is a technical standard for smart contracts which is used to issue the majority of tokens (in particular, cryptocurrency tokens) extant on Ethereum. This list of rules states the requirements that a token must fulfill to be compliant and function within the Ethereum network.",
-      "definitionSource": "https://academy.binance.com/en/glossary/erc-20",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -3673,8 +3673,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈɜrk-ˈsɛvənˈtwɛnti ˈtoʊkən ˈstændərd/",
-      "definition": "ERC-721 Token Standard\n\nA standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.",
-      "definitionSource": "https://academy.binance.com/en/glossary/erc-721",
+      "definition": "ERC-721 is a standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -3838,26 +3838,17 @@
       "termCategory": "",
       "phonetic": "/ɪˈθiːriəm ˈvɜrʧuəl məˈʃiːn/, /ˈiːˈvɛm/",
       "definition": "The EVM is a virtual machine that operates on the Ethereum network. It is Turing complete and allows anyone, anywhere to execute arbitrary EVM bytecode. All Ethereum nodes run on the EVM. It is home for smart contracts based on the Ethereum blockchain.",
-      "definitionSource": "",
+      "definitionSource": "Consensys Software, Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "The Ethereum Virtual Machine (EVM) is a Turing-complete programmable machine that executes smart contracts, which are typically coded in Solidity.",
+          "source": "https://academy.binance.com/en/glossary/ethereum-virtual-machine-evm"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "ethereum-virtual-machine-evm": {
-      "term": "Ethereum Virtual Machine (EVM)",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "The Ethereum Virtual Machine (EVM) is a Turing-complete programmable machine that executes smart contracts, which are typically coded in Solidity.",
-      "definitionSource": "https://academy.binance.com/en/glossary/ethereum-virtual-machine-evm",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/ethereum-virtual-machine-evm",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "etherscan": {
