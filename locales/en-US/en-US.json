@@ -3899,7 +3899,7 @@
       "termCategory": "",
       "phonetic": "/ɪksˈtʃeɪndʒ/",
       "definition": "A place to trade cryptocurrency. Centralized exchanges, operated by companies like Coinbase and Gemini, function as intermediaries, while decentralized exchanges do not have a central authority.",
-      "definitionSource": "https://academy.binance.com/en/glossary/exchange",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -3941,7 +3941,7 @@
       "commentary": ""
     },
     "exogenous-variable": {
-      "term": "Exogenous Variable",
+      "term": "exogenous variable",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3955,7 +3955,7 @@
       "commentary": ""
     },
     "exponential-moving-average-ema": {
-      "term": "Exponential Moving Average (EMA)",
+      "term": "exponential moving average (EMA)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3969,7 +3969,7 @@
       "commentary": ""
     },
     "externally-owned-account-eoa": {
-      "term": "Externally Owned Account (EOA)",
+      "term": "Externally Owned Account",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3983,7 +3983,7 @@
       "commentary": ""
     },
     "fakeout": {
-      "term": "Fakeout",
+      "term": "fakeout",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3997,7 +3997,7 @@
       "commentary": ""
     },
     "falling-knife": {
-      "term": "Falling Knife",
+      "term": "falling knife",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4011,7 +4011,7 @@
       "commentary": ""
     },
     "fan-tokens": {
-      "term": "Fan Tokens",
+      "term": "fan tokens",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4095,14 +4095,14 @@
       "commentary": ""
     },
     "fiat": {
-      "term": "Fiat",
+      "term": "fiat",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "Money that a government has declared to be legal tender.",
       "definitionSource": "https://academy.binance.com/en/glossary/fiat",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "While it is often referred to simply as 'fiat', the full phrase is 'fiat currency'. The word 'fiat' refers, in Latin, to 'trusting'; hence, a fiat currency is one that trusts in something else to provide it value. For example, we are trusting that a government will maintain the value of a currency, rather than it having some sort of inherent value, or value derived from the things for which it can be exchanged.",
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/fiat",
       "dateFirstRecorded": "2025-01-31",
@@ -4123,11 +4123,11 @@
       "commentary": ""
     },
     "fibonacci-retracement": {
-      "term": "Fibonacci Retracement",
+      "term": "Fibonacci retracement",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
-      "definition": "Fibonacci Retracement is a popular technical analysis (TA) tool used by traders to identify potential support and resistance levels in financial markets.",
+      "definition": "Fibonacci retracement is a popular technical analysis (TA) tool used by traders to identify potential support and resistance levels in financial markets.",
       "definitionSource": "https://academy.binance.com/en/glossary/fibonacci-retracement",
       "sampleSentence": "",
       "extended": "",
@@ -4137,7 +4137,7 @@
       "commentary": ""
     },
     "fill-or-kill-order": {
-      "term": "Fill Or Kill Order (FOK)",
+      "term": "fill or kill order (FOK)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4152,11 +4152,11 @@
     },
     "finality": {
       "term": "finality",
-      "partOfSpeech": "adjective",
+      "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈfaɪnəl/, /faɪˈnælɪti/",
       "definition": "A transaction is considered 'final' once it can no longer be changed. In a sense, this happens once there are sufficient confirmations of the transaction, but for all intents and purposes, a transaction is final once the block that contains it is mined or validated. Keep in mind that this reflects a fundamental rule of blockchains: unlike traditional financial systems where charges can be 'reversed', there is no 'undoing' a transaction on the blockchain. Once finality is reached, the transaction is immutable.",
-      "definitionSource": "https://academy.binance.com/en/glossary/finality",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -4286,7 +4286,7 @@
       "commentary": ""
     },
     "fiscal-policy": {
-      "term": "Fiscal Policy",
+      "term": "fiscal policy",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4300,7 +4300,7 @@
       "commentary": ""
     },
     "flappening": {
-      "term": "Flappening",
+      "term": "flappening",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4315,8 +4315,8 @@
     },
     "flashbots": {
       "term": "Flashbots",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "partOfSpeech": "proper noun",
+      "termCategory": "web3",
       "phonetic": "",
       "definition": "Explore Flashbots, a research & development organization focused on refining MEV-related blockchain solutions on Ethereum.",
       "definitionSource": "https://academy.binance.com/en/glossary/flashbots",
@@ -4328,7 +4328,7 @@
       "commentary": ""
     },
     "flippening": {
-      "term": "Flippening",
+      "term": "flippening",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4342,7 +4342,7 @@
       "commentary": ""
     },
     "flow-variable": {
-      "term": "Flow Variable",
+      "term": "flow variable",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4356,7 +4356,7 @@
       "commentary": ""
     },
     "forced-liquidation": {
-      "term": "Forced Liquidation",
+      "term": "forced liquidation",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4370,7 +4370,7 @@
       "commentary": ""
     },
     "forex-fx": {
-      "term": "Forex (FX)",
+      "term": "Forex",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4389,7 +4389,7 @@
       "termCategory": "",
       "phonetic": "/fɔrk/",
       "definition": "Forking' is a term that comes from the world of collaborative software development, and refers to the action of copying an existing application or set of code and modifying it to create an alternate version. At the blockchain protocol level, a 'fork' creates an alternative version of a blockchain. Forks are often enacted intentionally to apply upgrades to a network. Soft Forks render two chains with some compatibility, while Hard Forks create a new version of the chain that must be adopted to continue participation. In the instance of a contentious Hard Fork, this can create two versions of a blockchain network. See also 'hard fork'.",
-      "definitionSource": "https://academy.binance.com/en/glossary/fork",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -4407,9 +4407,9 @@
       "commentary": ""
     },
     "formal-verification": {
-      "term": "Formal Verification",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "formal verification",
+      "partOfSpeech": "noun phrase",
+      "termCategory": "cryptography",
       "phonetic": "",
       "definition": "Using mathematically rigorous proofs to ensure certain properties of cryptographic algorithms and blockchain mechanisms",
       "definitionSource": "https://academy.binance.com/en/glossary/formal-verification",
@@ -4440,7 +4440,7 @@
       "termCategory": "",
       "phonetic": "/frɔd pruːf/",
       "definition": "A security model for certain layer 2 solutions where, to increase speed, transactions are rolled up into batches and submitted to Ethereum in a single transaction. They are assumed valid but can be challenged if fraud is suspected. A fraud proof will then run the transaction to see if fraud took place. This method increases the amount of transactions possible while maintaining security.",
-      "definitionSource": "https://academy.binance.com/en/glossary/fraud-proof",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -4454,7 +4454,7 @@
       "commentary": ""
     },
     "fren": {
-      "term": "Fren",
+      "term": "fren",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4487,7 +4487,7 @@
       "termCategory": "",
       "phonetic": "/fʊl noʊd/",
       "definition": "Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.",
-      "definitionSource": "https://academy.binance.com/en/glossary/full-node",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -4501,11 +4501,11 @@
       "commentary": ""
     },
     "fully-diluted-valuation-fdv": {
-      "term": "Fully Diluted Valuation (FDV)",
+      "term": "fully diluted valuation",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
-      "definition": "Fully Diluted Valuation (FDV) is a metric that tells us what a crypto project’s market value could be if all its tokens were available for trading now.",
+      "definition": "Fully diluted valuation (FDV) is a metric that tells us what a crypto project’s market value could be if all its tokens were available for trading now.",
       "definitionSource": "https://academy.binance.com/en/glossary/fully-diluted-valuation-fdv",
       "sampleSentence": "",
       "extended": "",
@@ -4515,7 +4515,7 @@
       "commentary": ""
     },
     "fundamental-analysis": {
-      "term": "Fundamental Analysis (FA)",
+      "term": "fundamental analysis",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4529,7 +4529,7 @@
       "commentary": ""
     },
     "funding-fees": {
-      "term": "Funding Fees",
+      "term": "funding fees",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4543,7 +4543,7 @@
       "commentary": ""
     },
     "fungibility": {
-      "term": "Fungibility",
+      "term": "fungibility",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4557,7 +4557,7 @@
       "commentary": ""
     },
     "futures-contract": {
-      "term": "Futures Contract",
+      "term": "futures contract",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4604,7 +4604,7 @@
       "termCategory": "",
       "phonetic": "/ɡæs/",
       "definition": "A measure of the computational steps required for a transaction on the Ethereum network. This then equates to a fee for network users paid in small units of ETH specified as gwei. For more on gas, see MetaMask’s user guide here:\n\nUser Guide: Gas",
-      "definitionSource": "https://academy.binance.com/en/glossary/gas",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -4637,7 +4637,7 @@
       "termCategory": "",
       "phonetic": "/ɡæs ˈlɪmɪt/",
       "definition": "The gas limit is the maximum amount you’re willing to pay for any given transaction to go through the Ethereum network. Another way of looking at it is as a “rough estimate” of how much computing power your transaction will take.",
-      "definitionSource": "https://academy.binance.com/en/glossary/gas-limit",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -4693,7 +4693,7 @@
       "commentary": ""
     },
     "gdp-deflator": {
-      "term": "GDP Deflator",
+      "term": "GDP deflator",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4777,7 +4777,7 @@
       "termCategory": "",
       "phonetic": "/ˈɡɪthʌb/",
       "definition": "GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work. GitHub",
-      "definitionSource": "https://academy.binance.com/en/glossary/github",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -4791,11 +4791,11 @@
       "commentary": ""
     },
     "gm-good-morning": {
-      "term": "GM (Good Morning)",
+      "term": "gm",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
-      "definition": "GM stands for \"Good Morning,\" and its use in the crypto community reflects the inclusive and collaborative nature of the space.",
+      "definition": "'gm' stands for 'Good Morning,' and its use in the crypto community reflects the inclusive and collaborative nature of the space.",
       "definitionSource": "https://academy.binance.com/en/glossary/gm-good-morning",
       "sampleSentence": "",
       "extended": "",
@@ -4819,7 +4819,7 @@
       "commentary": ""
     },
     "golden-cross": {
-      "term": "Golden Cross",
+      "term": "golden cross",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4833,7 +4833,7 @@
       "commentary": ""
     },
     "golden-ratio": {
-      "term": "Golden Ratio",
+      "term": "golden ratio",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4847,7 +4847,7 @@
       "commentary": ""
     },
     "goldilocks": {
-      "term": "Goldilocks",
+      "term": "goldilocks",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4861,7 +4861,7 @@
       "commentary": ""
     },
     "gossip-protocol": {
-      "term": "Gossip Protocol",
+      "term": "gossip protocol",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4889,7 +4889,7 @@
       "commentary": ""
     },
     "gross-domestic-product-gdp": {
-      "term": "Gross Domestic Product (GDP)",
+      "term": "Gross Domestic Product",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4922,7 +4922,7 @@
       "termCategory": "",
       "phonetic": "/ɡwiː/",
       "definition": "A minuscule and common denomination of ETH, and the unit in which gas prices are often specified. See 'ether (denominations)' entry for more information.",
-      "definitionSource": "https://academy.binance.com/en/glossary/gwei",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -4936,7 +4936,7 @@
       "commentary": ""
     },
     "hackathon": {
-      "term": "Hackathon",
+      "term": "hackathon",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -4950,9 +4950,9 @@
       "commentary": ""
     },
     "hacker": {
-      "term": "Hacker",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "hacker",
+      "partOfSpeech": "noun",
+      "termCategory": "computer science",
       "phonetic": "",
       "definition": "An individual that has an advanced understanding of computer systems and networks, including programmers and cybersecurity experts.",
       "definitionSource": "https://academy.binance.com/en/glossary/hacker",
@@ -4964,9 +4964,9 @@
       "commentary": ""
     },
     "haha-money-printer-go-brrrrr": {
-      "term": "Haha Money Printer Go Brrrrr",
+      "term": "haha money printer go brrrrr",
       "partOfSpeech": "",
-      "termCategory": "",
+      "termCategory": "memes",
       "phonetic": "",
       "definition": "Haha Money Printer Go Brrrrr is meme created in response to the Federal Reserve's 2020 plan to print money.",
       "definitionSource": "https://academy.binance.com/en/glossary/haha-money-printer-go-brrrrr",
@@ -4983,7 +4983,7 @@
       "termCategory": "",
       "phonetic": "/ˈhælvɪŋ/",
       "definition": "Many cryptocurrencies have a finite supply, which makes them a scarce digital commodity. For example, the total amount of bitcoin that will ever be issued is 21 million. The number of bitcoins generated per block is decreased 50% every four years. This is called “halving.” The final halving will take place in the year 2140.",
-      "definitionSource": "https://academy.binance.com/en/glossary/halving",
+      "definitionSource": "Consensys Software, Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -4997,7 +4997,7 @@
       "commentary": ""
     },
     "hard-cap": {
-      "term": "Hard Cap",
+      "term": "hard cap",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5025,9 +5025,9 @@
       "commentary": ""
     },
     "hard-landing": {
-      "term": "Hard Landing",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "hard landing",
+      "partOfSpeech": "noun phrase",
+      "termCategory": "economics",
       "phonetic": "",
       "definition": "In economic terms, a hard landing refers to a situation where an economy rapidly transitions from growth to slow growth or recession.",
       "definitionSource": "https://academy.binance.com/en/glossary/hard-landing",
@@ -5072,7 +5072,7 @@
       "termCategory": "",
       "phonetic": "/hæʃ/",
       "definition": "In computing, ‘hashing’ is an operation performed on lists or sets of data to create a reliable index for that data. A particular datum, or a reference to it, is fed into an algorithm, which transforms the datum and returns a standardized, and generally unrecognizable, ‘hash’ of it, sometimes referred to as that datum or file’s “digital fingerprint.” Each block in a blockchain contains the hash value that validated the block before it, followed by its own hash value (this is how the continuity of the ‘chain’ is constructed). Hashes can be used to confirm that blockchain transactions are complete and valid. You may see references to the “transaction hash” or “tx hash”; this should be understood as “unique identifier of the transaction”.",
-      "definitionSource": "https://academy.binance.com/en/glossary/hash",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5090,7 +5090,7 @@
       "commentary": ""
     },
     "hash-rate": {
-      "term": "Hash Rate",
+      "term": "hash rate",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5104,7 +5104,7 @@
       "commentary": ""
     },
     "hashed-timelock-contract": {
-      "term": "Hashed TimeLock Contract (HTLC)",
+      "term": "hashed timeLock contract",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5132,7 +5132,7 @@
       "commentary": ""
     },
     "herd-instinct": {
-      "term": "Herd Instinct",
+      "term": "herd instinct",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5160,7 +5160,7 @@
       "commentary": ""
     },
     "high-frequency-trading-hft": {
-      "term": "High-Frequency Trading (HFT)",
+      "term": "high-frequency trading",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5181,14 +5181,14 @@
       "definition": "A typo of 'Hold' originating from bitcointalk that has also been retrofitted to be an acronym for Hold on for Dear Life.",
       "definitionSource": "https://academy.binance.com/en/glossary/hodl",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "See also 'BUIDL'.",
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/hodl",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "honeypot": {
-      "term": "Honeypot",
+      "term": "honeypot",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5272,7 +5272,7 @@
       "commentary": ""
     },
     "iceberg-order": {
-      "term": "Iceberg Order",
+      "term": "iceberg order",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5319,7 +5319,7 @@
       "termCategory": "",
       "phonetic": "/ɪˈmjuːtəbɪlɪti/",
       "definition": "The inability to be altered or changed. This is a key element of blockchain networks: once written onto a blockchain ledger, data cannot be altered. This immutability provides the basis for commerce and trade to take place on blockchain networks.",
-      "definitionSource": "https://academy.binance.com/en/glossary/immutability",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5333,7 +5333,7 @@
       "commentary": ""
     },
     "index-funds": {
-      "term": "Index Funds",
+      "term": "index funds",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5361,21 +5361,21 @@
       "commentary": ""
     },
     "initial-coin-offering": {
-      "term": "Initial Coin Offering (ICO)",
+      "term": "Initial Coin Offering",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "A fundraising method in which new projects will sell their cryptocurrency to investors.",
       "definitionSource": "https://academy.binance.com/en/glossary/initial-coin-offering",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "Often referred to by its initialism, 'ICO'.",
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/initial-coin-offering",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "initial-dex-offering-ido": {
-      "term": "Initial DEX Offering (IDO)",
+      "term": "Initial DEX Offering",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5389,7 +5389,7 @@
       "commentary": ""
     },
     "initial-exchange-offering": {
-      "term": "Initial Exchange Offering (IEO)",
+      "term": "Initial Exchange Offering",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5403,7 +5403,7 @@
       "commentary": ""
     },
     "initial-public-offering": {
-      "term": "Initial Public Offering (IPO)",
+      "term": "Initial Public Offering",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5417,7 +5417,7 @@
       "commentary": ""
     },
     "inscription": {
-      "term": "Inscription",
+      "term": "inscription",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5435,8 +5435,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈɪnsaɪdər ˈtreɪdɪŋ/",
-      "definition": "Insider trading happens when someone purchases or sells stocks while possessing private, material information about that stock. Insider Trading",
-      "definitionSource": "",
+      "definition": "Insider trading happens when someone purchases or sells stocks while possessing private, material information about that stock.",
+      "definitionSource": "Consensys Software, Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [],
@@ -5445,7 +5445,7 @@
       "commentary": ""
     },
     "integrated-circuit": {
-      "term": "Integrated Circuit (IC)",
+      "term": "integrated circuit",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5459,7 +5459,7 @@
       "commentary": ""
     },
     "interest-rates": {
-      "term": "Interest Rates",
+      "term": "interest rate",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -5492,7 +5492,7 @@
       "termCategory": "",
       "phonetic": "/ˌɪntərɒpəˈræbɪlɪti/",
       "definition": "Blockchain interoperability, or cross-chain interoperability, is the ability to see and share information across multiple blockchains. One of the clear benefits of blockchain interoperability is being able to trade assets across various blockchains without the need for a centralized, custodial exchange. Interoperability",
-      "definitionSource": "https://academy.binance.com/en/glossary/interoperability",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -5514,23 +5514,14 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "An open-source project building a protocol for distributed content storage and access.",
+          "source": "https://academy.binance.com/en/glossary/interplanetary-file-system-ipfs",
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "interplanetary-file-system-ipfs": {
-      "term": "InterPlanetary File System (IPFS)",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "An open-source project building a protocol for distributed content storage and access.",
-      "definitionSource": "https://academy.binance.com/en/glossary/interplanetary-file-system-ipfs",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/interplanetary-file-system-ipfs",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "iou": {
