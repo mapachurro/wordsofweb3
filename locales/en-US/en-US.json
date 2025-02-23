@@ -6800,7 +6800,7 @@
       "commentary": ""
     },
     "money-markets": {
-      "term": "Money Markets",
+      "term": "money markets",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6814,7 +6814,7 @@
       "commentary": ""
     },
     "monitoring-tag": {
-      "term": "Monitoring Tag",
+      "term": "monitoring tag",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6828,9 +6828,9 @@
       "commentary": ""
     },
     "moon": {
-      "term": "Moon",
-      "partOfSpeech": "",
-      "termCategory": "",
+      "term": "moon",
+      "partOfSpeech": "verb",
+      "termCategory": "meme",
       "phonetic": "",
       "definition": "A colloquial expression used to describe a cryptocurrency or other asset that is experiencing a strong upward market trend.",
       "definitionSource": "https://academy.binance.com/en/glossary/moon",
@@ -6856,7 +6856,7 @@
       "commentary": ""
     },
     "moving-average-envelopes": {
-      "term": "Moving Average Envelopes",
+      "term": "moving average envelopes",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6870,7 +6870,7 @@
       "commentary": ""
     },
     "moving-average-ribbon": {
-      "term": "Moving Average Ribbon",
+      "term": "moving average ribbon",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -6920,23 +6920,14 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Wallet which requires another party to authorize a transaction before it is broadcasted to the network.",
+          "source": "https://academy.binance.com/en/glossary/multisignature",
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "multisignature": {
-      "term": "Multisignature",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "Wallet which requires another party to authorize a transaction before it is broadcasted to the network.",
-      "definitionSource": "https://academy.binance.com/en/glossary/multisignature",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/multisignature",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "nakamoto-consensus": {
