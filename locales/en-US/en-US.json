@@ -5402,20 +5402,6 @@
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
-    "initial-public-offering": {
-      "term": "Initial Public Offering",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "Refers to the moment a private company starts offering its shares to the public for the first time.",
-      "definitionSource": "https://academy.binance.com/en/glossary/initial-public-offering",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/initial-public-offering",
-      "dateFirstRecorded": "2025-01-31",
-      "commentary": ""
-    },
     "inscription": {
       "term": "inscription",
       "partOfSpeech": "",
@@ -5505,8 +5491,8 @@
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
-    "interplanetary-file-system-(ipfs)": {
-      "term": "InterPlanetary File System (IPFS)",
+    "interplanetary-file-system": {
+      "term": "InterPlanetary File System",
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˌɪntərˈplænəˌtɛri faɪl ˈsɪstəm/",
@@ -5517,7 +5503,7 @@
       "alternate": [
         {
           "definition": "An open-source project building a protocol for distributed content storage and access.",
-          "source": "https://academy.binance.com/en/glossary/interplanetary-file-system-ipfs",
+          "source": "https://academy.binance.com/en/glossary/interplanetary-file-system-ipfs"
         }
       ],
       "termSource": "",
@@ -5575,7 +5561,12 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "Refers to the moment a private company starts offering its shares to the public for the first time.",
+          "source": "https://academy.binance.com/en/glossary/initial-public-offering",
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
