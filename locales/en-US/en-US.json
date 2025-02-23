@@ -7992,7 +7992,7 @@
       "commentary": ""
     },
     "progressive-web-application": {
-      "term": "Progressive Web application (PWA)",
+      "term": "Progressive Web Application",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8020,7 +8020,7 @@
       "commentary": ""
     },
     "proof-of-reserves-por": {
-      "term": "Proof of Reserves (PoR)",
+      "term": "proof of reserves",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8039,7 +8039,7 @@
       "termCategory": "",
       "phonetic": "/pruf əv steɪk/",
       "definition": "A consensus mechanism in which an individual node, or “validator”, validates transactions or blocks. Validators lock up a certain amount of cryptocurrency, such as ether, into a ‘stake’, in order to be able to participate in consensus. If the node validates a block (group of transactions) correctly, then the validator receives a reward. Conversely, if the validator behaves poorly by validating incorrect transactions or by not maintaining sufficient network connectivity, the cryptocurrency they staked can be ‘slashed’, or taken from them and put out of circulation (‘burned’). PoS requires a negligible amount of computing power compared to Proof of Work consensus.",
-      "definitionSource": "https://academy.binance.com/en/glossary/proof-of-stake",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -8053,7 +8053,7 @@
       "commentary": ""
     },
     "proof-of-staked-authority-posa": {
-      "term": "Proof of Staked Authority (PoSA)",
+      "term": "Proof of Staked Authority",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8072,7 +8072,7 @@
       "termCategory": "",
       "phonetic": "/pruf əv wɜrk/",
       "definition": "A consensus mechanism in which each block is ‘mined’ by one of the nodes, or a group of nodes, on the network. The computational process involved in committing a series of transactions into a block on the network, known as ‘hashing a block’, is technically quite simple, and therefore subject to attack. Under PoW, each miner must solve a math problem to find a set, difficult variable in order to be able to propose their block to the network as the next to be ‘mined’. In effect, the process of hashing each block becomes a competition. This addition of solving for a target increases the difficulty of successfully hashing each block, and consequently the security of the network.\n\nFor each hashed block, the overall process of hashing will have taken some time and computational effort. Thus, a hashed block is considered Proof of Work, and the miner that successfully hashes the block first receives a reward, in the form of cryptocurrency. PoW is singificantly more energy-intensive than other consensus mechanisms, such as Proof of Stake.",
-      "definitionSource": "https://academy.binance.com/en/glossary/proof-of-work",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -8086,7 +8086,7 @@
       "commentary": ""
     },
     "proposer-builder-separation-pbs": {
-      "term": "Proposer-Builder Separation (PBS)",
+      "term": "proposer-builder separation",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8100,7 +8100,7 @@
       "commentary": ""
     },
     "proto-danksharding": {
-      "term": "Proto-Danksharding",
+      "term": "proto-danksharding",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8128,7 +8128,7 @@
       "commentary": ""
     },
     "pseudorandom": {
-      "term": "Pseudorandom",
+      "term": "pseudorandom",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8175,7 +8175,7 @@
       "termCategory": "",
       "phonetic": "/ˈpʌblɪk kiː/",
       "definition": "Public blockchain networks are just that: public. Their data is accessible and readable by anyone. In order to have any degree of usability when it comes to allowing users to do some things, like send transactions, but not others, like steal other peoples’ tokens, cryptographic technology is used. In particular, a design paradigm known as ‘public/private key pairs’ is employed to ensure users can interact with others on the network as they wish, while keeping their own account secure.\n\nThese key pairs consist of two long strings of alphanumeric characters. A public key can be derived mathematically from its corresponding private key, but the inverse is not true: it is mathematically impossible to derive a private key from its corresponding public key. This allows, for example, users to have a public wallet address that anyone can use to send them tokens, with the peace of mind that as long as they properly keep the corresponding private key safe, those tokens cannot be stolen. See also ‘private key’.",
-      "definitionSource": "https://academy.binance.com/en/glossary/public-key",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -8207,7 +8207,7 @@
       "commentary": ""
     },
     "pump-and-dump": {
-      "term": "Pump-and-dump",
+      "term": "pump-and-dump",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8249,7 +8249,7 @@
       "commentary": ""
     },
     "quantitative-tightening-qt": {
-      "term": "Quantitative Tightening (QT)",
+      "term": "quantitative tightening",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8263,7 +8263,7 @@
       "commentary": ""
     },
     "quantum-computing": {
-      "term": "Quantum Computing",
+      "term": "quantum computing",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8291,7 +8291,7 @@
       "commentary": ""
     },
     "race-attack": {
-      "term": "Race attack",
+      "term": "race attack",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8305,7 +8305,7 @@
       "commentary": ""
     },
     "ransomware": {
-      "term": "Ransomware",
+      "term": "ransomware",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8333,11 +8333,11 @@
       "commentary": ""
     },
     "real-world-assets-rwas": {
-      "term": "Real World Assets (RWAs)",
+      "term": "Real World Assets",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
-      "definition": "Real World Assets refer to tangible, physical assets with intrinsic value—like real estate, commodities, or art—that are tokenized for use on the blockchain.",
+      "definition": "Real World Assets, or RWAs, refer to tangible, physical assets with intrinsic value—like real estate, commodities, or art—that are tokenized for use on the blockchain.",
       "definitionSource": "https://academy.binance.com/en/glossary/real-world-assets-rwas",
       "sampleSentence": "",
       "extended": "",
@@ -8347,7 +8347,7 @@
       "commentary": ""
     },
     "recession": {
-      "term": "Recession",
+      "term": "recession",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8361,7 +8361,7 @@
       "commentary": ""
     },
     "recursive-inscription": {
-      "term": "Recursive Inscription",
+      "term": "recursive inscription",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8375,9 +8375,9 @@
       "commentary": ""
     },
     "rekt": {
-      "term": "Rekt",
+      "term": "rekt",
       "partOfSpeech": "",
-      "termCategory": "",
+      "termCategory": "meme",
       "phonetic": "",
       "definition": "A slang term used to define someone or something that has been destroyed or experienced catastrophic failure and a synonym for liquidated",
       "definitionSource": "https://academy.binance.com/en/glossary/rekt",
@@ -8389,7 +8389,7 @@
       "commentary": ""
     },
     "relative-strength-index": {
-      "term": "Relative Strength Index (RSI)",
+      "term": "Relative Strength Index",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8424,14 +8424,14 @@
       "definition": "",
       "definitionSource": "",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "See also 'RPC'.",
       "alternate": [],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
     },
     "resistance": {
-      "term": "Resistance",
+      "term": "resistance",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8445,21 +8445,21 @@
       "commentary": ""
     },
     "return-on-investment": {
-      "term": "Return on Investment (ROI)",
+      "term": "Return on Investment",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "A measure used in order to assess the efficiency of an investment. The ratio between net profit and net cost.",
       "definitionSource": "https://academy.binance.com/en/glossary/return-on-investment",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "Generally referred to by its initialism, 'ROI'.",
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/return-on-investment",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "revenge-trading": {
-      "term": "Revenge Trading",
+      "term": "revenge trading",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8477,8 +8477,8 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈrɪŋkəbi/",
-      "definition": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.",
-      "definitionSource": "",
+      "definition": "An Ethereum testnet that used Proof of Authority consensus, available through MetaMask; Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [],
@@ -8487,7 +8487,7 @@
       "commentary": ""
     },
     "risk-premium": {
-      "term": "Risk Premium",
+      "term": "risk premium",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -8506,7 +8506,7 @@
       "termCategory": "",
       "phonetic": "/ˈroʊdmæp/",
       "definition": "A planning technique which lays out the short and long term goals of a particular project within a flexible estimated timeline.",
-      "definitionSource": "https://academy.binance.com/en/glossary/roadmap",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -8533,8 +8533,8 @@
       "dateFirstRecorded": "",
       "commentary": ""
     },
-    "rollups": {
-      "term": "rollups",
+    "rollup": {
+      "term": "rollup",
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈrɒlʌps/",
