@@ -2887,7 +2887,7 @@
       "commentary": ""
     },
     "decryption": {
-      "term": "Decryption",
+      "term": "decryption",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2901,7 +2901,7 @@
       "commentary": ""
     },
     "deep-web": {
-      "term": "Deep Web",
+      "term": "deep web",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2943,7 +2943,7 @@
       "commentary": ""
     },
     "delisting": {
-      "term": "Delisting",
+      "term": "delisting",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2971,7 +2971,7 @@
       "commentary": ""
     },
     "depeg": {
-      "term": "Depeg",
+      "term": "depeg",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -2999,7 +2999,7 @@
       "commentary": ""
     },
     "depression": {
-      "term": "Depression",
+      "term": "depression",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3027,7 +3027,7 @@
       "commentary": ""
     },
     "design-flaw-attack": {
-      "term": "Design Flaw Attack",
+      "term": "design flaw attack",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3097,7 +3097,7 @@
       "commentary": ""
     },
     "diamond-hands": {
-      "term": "Diamond Hands",
+      "term": "diamond hands",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3116,7 +3116,7 @@
       "termCategory": "",
       "phonetic": "/ˈdɪfɪkəlti/",
       "definition": "The concept outlining how hard it is to verify blocks in a blockchain network during Proof of Work mining. In the Bitcoin network, the difficulty of mining adjusts every 2016 blocks. This is to keep block verification time at ten minutes.",
-      "definitionSource": "https://academy.binance.com/en/glossary/difficulty",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -3135,7 +3135,7 @@
       "termCategory": "",
       "phonetic": "/ˈdɪfɪkəlti bɒm/",
       "definition": "The difficulty bomb, along with the Beacon Chain and others, was a key element of Ethereum's upgrade to Ethereum 2.0 and a Proof of Stake (PoS) consensus mechanism. As the name indicates, the difficulty bomb was a software mechanism that increased block verification difficulty, making it more expensive and difficult–eventually, prohibitively so–to mine a new block. Through economic incentive, and later, the raw limitations of computing power, this forced the shift to PoS consensus. See also 'Proof of Stake', 'the Merge'.",
-      "definitionSource": "https://academy.binance.com/en/glossary/difficulty-bomb",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -3182,7 +3182,7 @@
       "termCategory": "",
       "phonetic": "/ˈdɪdʒɪtəl ˈsɪgnətʃər/",
       "definition": "A short string of data a user produces for a document using a private key such that anyone with the corresponding public key, the signature, and the document can verify that (1) the document was 'signed' by the owner of that particular private key, and (2) the document was not changed after it was signed.",
-      "definitionSource": "https://academy.binance.com/en/glossary/digital-signature",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "alternate": [
@@ -3210,11 +3210,11 @@
       "commentary": ""
     },
     "direct-market-access-dma": {
-      "term": "Direct Market Access (DMA)",
+      "term": "direct market access (DMA)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
-      "definition": "Direct Market Access allows investors to place trades directly on exchanges, bypassing brokers for faster execution, more control, and lower fees.",
+      "definition": "Direct market access allows investors to place trades directly on exchanges, bypassing brokers for faster execution, more control, and lower fees.",
       "definitionSource": "https://academy.binance.com/en/glossary/direct-market-access-dma",
       "sampleSentence": "",
       "extended": "",
@@ -3238,7 +3238,7 @@
       "commentary": ""
     },
     "divergence": {
-      "term": "Divergence",
+      "term": "divergence",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3252,7 +3252,7 @@
       "commentary": ""
     },
     "diversification": {
-      "term": "Diversification",
+      "term": "diversification",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3294,7 +3294,7 @@
       "commentary": ""
     },
     "dollar-cost-averaging": {
-      "term": "Dollar Cost Averaging (DCA)",
+      "term": "dollar cost averaging (DCA)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3308,7 +3308,7 @@
       "commentary": ""
     },
     "dot-plot": {
-      "term": "Dot Plot",
+      "term": "dot plot",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3330,23 +3330,14 @@
       "definitionSource": "",
       "sampleSentence": "",
       "extended": "",
-      "alternate": [],
+      "alternate": [
+        {
+          "definition": "When a given amount of coins are spent more than once. Usually as a result of a race attack or a 51% attack.",
+          "source": "https://academy.binance.com/en/glossary/double-spending"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
-    },
-    "double-spending": {
-      "term": "Double Spending",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "When a given amount of coins are spent more than once. Usually as a result of a race attack or a 51% attack.",
-      "definitionSource": "https://academy.binance.com/en/glossary/double-spending",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/double-spending",
-      "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
     "eclipse-attack": {
