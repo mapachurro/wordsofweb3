@@ -8,17 +8,39 @@
     <link rel="stylesheet" href="../assets/css/bootstrap/custom.css" />
     <link rel="stylesheet" href="../assets/css/styles.css" />
 
+    <!-- Social card / banner configuration begins here -->
     <meta property="og:title" content="wordsofweb3 - {{term}}" />
     <meta property="og:description" content="{{definitionMetadata}}" />
     <meta property="og:image" content="../assets/social-banner.png" />
-    <meta property="og:url" content="https://wordsofweb3.eth.limo/{{locale}}/{{termSlug}}.html" />
+    <meta
+      property="og:url"
+      content="https://wordsofweb3.eth.limo/{{locale}}/{{termSlug}}.html"
+    />
     <meta property="og:type" content="article" />
-    
+
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="wordsofweb3 - {{term}}" />
     <meta name="twitter:description" content="{{definitionMetadata}}" />
     <meta name="twitter:image" content="../assets/social-banner.png" />
-    <meta name="twitter:url" content="https://wordsofweb3.eth.limo/{{locale}}/{{termSlug}}.html" />    
+    <meta
+      name="twitter:url"
+      content="https://wordsofweb3.eth.limo/{{locale}}/{{termSlug}}.html"
+    />
+
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-R596NWWZKQ"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-R596NWWZKQ");
+    </script>
 
     <title>wordsofweb3 - {{title}}</title>
     <script type="module" src="../js/entry-page.js" defer></script>
@@ -93,7 +115,7 @@
       <!-- Definition Card -->
       <div class="card mb-4" id="definition-card">
         <div class="card-body">
-          <h3 id="definitiontitle">Definition 1: </h3>
+          <h3 id="definitiontitle">Definition 1:</h3>
           <p id="definition">{{definition}}</p>
           <p id="defsource">
             <strong>Definition source:</strong> {{definitionSource}}
