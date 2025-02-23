@@ -3397,7 +3397,7 @@
       "commentary": ""
     },
     "efficient-market-hypothesis-emh": {
-      "term": "Efficient Market Hypothesis (EMH)",
+      "term": "efficient market hypothesis (EMH)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -3421,20 +3421,6 @@
       "extended": "",
       "alternate": [],
       "termSource": "https://academy.binance.com/en/glossary/eigenlayer",
-      "dateFirstRecorded": "2025-01-31",
-      "commentary": ""
-    },
-    "eip": {
-      "term": "EIP",
-      "partOfSpeech": "",
-      "termCategory": "",
-      "phonetic": "",
-      "definition": "EIP stands for Ethereum Improvement Proposal. It’s a way for the Ethereum community to suggest upgrades or new ideas for the blockchain.",
-      "definitionSource": "https://academy.binance.com/en/glossary/eip",
-      "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
-      "termSource": "https://academy.binance.com/en/glossary/eip",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -3807,8 +3793,13 @@
       "definition": "",
       "definitionSource": "",
       "sampleSentence": "",
-      "extended": "",
-      "alternate": [],
+      "extended": "There are many EIP-related entries in this glossary. See also ERC.",
+      "alternate": [
+        {
+          "definition": "EIP stands for Ethereum Improvement Proposal. It’s a way for the Ethereum community to suggest upgrades or new ideas for the blockchain.",
+          "source": "https://academy.binance.com/en/glossary/eip"
+        }
+      ],
       "termSource": "",
       "dateFirstRecorded": "",
       "commentary": ""
