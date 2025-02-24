@@ -88,6 +88,9 @@ export default async function intertextualLinks() {
 
         let innerContent = match[1]; // Content inside the tag
 
+        // Temporarily remove HTML tags to normalize text for matching
+        const plainText = innerContent.replace(/<[^>]+>/g, "");
+
         sortedTerms.forEach((termKey) => {
           const term = terms[termKey];
           if (!term || !term.term) {
@@ -98,20 +101,30 @@ export default async function intertextualLinks() {
           }
 
           const escapedTerm = escapeRegExp(term.term); // Escape term for use in RegExp
-          const termRegex = new RegExp(`\\b${escapedTerm}\\b`, "g");
+          const termRegex = new RegExp(
+            `(\\b|<[^>]+>)${escapedTerm}(\\b|<[^>]+>)`,
+            "gi",
+          );
 
           const fileName = `${term.term.replace(/\s+/g, "-").toLowerCase()}.html`;
           if (file.toLowerCase() === fileName.toLowerCase()) {
-            return; // Skip self-linking
+            return; // Skip self-linking (avoid linking a term to itself)
           }
+
+          logMessage(
+            `Attempting to link term: '${term.term}' in file: ${filePath}`,
+          );
 
           // Replace the term with a hyperlink if not already linked
           innerContent = innerContent.replace(termRegex, (match) => {
             const hasAnchorTag = new RegExp(
               `<a [^>]*>${escapeRegExp(match)}<\/a>`,
-              "g",
+              "gi",
             ).test(innerContent);
-            if (hasAnchorTag) return match; // Skip if already linked
+            if (hasAnchorTag) {
+              logMessage(`Already linked: '${match}' in ${filePath}`);
+              return match; // Skip if already linked
+            }
 
             logMessage(
               `Linking term '${match}' to file '${fileName}' in ${filePath}`,
@@ -123,68 +136,6 @@ export default async function intertextualLinks() {
         // Return the updated content with the inner content replaced
         return content.replace(regex, `<${id}>${innerContent}</${id}>`);
       }
-      // Sort terms by length to prioritize longer matches
-      const sortedTerms = Object.keys(terms).sort((a, b) => {
-        const termA = terms[a]?.term || "";
-        const termB = terms[b]?.term || "";
-        return termB.length - termA.length;
-      });
-
-      sortedTerms.forEach((termKey) => {
-        const term = terms[termKey];
-        if (!term || !term.term) {
-          logMessage(
-            `Missing 'term' for entry '${termKey}' in locale ${locale}`,
-          );
-          return;
-        }
-
-        const escapedTerm = escapeRegExp(term.term); // Escape term for use in RegExp
-        const termRegex = new RegExp(`\\b${escapedTerm}\\b`, "g");
-
-        const fileName = `${term.term.replace(/\s+/g, "-").toLowerCase()}.html`;
-        if (file.toLowerCase() === fileName.toLowerCase()) {
-          // logMessage(`Skipping self-linking for term: ${term.term}`);
-          return; // Skip self-linking (avoid linking a term to itself)
-        }
-
-        // Replace the term with a hyperlink if not already linked
-        descriptionContent = descriptionContent.replace(termRegex, (match) => {
-          const hasAnchorTag = new RegExp(
-            `<a [^>]*>${escapeRegExp(match)}<\/a>`,
-            "g",
-          ).test(descriptionContent);
-          if (hasAnchorTag) return match; // Skip if already linked
-
-          logMessage(
-            `Linking term '${match}' to file '${fileName}' in ${filePath}`,
-          );
-          return `<a href="./${fileName}">${match}</a>`;
-        });
-      });
-
-      // Apply intertextual links to all relevant fields
-      content = applyIntertextualLinks(
-        content,
-        /<p id="definition">([\s\S]*?)<\/p>/i,
-        'p id="definition"',
-      );
-      content = applyIntertextualLinks(
-        content,
-        /<p id="sampleSentence">([\s\S]*?)<\/p>/i,
-        'p id="sampleSentence"',
-      );
-      content = applyIntertextualLinks(
-        content,
-        /<div id="additional-definitions">([\s\S]*?)<\/div>/i,
-        'div id="additional-definitions"',
-      );
-      content = applyIntertextualLinks(
-        content,
-        /<p id="extended">([\s\S]*?)<\/p>/i,
-        'p id="extended"',
-      );
-
       // Write the updated content back to the file
       try {
         fs.writeFileSync(filePath, content, "utf-8");
