@@ -118,7 +118,7 @@
       "termCategory": "",
       "phonetic": "/əˈkaʊnt/",
       "definition": "An account, in web1 and web2 terms, refers to some sort of identity on some sort of digital platform. It is usually tied to an authentication method, e.g., username and password, which is granted, managed, and secured by the platform or service in question.   By contrast, a web3 or crypto account consists of what is known as a public-private key pair; the public half is generally safe to be shared publicly, and in the case of Ethereum, is further processed to create what is known as the 'public address' of the account, always beginning with '0x'. The private half, meanwhile, gives total control over the account; *total*.",
-      "definitionSource": "",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "These public-private key pairs can be generated one at a time, or they can be *derived* from what is known as a **seed phrase** or **secret recovery phrase**; for more on this, see HD wallet.",
       "additional": [
@@ -254,7 +254,7 @@
       "termCategory": "",
       "phonetic": "/ˈɛrˌdrɑp/",
       "definition": "A token distribution method in which cryptocurrency or tokens are sent to a predeterimened set of wallet addresses.",
-      "definitionSource": "https://academy.binance.com/en/glossary/airdrop",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads. The timing, recipient sourcing and inclusion methods, tokenomics and, if applicable, potential market value of tokens received through an airdrop are the subject of extensive debate and discussion.",
       "additional": [
@@ -263,7 +263,7 @@
           "source": "https://academy.binance.com/en/glossary/airdrop"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/airdrop",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -301,7 +301,7 @@
       "termCategory": "",
       "phonetic": "/ˈælɡəˌrɪðəm/",
       "definition": "An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.",
-      "definitionSource": "https://academy.binance.com/en/glossary/algorithm",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "additional": [
@@ -310,7 +310,7 @@
           "source": "https://academy.binance.com/en/glossary/algorithm"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/algorithm",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -852,7 +852,7 @@
           "source": "https://academy.binance.com/en/glossary/beacon-chain"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/beacon-chain",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -1081,7 +1081,7 @@
           "source": "https://academy.binance.com/en/glossary/bitcoin"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/bitcoin",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -1174,7 +1174,7 @@
           "source": "https://solana.com/docs/references/terminology#block"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/block",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -1225,7 +1225,7 @@
           "source": "https://solana.com/docs/references/terminology#block-height"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/block-height",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -1235,7 +1235,7 @@
       "termCategory": "",
       "phonetic": "/blɑk rɪˈwɔrd/",
       "definition": "The reward given to a miner or validator after it has successfully built a block of transactions and added them to the chain.",
-      "definitionSource": "https://academy.binance.com/en/glossary/block-reward",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.",
       "additional": [
@@ -1244,7 +1244,7 @@
           "source": "https://academy.binance.com/en/glossary/block-reward"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/block-reward",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -1291,7 +1291,7 @@
           "source": "https://academy.binance.com/en/glossary/blockchain"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/blockchain",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -1436,7 +1436,7 @@
           "source": "https://academy.binance.com/en/glossary/bounty"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/bounty",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -1815,7 +1815,7 @@
       "termCategory": "",
       "phonetic": "/ˌsɛntrəˈlaɪzd ɪkˈstʃeɪndʒ/, /ˈsiːˈɛks/",
       "definition": "A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.",
-      "definitionSource": "https://academy.binance.com/en/glossary/centralized-exchange",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "Centralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.\nHowever, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.",
       "additional": [
@@ -1824,7 +1824,7 @@
           "source": "https://academy.binance.com/en/glossary/centralized-exchange"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/centralized-exchange",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -1965,7 +1965,7 @@
       "termCategory": "",
       "phonetic": "/kɔɪn/",
       "definition": "The term 'coin' has some nuances. Strictly speaking, a 'coin' could be defined as: A fungible token (all of them identical) issued on a blockchain, either as the network's transactional token, or through a smart contract deployed to that network. Some people may use 'coins' as shorthand for 'bitcoin'; the immortal aphorism 'not your keys, not your coins' refers to bitcoins. Another thing to keep in mind is that, while coins are put forward as some sort of representation of value, that value can vary wildly from one 'coin' to another. A coin may represent the value of the computational resources of the network, or it may be 'pegged' to represent fiat currency value, or it may float according to the value placed on immaterial resources like NFTs, membership, or digital goods, to name a few.",
-      "definitionSource": "https://academy.binance.com/en/glossary/coin",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "additional": [
@@ -1974,7 +1974,7 @@
           "source": "https://academy.binance.com/en/glossary/coin"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/coin",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -2012,7 +2012,7 @@
       "termCategory": "",
       "phonetic": "/koʊld ˈstɔrɪdʒ/",
       "definition": "A phrasing borrowed from traditional data security; specifically in crypto, 'keeping assets in cold storage' refers to keeping the private keys that control them in a way that is never connected to the internet. This can refer to technological solutions like hardware wallets, as well as more low-tech methods, like writing down an SRP and keeping it in a safe.",
-      "definitionSource": "https://academy.binance.com/en/glossary/cold-storage",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "See also: airgapping",
       "additional": [
@@ -2021,7 +2021,7 @@
           "source": "https://academy.binance.com/en/glossary/cold-storage"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/cold-storage",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -2152,7 +2152,7 @@
           "source": "https://solana.com/docs/references/terminology#confirmation-time"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/confirmation-time",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -2278,7 +2278,7 @@
       "sampleSentence": "",
       "extended": "",
       "additional": [],
-      "termSource": "https://academy.binance.com/en/glossary/consumer-price-index-(cpi)",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -2554,7 +2554,7 @@
       "termCategory": "",
       "phonetic": "/ˌkrɪptəˈkɜrənsi/",
       "definition": "Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank, and are kept track of through distributed ledger technology.",
-      "definitionSource": "https://academy.binance.com/en/glossary/cryptocurrency",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "",
       "additional": [
@@ -2563,7 +2563,7 @@
           "source": "https://academy.binance.com/en/glossary/cryptocurrency"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/cryptocurrency",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -2596,7 +2596,7 @@
           "source": "https://academy.binance.com/en/glossary/cryptography"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/cryptography",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -2620,7 +2620,7 @@
       "termCategory": "",
       "phonetic": "/ˈkʌstədi/",
       "definition": "In the context of cryptocurrencies, custody refers to the safekeeping and management of digital assets on behalf of a client by a third-party service provider. Custody services are an important aspect of the cryptocurrency industry because cryptocurrencies are digital assets that require secure storage and management to prevent loss, theft, or unauthorized access.\n\nCrypto custody services are typically offered by specialized companies that provide secure storage solutions for cryptocurrencies. These companies use various security measures such as multi-signature authentication, cold storage, and insurance to protect their clients' assets.",
-      "definitionSource": "https://academy.binance.com/en/glossary/custody",
+      "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
       "extended": "",
       "additional": [
@@ -2629,7 +2629,7 @@
           "source": "https://academy.binance.com/en/glossary/custody"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/custody",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -2788,7 +2788,7 @@
           "source": "https://academy.binance.com/en/glossary/decentralized-application"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/decentralized-application",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -2821,7 +2821,7 @@
           "source": "https://academy.binance.com/en/glossary/decentralized-autonomous-organization"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/decentralized-autonomous-organization",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -2831,7 +2831,7 @@
       "termCategory": "",
       "phonetic": "/diːˈsɛntrəˌlaɪzd ɪksˈtʃeɪndʒ/",
       "definition": "A decentralized exchange (DEX) is a platform for exchanging cryptocurrencies based on functionality programmed on the blockchain (i.e., in smart contracts). If cryptocurrency is web3’s monetary system, its financial system is DeFi.",
-      "definitionSource": "https://academy.binance.com/en/glossary/decentralized-exchange",
+      "definitionSource": "Consensys Software Inc., A Blockchain Glossary for Beginners",
       "sampleSentence": "",
       "extended": "This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools. The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.",
       "additional": [
@@ -2840,7 +2840,7 @@
           "source": "https://academy.binance.com/en/glossary/decentralized-exchange"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/decentralized-exchange",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -3125,7 +3125,7 @@
           "source": "https://academy.binance.com/en/glossary/difficulty"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/difficulty",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -3144,7 +3144,7 @@
           "source": "https://academy.binance.com/en/glossary/difficulty-bomb"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/difficulty-bomb",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -3191,7 +3191,7 @@
           "source": "https://academy.binance.com/en/glossary/digital-signature"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/digital-signature",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -3537,7 +3537,7 @@
           "source": "https://academy.binance.com/en/glossary/encryption"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/encryption",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -3631,7 +3631,7 @@
           "source": "https://academy.binance.com/en/glossary/erc-1155"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/erc-1155",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -3650,7 +3650,7 @@
           "source": "https://academy.binance.com/en/glossary/erc-20"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/erc-20",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -3683,7 +3683,7 @@
           "source": "https://academy.binance.com/en/glossary/erc-721"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/erc-721",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -3908,7 +3908,7 @@
           "source": "https://academy.binance.com/en/glossary/exchange"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/exchange",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -4169,7 +4169,7 @@
           "source": "https://solana.com/docs/references/terminology#finality"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/finality",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -4402,7 +4402,7 @@
           "source": "https://solana.com/docs/references/terminology#fork"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/fork",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -4449,7 +4449,7 @@
           "source": "https://academy.binance.com/en/glossary/fraud-proof"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/fraud-proof",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -4496,7 +4496,7 @@
           "source": "https://academy.binance.com/en/glossary/full-node"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/full-node",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -4613,7 +4613,7 @@
           "source": "https://academy.binance.com/en/glossary/gas"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/gas",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -4646,7 +4646,7 @@
           "source": "https://academy.binance.com/en/glossary/gas-limit"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/gas-limit",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -4786,7 +4786,7 @@
           "source": "https://academy.binance.com/en/glossary/github"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/github",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -4931,7 +4931,7 @@
           "source": "https://academy.binance.com/en/glossary/gwei"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/gwei",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -4992,7 +4992,7 @@
           "source": "https://academy.binance.com/en/glossary/halving"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/halving",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -5328,7 +5328,7 @@
           "source": "https://academy.binance.com/en/glossary/immutability"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/immutability",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -5487,7 +5487,7 @@
           "source": "https://academy.binance.com/en/glossary/interoperability"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/interoperability",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -5670,7 +5670,7 @@
           "source": "https://academy.binance.com/en/glossary/know-your-customer"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/know-your-customer",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -5759,7 +5759,7 @@
           "source": "https://academy.binance.com/en/glossary/latency"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/latency",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -5848,7 +5848,7 @@
           "source": "https://academy.binance.com/en/glossary/layer-2"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/layer-2",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -5867,7 +5867,7 @@
           "source": "https://solana.com/docs/references/terminology#ledger"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/ledger",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -5928,7 +5928,7 @@
           "source": "https://academy.binance.com/en/glossary/library"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/library",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -5980,7 +5980,7 @@
           "source": "https://academy.binance.com/en/glossary/lightning-network"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/lightning-network",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -6097,7 +6097,7 @@
           "source": "https://academy.binance.com/en/glossary/liquidity"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/liquidity",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -6200,7 +6200,7 @@
           "source": "https://academy.binance.com/en/glossary/mainnet"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/mainnet",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -6261,7 +6261,7 @@
           "source": "https://academy.binance.com/en/glossary/malware"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/malware",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -6425,7 +6425,7 @@
           "source": "https://academy.binance.com/en/glossary/mempool"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/mempool",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -6528,7 +6528,7 @@
           "source": "https://academy.binance.com/en/glossary/metadata"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/metadata",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -6617,7 +6617,7 @@
           "source": "https://academy.binance.com/en/glossary/metaverse"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/metaverse",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -6706,7 +6706,7 @@
           "source": "https://academy.binance.com/en/glossary/mining"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/mining",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -6739,7 +6739,7 @@
           "source": "https://academy.binance.com/en/glossary/mint"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/mint",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -7131,7 +7131,7 @@
           "source": "https://solana.com/docs/references/terminology#node"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/node",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -7169,7 +7169,7 @@
           "source": "https://academy.binance.com/en/glossary/nonce"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/nonce",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -7202,7 +7202,7 @@
           "source": "https://academy.binance.com/en/glossary/off-chain"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/off-chain",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -7277,7 +7277,7 @@
           "source": "https://academy.binance.com/en/glossary/on-chain"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/on-chain",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -7422,7 +7422,7 @@
           "source": "https://academy.binance.com/en/glossary/oracle"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/oracle",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -7735,7 +7735,7 @@
           "source": "https://academy.binance.com/en/glossary/phishing"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/phishing",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -7768,7 +7768,7 @@
           "source": "https://academy.binance.com/en/glossary/plasma"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/plasma",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -7973,7 +7973,7 @@
           "source": "https://solana.com/docs/references/terminology#private-key"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/private-key",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -8048,7 +8048,7 @@
           "source": "https://academy.binance.com/en/glossary/proof-of-stake"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/proof-of-stake",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -8081,7 +8081,7 @@
           "source": "https://academy.binance.com/en/glossary/proof-of-work"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/proof-of-work",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -8188,7 +8188,7 @@
           "source": "https://solana.com/docs/references/terminology#public-key-pubkey"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/public-key",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -8515,7 +8515,7 @@
           "source": "https://academy.binance.com/en/glossary/roadmap"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/roadmap",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -8604,7 +8604,7 @@
           "source": "https://academy.binance.com/en/glossary/rug-pull"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/rug-pull",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -8721,7 +8721,7 @@
           "source": "https://academy.binance.com/en/glossary/satoshi-nakamoto"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/satoshi-nakamoto",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -8913,7 +8913,7 @@
           "source": "https://academy.binance.com/en/glossary/seed-phrase"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/seed-phrase",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -9086,7 +9086,7 @@
           "source": "https://academy.binance.com/en/glossary/sharding"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/sharding",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -9213,7 +9213,7 @@
           "source": "https://academy.binance.com/en/glossary/slippage"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/slippage",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
@@ -10780,7 +10780,7 @@
           "source": "https://academy.binance.com/en/glossary/wei"
         }
       ],
-      "termSource": "https://academy.binance.com/en/glossary/wei",
+      "termSource": "",
       "dateFirstRecorded": "2025-01-31",
       "commentary": ""
     },
