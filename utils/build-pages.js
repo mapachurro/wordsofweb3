@@ -107,6 +107,20 @@ export default async function buildPages() {
 
         const termCategoryValue = termData.termCategory || "To be determined";
         const definitionSource = termData.definitionSource || "N/A";
+        const defSourceArray =
+        Array.isArray(termData.definitionSource) && termData.definitionSource.length
+          ? termData.definitionSource
+          : null;
+
+      const defSource = defSourceArray
+        ? defSourceArray
+            .map(
+              (alt) =>
+                `<p><strong>Definition source:</strong> ${termSource}</p>`,
+            )
+            .join("")
+        : "<p>Mapachurro probably wrote this.</p>";
+
         const sampleSentence = termData.sampleSentence || "N/A";
         const extended = termData.extended || "No extended definition. ...yet";
         // Enhanced handling for termSource
