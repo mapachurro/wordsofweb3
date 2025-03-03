@@ -117,10 +117,10 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/əˈkaʊnt/",
-      "definition": "An account, in web1 and web2 terms, refers to some sort of identity on some sort of digital platform. It is usually tied to an authentication method, e.g., username and password, which is granted, managed, and secured by the platform or service in question.   By contrast, a web3 or crypto account consists of what is known as a public-private key pair; the public half is generally safe to be shared publicly, and in the case of Ethereum, is further processed to create what is known as the 'public address' of the account, always beginning with '0x'. The private half, meanwhile, gives total control over the account; *total*.",
+      "definition": "An account, in web1 and web2 terms, refers to some sort of identity on some sort of digital platform. It is usually tied to an authentication method, e.g., username and password, which is granted, managed, and secured by the platform or service in question. By contrast, a web3 or crypto account consists of what is known as a public-private key pair; the public half is generally safe to be shared publicly, and in the case of Ethereum, is further processed to create what is known as the 'public address' of the account, always beginning with '0x'. The private half, meanwhile, gives total control over the account.",
       "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
-      "extended": "These public-private key pairs can be generated one at a time, or they can be *derived* from what is known as a **seed phrase** or **secret recovery phrase**; for more on this, see HD wallet.",
+      "extended": "These public-private key pairs can be generated one at a time, or they can be <i>derived</i> from what is known as a <b>seed phrase</b> or <b>secret recovery phrase</b>; for more on this, see HD wallet.",
       "additional": [
         {
           "definition": "A record in the Solana ledger that either holds data or is an executable program. Like an account at a traditional bank, a Solana account may hold funds called lamports. Like a file in Linux, it is addressable by a key, often referred to as a public key or pubkey. The key may be one of: - an ed25519 public key - a program-derived account address (32byte value forced off the ed25519 curve) - a hash of an ed25519 public key with a 32 character string",
