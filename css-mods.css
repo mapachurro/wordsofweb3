@@ -69,3 +69,16 @@ body {
     }
   }
   
+  .additional-definition {
+    margin-bottom: 1rem;
+  }
+  
+  .source-line {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+  }
+  
+  .definition-separator {
+    margin: 1rem 0;
+  }
+  

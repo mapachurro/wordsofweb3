@@ -28,6 +28,19 @@ function logToFile(message) {
 // Clear the log file before starting
 fs.writeFileSync(logFilePath, "", "utf-8");
 
+// Export the function so it's accessible within the module
+export function isValidUrl(string) {
+  const urlPattern = new RegExp('^(https?:\\/\\/)?' + // protocol
+    '((([a-z0-9\\-]+\\.)+[a-z]{2,})|' + // domain name
+    'localhost|' + // localhost
+    '\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}|' + // IP address
+    '\\[?[a-f0-9:\\.]+\\]?)' + // IPv6
+    '(\\:\\d+)?(\\/[-a-z0-9%_.~+]*)*' + // port and path
+    '(\\?[;&a-z0-9%_.~+=-]*)?' + // query string
+    '(\\#[-a-z0-9_]*)?$','i'); // fragment locator
+  return !!urlPattern.test(string);
+}
+
 export default async function buildPages() {
   // Initialize language codes
   await initializeLanguageCodes(); // Make sure language codes are loaded before proceeding
@@ -96,42 +109,55 @@ export default async function buildPages() {
             ? termData.additional
             : null;
 
+        // Function to check if a string is a valid URL
         const additionalDef = additionalDefsArray
           ? additionalDefsArray
-              .map(
-                (alt) =>
-                  `<p><strong>Additional definition:</strong> ${alt.definition} <em>(${alt.source})</em></p>`,
-              )
+              .map((alt) => {
+                // ✅ 'alt' is properly defined here
+                let sourceText = "";
+                if (alt.source) {
+                  if (isValidUrl(alt.source)) {
+                    sourceText = `<a href="${alt.source}" target="_blank" rel="noopener noreferrer">Source</a>`;
+                  } else {
+                    sourceText = `<strong>${alt.source}</strong>`;
+                  }
+                }
+                return `<div class="additional-definition">
+                  <p class="definition-text">${alt.definition}</p>
+                  <p class="source-line">${sourceText}</p>
+                </div>`;
+              })
               .join("")
           : "<p>No additional definitions found. Have another? Submit it!</p>";
 
         const termCategoryValue = termData.termCategory || "To be determined";
-        const definitionSource = termData.definitionSource || "N/A";
-        const defSourceArray =
-        Array.isArray(termData.definitionSource) && termData.definitionSource.length
-          ? termData.definitionSource
-          : null;
+        const definitionSource = termData.definitionSource
+          ? isValidUrl(termData.definitionSource)
+            ? `<a href="${termData.definitionSource}" target="_blank" rel="noopener noreferrer">Source</a>`
+            : `<strong>${termData.definitionSource}</strong>`
+          : "Mapachurro probably wrote this.";
 
-      const defSource = defSourceArray
-        ? defSourceArray
-            .map(
-              (alt) =>
-                `<p><strong>Definition source:</strong> ${termSource}</p>`,
-            )
-            .join("")
-        : "<p>Mapachurro probably wrote this.</p>";
+          const defSourceArray =
+          Array.isArray(termData.definitionSource) && termData.definitionSource.length
+            ? termData.definitionSource
+            : termData.definitionSource
+            ? [termData.definitionSource] // Wrap a single string in an array
+            : null;
+        
+        const defSource = defSourceArray
+          ? defSourceArray
+              .map((src) =>
+                isValidUrl(src)
+                  ? `<a href="${src}" target="_blank" rel="noopener noreferrer">Source</a>`
+                  : `<strong>${src}</strong>`
+              )
+              .join(", ") // Separate multiple sources with a comma
+          : "Mapachurro probably wrote this.";
+        
 
         const sampleSentence = termData.sampleSentence || "N/A";
         const extended = termData.extended || "No extended definition. ...yet";
         // Enhanced handling for termSource
-        const isValidUrl = (string) => {
-          try {
-            new URL(string);
-            return true;
-          } catch (_) {
-            return false;
-          }
-        };
 
         const termSource = termData.termSource
           ? isValidUrl(termData.termSource)
