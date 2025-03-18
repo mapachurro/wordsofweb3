@@ -1,3 +1,9 @@
+// This script imports terms from a source file to a target glossary.
+// It can be run with a specific file or all files in the ecosystem directory.
+// It can be run from the command line with "npm run import" or "npm run import -- <file-path>".
+// So, either put the file in the ecosystem directory or run the command with the file path.
+// Then be sure to put them in the ./imported directory so you don't try to import them again.
+
 import fs from 'fs';
 import path from 'path';
 import { initializeLanguageCodes, convertLocaleFormat } from '../../../src/js/l10n.js';
