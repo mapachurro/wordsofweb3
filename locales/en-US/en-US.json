@@ -9261,10 +9261,6 @@
         {
           "definition": "See onchain program.",
           "source": "https://solana.com/docs/references/terminology#smart-contract"
-        },
-        {
-          "definition": "Refer only to the full name “the POAP smart contract”",
-          "source": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary"
         }
       ],
       "termSource": "",
@@ -12126,8 +12122,8 @@
       "dateFirstRecorded": "2025-02-14",
       "commentary": ""
     },
-    "official-poap-slogan:bookmarks-for-your-life": {
-      "term": "Official POAP slogan:Bookmarks for your life",
+    "official-poap-slogan-bookmarks-for-your-life": {
+      "term": "Official POAP slogan, 'Bookmarks for your life'",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
@@ -12137,7 +12133,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "collectible": {
@@ -12147,11 +12143,11 @@
       "phonetic": "",
       "definition": "Collectible (with an “i”) typically refers to something worth collecting for its value or rarity; collectable (with an “a”) typically refers more broadly to anything that can be collected. POAPs are collectibles!",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example:",
+      "sampleSentence": "POAPs are precious collectibles.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "collection": {
@@ -12161,11 +12157,11 @@
       "phonetic": "",
       "definition": "One or more POAPs in a single Ethereum wallet.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example:",
+      "sampleSentence": "That is a nice collection of POAPs.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "collector": {
@@ -12175,11 +12171,11 @@
       "phonetic": "",
       "definition": "A person that own POAPs.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example:",
+      "sampleSentence": "A lot of POAP collectors watched the livestream.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "curation": {
@@ -12193,7 +12189,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "curator": {
@@ -12207,7 +12203,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "distribution-method": {
@@ -12217,11 +12213,11 @@
       "phonetic": "",
       "definition": "The method by which POAP issuers distribute their POAP Drop. For a breakdown of basic POAP distribution methods, see the articlePOAP Distribution Methods 101.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "For her drop distribution method, she decided to set up a whitelist via Delivery.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "discord": {
@@ -12235,35 +12231,35 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
-    "drop-verb": {
-      "term": "drop",
-      "partOfSpeech": "verb",
+    "drop": {
+      "term": "drop (verb)",
+      "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "The act of distributing a POAP to collectors.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example:",
+      "sampleSentence": "A birthday party is a good reason to drop a POAP.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "drop-noun": {
-      "term": "Drop",
-      "partOfSpeech": "noun",
+      "term": "Drop (noun)",
+      "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "The act of distributing a POAP to collectors.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example:",
+      "sampleSentence": "She set up a POAP Drop for her birthday.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "event": {
@@ -12273,11 +12269,11 @@
       "phonetic": "",
       "definition": "A conference, party, livestream, etc., for which an issuer creates a POAP Drop.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "She was holding a yoga retreat, so she created a POAP Drop for the event.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "gitpoap": {
@@ -12287,11 +12283,11 @@
       "phonetic": "",
       "definition": "Aplatformthat allows organizations to create and distribute POAPs for professional accolades.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "She received a GitPOAP for her contributions to the project’s open source code development.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "issuer": {
@@ -12301,11 +12297,11 @@
       "phonetic": "",
       "definition": "A person/entity that drops a POAP.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "Who is the issuer of this POAP?",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "migrate": {
@@ -12315,11 +12311,11 @@
       "phonetic": "",
       "definition": "To move a POAP from the Gnosis Chain (previously xDai) network to Ethereum Mainnet.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "In order to list her POAP for sale on OpenSea, she had to migrate it from Gnosis Chain to Mainnet.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "mint-link": {
@@ -12329,11 +12325,11 @@
       "phonetic": "",
       "definition": "A unique URL that, when clicked, entitles a collector to mint a single POAP with an Ethereum address or reserve a single POAP with an email address.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example:",
+      "sampleSentence": "After the livestream, the POAP issuer gathered the names of attendees and sent them mint links.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "nfc-chip": {
@@ -12343,11 +12339,11 @@
       "phonetic": "",
       "definition": "A device (as small as 5-6mm) that enables short-range, wireless communication between two devices.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "NFC chips can be configured so that a POAP collector can tap their phone to it and mint a POAP.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-proof-of-attendance-protocol": {
@@ -12361,7 +12357,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "a-poap": {
@@ -12371,11 +12367,11 @@
       "phonetic": "",
       "definition": "A digital record minted using the Proof of Attendance Protocol under the POAP smart contract at 0x22c1f6050e56d2876009903609a2cc3fef83b415.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example:",
+      "sampleSentence": "That’s a sweet-looking POAP.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-art": {
@@ -12385,11 +12381,11 @@
       "phonetic": "",
       "definition": "POAP Artis a productthat allows collaborative painting on a shared canvas, with painting access provided based on which POAPs one holds in their wallet.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "To celebrate their one-year anniversary, the Discord community held a painting party via POAP Art; those who held specific POAPs from the community were eligible to paint. The final canvas was then minted as an NFT and raffled off via POAP Fun.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "the-poap-curation-body": {
@@ -12399,11 +12395,11 @@
       "phonetic": "",
       "definition": "The POAP Curation Body establishes guidelines and policies, best practices for Drops, and suggestions for issuers on proper behavior in the POAP ecosystem. For more information, head to the Curation Body’swebsite.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "They created a Drop and the POAP Curation Body reviewed and approved it.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-collections": {
@@ -12413,11 +12409,11 @@
       "phonetic": "",
       "definition": "POAP Collectionsis a product that anyone can use to curate groups of POAPs.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example:A Pudgy Penguins community member created a nice",
+      "sampleSentence": "A Pudgy Penguins community member created a niceCollection of Pudgy Penguin POAPs.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-checkout": {
@@ -12427,11 +12423,11 @@
       "phonetic": "",
       "definition": "POAP Checkoutis a productthat issuers can use to sell their POAPs.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "The nonprofit sold 100 POAPs to raise money for their organization.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-delivery": {
@@ -12441,11 +12437,11 @@
       "phonetic": "",
       "definition": "POAP Deliveryis an app that whitelists Ethereum wallet addresses for minting a particular POAP.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "SuperRare set up a Delivery for theirtop 100 collectorsin the previous month.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-drops": {
@@ -12455,11 +12451,11 @@
       "phonetic": "",
       "definition": "POAP Dropsis the app issuers use to create POAP Drops! For instructions on how to use POAP Drops, review \"How to Create a POAP Drop\".",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example:",
+      "sampleSentence": "It was such a smooth process for him to create a Drop using the POAP Drops interface. He could see all the Drops he made in the past, along with all the info regarding each Drop such as the number of email reservations, mints, and a link to the POAP Gallery page.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-family": {
@@ -12469,11 +12465,11 @@
       "phonetic": "",
       "definition": "POAP Familyis a product that can be used to search for POAPs that collectors have in common.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "She attended a wedding with a POAP, and afterward looked up the Drop on POAP Family to see other POAPs that the wedding attendees had in common.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-fun": {
@@ -12483,11 +12479,11 @@
       "phonetic": "",
       "definition": "POAP Funis a product that can be used by anyone tocreate rafflesonly open to holders of specific POAPs.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "She decided to reward attendees of her art gallery opening by raffling off 1 ETH via POAP Fun, to those who held the POAP for the event.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-kiosk": {
@@ -12497,11 +12493,11 @@
       "phonetic": "",
       "definition": "A tool that allows issuers to distribute POAPs via unique QR codes in an efficient and sybil-resistant manner. For a complete explanation, read ourHelp Center article.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "By using a POAP Kiosk, she was able to set up her iPad screen to allow collectors to scan QR codes and receive a POAP; each time the QR code was scanned, a new QR code replaced it and rendered the old one invalid for minting a POAP.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-gallery": {
@@ -12511,11 +12507,11 @@
       "phonetic": "",
       "definition": "POAP Galleryis a product that allows you to view information for all public POAP Drops.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "She was curious which addresses minted her POAP, so she looked up her Drop viaPOAP Gallery.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-inc": {
@@ -12529,7 +12525,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-in-app-mobile-dispenser": {
@@ -12543,7 +12539,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-moments": {
@@ -12553,11 +12549,11 @@
       "phonetic": "",
       "definition": "POAP Momentsis an app that allows collectors to attach photos and other media to POAPs. This creates a richer, more interactive experience by associating additional memories with the digital collectible.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "He dropped a POAP at his birthday party and had all his friends upload photos from the event via POAP Moments so everyone who viewed the POAP could see them.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-scan": {
@@ -12571,7 +12567,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-secret": {
@@ -12581,11 +12577,11 @@
       "phonetic": "",
       "definition": "A POAP Secret is used to distribute POAPs through an issuer-selected word or phrase that collectors use to mint or reserve a POAP via the POAP app (iOS/Android).",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "During a Twitter Space, she told attendees a Secret to input into their POAP mobile app that would allow them to mint or reserve a POAP.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "the-poap-smart-contract": {
@@ -12595,11 +12591,11 @@
       "phonetic": "",
       "definition": "The POAP smart contract address is 0x22c1f6050e56d2876009903609a2cc3fef83b415",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "The POAP smart contract enables the minting of POAPs.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "poap-website": {
@@ -12609,25 +12605,25 @@
       "phonetic": "",
       "definition": "A tool used to distribute POAPs via a customized URL (which, optionally, may be represented as a QR code).",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "She set up a POAP Website to distribute POAPs at a birthday party.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "power-poap-power": {
-      "term": "power (POAP power)",
+      "term": "power, POAP power)",
       "partOfSpeech": "",
       "termCategory": "",
       "phonetic": "",
       "definition": "The POAP power of a specific POAP Drop is calculated as the sum of all POAPs held in wallets that minted that POAP.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "80 wallets, who each hold 10 POAPs, mint Example POAP XYZ. The POAP power for Example POAP XYZ is 800.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "reserve": {
@@ -12637,11 +12633,11 @@
       "phonetic": "",
       "definition": "Reserving refers toreserving a POAPwith an email address.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "He was new to crypto and didn’t have a wallet set up, so he reserved his POAP with his email address.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "supply": {
@@ -12651,11 +12647,11 @@
       "phonetic": "",
       "definition": "The total mints of a POAP.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "Her POAP was minted 100 times, so its supply was 100.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "transfer": {
@@ -12665,11 +12661,11 @@
       "phonetic": "",
       "definition": "The process ofmoving a POAPfrom one wallet to another.",
       "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "sampleSentence": "Example",
+      "sampleSentence": "He accidentally minted a POAP to a wallet he no longer used, so he transferred the POAP to a different wallet.",
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "badge": {
@@ -12683,7 +12679,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "claim": {
@@ -12697,7 +12693,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "claim-code": {
@@ -12711,7 +12707,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "collectable": {
@@ -12725,7 +12721,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "delivery-method": {
@@ -12739,7 +12735,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "distribution-code": {
@@ -12753,7 +12749,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "qr-link": {
@@ -12767,7 +12763,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "secret-phrase": {
@@ -12781,7 +12777,21 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
+      "commentary": ""
+    },
+    "the-smart-contract": {
+      "term": "the smart contract",
+      "partOfSpeech": "",
+      "termCategory": "",
+      "phonetic": "",
+      "definition": "Refer only to the full name “the POAP smart contract”",
+      "definitionSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
+      "sampleSentence": "",
+      "extended": "",
+      "additional": [],
+      "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     },
     "unique-link": {
@@ -12795,7 +12805,7 @@
       "extended": "",
       "additional": [],
       "termSource": "https://poap.zendesk.com/hc/en-us/articles/18607766574989-POAP-Glossary",
-      "dateFirstRecorded": "2025-03-15",
+      "dateFirstRecorded": "2025-03-18",
       "commentary": ""
     }
   }
