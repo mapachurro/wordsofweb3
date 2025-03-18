@@ -5,11 +5,14 @@ import { initializeLanguageCodes, convertLocaleFormat } from '../../../src/js/l1
 // Initialize language codes
 await initializeLanguageCodes();
 
-// Configuration - can be adjusted as needed
+// Get the directory where this script is located
+const __dirname = path.dirname(new URL(import.meta.url).pathname);
+
+// Configuration with paths relative to script location
 const CONFIG = {
-  localesDir: path.resolve('../../../locales'),
-  importDir: path.resolve('./ecosystem'),
-  reportsDir: path.resolve('./reports'),
+  localesDir: path.resolve(__dirname, '../../../locales'),
+  importDir: path.resolve(__dirname, './ecosystem'),
+  reportsDir: path.resolve(__dirname, './reports'),
   defaultLocale: 'en-US'
 };
 
@@ -209,12 +212,12 @@ async function processImportFiles(directory = CONFIG.importDir, pattern = 'impor
   try {
     console.log(`Looking for import files in: ${directory}`);
     
-    // Get all import files
+    // Get all import files - using a more flexible pattern
     const files = fs.readdirSync(directory)
-      .filter(file => file.match(pattern))
+      .filter(file => file.startsWith('import-') && file.endsWith('.json'))
       .map(file => path.join(directory, file));
     
-    console.log(`Found ${files.length} import files`);
+    console.log(`Found ${files.length} import files:`, files);
     
     // Process each file
     for (const file of files) {
