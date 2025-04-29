@@ -1,0 +1,110 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "ignorePaths": [
+      "node_modules/**",
+      ".git/**",
+      "build/**",
+      "static/**",
+      "utils/**",
+      "cspell-words.txt",
+      "package.json",
+      "package-lock.json",
+      "package.json",
+      "package-lock.json",
+      "README.md",
+      "LICENSE",
+      "cspell.json",
+      "public/**",
+      "src/**"
+    ],
+    "languageSettings": [
+      {
+        "languageId": "ar,ar-001",
+        "locale": "ar",
+        "ignoreRegExpList": [".*"]
+      },
+      {
+        "languageId": "es",
+        "locale": "es",
+        "ignoreRegExpList": [".*"]
+      }
+    ],
+    "overrides": [
+      {
+        "filename": "locales/**/*.json",
+        "languageId": "json",
+        "patterns": [
+          {
+            "name": "glossary-terms",
+            "pattern": "\"term\":\\s*\"(.*?)\"",
+            "description": "Check spelling in term fields"
+          },
+          {
+            "name": "part-of-speech",
+            "pattern": "\"partOfSpeech\":\\s*\"(.*?)\"",
+            "description": "Check spelling in partOfSpeech fields"
+          },
+          {
+            "name": "term-category",
+            "pattern": "\"termCategory\":\\s*\"(.*?)\"",
+            "description": "Check spelling in termCategory fields"
+          },
+          {
+            "name": "definition",
+            "pattern": "\"definition\":\\s*\"(.*?)\"",
+            "description": "Check spelling in definition fields"
+          },
+          {
+            "name": "sample-sentence",
+            "pattern": "\"sampleSentence\":\\s*\"(.*?)\"",
+            "description": "Check spelling in sampleSentence fields"
+          },
+          {
+            "name": "extended",
+            "pattern": "\"extended\":\\s*\"(.*?)\"",
+            "description": "Check spelling in extended fields"
+          },
+          {
+            "name": "commentary",
+            "pattern": "\"commentary\":\\s*\"(.*?)\"",
+            "description": "Check spelling in commentary fields"
+          }
+        ]
+      }
+    ],
+    "useGitignore": true,
+    "words": [
+      "POAP",
+      "POAPs",
+      "Solana",
+      "blockchain",
+      "blockhash",
+      "lamport",
+      "lamports",
+      "onchain",
+      "sybil",
+      "Sealevel",
+      "Ethereum",
+      "GitPOAP",
+      "Mainnet",
+      "Gnosis",
+      "xDai",
+      "OpenSea",
+      "SuperRare",
+      "Pudgy",
+      "Penguins",
+      "Binance",
+      "Bitcoin",
+      "cryptocurrency",
+      "cryptocurrencies",
+      "DeFi",
+      "NFT",
+      "NFTs",
+      "staking",
+      "validator",
+      "validators",
+      "wallet",
+      "wallets"
+    ]
+  }

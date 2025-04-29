@@ -9,7 +9,9 @@
     "build": "node ./utils/build.js",
     "start": "http-server ./build -p 8080",
     "clear": "rm -rf ./build/* ./static/* ./utils/page-output.txt ./utils/intertextual-output.txt",
-    "import": "node ./utils/data/import/import-terms.js"
+    "import": "node ./utils/data/import/import-terms.js",
+    "spell-check": "node scripts/check-glossary-spelling.js",
+    "spell-check:fix": "cspell \"locales/**/*.json\" --wordsOnly --unique | sort > cspell-words.txt"
   },
   "keywords": [],
   "author": "",
@@ -20,7 +22,9 @@
     "json2csv": "^6.0.0-alpha.2"
   },
   "devDependencies": {
+    "cspell": "^8.19.3",
     "doctoc": "^2.2.1",
+    "glob": "^11.0.2",
     "http-server": "^14.1.1"
   }
 }
