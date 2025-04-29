@@ -2399,14 +2399,14 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈkrɪptoʊ-/",
-      "definition": "Even though this prefix is originally Greek, our current usage comes from cryptography. Technologies that are referred to with the blanket term of 'crypto' tech are underlain by cryptographic tools and processes (such as public/private key pairs) that enable innovative functionality and security. Of course, 'cryptocurrency' often gets shortened to simply 'crypto', so this emerging field is full of instances where something 'crypto' is being added to or shortened. With the emergence of the term 'Web3', arguably a distinction has begun to be made between 'crypto', referring to DeFi and other financial use cases of the technology, while 'Web3' refers to the transition of Internet-based activities to more decentralized practices and platforms.",
+      "definition": "In modern usage, technologies underlain by cryptography using cryptographic tools and processes (such as public/private key pairs) that enable innovative functionality and security.",
       "definitionSource": "",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "A Greek prefix, meaning 'hidden'. Modern usage comes from 'cryptography'. Public blockchain networks use cryptography, hence why the field at large is referred to by the prefix alone.",
       "additional": [],
       "termSource": "",
       "dateFirstRecorded": "",
-      "commentary": ""
+      "commentary": "Of course, 'cryptocurrency' often gets shortened to simply 'crypto', so this emerging field is full of instances where 'crypto' is used at shorthand for any given number of products, technologies, or programs. Compare with web3, decentralized web, or dweb. With the emergence of the term 'Web3', arguably a distinction has begun to be made between 'crypto', referring to projects that use cryptography in some way, and those that rely only on decentralization. 
     },
     "crypto-asset": {
       "term": "crypto-asset",
