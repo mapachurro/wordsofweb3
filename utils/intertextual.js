@@ -101,14 +101,39 @@ export default async function intertextualLinks() {
 
                 const fileName = `${term.term.replace(/\s+/g, '-').toLowerCase()}.html`;
                 if (file.toLowerCase() === fileName.toLowerCase()) {
-                    // logMessage(`Skipping self-linking for term: ${term.term}`);
-                    return; // Skip self-linking (avoid linking a term to itself)
+                    // Skip self-linking (avoid linking a term to itself)
+                    return;
                 }
 
                 // Replace the term with a hyperlink if not already linked
-                descriptionContent = descriptionContent.replace(termRegex, (match) => {
+                descriptionContent = descriptionContent.replace(termRegex, (match, offset, string) => {
+                    // Check if this match is already inside an <a> tag
+                    // We need to look at the substring before this match to see if there's an opening <a> tag
+                    // and after this match to see if there's a closing </a> tag
+                    const beforeMatch = string.substring(0, offset);
+                    const afterMatch = string.substring(offset + match.length);
+                    
+                    // Count opening and closing <a> tags before this match
+                    const openTagsBefore = (beforeMatch.match(/<a [^>]*>/g) || []).length;
+                    const closeTagsBefore = (beforeMatch.match(/<\/a>/g) || []).length;
+                    
+                    // If there are more opening tags than closing tags before this match,
+                    // then this match is already inside an <a> tag
+                    if (openTagsBefore > closeTagsBefore) {
+                        return match; // Return the match unchanged
+                    }
+                    
+                    // Also check if this match is part of an HTML tag
+                    const isInHtmlTag = /<[^>]*$/.test(beforeMatch) || /^[^<]*>/.test(afterMatch);
+                    if (isInHtmlTag) {
+                        return match; // Return the match unchanged
+                    }
+
+                    // Check if already explicitly linked
                     const hasAnchorTag = new RegExp(`<a [^>]*>${escapeRegExp(match)}<\/a>`, 'g').test(descriptionContent);
-                    if (hasAnchorTag) return match; // Skip if already linked
+                    if (hasAnchorTag) {
+                        return match; // Skip if already linked
+                    }
 
                     logMessage(`Linking term '${match}' to file '${fileName}' in ${filePath}`);
                     return `<a href="./${fileName}">${match}</a>`;
@@ -124,6 +149,13 @@ export default async function intertextualLinks() {
                 logMessage(`Updated: ${filePath}`);
             } catch (err) {
                 logMessage(`Failed to write file: ${filePath} - ${err.message}`);
+            }
+
+            // Simple check for malformed HTML tags
+            const malformedLinks = content.match(/<a [^>]*><a [^>]*>|<\/a><\/a>/g);
+            if (malformedLinks) {
+                logMessage(`Warning: Possible malformed links in ${filePath}:`);
+                malformedLinks.forEach(link => logMessage(`  ${link}`));
             }
         });
     });
