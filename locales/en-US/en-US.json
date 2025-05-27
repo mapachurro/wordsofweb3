@@ -10605,10 +10605,10 @@
       "partOfSpeech": "noun",
       "termCategory": "",
       "phonetic": "/ˈwɒlɪt/",
-      "definition": "In Ethereum-based blockchain technology, a 'wallet' is a something that allows you to manage private keys, your Secret Recovery Phrase, and the accounts generated from it. This could be an internet-connected 'hot wallet', like MetaMask, or an 'airgapped' hardware wallet. In more technical speak, you could say 'the wallet is the client, not the keys.' It is very common for people to use the word 'wallet' to refer to their SRP itself, or the accounts generated from it, or even to one account.",
+      "definition": "In Ethereum-based blockchain technology, a 'wallet' is a something that allows you to manage your cryptographic keys, and the accounts corresponding to them.",
       "definitionSource": "Education DAO - mapachurro",
       "sampleSentence": "",
-      "extended": "",
+      "extended": "The term 'wallet' entered the crypto tech field in the Bitcoin whitepaper: ",
       "additional": [
         {
           "definition": "Used to send and receive cryptocurrencies. Different types include software wallets, hardware wallets, and paper wallets.",
