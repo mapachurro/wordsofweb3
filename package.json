@@ -11,7 +11,8 @@
     "clear": "rm -rf ./build/* ./static/* ./utils/page-output.txt ./utils/intertextual-output.txt",
     "import": "node ./utils/data/import/import-terms.js",
     "spell-check": "node scripts/check-glossary-spelling.js",
-    "spell-check:fix": "cspell \"locales/**/*.json\" --wordsOnly --unique | sort > cspell-words.txt"
+    "spell-check:fix": "cspell \"locales/**/*.json\" --wordsOnly --unique | sort > cspell-words.txt",
+    "clean-slate": "bash ./clean-slate.sh"
   },
   "keywords": [],
   "author": "",
