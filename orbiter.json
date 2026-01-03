@@ -1,0 +1,5 @@
+{
+  "domain": "wordsofweb3",
+  "buildCommand": "npm run build",
+  "buildDir": "build"
+}
