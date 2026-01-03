@@ -1,0 +1,21 @@
+name: Deploy
+on:
+  push:
+    branches: [main]
+ 
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+ 
+    steps:
+      - uses: actions/checkout@v3
+ 
+      - name: Deploy to Orbiter
+        uses: orbiterhost/orbiter-github-actions@v0.1.4 # Update with latest version
+        with:
+          project-name: "wordsofweb3" # Name of your project
+          build-dir: "./build" # Name of the build output directory
+          api-key: ${{ secrets.ORBITER_API_KEY }} # Will use repository secret
+          # Optional inputs with their defaults
+          node-version: "22.x" # Optional, defaults to '20.x'
+          build-command: "npm run build" # Optional, defaults to 'npm run build'
